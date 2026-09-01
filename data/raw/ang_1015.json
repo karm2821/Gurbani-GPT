@@ -1,0 +1,2339 @@
+{
+  "pageno": 1015,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 40,
+  "page": [
+    {
+      "line": {
+        "id": "Y76C",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "ikqI cKau swfVy ikqI vys kryau ]",
+          "unicode": "ਕਿਤੀ ਚਖਉ ਸਾਡੜੇ ਕਿਤੀ ਵੇਸ ਕਰੇਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "ikqI​cKau​swfVy​ikqI​vys​kryau​]",
+          "unicode": "ਕਿਤੀ​ਚਖਉ​ਸਾਡੜੇ​ਕਿਤੀ​ਵੇਸ​ਕਰੇਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I have tasted many flavors, and worn many robes,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy mYN AnykW hI suAwdly Kwxy KWdI rhW, AnykW hI sohxy pihrwvy krdI rhW,",
+              "unicode": "ਜੇ ਮੈਂ ਅਨੇਕਾਂ ਹੀ ਸੁਆਦਲੇ ਖਾਣੇ ਖਾਂਦੀ ਰਹਾਂ, ਅਨੇਕਾਂ ਹੀ ਸੋਹਣੇ ਪਹਿਰਾਵੇ ਕਰਦੀ ਰਹਾਂ,"
+            }
+          },
+          "spanish": "Todas las estaciones son benditas, cuando uno ama a su Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kitee chkhau saaddarre kitee ves kareo |",
+            "larivaar": "kitee​chkhau​saaddarre​kitee​ves​kareo​|"
+          },
+          "devanagari": {
+            "text": "किती चखउ साडड़े किती वेस करेउ ॥",
+            "larivaar": "किती​चखउ​साडड़े​किती​वेस​करेउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "kcskvk",
+          "unicode": "ਕਚਸਕਵਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "D4ZN",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "ipr ibnu jobnu bwid gieAmu vwFI JUrydI JUryau ]5]",
+          "unicode": "ਪਿਰ ਬਿਨੁ ਜੋਬਨੁ ਬਾਦਿ ਗਇਅਮੁ ਵਾਢੀ ਝੂਰੇਦੀ ਝੂਰੇਉ ॥੫॥"
+        },
+        "larivaar": {
+          "akhar": "ipr​ibnu​jobnu​bwid​gieAmu​vwFI​JUrydI​JUryau​]5]",
+          "unicode": "ਪਿਰ​ਬਿਨੁ​ਜੋਬਨੁ​ਬਾਦਿ​ਗਇਅਮੁ​ਵਾਢੀ​ਝੂਰੇਦੀ​ਝੂਰੇਉ​॥੫॥"
+        },
+        "translation": {
+          "english": {
+            "default": "but without my Husband Lord, my youth is slipping away uselessly; I am separated from Him, and I cry out in pain. ||5||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "iPr BI pqI-pRBU qoN ivCuV ky myrI jvwnI ivArQ hI jw rhI hY[ jd qk mYN Cu`tV hW, mYN (swrI aumr) Jur Jur ky hI idn k`tWgI ]5]",
+              "unicode": "ਫਿਰ ਭੀ ਪਤੀ-ਪ੍ਰਭੂ ਤੋਂ ਵਿਛੁੜ ਕੇ ਮੇਰੀ ਜਵਾਨੀ ਵਿਅਰਥ ਹੀ ਜਾ ਰਹੀ ਹੈ। ਜਦ ਤਕ ਮੈਂ ਛੁੱਟੜ ਹਾਂ, ਮੈਂ (ਸਾਰੀ ਉਮਰ) ਝੁਰ ਝੁਰ ਕੇ ਹੀ ਦਿਨ ਕੱਟਾਂਗੀ ॥੫॥"
+            }
+          },
+          "spanish": "Sí, la novia que conoce a su Señor, logra dormir en Paz noche y día.(5)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "pir bin joban baad geiam vaadtee jhooredee jhooreo |5|",
+            "larivaar": "pir​bin​joban​baad​geiam​vaadtee​jhooredee​jhooreo​|5|"
+          },
+          "devanagari": {
+            "text": "पिर बिनु जोबनु बादि गइअमु वाढी झूरेदी झूरेउ ॥५॥",
+            "larivaar": "पिर​बिनु​जोबनु​बादि​गइअमु​वाढी​झूरेदी​झूरेउ​॥५॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "pbjbgvJJ",
+          "unicode": "ਪਬਜਬਗਵਝਝ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CCEW",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "scy sMdw sdVw suxIAY gur vIcwir ]",
+          "unicode": "ਸਚੇ ਸੰਦਾ ਸਦੜਾ ਸੁਣੀਐ ਗੁਰ ਵੀਚਾਰਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "scy​sMdw​sdVw​suxIAY​gur​vIcwir​]",
+          "unicode": "ਸਚੇ​ਸੰਦਾ​ਸਦੜਾ​ਸੁਣੀਐ​ਗੁਰ​ਵੀਚਾਰਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I have heard the True Lord's message, contemplating the Guru."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy sdw-iQr pRBU dw ipAwr-sunyhw siqgurU dI bwxI dI ivcwr dI rwhIN suxIey,",
+              "unicode": "ਜੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਪਿਆਰ-ਸੁਨੇਹਾ ਸਤਿਗੁਰੂ ਦੀ ਬਾਣੀ ਦੀ ਵਿਚਾਰ ਦੀ ਰਾਹੀਂ ਸੁਣੀਏ,"
+            }
+          },
+          "spanish": "Sobre la orilla del mar llora el barquero, oh viajeros, crucen el mar, pero sin tardanza."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sache sandaa sadarraa suneeai gur veechaar |",
+            "larivaar": "sache​sandaa​sadarraa​suneeai​gur​veechaar​|"
+          },
+          "devanagari": {
+            "text": "सचे संदा सदड़ा सुणीऐ गुर वीचारि ॥",
+            "larivaar": "सचे​संदा​सदड़ा​सुणीऐ​गुर​वीचारि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "ssssgv",
+          "unicode": "ਸਸਸਸਗਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JB09",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "scy scw bYhxw ndrI ndir ipAwir ]6]",
+          "unicode": "ਸਚੇ ਸਚਾ ਬੈਹਣਾ ਨਦਰੀ ਨਦਰਿ ਪਿਆਰਿ ॥੬॥"
+        },
+        "larivaar": {
+          "akhar": "scy​scw​bYhxw​ndrI​ndir​ipAwir​]6]",
+          "unicode": "ਸਚੇ​ਸਚਾ​ਬੈਹਣਾ​ਨਦਰੀ​ਨਦਰਿ​ਪਿਆਰਿ​॥੬॥"
+        },
+        "translation": {
+          "english": {
+            "default": "True is the home of the True Lord; by His Gracious Grace, I love Him. ||6||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qW aus sdw-iQr pqI-pRBU dw sdw leI swQ iml jWdw hY, auh myhr dI nzr vwlw pRBU myhr dI nzr nwl q`kdw hY, qy aus dy ipAwr ivc lIn ho jwdIdw hY ]6]",
+              "unicode": "ਤਾਂ ਉਸ ਸਦਾ-ਥਿਰ ਪਤੀ-ਪ੍ਰਭੂ ਦਾ ਸਦਾ ਲਈ ਸਾਥ ਮਿਲ ਜਾਂਦਾ ਹੈ, ਉਹ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਵਾਲਾ ਪ੍ਰਭੂ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਨਾਲ ਤੱਕਦਾ ਹੈ, ਤੇ ਉਸ ਦੇ ਪਿਆਰ ਵਿਚ ਲੀਨ ਹੋ ਜਾਦੀਦਾ ਹੈ ॥੬॥"
+            }
+          },
+          "spanish": "He visto cruzar a salvo a quienes han abordado el Barco del Guru.(6)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sache sachaa baihanaa nadaree nadar piaar |6|",
+            "larivaar": "sache​sachaa​baihanaa​nadaree​nadar​piaar​|6|"
+          },
+          "devanagari": {
+            "text": "सचे सचा बैहणा नदरी नदरि पिआरि ॥६॥",
+            "larivaar": "सचे​सचा​बैहणा​नदरी​नदरि​पिआरि​॥६॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "ssbnnp",
+          "unicode": "ਸਸਬਨਨਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YAP8",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "igAwnI AMjnu sc kw fyKY fyKxhwru ]",
+          "unicode": "ਗਿਆਨੀ ਅੰਜਨੁ ਸਚ ਕਾ ਡੇਖੈ ਡੇਖਣਹਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "igAwnI​AMjnu​sc​kw​fyKY​fyKxhwru​]",
+          "unicode": "ਗਿਆਨੀ​ਅੰਜਨੁ​ਸਚ​ਕਾ​ਡੇਖੈ​ਡੇਖਣਹਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The spiritual teacher applies the ointment of Truth to his eyes, and sees God, the Seer."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw nwl jwx-pCwx pwx vwlw sdw-iQr pRBU dy nwm dw surmw vrqdw hY, qy auh pRBU dw dIdwr kr lYNdw hY jo sB jIvW dI sMBwl krn dy smr`Q hY[",
+              "unicode": "ਪਰਮਾਤਮਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਪਾਣ ਵਾਲਾ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਸੁਰਮਾ ਵਰਤਦਾ ਹੈ, ਤੇ ਉਹ ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਕਰ ਲੈਂਦਾ ਹੈ ਜੋ ਸਭ ਜੀਵਾਂ ਦੀ ਸੰਭਾਲ ਕਰਨ ਦੇ ਸਮਰੱਥ ਹੈ।"
+            }
+          },
+          "spanish": "Algunos han partido en Paz, otros lo van a hacer, pero algunos otros están siendo aplastados por el peso de sus errores."
+        },
+        "transliteration": {
+          "english": {
+            "text": "giaanee anjan sach kaa ddekhai ddekhanahaar |",
+            "larivaar": "giaanee​anjan​sach​kaa​ddekhai​ddekhanahaar​|"
+          },
+          "devanagari": {
+            "text": "गिआनी अंजनु सच का डेखै डेखणहारु ॥",
+            "larivaar": "गिआनी​अंजनु​सच​का​डेखै​डेखणहारु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "gAskff",
+          "unicode": "ਗਅਸਕਡਡ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GU3L",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "gurmuiK bUJY jwxIAY haumY grbu invwir ]7]",
+          "unicode": "ਗੁਰਮੁਖਿ ਬੂਝੈ ਜਾਣੀਐ ਹਉਮੈ ਗਰਬੁ ਨਿਵਾਰਿ ॥੭॥"
+        },
+        "larivaar": {
+          "akhar": "gurmuiK​bUJY​jwxIAY​haumY​grbu​invwir​]7]",
+          "unicode": "ਗੁਰਮੁਖਿ​ਬੂਝੈ​ਜਾਣੀਐ​ਹਉਮੈ​ਗਰਬੁ​ਨਿਵਾਰਿ​॥੭॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Gurmukh comes to know and understand; ego and pride are subdued. ||7||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVw mnu`K gurU dI srn pY ky (ies Byq ƒ) smJ lYNdw hY auh haumY AhMkwr dUr kr ky (aus dI hzUrI ivc) Awdr pWdw hY ]7]",
+              "unicode": "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ (ਇਸ ਭੇਤ ਨੂੰ) ਸਮਝ ਲੈਂਦਾ ਹੈ ਉਹ ਹਉਮੈ ਅਹੰਕਾਰ ਦੂਰ ਕਰ ਕੇ (ਉਸ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਆਦਰ ਪਾਂਦਾ ਹੈ ॥੭॥"
+            }
+          },
+          "spanish": "Sí, aquéllos que comercian con la Verdad, habitan siempre en su Dios Verdadero.(7)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "guramukh boojhai jaaneeai haumai garab nivaar |7|",
+            "larivaar": "guramukh​boojhai​jaaneeai​haumai​garab​nivaar​|7|"
+          },
+          "devanagari": {
+            "text": "गुरमुखि बूझै जाणीऐ हउमै गरबु निवारि ॥७॥",
+            "larivaar": "गुरमुखि​बूझै​जाणीऐ​हउमै​गरबु​निवारि​॥७॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "gbjhgn",
+          "unicode": "ਗਬਜਹਗਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8NF5",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "qau Bwvin qau jyhIAw mU jyhIAw ikqIAwh ]",
+          "unicode": "ਤਉ ਭਾਵਨਿ ਤਉ ਜੇਹੀਆ ਮੂ ਜੇਹੀਆ ਕਿਤੀਆਹ ॥"
+        },
+        "larivaar": {
+          "akhar": "qau​Bwvin​qau​jyhIAw​mU​jyhIAw​ikqIAwh​]",
+          "unicode": "ਤਉ​ਭਾਵਨਿ​ਤਉ​ਜੇਹੀਆ​ਮੂ​ਜੇਹੀਆ​ਕਿਤੀਆਹ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Lord, You are pleased with those who are like Yourself; there are many more like me."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pqI-pRBU! jyhVIAW jIv-iesqRIAW qYƒ cMgIAW l`gdIAW hn, auh qyry vrgIAW ho jWdIAW hn, (pr qyrI myhr dI ingwh qoN vWjIAW hoeIAW) myry vrgIAW BI AnykW hI hn[",
+              "unicode": "ਹੇ ਪਤੀ-ਪ੍ਰਭੂ! ਜੇਹੜੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਤੈਨੂੰ ਚੰਗੀਆਂ ਲੱਗਦੀਆਂ ਹਨ, ਉਹ ਤੇਰੇ ਵਰਗੀਆਂ ਹੋ ਜਾਂਦੀਆਂ ਹਨ, (ਪਰ ਤੇਰੀ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਤੋਂ ਵਾਂਜੀਆਂ ਹੋਈਆਂ) ਮੇਰੇ ਵਰਗੀਆਂ ਭੀ ਅਨੇਕਾਂ ਹੀ ਹਨ।"
+            }
+          },
+          "spanish": "No veo a nadie que sea malo, soy yo quien no soy bueno,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "tau bhaavan tau jeheea moo jeheea kiteeaah |",
+            "larivaar": "tau​bhaavan​tau​jeheea​moo​jeheea​kiteeaah​|"
+          },
+          "devanagari": {
+            "text": "तउ भावनि तउ जेहीआ मू जेहीआ कितीआह ॥",
+            "larivaar": "तउ​भावनि​तउ​जेहीआ​मू​जेहीआ​कितीआह​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "qBqjmjk",
+          "unicode": "ਤਭਤਜਮਜਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VT7V",
+        "type": 4,
+        "shabadid": "ZAS",
+        "gurmukhi": {
+          "akhar": "nwnk nwhu n vICuVY iqn scY rqVIAwh ]8]1]9]",
+          "unicode": "ਨਾਨਕ ਨਾਹੁ ਨ ਵੀਛੁੜੈ ਤਿਨ ਸਚੈ ਰਤੜੀਆਹ ॥੮॥੧॥੯॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​nwhu​n​vICuVY​iqn​scY​rqVIAwh​]8]1]9]",
+          "unicode": "ਨਾਨਕ​ਨਾਹੁ​ਨ​ਵੀਛੁੜੈ​ਤਿਨ​ਸਚੈ​ਰਤੜੀਆਹ​॥੮॥੧॥੯॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, the Husband does not separate from those who are imbued with Truth. ||8||1||9||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! jyhVIAW jIv-iesqRIAW sdw-iQr pRBU dy ipAwr ivc rMgIAW rihMdIAW hn, auhnW (dy ihrdy) qoN pqI-pRBU kdy nhIN ivCuVdw ]8]1]9]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਜੇਹੜੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਵਿਚ ਰੰਗੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ, ਉਹਨਾਂ (ਦੇ ਹਿਰਦੇ) ਤੋਂ ਪਤੀ-ਪ੍ਰਭੂ ਕਦੇ ਨਹੀਂ ਵਿਛੁੜਦਾ ॥੮॥੧॥੯॥"
+            }
+          },
+          "spanish": "dice Nanak, quien conquista su ego negativo, él mismo es como el Dios Verdadero.(8-1-9)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak naahu na veechhurrai tin sachai ratarreeaah |8|1|9|",
+            "larivaar": "naanak​naahu​na​veechhurrai​tin​sachai​ratarreeaah​|8|1|9|"
+          },
+          "devanagari": {
+            "text": "नानक नाहु न वीछुड़ै तिन सचै रतड़ीआह ॥८॥१॥९॥",
+            "larivaar": "नानक​नाहु​न​वीछुड़ै​तिन​सचै​रतड़ीआह​॥८॥१॥९॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "nnnvqsr",
+          "unicode": "ਨਨਨਵਤਸਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "P4QF",
+        "type": 2,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "mwrU mhlw 1 ]",
+          "unicode": "ਮਾਰੂ ਮਹਲਾ ੧ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwrU​mhlw​1​]",
+          "unicode": "ਮਾਰੂ​ਮਹਲਾ​੧​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Maaroo, First Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Maru, Mejl Guru Nanak, Primer Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "maaroo mahalaa 1 |",
+            "larivaar": "maaroo​mahalaa​1​|"
+          },
+          "devanagari": {
+            "text": "मारू महला १ ॥",
+            "larivaar": "मारू​महला​१​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "mm1]",
+          "unicode": "ਮਮ੧॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MNB2",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "nw BYxw BrjweIAw nw sy ssuVIAwh ]",
+          "unicode": "ਨਾ ਭੈਣਾ ਭਰਜਾਈਆ ਨਾ ਸੇ ਸਸੁੜੀਆਹ ॥"
+        },
+        "larivaar": {
+          "akhar": "nw​BYxw​BrjweIAw​nw​sy​ssuVIAwh​]",
+          "unicode": "ਨਾ​ਭੈਣਾ​ਭਰਜਾਈਆ​ਨਾ​ਸੇ​ਸਸੁੜੀਆਹ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Neither the sisters, nor the sisters-in-law, nor the mothers-in-law, shall remain."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwh BYxW nwh BrjweIAW nwh s`sW-iksy dw BI auho ijhw swk nhIN jo (sqsMgI) shylIAW dw hY[",
+              "unicode": "ਨਾਹ ਭੈਣਾਂ ਨਾਹ ਭਰਜਾਈਆਂ ਨਾਹ ਸੱਸਾਂ-ਕਿਸੇ ਦਾ ਭੀ ਉਹੋ ਜਿਹਾ ਸਾਕ ਨਹੀਂ ਜੋ (ਸਤਸੰਗੀ) ਸਹੇਲੀਆਂ ਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Las hermanas no permanecen, tampoco las cuñadas, ni las suegras, sí, la Verdadera relación con el Señor no se debe romper,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naa bhainaa bharajaaeea naa se sasurreeaah |",
+            "larivaar": "naa​bhainaa​bharajaaeea​naa​se​sasurreeaah​|"
+          },
+          "devanagari": {
+            "text": "ना भैणा भरजाईआ ना से ससुड़ीआह ॥",
+            "larivaar": "ना​भैणा​भरजाईआ​ना​से​ससुड़ीआह​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "nBBnss",
+          "unicode": "ਨਭਭਨਸਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "C5ZL",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "scw swku n quteI guru myly shIAwh ]1]",
+          "unicode": "ਸਚਾ ਸਾਕੁ ਨ ਤੁਟਈ ਗੁਰੁ ਮੇਲੇ ਸਹੀਆਹ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "scw​swku​n​quteI​guru​myly​shIAwh​]1]",
+          "unicode": "ਸਚਾ​ਸਾਕੁ​ਨ​ਤੁਟਈ​ਗੁਰੁ​ਮੇਲੇ​ਸਹੀਆਹ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The true relationship with the Lord cannot be broken; it was established by the Lord, O sister soul-brides. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "gurU (sq sMgI-) shylIAW nwl imlWdw hY (sqsMgIAW vwlw) sdw-iQr rihx vwlw swk kdy nhIN tu`tdw ]1]",
+              "unicode": "ਗੁਰੂ (ਸਤ ਸੰਗੀ-) ਸਹੇਲੀਆਂ ਨਾਲ ਮਿਲਾਂਦਾ ਹੈ (ਸਤਸੰਗੀਆਂ ਵਾਲਾ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਸਾਕ ਕਦੇ ਨਹੀਂ ਟੁੱਟਦਾ ॥੧॥"
+            }
+          },
+          "spanish": "pues fue establecida por el Señor, oh hermanas, oh novias Almas.(1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sachaa saak na tuttee gur mele saheeaah |1|",
+            "larivaar": "sachaa​saak​na​tuttee​gur​mele​saheeaah​|1|"
+          },
+          "devanagari": {
+            "text": "सचा साकु न तुटई गुरु मेले सहीआह ॥१॥",
+            "larivaar": "सचा​साकु​न​तुटई​गुरु​मेले​सहीआह​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "ssnqgms",
+          "unicode": "ਸਸਨਤਗਮਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "S457",
+        "type": 3,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "bilhwrI gur Awpxy sd bilhwrY jwau ]",
+          "unicode": "ਬਲਿਹਾਰੀ ਗੁਰ ਆਪਣੇ ਸਦ ਬਲਿਹਾਰੈ ਜਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "bilhwrI​gur​Awpxy​sd​bilhwrY​jwau​]",
+          "unicode": "ਬਲਿਹਾਰੀ​ਗੁਰ​ਆਪਣੇ​ਸਦ​ਬਲਿਹਾਰੈ​ਜਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I am a sacrifice to my Guru; I am forever a sacrifice to Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYN Awpxy gurU qoN kurbwn hW, sdw kurbwn jWdI hW[",
+              "unicode": "ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਤੋਂ ਕੁਰਬਾਨ ਹਾਂ, ਸਦਾ ਕੁਰਬਾਨ ਜਾਂਦੀ ਹਾਂ।"
+            }
+          },
+          "spanish": "Ofrezco mi ser en sacrificio al Guru por siempre y para siempre, pues sin el Guru, mi vagar no se detiene."
+        },
+        "transliteration": {
+          "english": {
+            "text": "balihaaree gur aapane sad balihaarai jaau |",
+            "larivaar": "balihaaree​gur​aapane​sad​balihaarai​jaau​|"
+          },
+          "devanagari": {
+            "text": "बलिहारी गुर आपणे सद बलिहारै जाउ ॥",
+            "larivaar": "बलिहारी​गुर​आपणे​सद​बलिहारै​जाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "bgAsbj",
+          "unicode": "ਬਗਅਸਬਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1Y6V",
+        "type": 3,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "gur ibnu eyqw Biv QkI guir ipru myilmu idqmu imlwie ]1] rhwau ]",
+          "unicode": "ਗੁਰ ਬਿਨੁ ਏਤਾ ਭਵਿ ਥਕੀ ਗੁਰਿ ਪਿਰੁ ਮੇਲਿਮੁ ਦਿਤਮੁ ਮਿਲਾਇ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​ibnu​eyqw​Biv​QkI​guir​ipru​myilmu​idqmu​imlwie​]1]​rhwau​]",
+          "unicode": "ਗੁਰ​ਬਿਨੁ​ਏਤਾ​ਭਵਿ​ਥਕੀ​ਗੁਰਿ​ਪਿਰੁ​ਮੇਲਿਮੁ​ਦਿਤਮੁ​ਮਿਲਾਇ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wandering so far without the Guru, I grew weary; now, the Guru has united me in Union with my Husband Lord. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "gurU (dy imlwp) qoN ibnw mYN BON BON ky bhuq Q`k geI sW, (hux) gurU ny mYƒ pqI imlwieAw hY, mYƒ (pqI) imlw id`qw hY ]1] rhwau ]",
+              "unicode": "ਗੁਰੂ (ਦੇ ਮਿਲਾਪ) ਤੋਂ ਬਿਨਾ ਮੈਂ ਭੌਂ ਭੌਂ ਕੇ ਬਹੁਤ ਥੱਕ ਗਈ ਸਾਂ, (ਹੁਣ) ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਪਤੀ ਮਿਲਾਇਆ ਹੈ, ਮੈਨੂੰ (ਪਤੀ) ਮਿਲਾ ਦਿੱਤਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "Es a través del Guru que me encuentro con mi Dios.(1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur bin etaa bhav thakee gur pir melim ditam milaae |1| rahaau |",
+            "larivaar": "gur​bin​etaa​bhav​thakee​gur​pir​melim​ditam​milaae​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "गुर बिनु एता भवि थकी गुरि पिरु मेलिमु दितमु मिलाइ ॥१॥ रहाउ ॥",
+            "larivaar": "गुर​बिनु​एता​भवि​थकी​गुरि​पिरु​मेलिमु​दितमु​मिलाइ​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "gbeBQgpmdm",
+          "unicode": "ਗਬੲਭਥਗਪਮਦਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2M6R",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "PuPI nwnI mwsIAw dyr jyTwnVIAwh ]",
+          "unicode": "ਫੁਫੀ ਨਾਨੀ ਮਾਸੀਆ ਦੇਰ ਜੇਠਾਨੜੀਆਹ ॥"
+        },
+        "larivaar": {
+          "akhar": "PuPI​nwnI​mwsIAw​dyr​jyTwnVIAwh​]",
+          "unicode": "ਫੁਫੀ​ਨਾਨੀ​ਮਾਸੀਆ​ਦੇਰ​ਜੇਠਾਨੜੀਆਹ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Aunts, uncles, grandparents and sisters-in-law"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Pu`PIAW, nwnIAW, mwsIAW, idrwxIAW, ijTwxIAW-",
+              "unicode": "ਫੁੱਫੀਆਂ, ਨਾਨੀਆਂ, ਮਾਸੀਆਂ, ਦਿਰਾਣੀਆਂ, ਜਿਠਾਣੀਆਂ-"
+            }
+          },
+          "spanish": "Ni nuestros parientes paternos, ni los maternos permanecen, tampoco nuestros hermanos, ni las cuñadas,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "fufee naanee maaseea der jetthaanarreeaah |",
+            "larivaar": "fufee​naanee​maaseea​der​jetthaanarreeaah​|"
+          },
+          "devanagari": {
+            "text": "फुफी नानी मासीआ देर जेठानड़ीआह ॥",
+            "larivaar": "फुफी​नानी​मासीआ​देर​जेठानड़ीआह​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "Pnmdj",
+          "unicode": "ਫਨਮਦਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ULD6",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "Awvin vM\\in nw rhin pUr Bry phIAwh ]2]",
+          "unicode": "ਆਵਨਿ ਵੰਞਨਿ ਨਾ ਰਹਨਿ ਪੂਰ ਭਰੇ ਪਹੀਆਹ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "Awvin​vM\\in​nw​rhin​pUr​Bry​phIAwh​]2]",
+          "unicode": "ਆਵਨਿ​ਵੰਞਨਿ​ਨਾ​ਰਹਨਿ​ਪੂਰ​ਭਰੇ​ਪਹੀਆਹ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "- they all come and go; they cannot remain. They are like boatloads of passengers embarking. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ieh (sMswr ivc) AwauNdIAW hn qy clIAW jWdIAW hn, sdw (swfy nwl) nhIN rihMdIAW[ iehnW (swkW AMgW-) rwhIAW dy pUrW dy pUr Bry hoey cly jWdy hn ]2]",
+              "unicode": "ਇਹ (ਸੰਸਾਰ ਵਿਚ) ਆਉਂਦੀਆਂ ਹਨ ਤੇ ਚਲੀਆਂ ਜਾਂਦੀਆਂ ਹਨ, ਸਦਾ (ਸਾਡੇ ਨਾਲ) ਨਹੀਂ ਰਹਿੰਦੀਆਂ। ਇਹਨਾਂ (ਸਾਕਾਂ ਅੰਗਾਂ-) ਰਾਹੀਆਂ ਦੇ ਪੂਰਾਂ ਦੇ ਪੂਰ ਭਰੇ ਹੋਏ ਚਲੇ ਜਾਂਦੇ ਹਨ ॥੨॥"
+            }
+          },
+          "spanish": "pues aquellos que llegan al mundo también se van, y barcos cargados de viajeros, van por el mar de la existencia y por todas direcciones.(2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aavan vanyan naa rehan poor bhare paheeaah |2|",
+            "larivaar": "aavan​vanyan​naa​rehan​poor​bhare​paheeaah​|2|"
+          },
+          "devanagari": {
+            "text": "आवनि वंञनि ना रहनि पूर भरे पहीआह ॥२॥",
+            "larivaar": "आवनि​वंञनि​ना​रहनि​पूर​भरे​पहीआह​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "AvnrpBp",
+          "unicode": "ਅਵਨਰਪਭਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5FUB",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "mwmy qY mwmwxIAw Bwier bwp n mwau ]",
+          "unicode": "ਮਾਮੇ ਤੈ ਮਾਮਾਣੀਆ ਭਾਇਰ ਬਾਪ ਨ ਮਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwmy​qY​mwmwxIAw​Bwier​bwp​n​mwau​]",
+          "unicode": "ਮਾਮੇ​ਤੈ​ਮਾਮਾਣੀਆ​ਭਾਇਰ​ਬਾਪ​ਨ​ਮਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Uncles, aunts, and cousins of all sorts, cannot remain."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mwmy, mwmIAW, Brw, ipau, qy mW-(iksy nwl BI s`cw swk) nhIN bx skdw[",
+              "unicode": "ਮਾਮੇ, ਮਾਮੀਆਂ, ਭਰਾ, ਪਿਉ, ਤੇ ਮਾਂ-(ਕਿਸੇ ਨਾਲ ਭੀ ਸੱਚਾ ਸਾਕ) ਨਹੀਂ ਬਣ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Ni los tíos maternos, ni las tías, tampoco hermanos, ni padres, ni madres permanecen,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "maame tai maamaaneea bhaaeir baap na maau |",
+            "larivaar": "maame​tai​maamaaneea​bhaaeir​baap​na​maau​|"
+          },
+          "devanagari": {
+            "text": "मामे तै मामाणीआ भाइर बाप न माउ ॥",
+            "larivaar": "मामे​तै​मामाणीआ​भाइर​बाप​न​माउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "mqmBbnm",
+          "unicode": "ਮਤਮਭਬਨਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PCFL",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "swQ lfy iqn nwTIAw BIV GxI drIAwau ]3]",
+          "unicode": "ਸਾਥ ਲਡੇ ਤਿਨ ਨਾਠੀਆ ਭੀੜ ਘਣੀ ਦਰੀਆਉ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "swQ​lfy​iqn​nwTIAw​BIV​GxI​drIAwau​]3]",
+          "unicode": "ਸਾਥ​ਲਡੇ​ਤਿਨ​ਨਾਠੀਆ​ਭੀੜ​ਘਣੀ​ਦਰੀਆਉ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The caravans are full, and great crowds of them are loading up at the riverbank. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ieh BI prwhuixAW vWg hn) iehnW prwhuixAW dy kw&ly dy kw&ly l`dy cly jw rhy hn[ sMswr-drIAw dy p`qx auqy iehnW dI BIV l`gI peI hY ]3]",
+              "unicode": "(ਇਹ ਭੀ ਪਰਾਹੁਣਿਆਂ ਵਾਂਗ ਹਨ) ਇਹਨਾਂ ਪਰਾਹੁਣਿਆਂ ਦੇ ਕਾਫ਼ਲੇ ਦੇ ਕਾਫ਼ਲੇ ਲੱਦੇ ਚਲੇ ਜਾ ਰਹੇ ਹਨ। ਸੰਸਾਰ-ਦਰੀਆ ਦੇ ਪੱਤਣ ਉਤੇ ਇਹਨਾਂ ਦੀ ਭੀੜ ਲੱਗੀ ਪਈ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "pues caravanas de nuestros parientes han llenado las orillas de ese mar queriendo cruzar hasta la otra orilla al más allá.(3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "saath ladde tin naattheea bheerr ghanee dareeaau |3|",
+            "larivaar": "saath​ladde​tin​naattheea​bheerr​ghanee​dareeaau​|3|"
+          },
+          "devanagari": {
+            "text": "साथ लडे तिन नाठीआ भीड़ घणी दरीआउ ॥३॥",
+            "larivaar": "साथ​लडे​तिन​नाठीआ​भीड़​घणी​दरीआउ​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "slqnBGd",
+          "unicode": "ਸਲਤਨਭਘਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "57ZJ",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "swcau rMig rMgwvlo sKI hmwro kMqu ]",
+          "unicode": "ਸਾਚਉ ਰੰਗਿ ਰੰਗਾਵਲੋ ਸਖੀ ਹਮਾਰੋ ਕੰਤੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "swcau​rMig​rMgwvlo​sKI​hmwro​kMqu​]",
+          "unicode": "ਸਾਚਉ​ਰੰਗਿ​ਰੰਗਾਵਲੋ​ਸਖੀ​ਹਮਾਰੋ​ਕੰਤੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O sister-friends, my Husband Lord is dyed in the color of Truth."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy shylIho! swfw Ksm-pRBU hI sdw-iQr rihx vwlw hY qy auh pRym-rMg ivc rMigAw rihMdw hY[",
+              "unicode": "ਹੇ ਸਹੇਲੀਹੋ! ਸਾਡਾ ਖਸਮ-ਪ੍ਰਭੂ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ ਤੇ ਉਹ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗਿਆ ਰਹਿੰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Sólo nuestro Esposo habita para siempre."
+        },
+        "transliteration": {
+          "english": {
+            "text": "saachau rang rangaavalo sakhee hamaaro kant |",
+            "larivaar": "saachau​rang​rangaavalo​sakhee​hamaaro​kant​|"
+          },
+          "devanagari": {
+            "text": "साचउ रंगि रंगावलो सखी हमारो कंतु ॥",
+            "larivaar": "साचउ​रंगि​रंगावलो​सखी​हमारो​कंतु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "srrshk",
+          "unicode": "ਸਰਰਸਹਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JEZQ",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "sic ivCoVw nw QIAY so shu rMig rvMqu ]4]",
+          "unicode": "ਸਚਿ ਵਿਛੋੜਾ ਨਾ ਥੀਐ ਸੋ ਸਹੁ ਰੰਗਿ ਰਵੰਤੁ ॥੪॥"
+        },
+        "larivaar": {
+          "akhar": "sic​ivCoVw​nw​QIAY​so​shu​rMig​rvMqu​]4]",
+          "unicode": "ਸਚਿ​ਵਿਛੋੜਾ​ਨਾ​ਥੀਐ​ਸੋ​ਸਹੁ​ਰੰਗਿ​ਰਵੰਤੁ​॥੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "She who lovingly remembers her True Husband Lord is not separated from Him again. ||4||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "aus sdw-iQr dy nwm ivc juiVAW aus nwloN ivCoVw nhIN huMdw[ (crnW ivc juVI jIv-iesqRI ƒ) auh Ksm ipAwr nwl gly lweI r`Kdw hY ]4]",
+              "unicode": "ਉਸ ਸਦਾ-ਥਿਰ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਉਸ ਨਾਲੋਂ ਵਿਛੋੜਾ ਨਹੀਂ ਹੁੰਦਾ। (ਚਰਨਾਂ ਵਿਚ ਜੁੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੂੰ) ਉਹ ਖਸਮ ਪਿਆਰ ਨਾਲ ਗਲੇ ਲਾਈ ਰੱਖਦਾ ਹੈ ॥੪॥"
+            }
+          },
+          "spanish": "Aquél que se regocija siempre en la Dicha, o sea, la novia que Lo alaba con Amor, no se separa nunca de Él, del Uno Verdadero.  (4)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach vichhorraa naa theeai so sahu rang ravant |4|",
+            "larivaar": "sach​vichhorraa​naa​theeai​so​sahu​rang​ravant​|4|"
+          },
+          "devanagari": {
+            "text": "सचि विछोड़ा ना थीऐ सो सहु रंगि रवंतु ॥४॥",
+            "larivaar": "सचि​विछोड़ा​ना​थीऐ​सो​सहु​रंगि​रवंतु​॥४॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "svnQssrr",
+          "unicode": "ਸਵਨਥਸਸਰਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PB8X",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "sBy ruqI cMgIAw ijqu scy isau nyhu ]",
+          "unicode": "ਸਭੇ ਰੁਤੀ ਚੰਗੀਆ ਜਿਤੁ ਸਚੇ ਸਿਉ ਨੇਹੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "sBy​ruqI​cMgIAw​ijqu​scy​isau​nyhu​]",
+          "unicode": "ਸਭੇ​ਰੁਤੀ​ਚੰਗੀਆ​ਜਿਤੁ​ਸਚੇ​ਸਿਉ​ਨੇਹੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "All the seasons are good, in which the soul-bride falls in love with the True Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jIv-iesqRI ƒ auh swrIAW hI ru`qW cMgIAW l`gdIAW hn ijs ijs ru`q ivc sdw-iQr pRBU-pqI nwl aus jIv-iesqRI dw ipAwr bxdw hY,",
+              "unicode": "ਜੀਵ-ਇਸਤ੍ਰੀ ਨੂੰ ਉਹ ਸਾਰੀਆਂ ਹੀ ਰੁੱਤਾਂ ਚੰਗੀਆਂ ਲੱਗਦੀਆਂ ਹਨ ਜਿਸ ਜਿਸ ਰੁੱਤ ਵਿਚ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ-ਪਤੀ ਨਾਲ ਉਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦਾ ਪਿਆਰ ਬਣਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Todas las estaciones son benditas, cuando uno ama a su Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sabhe rutee changeea jit sache siau nehu |",
+            "larivaar": "sabhe​rutee​changeea​jit​sache​siau​nehu​|"
+          },
+          "devanagari": {
+            "text": "सभे रुती चंगीआ जितु सचे सिउ नेहु ॥",
+            "larivaar": "सभे​रुती​चंगीआ​जितु​सचे​सिउ​नेहु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "srcjssn",
+          "unicode": "ਸਰਚਜਸਸਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "257Z",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "sw Dn kMqu pCwixAw suiK suqI inis fyhu ]5]",
+          "unicode": "ਸਾ ਧਨ ਕੰਤੁ ਪਛਾਣਿਆ ਸੁਖਿ ਸੁਤੀ ਨਿਸਿ ਡੇਹੁ ॥੫॥"
+        },
+        "larivaar": {
+          "akhar": "sw​Dn​kMqu​pCwixAw​suiK​suqI​inis​fyhu​]5]",
+          "unicode": "ਸਾ​ਧਨ​ਕੰਤੁ​ਪਛਾਣਿਆ​ਸੁਖਿ​ਸੁਤੀ​ਨਿਸਿ​ਡੇਹੁ​॥੫॥"
+        },
+        "translation": {
+          "english": {
+            "default": "That soul-bride, who knows her Husband Lord, sleeps in peace, night and day. ||5||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVI jIv-iesqRI Ksm-pRBU (dy swk) ƒ pCwx lYNdI hY (ikauNik) auh jIv-iesqRI idn rwq pUrn Awnµd ivc SWq-ic`q rihMdI hY ]5]",
+              "unicode": "ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਖਸਮ-ਪ੍ਰਭੂ (ਦੇ ਸਾਕ) ਨੂੰ ਪਛਾਣ ਲੈਂਦੀ ਹੈ (ਕਿਉਂਕਿ) ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀ ਦਿਨ ਰਾਤ ਪੂਰਨ ਆਨੰਦ ਵਿਚ ਸ਼ਾਂਤ-ਚਿੱਤ ਰਹਿੰਦੀ ਹੈ ॥੫॥"
+            }
+          },
+          "spanish": "Sí, la novia que conoce a su Señor, logra dormir en Paz noche y día.(5)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "saa dhan kant pachhaaniaa sukh sutee nis ddehu |5|",
+            "larivaar": "saa​dhan​kant​pachhaaniaa​sukh​sutee​nis​ddehu​|5|"
+          },
+          "devanagari": {
+            "text": "सा धन कंतु पछाणिआ सुखि सुती निसि डेहु ॥५॥",
+            "larivaar": "सा​धन​कंतु​पछाणिआ​सुखि​सुती​निसि​डेहु​॥५॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "sDkpssnf",
+          "unicode": "ਸਧਕਪਸਸਨਡ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "M4Y0",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "pqix kUky pwqxI vM\\hu DRüik ivlwiV ]",
+          "unicode": "ਪਤਣਿ ਕੂਕੇ ਪਾਤਣੀ ਵੰਞਹੁ ਧ੍ਰੁਕਿ ਵਿਲਾੜਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "pqix​kUky​pwqxI​vM\\hu​DRüik​ivlwiV​]",
+          "unicode": "ਪਤਣਿ​ਕੂਕੇ​ਪਾਤਣੀ​ਵੰਞਹੁ​ਧ੍ਰੁਕਿ​ਵਿਲਾੜਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "At the ferry, the ferryman announces, \"O travellers, hurry up and cross over.\""
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(sMswr-drIAw dy) p`qx auqy (Kloqw) gurU-mlwh (jIv-rwhIAW ƒ) pukwr ky kih irhw hY ik (pRBU-nwm dy jhwz ivc cVHo qy) dOV ky Cwl mwr ky pwr lµG jwvo[",
+              "unicode": "(ਸੰਸਾਰ-ਦਰੀਆ ਦੇ) ਪੱਤਣ ਉਤੇ (ਖਲੋਤਾ) ਗੁਰੂ-ਮਲਾਹ (ਜੀਵ-ਰਾਹੀਆਂ ਨੂੰ) ਪੁਕਾਰ ਕੇ ਕਹਿ ਰਿਹਾ ਹੈ ਕਿ (ਪ੍ਰਭੂ-ਨਾਮ ਦੇ ਜਹਾਜ਼ ਵਿਚ ਚੜ੍ਹੋ ਤੇ) ਦੌੜ ਕੇ ਛਾਲ ਮਾਰ ਕੇ ਪਾਰ ਲੰਘ ਜਾਵੋ।"
+            }
+          },
+          "spanish": "Sobre la orilla del mar llora el barquero, oh viajeros, crucen el mar, pero sin tardanza."
+        },
+        "transliteration": {
+          "english": {
+            "text": "patan kooke paatanee vanyahu dhruk vilaarr |",
+            "larivaar": "patan​kooke​paatanee​vanyahu​dhruk​vilaarr​|"
+          },
+          "devanagari": {
+            "text": "पतणि कूके पातणी वंञहु ध्रुकि विलाड़ि ॥",
+            "larivaar": "पतणि​कूके​पातणी​वंञहु​ध्रुकि​विलाड़ि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "pkpvDv",
+          "unicode": "ਪਕਪਵਧਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2M7D",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "pwir pvMdVy ifTu mY siqgur boihiQ cwiV ]6]",
+          "unicode": "ਪਾਰਿ ਪਵੰਦੜੇ ਡਿਠੁ ਮੈ ਸਤਿਗੁਰ ਬੋਹਿਥਿ ਚਾੜਿ ॥੬॥"
+        },
+        "larivaar": {
+          "akhar": "pwir​pvMdVy​ifTu​mY​siqgur​boihiQ​cwiV​]6]",
+          "unicode": "ਪਾਰਿ​ਪਵੰਦੜੇ​ਡਿਠੁ​ਮੈ​ਸਤਿਗੁਰ​ਬੋਹਿਥਿ​ਚਾੜਿ​॥੬॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I have seen them crossing over there, on the boat of the True Guru. ||6||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "siqgurU dy jhwz ivc cVH ky (sMswr-drIAw qoN) pwr A`pVy hoey (AnykW hI pRwxI) mYN (Awp) vyKy hn ]6]",
+              "unicode": "ਸਤਿਗੁਰੂ ਦੇ ਜਹਾਜ਼ ਵਿਚ ਚੜ੍ਹ ਕੇ (ਸੰਸਾਰ-ਦਰੀਆ ਤੋਂ) ਪਾਰ ਅੱਪੜੇ ਹੋਏ (ਅਨੇਕਾਂ ਹੀ ਪ੍ਰਾਣੀ) ਮੈਂ (ਆਪ) ਵੇਖੇ ਹਨ ॥੬॥"
+            }
+          },
+          "spanish": "He visto cruzar a salvo a quienes han abordado el Barco del Guru.(6)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "paar pavandarre dditth mai satigur bohith chaarr |6|",
+            "larivaar": "paar​pavandarre​dditth​mai​satigur​bohith​chaarr​|6|"
+          },
+          "devanagari": {
+            "text": "पारि पवंदड़े डिठु मै सतिगुर बोहिथि चाड़ि ॥६॥",
+            "larivaar": "पारि​पवंदड़े​डिठु​मै​सतिगुर​बोहिथि​चाड़ि​॥६॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "ppfmsbc",
+          "unicode": "ਪਪਡਮਸਬਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1FTQ",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "ihknI lidAw ihik lid gey ihik Bwry Br nwil ]",
+          "unicode": "ਹਿਕਨੀ ਲਦਿਆ ਹਿਕਿ ਲਦਿ ਗਏ ਹਿਕਿ ਭਾਰੇ ਭਰ ਨਾਲਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "ihknI​lidAw​ihik​lid​gey​ihik​Bwry​Br​nwil​]",
+          "unicode": "ਹਿਕਨੀ​ਲਦਿਆ​ਹਿਕਿ​ਲਦਿ​ਗਏ​ਹਿਕਿ​ਭਾਰੇ​ਭਰ​ਨਾਲਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Some are getting on board, and some have already set out; some are weighed down with their loads."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(siqgurU dw hokw sux ky) AnykW jIvW ny (sMswr-drIAw qoN pwr lµGx leI pRBU-nwm dw v`Kr gurU dy jhwz ivc) l`d ilAw hY, AnykW hI l`d ky pwr phuMc gey hn, pr AnykW hI (AYsy BI mMdBwgI hn ijnHW gurU dI pukwr dI prvwh nhIN kIqI, qy auh ivkwrW dy Bwr nwl) Bwry ho ky sMswr-smuMdr dy ivc (fu`b gey hn)[",
+              "unicode": "(ਸਤਿਗੁਰੂ ਦਾ ਹੋਕਾ ਸੁਣ ਕੇ) ਅਨੇਕਾਂ ਜੀਵਾਂ ਨੇ (ਸੰਸਾਰ-ਦਰੀਆ ਤੋਂ ਪਾਰ ਲੰਘਣ ਲਈ ਪ੍ਰਭੂ-ਨਾਮ ਦਾ ਵੱਖਰ ਗੁਰੂ ਦੇ ਜਹਾਜ਼ ਵਿਚ) ਲੱਦ ਲਿਆ ਹੈ, ਅਨੇਕਾਂ ਹੀ ਲੱਦ ਕੇ ਪਾਰ ਪਹੁੰਚ ਗਏ ਹਨ, ਪਰ ਅਨੇਕਾਂ ਹੀ (ਐਸੇ ਭੀ ਮੰਦਭਾਗੀ ਹਨ ਜਿਨ੍ਹਾਂ ਗੁਰੂ ਦੀ ਪੁਕਾਰ ਦੀ ਪਰਵਾਹ ਨਹੀਂ ਕੀਤੀ, ਤੇ ਉਹ ਵਿਕਾਰਾਂ ਦੇ ਭਾਰ ਨਾਲ) ਭਾਰੇ ਹੋ ਕੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦੇ ਵਿਚ (ਡੁੱਬ ਗਏ ਹਨ)।"
+            }
+          },
+          "spanish": "Algunos han partido en Paz, otros lo van a hacer, pero algunos otros están siendo aplastados por el peso de sus errores."
+        },
+        "transliteration": {
+          "english": {
+            "text": "hikanee ladiaa hik lad ge hik bhaare bhar naal |",
+            "larivaar": "hikanee​ladiaa​hik​lad​ge​hik​bhaare​bhar​naal​|"
+          },
+          "devanagari": {
+            "text": "हिकनी लदिआ हिकि लदि गए हिकि भारे भर नालि ॥",
+            "larivaar": "हिकनी​लदिआ​हिकि​लदि​गए​हिकि​भारे​भर​नालि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "hlhlghBBn",
+          "unicode": "ਹਲਹਲਗਹਭਭਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "E1T3",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "ijnI scu vxMijAw sy scy pRB nwil ]7]",
+          "unicode": "ਜਿਨੀ ਸਚੁ ਵਣੰਜਿਆ ਸੇ ਸਚੇ ਪ੍ਰਭ ਨਾਲਿ ॥੭॥"
+        },
+        "larivaar": {
+          "akhar": "ijnI​scu​vxMijAw​sy​scy​pRB​nwil​]7]",
+          "unicode": "ਜਿਨੀ​ਸਚੁ​ਵਣੰਜਿਆ​ਸੇ​ਸਚੇ​ਪ੍ਰਭ​ਨਾਲਿ​॥੭॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who deal in Truth, remain with their True Lord God. ||7||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijnHW ny (gurU dw aupdyS sux ky) sdw-iQr rihx vwlw nwm-v`Kr ^rIidAw hY auh (sdw-iQr pRBU dy) crnW ivc lIn ho gey hn ]7]",
+              "unicode": "ਜਿਨ੍ਹਾਂ ਨੇ (ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਸੁਣ ਕੇ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ-ਵੱਖਰ ਖ਼ਰੀਦਿਆ ਹੈ ਉਹ (ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ) ਚਰਨਾਂ ਵਿਚ ਲੀਨ ਹੋ ਗਏ ਹਨ ॥੭॥"
+            }
+          },
+          "spanish": "Sí, aquéllos que comercian con la Verdad, habitan siempre en su Dios Verdadero.(7)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jinee sach vananjiaa se sache prabh naal |7|",
+            "larivaar": "jinee​sach​vananjiaa​se​sache​prabh​naal​|7|"
+          },
+          "devanagari": {
+            "text": "जिनी सचु वणंजिआ से सचे प्रभ नालि ॥७॥",
+            "larivaar": "जिनी​सचु​वणंजिआ​से​सचे​प्रभ​नालि​॥७॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "jsvsspn",
+          "unicode": "ਜਸਵਸਸਪਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "K81P",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "nw hm cMgy AwKIAh burw n idsY koie ]",
+          "unicode": "ਨਾ ਹਮ ਚੰਗੇ ਆਖੀਅਹ ਬੁਰਾ ਨ ਦਿਸੈ ਕੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "nw​hm​cMgy​AwKIAh​burw​n​idsY​koie​]",
+          "unicode": "ਨਾ​ਹਮ​ਚੰਗੇ​ਆਖੀਅਹ​ਬੁਰਾ​ਨ​ਦਿਸੈ​ਕੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I am not called good, and I see none who are bad."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ijnHW ny gurU dI srn pY ky haumY dUr kIqI auh BwgW vwly bMdy ieh inScw r`Kdy hn ik) AsIN (sB qoN) cMgy nhIN AwKy jw skdy, qy swQoN BYVw koeI mnu`K (jgq ivc) nhIN id`sdw[",
+              "unicode": "(ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹਉਮੈ ਦੂਰ ਕੀਤੀ ਉਹ ਭਾਗਾਂ ਵਾਲੇ ਬੰਦੇ ਇਹ ਨਿਸ਼ਚਾ ਰੱਖਦੇ ਹਨ ਕਿ) ਅਸੀਂ (ਸਭ ਤੋਂ) ਚੰਗੇ ਨਹੀਂ ਆਖੇ ਜਾ ਸਕਦੇ, ਤੇ ਸਾਥੋਂ ਭੈੜਾ ਕੋਈ ਮਨੁੱਖ (ਜਗਤ ਵਿਚ) ਨਹੀਂ ਦਿੱਸਦਾ।"
+            }
+          },
+          "spanish": "No veo a nadie que sea malo, soy yo quien no soy bueno,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naa ham change aakheeah buraa na disai koe |",
+            "larivaar": "naa​ham​change​aakheeah​buraa​na​disai​koe​|"
+          },
+          "devanagari": {
+            "text": "ना हम चंगे आखीअह बुरा न दिसै कोइ ॥",
+            "larivaar": "ना​हम​चंगे​आखीअह​बुरा​न​दिसै​कोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "nhcAbndk",
+          "unicode": "ਨਹਚਅਬਨਦਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NRDH",
+        "type": 4,
+        "shabadid": "XRJ",
+        "gurmukhi": {
+          "akhar": "nwnk haumY mwrIAY scy jyhVw soie ]8]2]10]",
+          "unicode": "ਨਾਨਕ ਹਉਮੈ ਮਾਰੀਐ ਸਚੇ ਜੇਹੜਾ ਸੋਇ ॥੮॥੨॥੧੦॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​haumY​mwrIAY​scy​jyhVw​soie​]8]2]10]",
+          "unicode": "ਨਾਨਕ​ਹਉਮੈ​ਮਾਰੀਐ​ਸਚੇ​ਜੇਹੜਾ​ਸੋਇ​॥੮॥੨॥੧੦॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, one who conquers and subdues his ego, becomes just like the True Lord. ||8||2||10||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! (pRBU-crnW ivc iek-imk hox vwsqy) haumY dUr krnI cwhIdI hY (ijs mnu`K ny haumY dUr kIqI) auh sdw-iQr pRBU vrgw hI bx igAw ]8]2]10]",
+              "unicode": "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਇਕ-ਮਿਕ ਹੋਣ ਵਾਸਤੇ) ਹਉਮੈ ਦੂਰ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ (ਜਿਸ ਮਨੁੱਖ ਨੇ ਹਉਮੈ ਦੂਰ ਕੀਤੀ) ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਰਗਾ ਹੀ ਬਣ ਗਿਆ ॥੮॥੨॥੧੦॥"
+            }
+          },
+          "spanish": "dice Nanak, quien conquista su ego negativo, él mismo es como el Dios Verdadero.(8-2-10)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak haumai maareeai sache jeharraa soe |8|2|10|",
+            "larivaar": "naanak​haumai​maareeai​sache​jeharraa​soe​|8|2|10|"
+          },
+          "devanagari": {
+            "text": "नानक हउमै मारीऐ सचे जेहड़ा सोइ ॥८॥२॥१०॥",
+            "larivaar": "नानक​हउमै​मारीऐ​सचे​जेहड़ा​सोइ​॥८॥२॥१०॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "nhmsjs",
+          "unicode": "ਨਹਮਸਜਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7P18",
+        "type": 2,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "mwrU mhlw 1 ]",
+          "unicode": "ਮਾਰੂ ਮਹਲਾ ੧ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwrU​mhlw​1​]",
+          "unicode": "ਮਾਰੂ​ਮਹਲਾ​੧​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Maaroo, First Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Maru, Mejl Guru Nanak, Primer Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "maaroo mahalaa 1 |",
+            "larivaar": "maaroo​mahalaa​1​|"
+          },
+          "devanagari": {
+            "text": "मारू महला १ ॥",
+            "larivaar": "मारू​महला​१​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "mm1]",
+          "unicode": "ਮਮ੧॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "F7B7",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "nw jwxw mUrKu hY koeI nw jwxw isAwxw ]",
+          "unicode": "ਨਾ ਜਾਣਾ ਮੂਰਖੁ ਹੈ ਕੋਈ ਨਾ ਜਾਣਾ ਸਿਆਣਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "nw​jwxw​mUrKu​hY​koeI​nw​jwxw​isAwxw​]",
+          "unicode": "ਨਾ​ਜਾਣਾ​ਮੂਰਖੁ​ਹੈ​ਕੋਈ​ਨਾ​ਜਾਣਾ​ਸਿਆਣਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I do not believe that anyone is foolish; I do not believe that anyone is clever."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYN nhIN smJ skdw ik jyhVw (bMdw prmwqmw dw nwm ismrdw hY) auh mUrK (ikvyN) hY, qy jyhVw mnu`K nwm nhIN ismrdw auh isAwxw ikvyN hY[",
+              "unicode": "ਮੈਂ ਨਹੀਂ ਸਮਝ ਸਕਦਾ ਕਿ ਜੇਹੜਾ (ਬੰਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ) ਉਹ ਮੂਰਖ (ਕਿਵੇਂ) ਹੈ, ਤੇ ਜੇਹੜਾ ਮਨੁੱਖ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦਾ ਉਹ ਸਿਆਣਾ ਕਿਵੇਂ ਹੈ।"
+            }
+          },
+          "spanish": "Nadie es por sí mismo tonto o sabio."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naa jaanaa moorakh hai koee naa jaanaa siaanaa |",
+            "larivaar": "naa​jaanaa​moorakh​hai​koee​naa​jaanaa​siaanaa​|"
+          },
+          "devanagari": {
+            "text": "ना जाणा मूरखु है कोई ना जाणा सिआणा ॥",
+            "larivaar": "ना​जाणा​मूरखु​है​कोई​ना​जाणा​सिआणा​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "njmhknjs",
+          "unicode": "ਨਜਮਹਕਨਜਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GHKH",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "sdw swihb kY rMgy rwqw Anidnu nwmu vKwxw ]1]",
+          "unicode": "ਸਦਾ ਸਾਹਿਬ ਕੈ ਰੰਗੇ ਰਾਤਾ ਅਨਦਿਨੁ ਨਾਮੁ ਵਖਾਣਾ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "sdw​swihb​kY​rMgy​rwqw​Anidnu​nwmu​vKwxw​]1]",
+          "unicode": "ਸਦਾ​ਸਾਹਿਬ​ਕੈ​ਰੰਗੇ​ਰਾਤਾ​ਅਨਦਿਨੁ​ਨਾਮੁ​ਵਖਾਣਾ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Imbued forever with the Love of my Lord and Master, I chant His Name, night and day. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(Asl isAwxp nwm ismrn ivc hY, ies vwsqy) mYN hr vyly pRBU dw nwm ismrdw hW qy sdw mwlk-pRBU dy pRym-rMg ivc rMigAw rihMdw hW ]1]",
+              "unicode": "(ਅਸਲ ਸਿਆਣਪ ਨਾਮ ਸਿਮਰਨ ਵਿਚ ਹੈ, ਇਸ ਵਾਸਤੇ) ਮੈਂ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹਾਂ ਤੇ ਸਦਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗਿਆ ਰਹਿੰਦਾ ਹਾਂ ॥੧॥"
+            }
+          },
+          "spanish": "Vivo imbuido siempre en el Amor de mi Dios y recito siempre el Nombre del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sadaa saahib kai range raataa anadin naam vakhaanaa |1|",
+            "larivaar": "sadaa​saahib​kai​range​raataa​anadin​naam​vakhaanaa​|1|"
+          },
+          "devanagari": {
+            "text": "सदा साहिब कै रंगे राता अनदिनु नामु वखाणा ॥१॥",
+            "larivaar": "सदा​साहिब​कै​रंगे​राता​अनदिनु​नामु​वखाणा​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "sskrrAnv",
+          "unicode": "ਸਸਕਰਰਅਨਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NS74",
+        "type": 3,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "bwbw mUrKu hw nwvY bil jwau ]",
+          "unicode": "ਬਾਬਾ ਮੂਰਖੁ ਹਾ ਨਾਵੈ ਬਲਿ ਜਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "bwbw​mUrKu​hw​nwvY​bil​jwau​]",
+          "unicode": "ਬਾਬਾ​ਮੂਰਖੁ​ਹਾ​ਨਾਵੈ​ਬਲਿ​ਜਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Baba, I am so foolish, but I am a sacrifice to the Name."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pRBU! mYN qyry nwm qoN sdky jWdw hW[ (qyry nwm qoN KuMJ ky) mYN m`q-hIn rihMdw hW,",
+              "unicode": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਨਾਮ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ। (ਤੇਰੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ) ਮੈਂ ਮੱਤ-ਹੀਨ ਰਹਿੰਦਾ ਹਾਂ,"
+            }
+          },
+          "spanish": "Tú, oh Señor, eres mi Creador, el Sabio Vidente,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "baabaa moorakh haa naavai bal jaau |",
+            "larivaar": "baabaa​moorakh​haa​naavai​bal​jaau​|"
+          },
+          "devanagari": {
+            "text": "बाबा मूरखु हा नावै बलि जाउ ॥",
+            "larivaar": "बाबा​मूरखु​हा​नावै​बलि​जाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "bmhnbj",
+          "unicode": "ਬਮਹਨਬਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8QCA",
+        "type": 3,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "qU krqw qU dwnw bInw qyrY nwim qrwau ]1] rhwau ]",
+          "unicode": "ਤੂ ਕਰਤਾ ਤੂ ਦਾਨਾ ਬੀਨਾ ਤੇਰੈ ਨਾਮਿ ਤਰਾਉ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "qU​krqw​qU​dwnw​bInw​qyrY​nwim​qrwau​]1]​rhwau​]",
+          "unicode": "ਤੂ​ਕਰਤਾ​ਤੂ​ਦਾਨਾ​ਬੀਨਾ​ਤੇਰੈ​ਨਾਮਿ​ਤਰਾਉ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You are the Creator, You are wise and all-seeing. Through Your Name, we are carried across. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ikauNik mYƒ ieh smJ nhIN huMdI ik ies sMswr-smuMdr qoN) mYN qyry nwm ivc juV ky hI pwr lµG skdw hW[ (qyry nwm dI brkiq nwl hI mYƒ smJ AwauNdI hY ik) qUM swfw isrjnhwr hYN, qUM swfy idl dI jwxdw hYN, qUM swfy kMmW ƒ hr vyly vyKdw hYN ]1] rhwau ]",
+              "unicode": "(ਕਿਉਂਕਿ ਮੈਨੂੰ ਇਹ ਸਮਝ ਨਹੀਂ ਹੁੰਦੀ ਕਿ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਮੈਂ ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜ ਕੇ ਹੀ ਪਾਰ ਲੰਘ ਸਕਦਾ ਹਾਂ। (ਤੇਰੇ ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ ਹੀ ਮੈਨੂੰ ਸਮਝ ਆਉਂਦੀ ਹੈ ਕਿ) ਤੂੰ ਸਾਡਾ ਸਿਰਜਨਹਾਰ ਹੈਂ, ਤੂੰ ਸਾਡੇ ਦਿਲ ਦੀ ਜਾਣਦਾ ਹੈਂ, ਤੂੰ ਸਾਡੇ ਕੰਮਾਂ ਨੂੰ ਹਰ ਵੇਲੇ ਵੇਖਦਾ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "y es a través de Tu Nombre que soy llevado a través.(1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "too karataa too daanaa beenaa terai naam taraau |1| rahaau |",
+            "larivaar": "too​karataa​too​daanaa​beenaa​terai​naam​taraau​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "तू करता तू दाना बीना तेरै नामि तराउ ॥१॥ रहाउ ॥",
+            "larivaar": "तू​करता​तू​दाना​बीना​तेरै​नामि​तराउ​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "qkqdbqnq",
+          "unicode": "ਤਕਤਦਬਤਨਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "SZLC",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "mUrKu isAwxw eyku hY eyk joiq duie nwau ]",
+          "unicode": "ਮੂਰਖੁ ਸਿਆਣਾ ਏਕੁ ਹੈ ਏਕ ਜੋਤਿ ਦੁਇ ਨਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "mUrKu​isAwxw​eyku​hY​eyk​joiq​duie​nwau​]",
+          "unicode": "ਮੂਰਖੁ​ਸਿਆਣਾ​ਏਕੁ​ਹੈ​ਏਕ​ਜੋਤਿ​ਦੁਇ​ਨਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The same person is foolish and wise; the same light within has two names."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr cwhy koeI mUrK hY cwhy koeI isAwxw hY (hryk ivc) ieko prmwqmw hI v`sdw hY[ mUrK qy isAwxw do vK vK nwm hn joiq dohW ivc ieko hI hY[",
+              "unicode": "ਪਰ ਚਾਹੇ ਕੋਈ ਮੂਰਖ ਹੈ ਚਾਹੇ ਕੋਈ ਸਿਆਣਾ ਹੈ (ਹਰੇਕ ਵਿਚ) ਇਕੋ ਪਰਮਾਤਮਾ ਹੀ ਵੱਸਦਾ ਹੈ। ਮੂਰਖ ਤੇ ਸਿਆਣਾ ਦੋ ਵਖ ਵਖ ਨਾਮ ਹਨ ਜੋਤਿ ਦੋਹਾਂ ਵਿਚ ਇਕੋ ਹੀ ਹੈ।"
+            }
+          },
+          "spanish": "La misma persona es sabia y no sabia, pues la Luz en el interior es la misma aunque con diferentes nombres."
+        },
+        "transliteration": {
+          "english": {
+            "text": "moorakh siaanaa ek hai ek jot due naau |",
+            "larivaar": "moorakh​siaanaa​ek​hai​ek​jot​due​naau​|"
+          },
+          "devanagari": {
+            "text": "मूरखु सिआणा एकु है एक जोति दुइ नाउ ॥",
+            "larivaar": "मूरखु​सिआणा​एकु​है​एक​जोति​दुइ​नाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "msehejdn",
+          "unicode": "ਮਸੲਹੲਜਦਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R613",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "mUrKw isir mUrKu hY ij mMny nwhI nwau ]2]",
+          "unicode": "ਮੂਰਖਾ ਸਿਰਿ ਮੂਰਖੁ ਹੈ ਜਿ ਮੰਨੇ ਨਾਹੀ ਨਾਉ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "mUrKw​isir​mUrKu​hY​ij​mMny​nwhI​nwau​]2]",
+          "unicode": "ਮੂਰਖਾ​ਸਿਰਿ​ਮੂਰਖੁ​ਹੈ​ਜਿ​ਮੰਨੇ​ਨਾਹੀ​ਨਾਉ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The most foolish of the foolish are those who do not believe in the Name. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVw AwdmI prmwqmw dw nwm ismrnw nhIN kbUldw, auh mhw mUrK hY ]2]",
+              "unicode": "ਜੇਹੜਾ ਆਦਮੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨਾ ਨਹੀਂ ਕਬੂਲਦਾ, ਉਹ ਮਹਾ ਮੂਰਖ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "Pero el más tonto de todos es aquél que no cree en el Nombre del Señor.(2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "moorakhaa sir moorakh hai ji mane naahee naau |2|",
+            "larivaar": "moorakhaa​sir​moorakh​hai​ji​mane​naahee​naau​|2|"
+          },
+          "devanagari": {
+            "text": "मूरखा सिरि मूरखु है जि मंने नाही नाउ ॥२॥",
+            "larivaar": "मूरखा​सिरि​मूरखु​है​जि​मंने​नाही​नाउ​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "msmhjmnn",
+          "unicode": "ਮਸਮਹਜਮਨਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WXU0",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "gur duAwrY nwau pweIAY ibnu siqgur plY n pwie ]",
+          "unicode": "ਗੁਰ ਦੁਆਰੈ ਨਾਉ ਪਾਈਐ ਬਿਨੁ ਸਤਿਗੁਰ ਪਲੈ ਨ ਪਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​duAwrY​nwau​pweIAY​ibnu​siqgur​plY​n​pwie​]",
+          "unicode": "ਗੁਰ​ਦੁਆਰੈ​ਨਾਉ​ਪਾਈਐ​ਬਿਨੁ​ਸਤਿਗੁਰ​ਪਲੈ​ਨ​ਪਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Through the Guru's Gate, the Gurdwara, the Name is obtained. Without the True Guru, it is not received."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw dw nwm gurU dy dr qoN imldw hY, gurU dI srn qoN ibnw pRBU-nwm dI pRwpqI nhIN ho skdI[",
+              "unicode": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਗੁਰੂ ਦੇ ਦਰ ਤੋਂ ਮਿਲਦਾ ਹੈ, ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ ਪ੍ਰਭੂ-ਨਾਮ ਦੀ ਪ੍ਰਾਪਤੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "Somos bendecidos, a través del Guru, con el Nombre del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur duaarai naau paaeeai bin satigur palai na paae |",
+            "larivaar": "gur​duaarai​naau​paaeeai​bin​satigur​palai​na​paae​|"
+          },
+          "devanagari": {
+            "text": "गुर दुआरै नाउ पाईऐ बिनु सतिगुर पलै न पाइ ॥",
+            "larivaar": "गुर​दुआरै​नाउ​पाईऐ​बिनु​सतिगुर​पलै​न​पाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "gdnpbspnp",
+          "unicode": "ਗਦਨਪਬਸਪਨਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "U0ED",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "siqgur kY BwxY min vsY qw Aihinis rhY ilv lwie ]3]",
+          "unicode": "ਸਤਿਗੁਰ ਕੈ ਭਾਣੈ ਮਨਿ ਵਸੈ ਤਾ ਅਹਿਨਿਸਿ ਰਹੈ ਲਿਵ ਲਾਇ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "siqgur​kY​BwxY​min​vsY​qw​Aihinis​rhY​ilv​lwie​]3]",
+          "unicode": "ਸਤਿਗੁਰ​ਕੈ​ਭਾਣੈ​ਮਨਿ​ਵਸੈ​ਤਾ​ਅਹਿਨਿਸਿ​ਰਹੈ​ਲਿਵ​ਲਾਇ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Through the Pleasure of the True Guru's Will, the Name comes to dwell in the mind, and then, night and day, one remains lovingly absorbed in the Lord. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy gurU dy hukm ivc qur ky mnu`K dy mn ivc nwm v`s pey, qW auh idn rwq nwm ivc surq joVI r`Kdw hY ]3]",
+              "unicode": "ਜੇ ਗੁਰੂ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰ ਕੇ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਨਾਮ ਵੱਸ ਪਏ, ਤਾਂ ਉਹ ਦਿਨ ਰਾਤ ਨਾਮ ਵਿਚ ਸੁਰਤ ਜੋੜੀ ਰੱਖਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "Sin el Guru Verdadero, no Lo recibimos, pero si la mente sigue la Voluntad del Guru, uno es entonado noche y día en su Dios. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "satigur kai bhaanai man vasai taa ahinis rahai liv laae |3|",
+            "larivaar": "satigur​kai​bhaanai​man​vasai​taa​ahinis​rahai​liv​laae​|3|"
+          },
+          "devanagari": {
+            "text": "सतिगुर कै भाणै मनि वसै ता अहिनिसि रहै लिव लाइ ॥३॥",
+            "larivaar": "सतिगुर​कै​भाणै​मनि​वसै​ता​अहिनिसि​रहै​लिव​लाइ​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "skBmvqArll",
+          "unicode": "ਸਕਭਮਵਤਅਰਲਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ZSRP",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "rwjM rMgM rUpM mwlµ jobnu qy jUAwrI ]",
+          "unicode": "ਰਾਜੰ ਰੰਗੰ ਰੂਪੰ ਮਾਲੰ ਜੋਬਨੁ ਤੇ ਜੂਆਰੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "rwjM​rMgM​rUpM​mwlµ​jobnu​qy​jUAwrI​]",
+          "unicode": "ਰਾਜੰ​ਰੰਗੰ​ਰੂਪੰ​ਮਾਲੰ​ਜੋਬਨੁ​ਤੇ​ਜੂਆਰੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "In power, pleasures, beauty, wealth and youth, one gambles his life away."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVy bMdy rwj, rMg-qmwSy, rUp, mwl-Dn qy jvwnI-isr& iehI ivhwJdy rihMdy hn auhnW ƒ juAwrIey smJo[",
+              "unicode": "ਜੇਹੜੇ ਬੰਦੇ ਰਾਜ, ਰੰਗ-ਤਮਾਸ਼ੇ, ਰੂਪ, ਮਾਲ-ਧਨ ਤੇ ਜਵਾਨੀ-ਸਿਰਫ਼ ਇਹੀ ਵਿਹਾਝਦੇ ਰਹਿੰਦੇ ਹਨ ਉਹਨਾਂ ਨੂੰ ਜੁਆਰੀਏ ਸਮਝੋ।"
+            }
+          },
+          "spanish": "Engolosinados por dominar a otros, afanados por los disfrutes de los bienes de la tierra, la belleza de las cosas y las riquezas del mundo, muchos apuestan su vida para perder su Alma."
+        },
+        "transliteration": {
+          "english": {
+            "text": "raajan rangan roopan maalan joban te jooaaree |",
+            "larivaar": "raajan​rangan​roopan​maalan​joban​te​jooaaree​|"
+          },
+          "devanagari": {
+            "text": "राजं रंगं रूपं मालं जोबनु ते जूआरी ॥",
+            "larivaar": "राजं​रंगं​रूपं​मालं​जोबनु​ते​जूआरी​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "rrrmjqj",
+          "unicode": "ਰਰਰਮਜਤਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WPQF",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "hukmI bwDy pwsY Kylih caupiV eykw swrI ]4]",
+          "unicode": "ਹੁਕਮੀ ਬਾਧੇ ਪਾਸੈ ਖੇਲਹਿ ਚਉਪੜਿ ਏਕਾ ਸਾਰੀ ॥੪॥"
+        },
+        "larivaar": {
+          "akhar": "hukmI​bwDy​pwsY​Kylih​caupiV​eykw​swrI​]4]",
+          "unicode": "ਹੁਕਮੀ​ਬਾਧੇ​ਪਾਸੈ​ਖੇਲਹਿ​ਚਉਪੜਿ​ਏਕਾ​ਸਾਰੀ​॥੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Bound by the Hukam of God's Command, the dice are thrown; he is just a piece in the game of chess. ||4||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pr auhnW dy BI kIh v`s?) pRBU dy hukm ivc b`Jy hoey auh (mwiek pdwrQW dI) caupV Kyf Kyfdy rihMdy hn, ieko mwieAw dI iqRSnw hI auhnW dI nrd hY ]4]",
+              "unicode": "(ਪਰ ਉਹਨਾਂ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ ਬੱਝੇ ਹੋਏ ਉਹ (ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੀ) ਚਉਪੜ ਖੇਡ ਖੇਡਦੇ ਰਹਿੰਦੇ ਹਨ, ਇਕੋ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਹੀ ਉਹਨਾਂ ਦੀ ਨਰਦ ਹੈ ॥੪॥"
+            }
+          },
+          "spanish": "Es el juego de ajedrez que uno juega en la Voluntad de Dios, como ajedrecista en la tabla de ajedrez del mundo.(4)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hukamee baadhe paasai kheleh chauparr ekaa saaree |4|",
+            "larivaar": "hukamee​baadhe​paasai​kheleh​chauparr​ekaa​saaree​|4|"
+          },
+          "devanagari": {
+            "text": "हुकमी बाधे पासै खेलहि चउपड़ि एका सारी ॥४॥",
+            "larivaar": "हुकमी​बाधे​पासै​खेलहि​चउपड़ि​एका​सारी​॥४॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "hbpKces",
+          "unicode": "ਹਬਪਖਚੲਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KUQ8",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "jig cquru isAwxw Brim Bulwxw nwau pMifq pVih gwvwrI ]",
+          "unicode": "ਜਗਿ ਚਤੁਰੁ ਸਿਆਣਾ ਭਰਮਿ ਭੁਲਾਣਾ ਨਾਉ ਪੰਡਿਤ ਪੜਹਿ ਗਾਵਾਰੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "jig​cquru​isAwxw​Brim​Bulwxw​nwau​pMifq​pVih​gwvwrI​]",
+          "unicode": "ਜਗਿ​ਚਤੁਰੁ​ਸਿਆਣਾ​ਭਰਮਿ​ਭੁਲਾਣਾ​ਨਾਉ​ਪੰਡਿਤ​ਪੜਹਿ​ਗਾਵਾਰੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The world is clever and wise, but it is deluded by doubt, and forgets the Name; the Pandit, the religious scholar, studies the scriptures, but he is still a fool."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVw bMdw mwieAw dI Btkxw ivc pY ky jIvn-rwh qoN KuMiJAw jw irhw hY auhI jgq ivc cwqur qy isAwxw mMinAw jWdw hY; pVHdy hn (mwieAw kmwx vwlI) mUrKW dI iv`idAw, pr Awpxw nwm sdWdy hn 'pMifq'[",
+              "unicode": "ਜੇਹੜਾ ਬੰਦਾ ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਜੀਵਨ-ਰਾਹ ਤੋਂ ਖੁੰਝਿਆ ਜਾ ਰਿਹਾ ਹੈ ਉਹੀ ਜਗਤ ਵਿਚ ਚਾਤੁਰ ਤੇ ਸਿਆਣਾ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ; ਪੜ੍ਹਦੇ ਹਨ (ਮਾਇਆ ਕਮਾਣ ਵਾਲੀ) ਮੂਰਖਾਂ ਦੀ ਵਿੱਦਿਆ, ਪਰ ਆਪਣਾ ਨਾਮ ਸਦਾਂਦੇ ਹਨ 'ਪੰਡਿਤ'।"
+            }
+          },
+          "spanish": "El mundo es muy astuto, pero engañado por la Duda, se olvida del Nombre del Señor, mira como el tonto Pandit, ese intelectual, recita y parlotea sobre muchos tópicos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jag chatur siaanaa bharam bhulaanaa naau panddit parreh gaavaaree |",
+            "larivaar": "jag​chatur​siaanaa​bharam​bhulaanaa​naau​panddit​parreh​gaavaaree​|"
+          },
+          "devanagari": {
+            "text": "जगि चतुरु सिआणा भरमि भुलाणा नाउ पंडित पड़हि गावारी ॥",
+            "larivaar": "जगि​चतुरु​सिआणा​भरमि​भुलाणा​नाउ​पंडित​पड़हि​गावारी​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "jcsBBnppg",
+          "unicode": "ਜਚਸਭਭਨਪਪਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GZMG",
+        "type": 4,
+        "shabadid": "JYU",
+        "gurmukhi": {
+          "akhar": "nwau ivswrih bydu smwlih ibKu BUly lyKwrI ]5]",
+          "unicode": "ਨਾਉ ਵਿਸਾਰਹਿ ਬੇਦੁ ਸਮਾਲਹਿ ਬਿਖੁ ਭੂਲੇ ਲੇਖਾਰੀ ॥੫॥"
+        },
+        "larivaar": {
+          "akhar": "nwau​ivswrih​bydu​smwlih​ibKu​BUly​lyKwrI​]5]",
+          "unicode": "ਨਾਉ​ਵਿਸਾਰਹਿ​ਬੇਦੁ​ਸਮਾਲਹਿ​ਬਿਖੁ​ਭੂਲੇ​ਲੇਖਾਰੀ​॥੫॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Forgetting the Name, he dwells upon the Vedas; he writes, but he is confused by his poisonous corruption. ||5||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ieh pMifq) prmwqmw dw nwm Bulw dyNdy hn; qy Awpxy vloN vyd (Awidk Drm pusqkW) ƒ sMBwl rhy hn, ieh ivdvwn Awqmk jIvn dI mOq ilAwaux vwlI mwieAw dy zihr ivc Bu`ly pey hn ]5]",
+              "unicode": "(ਇਹ ਪੰਡਿਤ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁਲਾ ਦੇਂਦੇ ਹਨ; ਤੇ ਆਪਣੇ ਵਲੋਂ ਵੇਦ (ਆਦਿਕ ਧਰਮ ਪੁਸਤਕਾਂ) ਨੂੰ ਸੰਭਾਲ ਰਹੇ ਹਨ, ਇਹ ਵਿਦਵਾਨ ਆਤਮਕ ਜੀਵਨ ਦੀ ਮੌਤ ਲਿਆਉਣ ਵਾਲੀ ਮਾਇਆ ਦੇ ਜ਼ਹਿਰ ਵਿਚ ਭੁੱਲੇ ਪਏ ਹਨ ॥੫॥"
+            }
+          },
+          "spanish": "Confundidos por su propia corrupción venenosa, abandonan así el Nombre del Señor, alaban los Vedas y escriben de Dios.(5)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naau visaareh bed samaaleh bikh bhoole lekhaaree |5|",
+            "larivaar": "naau​visaareh​bed​samaaleh​bikh​bhoole​lekhaaree​|5|"
+          },
+          "devanagari": {
+            "text": "नाउ विसारहि बेदु समालहि बिखु भूले लेखारी ॥५॥",
+            "larivaar": "नाउ​विसारहि​बेदु​समालहि​बिखु​भूले​लेखारी​॥५॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 25,
+          "akhar": "rwgu mwrU",
+          "unicode": "ਰਾਗੁ ਮਾਰੂ",
+          "english": "Raag Maaroo",
+          "startang": 989,
+          "endang": 1106,
+          "raagwithpage": "Raag Maaroo (989-1106)"
+        },
+        "pageno": 1015,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "nvbsbBl",
+          "unicode": "ਨਵਬਸਬਭਲ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

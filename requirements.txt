@@ -1,0 +1,12 @@
+# Core chatbot & Web server
+flask
+requests
+gunicorn
+
+# Gurbani RAG & Database
+chromadb
+sentence-transformers
+
+# File upload support
+PyPDF2
+python-docx

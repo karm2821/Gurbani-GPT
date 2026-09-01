@@ -1,0 +1,467 @@
+/* ChatScreen.css — PC Desktop Gurbani Chat with Soothing Blurred Background Animation */
+
+.chat-screen {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  animation: fadeInChat 400ms ease-out both;
+  overflow: hidden;
+}
+
+@keyframes fadeInChat {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Soothing Blurred Background Animation ────────── */
+.chat-soothing-bg {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+  overflow: hidden;
+  background: #080808;
+}
+
+.soothing-blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(140px);
+  opacity: 0.28;
+  mix-blend-mode: screen;
+}
+
+/* Floating saffron/golden aurora blobs that gently drift and breathe */
+.soothing-blob-1 {
+  width: 650px;
+  height: 650px;
+  background: radial-gradient(circle, #f97316 0%, #ea580c 50%, transparent 70%);
+  top: -150px;
+  left: 20%;
+  animation: driftBlob1 18s ease-in-out infinite alternate;
+}
+
+.soothing-blob-2 {
+  width: 550px;
+  height: 550px;
+  background: radial-gradient(circle, #fbbf24 0%, #f97316 60%, transparent 75%);
+  bottom: -100px;
+  right: 15%;
+  animation: driftBlob2 22s ease-in-out infinite alternate;
+}
+
+.soothing-blob-3 {
+  width: 480px;
+  height: 480px;
+  background: radial-gradient(circle, #c2410c 0%, #7c2d12 60%, transparent 75%);
+  top: 35%;
+  left: -100px;
+  opacity: 0.20;
+  animation: driftBlob3 25s ease-in-out infinite alternate;
+}
+
+.soothing-blob-4 {
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, #fed7aa 0%, #f97316 55%, transparent 70%);
+  top: 45%;
+  right: -80px;
+  opacity: 0.18;
+  animation: driftBlob4 20s ease-in-out infinite alternate;
+}
+
+/* Subtle ambient radial vignette */
+.soothing-mesh-overlay {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 50%, transparent 40%, rgba(8,8,8,0.7) 100%);
+}
+
+@keyframes driftBlob1 {
+  0%   { transform: translate(0, 0) scale(1); }
+  50%  { transform: translate(60px, 80px) scale(1.12); }
+  100% { transform: translate(-40px, 40px) scale(0.95); }
+}
+
+@keyframes driftBlob2 {
+  0%   { transform: translate(0, 0) scale(1); }
+  50%  { transform: translate(-80px, -60px) scale(1.15); }
+  100% { transform: translate(40px, -30px) scale(0.92); }
+}
+
+@keyframes driftBlob3 {
+  0%   { transform: translate(0, 0) scale(0.95); }
+  50%  { transform: translate(70px, -50px) scale(1.10); }
+  100% { transform: translate(20px, 60px) scale(1); }
+}
+
+@keyframes driftBlob4 {
+  0%   { transform: translate(0, 0) scale(1.05); }
+  50%  { transform: translate(-50px, 60px) scale(0.90); }
+  100% { transform: translate(30px, -40px) scale(1.12); }
+}
+
+/* ── Top Header Bar ──────────────────────────────── */
+.chat-header {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 36px;
+  background: rgba(12, 12, 12, 0.45);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.chat-header__left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.chat-avatar-mini {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #fed7aa 0%, #f97316 60%, #c2410c 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 16px rgba(249, 115, 22, 0.35);
+}
+
+.chat-avatar-mini .gurmukhi {
+  font-size: 20px;
+  color: #fff;
+  line-height: 1;
+}
+
+.chat-header__title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: -0.01em;
+}
+
+.chat-header__status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: var(--saffron-400);
+}
+
+.chat-status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 8px #22c55e;
+}
+
+/* ── Close Chat Pill Button ──────────────────────── */
+.chat-close-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 18px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--text-primary);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  backdrop-filter: blur(14px);
+}
+
+.chat-close-btn:hover {
+  background: rgba(249, 115, 22, 0.18);
+  border-color: rgba(249, 115, 22, 0.45);
+  color: #fff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+}
+
+.chat-close-btn__icon {
+  font-size: 11px;
+  opacity: 0.75;
+}
+
+/* ── Message Feed Area (Centered on desktop screen) ─── */
+.chat-feed {
+  flex: 1;
+  overflow-y: auto;
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chat-feed__inner {
+  width: 100%;
+  max-width: 840px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ── Message Rows ────────────────────────────────── */
+.chat-message-row {
+  display: flex;
+  gap: 14px;
+  width: 100%;
+}
+
+.chat-message-row--user {
+  justify-content: flex-end;
+}
+
+.chat-message-row--assistant {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* ── 3D Golden Orb Avatar for Assistant ──────────── */
+.chat-bot-orb {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-bot-orb__inner {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #fff7ed 0%, #fed7aa 20%, #f97316 60%, #9a3412 100%);
+  box-shadow: 
+    inset -4px -4px 8px rgba(124, 45, 18, 0.7),
+    inset 2px 2px 6px rgba(255, 255, 255, 0.6),
+    0 0 16px rgba(249, 115, 22, 0.45);
+}
+
+/* ── Message Bubbles ─────────────────────────────── */
+.chat-bubble {
+  max-width: 82%;
+  padding: 18px 22px;
+  font-size: 15px;
+  line-height: 1.65;
+  border-radius: 22px;
+  position: relative;
+  word-break: break-word;
+}
+
+/* User Bubble: Warm orange gradient pill */
+.chat-bubble--user {
+  background: linear-gradient(135deg, #f97316 0%, #ea580c 60%, #c2410c 100%);
+  color: #ffffff;
+  border-bottom-right-radius: 6px;
+  box-shadow: 0 6px 24px rgba(234, 88, 12, 0.28);
+  font-weight: 400;
+}
+
+/* Assistant Bubble: Dark Glass with subtle golden border */
+.chat-bubble--assistant {
+  background: rgba(22, 22, 22, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  color: #f1f5f9;
+  border-bottom-left-radius: 6px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
+
+.chat-bubble__content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Formatting within Assistant response */
+.msg-heading {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--saffron-300);
+  margin-top: 8px;
+  margin-bottom: 2px;
+  letter-spacing: -0.01em;
+}
+
+.msg-heading--lg {
+  font-size: 17px;
+  color: var(--saffron-400);
+}
+
+.msg-paragraph {
+  margin: 0;
+}
+
+.msg-paragraph--gurmukhi {
+  font-family: 'Noto Sans Gurmukhi', serif;
+  font-size: 17px;
+  line-height: 1.85;
+  color: #fef08a;
+  background: rgba(254, 240, 138, 0.07);
+  padding: 10px 14px;
+  border-left: 3px solid #f59e0b;
+  border-radius: 4px 10px 10px 4px;
+  margin: 8px 0;
+}
+
+.msg-bold {
+  font-weight: 600;
+  color: #fff;
+}
+
+.msg-spacer {
+  height: 6px;
+}
+
+/* Typing indicator */
+.chat-typing-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 4px;
+}
+
+.chat-typing-indicator span {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--saffron-400);
+  animation: typingBounce 1.4s infinite ease-in-out both;
+}
+
+.chat-typing-indicator span:nth-child(1) { animation-delay: -0.32s; }
+.chat-typing-indicator span:nth-child(2) { animation-delay: -0.16s; }
+
+@keyframes typingBounce {
+  0%, 80%, 100% { transform: scale(0); opacity: 0.3; }
+  40% { transform: scale(1); opacity: 1; }
+}
+
+/* ── Citations Card ──────────────────────────────── */
+.chat-citations-card {
+  margin-top: 10px;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(251, 146, 60, 0.22);
+  border-radius: 16px;
+  padding: 16px 20px;
+  backdrop-filter: blur(16px);
+}
+
+.chat-citations-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.chat-citations-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--saffron-300);
+}
+
+.chat-confidence-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.chat-confidence-badge--high {
+  background: rgba(34, 197, 94, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(34, 197, 94, 0.3);
+}
+
+.chat-confidence-badge--medium {
+  background: rgba(234, 179, 8, 0.15);
+  color: #facc15;
+  border: 1px solid rgba(234, 179, 8, 0.3);
+}
+
+.chat-confidence-badge--low {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.chat-citations-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 10px;
+}
+
+.chat-citation-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 9px 14px;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.chat-citation-ang {
+  font-weight: 600;
+  color: var(--saffron-400);
+}
+
+.chat-citation-meta {
+  color: var(--text-secondary);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex: 1;
+}
+
+.chat-citation-tier {
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.chat-citation-tier--direct {
+  background: rgba(34, 197, 94, 0.2);
+  color: #4ade80;
+}
+
+.chat-citation-tier--supporting {
+  background: rgba(234, 179, 8, 0.2);
+  color: #facc15;
+}
+
+.chat-citation-tier--general {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-muted);
+}
+
+/* ── Footer ──────────────────────────────────────── */
+.chat-footer {
+  flex-shrink: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.chat-footer .input-bar {
+  max-width: 860px;
+}

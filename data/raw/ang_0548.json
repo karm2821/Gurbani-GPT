@@ -1,0 +1,2281 @@
+{
+  "pageno": 548,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 39,
+  "page": [
+    {
+      "line": {
+        "id": "UK4L",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "rwjn ikau soieAw qU nId Bry jwgq kq nwhI rwm ]",
+          "unicode": "ਰਾਜਨ ਕਿਉ ਸੋਇਆ ਤੂ ਨੀਦ ਭਰੇ ਜਾਗਤ ਕਤ ਨਾਹੀ ਰਾਮ ॥"
+        },
+        "larivaar": {
+          "akhar": "rwjn​ikau​soieAw​qU​nId​Bry​jwgq​kq​nwhI​rwm​]",
+          "unicode": "ਰਾਜਨ​ਕਿਉ​ਸੋਇਆ​ਤੂ​ਨੀਦ​ਭਰੇ​ਜਾਗਤ​ਕਤ​ਨਾਹੀ​ਰਾਮ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O king, why are you sleeping? Why don't you wake up to reality?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy DrqI dy srdwr mnu`K! qUM ikauN mwieAw dy moh dI gUVHI nINd ivc sON irhw hYN? qUM ikauN sucyq nhIN huMdw?",
+              "unicode": "ਹੇ ਧਰਤੀ ਦੇ ਸਰਦਾਰ ਮਨੁੱਖ! ਤੂੰ ਕਿਉਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਗੂੜ੍ਹੀ ਨੀਂਦ ਵਿਚ ਸੌਂ ਰਿਹਾ ਹੈਂ? ਤੂੰ ਕਿਉਂ ਸੁਚੇਤ ਨਹੀਂ ਹੁੰਦਾ?"
+            }
+          },
+          "spanish": "Oh rey ¿por qué duermes, por que no despiertas a la Realidad?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "raajan kiau soeaa too need bhare jaagat kat naahee raam |",
+            "larivaar": "raajan​kiau​soeaa​too​need​bhare​jaagat​kat​naahee​raam​|"
+          },
+          "devanagari": {
+            "text": "राजन किउ सोइआ तू नीद भरे जागत कत नाही राम ॥",
+            "larivaar": "राजन​किउ​सोइआ​तू​नीद​भरे​जागत​कत​नाही​राम​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "rksqnBjknr",
+          "unicode": "ਰਕਸਤਨਭਜਕਨਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7N7N",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "mwieAw JUTu rudnu kyqy ibllwhI rwm ]",
+          "unicode": "ਮਾਇਆ ਝੂਠੁ ਰੁਦਨੁ ਕੇਤੇ ਬਿਲਲਾਹੀ ਰਾਮ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwieAw​JUTu​rudnu​kyqy​ibllwhI​rwm​]",
+          "unicode": "ਮਾਇਆ​ਝੂਠੁ​ਰੁਦਨੁ​ਕੇਤੇ​ਬਿਲਲਾਹੀ​ਰਾਮ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "It is useless to cry and whine about Maya, but so many cry out and bewail."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies mwieAw dI ^wqr AnykW hI mnu`K JUTw rox-kurlwx krdy Aw rhy hn, ivlkdy Aw rhy hn[",
+              "unicode": "ਇਸ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਅਨੇਕਾਂ ਹੀ ਮਨੁੱਖ ਝੂਠਾ ਰੋਣ-ਕੁਰਲਾਣ ਕਰਦੇ ਆ ਰਹੇ ਹਨ, ਵਿਲਕਦੇ ਆ ਰਹੇ ਹਨ।"
+            }
+          },
+          "spanish": "Muchos como Tú han sufrido en vano a causa de Maya."
+        },
+        "transliteration": {
+          "english": {
+            "text": "maaeaa jhootth rudan kete bilalaahee raam |",
+            "larivaar": "maaeaa​jhootth​rudan​kete​bilalaahee​raam​|"
+          },
+          "devanagari": {
+            "text": "माइआ झूठु रुदनु केते बिललाही राम ॥",
+            "larivaar": "माइआ​झूठु​रुदनु​केते​बिललाही​राम​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "mJrkbr",
+          "unicode": "ਮਝਰਕਬਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PCAV",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "ibllwih kyqy mhw mohn ibnu nwm hir ky suKu nhI ]",
+          "unicode": "ਬਿਲਲਾਹਿ ਕੇਤੇ ਮਹਾ ਮੋਹਨ ਬਿਨੁ ਨਾਮ ਹਰਿ ਕੇ ਸੁਖੁ ਨਹੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "ibllwih​kyqy​mhw​mohn​ibnu​nwm​hir​ky​suKu​nhI​]",
+          "unicode": "ਬਿਲਲਾਹਿ​ਕੇਤੇ​ਮਹਾ​ਮੋਹਨ​ਬਿਨੁ​ਨਾਮ​ਹਰਿ​ਕੇ​ਸੁਖੁ​ਨਹੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So many cry out for Maya, the great enticer, but without the Name of the Lord, there is no peace."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "byAMq pRwxI ies fwFI mn-mohxI mwieAw dI ^wqr qrly lYNdy Aw rhy hn pr prmwqmw dy nwm qoN ibnw suK (iksy ƒ) nhIN l`Bw[",
+              "unicode": "ਬੇਅੰਤ ਪ੍ਰਾਣੀ ਇਸ ਡਾਢੀ ਮਨ-ਮੋਹਣੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਤਰਲੇ ਲੈਂਦੇ ਆ ਰਹੇ ਹਨ ਪਰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਸੁਖ (ਕਿਸੇ ਨੂੰ) ਨਹੀਂ ਲੱਭਾ।"
+            }
+          },
+          "spanish": "Muchos se sienten afligidos por esa gran embustera, pues sin el Nombre del Señor,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "bilalaeh kete mahaa mohan bin naam har ke sukh nahee |",
+            "larivaar": "bilalaeh​kete​mahaa​mohan​bin​naam​har​ke​sukh​nahee​|"
+          },
+          "devanagari": {
+            "text": "बिललाहि केते महा मोहन बिनु नाम हरि के सुखु नही ॥",
+            "larivaar": "बिललाहि​केते​महा​मोहन​बिनु​नाम​हरि​के​सुखु​नही​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "bkmmbnhksn",
+          "unicode": "ਬਕਮਮਬਨਹਕਸਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "W42G",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "shs isAwxp aupwv Qwky jh Bwvq qh jwhI ]",
+          "unicode": "ਸਹਸ ਸਿਆਣਪ ਉਪਾਵ ਥਾਕੇ ਜਹ ਭਾਵਤ ਤਹ ਜਾਹੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "shs​isAwxp​aupwv​Qwky​jh​Bwvq​qh​jwhI​]",
+          "unicode": "ਸਹਸ​ਸਿਆਣਪ​ਉਪਾਵ​ਥਾਕੇ​ਜਹ​ਭਾਵਤ​ਤਹ​ਜਾਹੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Thousands of clever tricks and efforts will not succeed. One goes wherever the Lord wills him to go."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jIv hzwrW cqurweIAW hzwrW hIly krdy Q`k jWdy hn pr ijDr prmwqmw dI rzw huMdI hY auDr hI jIv jw skdy hn[",
+              "unicode": "ਜੀਵ ਹਜ਼ਾਰਾਂ ਚਤੁਰਾਈਆਂ ਹਜ਼ਾਰਾਂ ਹੀਲੇ ਕਰਦੇ ਥੱਕ ਜਾਂਦੇ ਹਨ ਪਰ ਜਿਧਰ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਹੁੰਦੀ ਹੈ ਉਧਰ ਹੀ ਜੀਵ ਜਾ ਸਕਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "no hay Paz. Millones de formas y astucias no funcionan, y así el hombre se muere como es la Voluntad del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sehas siaanap upaav thaake jeh bhaavat teh jaahee |",
+            "larivaar": "sehas​siaanap​upaav​thaake​jeh​bhaavat​teh​jaahee​|"
+          },
+          "devanagari": {
+            "text": "सहस सिआणप उपाव थाके जह भावत तह जाही ॥",
+            "larivaar": "सहस​सिआणप​उपाव​थाके​जह​भावत​तह​जाही​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "ssaQjBqj",
+          "unicode": "ਸਸੳਥਜਭਤਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "0MTV",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "Awid AMqy miD pUrn srbqR Git Git AwhI ]",
+          "unicode": "ਆਦਿ ਅੰਤੇ ਮਧਿ ਪੂਰਨ ਸਰਬਤ੍ਰ ਘਟਿ ਘਟਿ ਆਹੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awid​AMqy​miD​pUrn​srbqR​Git​Git​AwhI​]",
+          "unicode": "ਆਦਿ​ਅੰਤੇ​ਮਧਿ​ਪੂਰਨ​ਸਰਬਤ੍ਰ​ਘਟਿ​ਘਟਿ​ਆਹੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "In the beginning, in the middle, and in the end, He is all-pervading everywhere; He is in each and every heart."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh prmwqmw sdw leI hI srb-ivAwpk hY, hr QW mOjUd hY, hryk srIr ivc hY[",
+              "unicode": "ਉਹ ਪਰਮਾਤਮਾ ਸਦਾ ਲਈ ਹੀ ਸਰਬ-ਵਿਆਪਕ ਹੈ, ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ, ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਹੈ।"
+            }
+          },
+          "spanish": "Él, el Señor, es Todo Prevaleciente en el principio, en el medio y en el fin; sí, Él prevalece en todos los corazones."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aad ante madh pooran sarabatr ghatt ghatt aahee |",
+            "larivaar": "aad​ante​madh​pooran​sarabatr​ghatt​ghatt​aahee​|"
+          },
+          "devanagari": {
+            "text": "आदि अंते मधि पूरन सरबत्र घटि घटि आही ॥",
+            "larivaar": "आदि​अंते​मधि​पूरन​सरबत्र​घटि​घटि​आही​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "AAmpsGGA",
+          "unicode": "ਅਅਮਪਸਘਘਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HPY0",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "ibnvMq nwnk ijn swDsMgmu sy piq syqI Gir jwhI ]2]",
+          "unicode": "ਬਿਨਵੰਤ ਨਾਨਕ ਜਿਨ ਸਾਧਸੰਗਮੁ ਸੇ ਪਤਿ ਸੇਤੀ ਘਰਿ ਜਾਹੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "ibnvMq​nwnk​ijn​swDsMgmu​sy​piq​syqI​Gir​jwhI​]2]",
+          "unicode": "ਬਿਨਵੰਤ​ਨਾਨਕ​ਜਿਨ​ਸਾਧਸੰਗਮੁ​ਸੇ​ਪਤਿ​ਸੇਤੀ​ਘਰਿ​ਜਾਹੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Prays Nanak, those who join the Saadh Sangat go to the house of the Lord with honor. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk bynqI krdw hY ik ijnHW mnu`KW ƒ gurU dw imlwp pRwpq huMdw hY auh (ieQoN) ie`zq nwl prmwqmw dI hzUrI ivc jWdy hn ]2]",
+              "unicode": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ ਕਿ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਗੁਰੂ ਦਾ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ ਉਹ (ਇਥੋਂ) ਇੱਜ਼ਤ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਜਾਂਦੇ ਹਨ ॥੨॥"
+            }
+          },
+          "spanish": "Dice Nanak, aquél que guarda la Compañía de los Santos va con Honor al Recinto del Señor. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "binavant naanak jin saadhasangam se pat setee ghar jaahee |2|",
+            "larivaar": "binavant​naanak​jin​saadhasangam​se​pat​setee​ghar​jaahee​|2|"
+          },
+          "devanagari": {
+            "text": "बिनवंत नानक जिन साधसंगमु से पति सेती घरि जाही ॥२॥",
+            "larivaar": "बिनवंत​नानक​जिन​साधसंगमु​से​पति​सेती​घरि​जाही​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "bnjsspsGj",
+          "unicode": "ਬਨਜਸਸਪਸਘਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4R55",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "nrpiq jwix gRihE syvk isAwxy rwm ]",
+          "unicode": "ਨਰਪਤਿ ਜਾਣਿ ਗ੍ਰਹਿਓ ਸੇਵਕ ਸਿਆਣੇ ਰਾਮ ॥"
+        },
+        "larivaar": {
+          "akhar": "nrpiq​jwix​gRihE​syvk​isAwxy​rwm​]",
+          "unicode": "ਨਰਪਤਿ​ਜਾਣਿ​ਗ੍ਰਹਿਓ​ਸੇਵਕ​ਸਿਆਣੇ​ਰਾਮ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O king of mortals, know that your palaces and wise servants shall be of no use in the end."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rwjw vI isAwxy syvkW ƒ (Awpxy) jwx ky (rwj dy moh ivc) Ps jWdw hY[",
+              "unicode": "ਰਾਜਾ ਵੀ ਸਿਆਣੇ ਸੇਵਕਾਂ ਨੂੰ (ਆਪਣੇ) ਜਾਣ ਕੇ (ਰਾਜ ਦੇ ਮੋਹ ਵਿਚ) ਫਸ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Oh rey, entiende que todos los sabios consejeros de tu corte no te sirven para nada."
+        },
+        "transliteration": {
+          "english": {
+            "text": "narapat jaan grahio sevak siaane raam |",
+            "larivaar": "narapat​jaan​grahio​sevak​siaane​raam​|"
+          },
+          "devanagari": {
+            "text": "नरपति जाणि ग्रहिओ सेवक सिआणे राम ॥",
+            "larivaar": "नरपति​जाणि​ग्रहिओ​सेवक​सिआणे​राम​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "njgssr",
+          "unicode": "ਨਜਗਸਸਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5EGA",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "srpr vICuVxw mohy pCuqwxy rwm ]",
+          "unicode": "ਸਰਪਰ ਵੀਛੁੜਣਾ ਮੋਹੇ ਪਛੁਤਾਣੇ ਰਾਮ ॥"
+        },
+        "larivaar": {
+          "akhar": "srpr​vICuVxw​mohy​pCuqwxy​rwm​]",
+          "unicode": "ਸਰਪਰ​ਵੀਛੁੜਣਾ​ਮੋਹੇ​ਪਛੁਤਾਣੇ​ਰਾਮ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You shall certainly have to separate yourself from them, and their attachment shall make you feel regret."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr (dunIAw dy pdwrQW nwloN) zrUr ivCuV jwxw hY, jo moh ivc Psdy hn, auh Aw^r h`Q mldy rih jWdy hn[",
+              "unicode": "ਪਰ (ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਨਾਲੋਂ) ਜ਼ਰੂਰ ਵਿਛੁੜ ਜਾਣਾ ਹੈ, ਜੋ ਮੋਹ ਵਿਚ ਫਸਦੇ ਹਨ, ਉਹ ਆਖ਼ਰ ਹੱਥ ਮਲਦੇ ਰਹਿ ਜਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Debes separarte de ellos, pues el aprender de ellos te conduce a la agonía."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sarapar veechhurranaa mohe pachhutaane raam |",
+            "larivaar": "sarapar​veechhurranaa​mohe​pachhutaane​raam​|"
+          },
+          "devanagari": {
+            "text": "सरपर वीछुड़णा मोहे पछुताणे राम ॥",
+            "larivaar": "सरपर​वीछुड़णा​मोहे​पछुताणे​राम​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "svmpr",
+          "unicode": "ਸਵਮਪਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "S84B",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "hircMdaurI dyiK BUlw khw AsiQiq pweIAY ]",
+          "unicode": "ਹਰਿਚੰਦਉਰੀ ਦੇਖਿ ਭੂਲਾ ਕਹਾ ਅਸਥਿਤਿ ਪਾਈਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "hircMdaurI​dyiK​BUlw​khw​AsiQiq​pweIAY​]",
+          "unicode": "ਹਰਿਚੰਦਉਰੀ​ਦੇਖਿ​ਭੂਲਾ​ਕਹਾ​ਅਸਥਿਤਿ​ਪਾਈਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Beholding the phantom city, you have gone astray; how can you now find stability?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mnu`K AwkwS ivc dy i^AwlI Shr vrgy jgq ƒ vyK ky kurwhy pY jWdw hY, pr ieQy ikqy BI sdw dw itkwxw nhIN iml skdw[",
+              "unicode": "ਮਨੁੱਖ ਆਕਾਸ਼ ਵਿਚ ਦੇ ਖ਼ਿਆਲੀ ਸ਼ਹਰ ਵਰਗੇ ਜਗਤ ਨੂੰ ਵੇਖ ਕੇ ਕੁਰਾਹੇ ਪੈ ਜਾਂਦਾ ਹੈ, ਪਰ ਇਥੇ ਕਿਤੇ ਭੀ ਸਦਾ ਦਾ ਟਿਕਾਣਾ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Fuiste engañado por la ilusión; ¿cómo puedes obtener la Paz ahora?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "harichandauree dekh bhoolaa kahaa asathit paaeeai |",
+            "larivaar": "harichandauree​dekh​bhoolaa​kahaa​asathit​paaeeai​|"
+          },
+          "devanagari": {
+            "text": "हरिचंदउरी देखि भूला कहा असथिति पाईऐ ॥",
+            "larivaar": "हरिचंदउरी​देखि​भूला​कहा​असथिति​पाईऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "hdBkAp",
+          "unicode": "ਹਦਭਕਅਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "49YC",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "ibnu nwm hir ky Awn rcnw Aihlw jnmu gvweIAY ]",
+          "unicode": "ਬਿਨੁ ਨਾਮ ਹਰਿ ਕੇ ਆਨ ਰਚਨਾ ਅਹਿਲਾ ਜਨਮੁ ਗਵਾਈਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "ibnu​nwm​hir​ky​Awn​rcnw​Aihlw​jnmu​gvweIAY​]",
+          "unicode": "ਬਿਨੁ​ਨਾਮ​ਹਰਿ​ਕੇ​ਆਨ​ਰਚਨਾ​ਅਹਿਲਾ​ਜਨਮੁ​ਗਵਾਈਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Absorbed in things other than the Name of the Lord, this human life is wasted in vain."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw dy nwm qoN KuMJ ky, jgq-crnw dy hor hor pdwrQW ivc Ps ky sRySt mnu`Kw jnm gvw leIdw hY[",
+              "unicode": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ, ਜਗਤ-ਚਰਨਾ ਦੇ ਹੋਰ ਹੋਰ ਪਦਾਰਥਾਂ ਵਿਚ ਫਸ ਕੇ ਸ੍ਰੇਸ਼ਟ ਮਨੁੱਖਾ ਜਨਮ ਗਵਾ ਲਈਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Si estás involucrado en lo que sea, desperdicias tu vida en vano, sin el Nombre del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bin naam har ke aan rachanaa ahilaa janam gavaaeeai |",
+            "larivaar": "bin​naam​har​ke​aan​rachanaa​ahilaa​janam​gavaaeeai​|"
+          },
+          "devanagari": {
+            "text": "बिनु नाम हरि के आन रचना अहिला जनमु गवाईऐ ॥",
+            "larivaar": "बिनु​नाम​हरि​के​आन​रचना​अहिला​जनमु​गवाईऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "bnhkArAjg",
+          "unicode": "ਬਨਹਕਅਰਅਜਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HVL4",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "hau hau krq n iqRsn bUJY nh kWm pUrn igAwny ]",
+          "unicode": "ਹਉ ਹਉ ਕਰਤ ਨ ਤ੍ਰਿਸਨ ਬੂਝੈ ਨਹ ਕਾਂਮ ਪੂਰਨ ਗਿਆਨੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "hau​hau​krq​n​iqRsn​bUJY​nh​kWm​pUrn​igAwny​]",
+          "unicode": "ਹਉ​ਹਉ​ਕਰਤ​ਨ​ਤ੍ਰਿਸਨ​ਬੂਝੈ​ਨਹ​ਕਾਂਮ​ਪੂਰਨ​ਗਿਆਨੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Indulging in egotistical actions, your thirst is not quenched. Your desires are not fulfilled, and you do not attain spiritual wisdom."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYN mYN kridAW kdy mwieAw dI iqRSnw mu`kdI nhIN, qy mnu`Kw jnm dw mnorQ Aqy Awqmk jIvn dI sUJ hwsl nhIN huMdy[",
+              "unicode": "ਮੈਂ ਮੈਂ ਕਰਦਿਆਂ ਕਦੇ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਮੁੱਕਦੀ ਨਹੀਂ, ਤੇ ਮਨੁੱਖਾ ਜਨਮ ਦਾ ਮਨੋਰਥ ਅਤੇ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਹਾਸਲ ਨਹੀਂ ਹੁੰਦੇ।"
+            }
+          },
+          "spanish": "En ego no puedes satisfacer tu sed, ni lograr la Sabiduría."
+        },
+        "transliteration": {
+          "english": {
+            "text": "hau hau karat na trisan boojhai neh kaam pooran giaane |",
+            "larivaar": "hau​hau​karat​na​trisan​boojhai​neh​kaam​pooran​giaane​|"
+          },
+          "devanagari": {
+            "text": "हउ हउ करत न त्रिसन बूझै नह कांम पूरन गिआने ॥",
+            "larivaar": "हउ​हउ​करत​न​त्रिसन​बूझै​नह​कांम​पूरन​गिआने​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "hhknqbnkpg",
+          "unicode": "ਹਹਕਨਤਬਨਕਪਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "H68R",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "ibnvMiq nwnk ibnu nwm hir ky kyiqAw pCuqwny ]3]",
+          "unicode": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਬਿਨੁ ਨਾਮ ਹਰਿ ਕੇ ਕੇਤਿਆ ਪਛੁਤਾਨੇ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "ibnvMiq​nwnk​ibnu​nwm​hir​ky​kyiqAw​pCuqwny​]3]",
+          "unicode": "ਬਿਨਵੰਤਿ​ਨਾਨਕ​ਬਿਨੁ​ਨਾਮ​ਹਰਿ​ਕੇ​ਕੇਤਿਆ​ਪਛੁਤਾਨੇ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Prays Nanak, without the Name of the Lord, so many have departed with regret. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk bynqI krdw hY ik prmwqmw dy nwm qoN KuMJ ky AnykW jIv h`Q mldy jWdy hn ]3]",
+              "unicode": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ ਅਨੇਕਾਂ ਜੀਵ ਹੱਥ ਮਲਦੇ ਜਾਂਦੇ ਹਨ ॥੩॥"
+            }
+          },
+          "spanish": "Dice Nanak, sin el Nombre del Señor, muchos se han lamentado al final. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "binavant naanak bin naam har ke ketiaa pachhutaane |3|",
+            "larivaar": "binavant​naanak​bin​naam​har​ke​ketiaa​pachhutaane​|3|"
+          },
+          "devanagari": {
+            "text": "बिनवंति नानक बिनु नाम हरि के केतिआ पछुताने ॥३॥",
+            "larivaar": "बिनवंति​नानक​बिनु​नाम​हरि​के​केतिआ​पछुताने​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "bnbnhkkp",
+          "unicode": "ਬਨਬਨਹਕਕਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "G3AE",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "Dwir AnugRho Apnw kir lInw rwm ]",
+          "unicode": "ਧਾਰਿ ਅਨੁਗ੍ਰਹੋ ਅਪਨਾ ਕਰਿ ਲੀਨਾ ਰਾਮ ॥"
+        },
+        "larivaar": {
+          "akhar": "Dwir​AnugRho​Apnw​kir​lInw​rwm​]",
+          "unicode": "ਧਾਰਿ​ਅਨੁਗ੍ਰਹੋ​ਅਪਨਾ​ਕਰਿ​ਲੀਨਾ​ਰਾਮ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Showering His blessings, the Lord has made me His own."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw dieAw kr ky Awpxw bxw lYNdw hY,",
+              "unicode": "ਪਰਮਾਤਮਾ ਦਇਆ ਕਰ ਕੇ ਆਪਣਾ ਬਣਾ ਲੈਂਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "El Señor en Su Misericordia me ha hecho Suyo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "dhaar anugraho apanaa kar leenaa raam |",
+            "larivaar": "dhaar​anugraho​apanaa​kar​leenaa​raam​|"
+          },
+          "devanagari": {
+            "text": "धारि अनुग्रहो अपना करि लीना राम ॥",
+            "larivaar": "धारि​अनुग्रहो​अपना​करि​लीना​राम​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "DAAklr",
+          "unicode": "ਧਅਅਕਲਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5LY4",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "Bujw gih kwiF lIE swDU sMgu dInw rwm ]",
+          "unicode": "ਭੁਜਾ ਗਹਿ ਕਾਢਿ ਲੀਓ ਸਾਧੂ ਸੰਗੁ ਦੀਨਾ ਰਾਮ ॥"
+        },
+        "larivaar": {
+          "akhar": "Bujw​gih​kwiF​lIE​swDU​sMgu​dInw​rwm​]",
+          "unicode": "ਭੁਜਾ​ਗਹਿ​ਕਾਢਿ​ਲੀਓ​ਸਾਧੂ​ਸੰਗੁ​ਦੀਨਾ​ਰਾਮ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Grasping me by the arm, He has pulled me out of the mud, and He has blessed me with the Saadh Sangat, the Company of the Holy."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy aus ƒ bwhoN PV ky (moh dy KUh ivcoN) k`F lYNdw hY qy aus ƒ gurU dw imlwp b^Sdw hY[",
+              "unicode": "ਤੇ ਉਸ ਨੂੰ ਬਾਹੋਂ ਫੜ ਕੇ (ਮੋਹ ਦੇ ਖੂਹ ਵਿਚੋਂ) ਕੱਢ ਲੈਂਦਾ ਹੈ ਤੇ ਉਸ ਨੂੰ ਗੁਰੂ ਦਾ ਮਿਲਾਪ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "me ha sacado de la ilusión y me ha bendecido con la Sociedad de los Santos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhujaa geh kaadt leeo saadhoo sang deenaa raam |",
+            "larivaar": "bhujaa​geh​kaadt​leeo​saadhoo​sang​deenaa​raam​|"
+          },
+          "devanagari": {
+            "text": "भुजा गहि काढि लीओ साधू संगु दीना राम ॥",
+            "larivaar": "भुजा​गहि​काढि​लीओ​साधू​संगु​दीना​राम​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "Bgklssdr",
+          "unicode": "ਭਗਕਲਸਸਦਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RETY",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "swDsMgim hir ArwDy sgl klml duK jly ]",
+          "unicode": "ਸਾਧਸੰਗਮਿ ਹਰਿ ਅਰਾਧੇ ਸਗਲ ਕਲਮਲ ਦੁਖ ਜਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "swDsMgim​hir​ArwDy​sgl​klml​duK​jly​]",
+          "unicode": "ਸਾਧਸੰਗਮਿ​ਹਰਿ​ਅਰਾਧੇ​ਸਗਲ​ਕਲਮਲ​ਦੁਖ​ਜਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Worshipping the Lord in the Saadh Sangat, all my sins and sufferings are burnt away."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo gurU dI sMgq ivc itk ky prmwqmw dw nwm ismrdw rihMdw hY aus dy swry pwp swry du`K sV jWdy hn[",
+              "unicode": "ਜੋ ਗੁਰੂ ਦੀ ਸੰਗਤ ਵਿਚ ਟਿਕ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹੈ ਉਸ ਦੇ ਸਾਰੇ ਪਾਪ ਸਾਰੇ ਦੁੱਖ ਸੜ ਜਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Y ahí contemplo a mi Señor y me deshago de mis faltas y de mis aflicciones."
+        },
+        "transliteration": {
+          "english": {
+            "text": "saadhasangam har araadhe sagal kalamal dukh jale |",
+            "larivaar": "saadhasangam​har​araadhe​sagal​kalamal​dukh​jale​|"
+          },
+          "devanagari": {
+            "text": "साधसंगमि हरि अराधे सगल कलमल दुख जले ॥",
+            "larivaar": "साधसंगमि​हरि​अराधे​सगल​कलमल​दुख​जले​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "shAskdj",
+          "unicode": "ਸਹਅਸਕਦਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "SK1A",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "mhw Drm sudwn ikirAw sMig qyrY sy cly ]",
+          "unicode": "ਮਹਾ ਧਰਮ ਸੁਦਾਨ ਕਿਰਿਆ ਸੰਗਿ ਤੇਰੈ ਸੇ ਚਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "mhw​Drm​sudwn​ikirAw​sMig​qyrY​sy​cly​]",
+          "unicode": "ਮਹਾ​ਧਰਮ​ਸੁਦਾਨ​ਕਿਰਿਆ​ਸੰਗਿ​ਤੇਰੈ​ਸੇ​ਚਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "This is the greatest religion, and the best act of charity; this alone shall go along with you."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "sB qoN v`fw Drm qy dwn hY nwm-jpx dw qy iehI kMm qyry nwl jw skdy hn[",
+              "unicode": "ਸਭ ਤੋਂ ਵੱਡਾ ਧਰਮ ਤੇ ਦਾਨ ਹੈ ਨਾਮ-ਜਪਣ ਦਾ ਤੇ ਇਹੀ ਕੰਮ ਤੇਰੇ ਨਾਲ ਜਾ ਸਕਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Ésta en verdad es la mejor religión; es la mejor caridad, y el más grande mérito, pues me acompañará siempre."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mahaa dharam sudaan kiriaa sang terai se chale |",
+            "larivaar": "mahaa​dharam​sudaan​kiriaa​sang​terai​se​chale​|"
+          },
+          "devanagari": {
+            "text": "महा धरम सुदान किरिआ संगि तेरै से चले ॥",
+            "larivaar": "महा​धरम​सुदान​किरिआ​संगि​तेरै​से​चले​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "mDsksqsc",
+          "unicode": "ਮਧਸਕਸਤਸਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JN62",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "rsnw ArwDY eyku suAwmI hir nwim mnu qnu BInw ]",
+          "unicode": "ਰਸਨਾ ਅਰਾਧੈ ਏਕੁ ਸੁਆਮੀ ਹਰਿ ਨਾਮਿ ਮਨੁ ਤਨੁ ਭੀਨਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "rsnw​ArwDY​eyku​suAwmI​hir​nwim​mnu​qnu​BInw​]",
+          "unicode": "ਰਸਨਾ​ਅਰਾਧੈ​ਏਕੁ​ਸੁਆਮੀ​ਹਰਿ​ਨਾਮਿ​ਮਨੁ​ਤਨੁ​ਭੀਨਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "My tongue chants in adoration the Name of the One Lord and Master; my mind and body are drenched in the Lord's Name."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo BI jIB nwl iek mwlk-pRBU dw AwrwDn krdw rihMdw hY aus dw mn qy ihrdw nwm-jl ivc qro-qr ho jWdw hY[",
+              "unicode": "ਜੋ ਭੀ ਜੀਭ ਨਾਲ ਇਕ ਮਾਲਕ-ਪ੍ਰਭੂ ਦਾ ਆਰਾਧਨ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ ਉਸ ਦਾ ਮਨ ਤੇ ਹਿਰਦਾ ਨਾਮ-ਜਲ ਵਿਚ ਤਰੋ-ਤਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Mis labios recitan el Nombre del Señor, y así mi cuerpo y mi mente están unidos a Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "rasanaa araadhai ek suaamee har naam man tan bheenaa |",
+            "larivaar": "rasanaa​araadhai​ek​suaamee​har​naam​man​tan​bheenaa​|"
+          },
+          "devanagari": {
+            "text": "रसना अराधै एकु सुआमी हरि नामि मनु तनु भीना ॥",
+            "larivaar": "रसना​अराधै​एकु​सुआमी​हरि​नामि​मनु​तनु​भीना​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "rAeshnmqB",
+          "unicode": "ਰਅੲਸਹਨਮਤਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JAUM",
+        "type": 4,
+        "shabadid": "ULT",
+        "gurmukhi": {
+          "akhar": "nwnk ijs no hir imlwey so srb gux prbInw ]4]6]9]",
+          "unicode": "ਨਾਨਕ ਜਿਸ ਨੋ ਹਰਿ ਮਿਲਾਏ ਸੋ ਸਰਬ ਗੁਣ ਪਰਬੀਨਾ ॥੪॥੬॥੯॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​ijs​no​hir​imlwey​so​srb​gux​prbInw​]4]6]9]",
+          "unicode": "ਨਾਨਕ​ਜਿਸ​ਨੋ​ਹਰਿ​ਮਿਲਾਏ​ਸੋ​ਸਰਬ​ਗੁਣ​ਪਰਬੀਨਾ​॥੪॥੬॥੯॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, whoever the Lord unites with Himself, is filled with all virtues. ||4||6||9||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! ijs mnu`K ƒ prmwqmw Awpxy crnW ivc joV lYNdw hY auh swry guxW ivc isAwxw ho jWdw hY ]4]6]9]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਲੈਂਦਾ ਹੈ ਉਹ ਸਾਰੇ ਗੁਣਾਂ ਵਿਚ ਸਿਆਣਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੬॥੯॥"
+            }
+          },
+          "spanish": "Dice Nanak, quien sea a quien el Señor une Consigo Mismo, él es el hombre de reputación Verdadera. (4‑6‑9)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak jis no har milaae so sarab gun parabeenaa |4|6|9|",
+            "larivaar": "naanak​jis​no​har​milaae​so​sarab​gun​parabeenaa​|4|6|9|"
+          },
+          "devanagari": {
+            "text": "नानक जिस नो हरि मिलाए सो सरब गुण परबीना ॥४॥६॥९॥",
+            "larivaar": "नानक​जिस​नो​हरि​मिलाए​सो​सरब​गुण​परबीना​॥४॥६॥९॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "njnhmssgp",
+          "unicode": "ਨਜਨਹਮਸਸਗਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "AQ5X",
+        "type": 2,
+        "shabadid": "SVL",
+        "gurmukhi": {
+          "akhar": "ibhwgVy kI vwr mhlw 4 ]",
+          "unicode": "ਬਿਹਾਗੜੇ ਕੀ ਵਾਰ ਮਹਲਾ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "ibhwgVy​kI​vwr​mhlw​4​]",
+          "unicode": "ਬਿਹਾਗੜੇ​ਕੀ​ਵਾਰ​ਮਹਲਾ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Vaar Of Bihaagraa, Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rwg ibhwgVw iv`c gurU rwmdws jI dI 'vwr'[",
+              "unicode": "ਰਾਗ ਬਿਹਾਗੜਾ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ 'ਵਾਰ'।"
+            }
+          },
+          "spanish": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+        },
+        "transliteration": {
+          "english": {
+            "text": "bihaagarre kee vaar mahalaa 4 |",
+            "larivaar": "bihaagarre​kee​vaar​mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "बिहागड़े की वार महला ४ ॥",
+            "larivaar": "बिहागड़े​की​वार​महला​४​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "bkvm4]",
+          "unicode": "ਬਕਵਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "97ZV",
+        "type": 1,
+        "shabadid": "SVL",
+        "gurmukhi": {
+          "akhar": "<> siqgur pRswid ]",
+          "unicode": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "<>​siqgur​pRswid​]",
+          "unicode": "ੴ​ਸਤਿਗੁਰ​ਪ੍ਰਸਾਦਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One Universal Creator God. By The Grace Of The True Guru:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK ie`k hY Aqy siqgurU dI ikrpw nwl imldw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Var de Bijagra, Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ik oankaar satigur prasaad |",
+            "larivaar": "ik​oankaar​satigur​prasaad​|"
+          },
+          "devanagari": {
+            "text": "ੴ सतिगुर प्रसादि ॥",
+            "larivaar": "ੴ​सतिगुर​प्रसादि​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "<>sp",
+          "unicode": "ੴਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B4KS",
+        "type": 2,
+        "shabadid": "SVL",
+        "gurmukhi": {
+          "akhar": "slok mÚ 3 ]",
+          "unicode": "ਸਲੋਕ ਮਃ ੩ ॥"
+        },
+        "larivaar": {
+          "akhar": "slok​mÚ​3​]",
+          "unicode": "ਸਲੋਕ​ਮਃ​੩​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Salok, Third Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Slok Mejl Guru Amar Das, Tercer Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "salok mahalaa 3 |",
+            "larivaar": "salok​mahalaa​3​|"
+          },
+          "devanagari": {
+            "text": "सलोक मः ३ ॥",
+            "larivaar": "सलोक​मः​३​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "sm3]",
+          "unicode": "ਸਮ੩॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R89G",
+        "type": 4,
+        "shabadid": "SVL",
+        "gurmukhi": {
+          "akhar": "gur syvw qy suKu pweIAY hor QY suKu n Bwil ]",
+          "unicode": "ਗੁਰ ਸੇਵਾ ਤੇ ਸੁਖੁ ਪਾਈਐ ਹੋਰ ਥੈ ਸੁਖੁ ਨ ਭਾਲਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​syvw​qy​suKu​pweIAY​hor​QY​suKu​n​Bwil​]",
+          "unicode": "ਗੁਰ​ਸੇਵਾ​ਤੇ​ਸੁਖੁ​ਪਾਈਐ​ਹੋਰ​ਥੈ​ਸੁਖੁ​ਨ​ਭਾਲਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Serving the Guru, peace is obtained; do not search for peace anywhere else."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "suK siqgurU dI syvw qoN (hI) imldw hY iksy hor QW suK nwh FUMF,",
+              "unicode": "ਸੁਖ ਸਤਿਗੁਰੂ ਦੀ ਸੇਵਾ ਤੋਂ (ਹੀ) ਮਿਲਦਾ ਹੈ ਕਿਸੇ ਹੋਰ ਥਾਂ ਸੁਖ ਨਾਹ ਢੂੰਢ,"
+            }
+          },
+          "spanish": "Es a través del Servicio del Guru y de ninguna otra forma que uno puede lograr el Éxtasis."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur sevaa te sukh paaeeai hor thai sukh na bhaal |",
+            "larivaar": "gur​sevaa​te​sukh​paaeeai​hor​thai​sukh​na​bhaal​|"
+          },
+          "devanagari": {
+            "text": "गुर सेवा ते सुखु पाईऐ होर थै सुखु न भालि ॥",
+            "larivaar": "गुर​सेवा​ते​सुखु​पाईऐ​होर​थै​सुखु​न​भालि​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "gsqsphQsnB",
+          "unicode": "ਗਸਤਸਪਹਥਸਨਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HXN4",
+        "type": 4,
+        "shabadid": "SVL",
+        "gurmukhi": {
+          "akhar": "gur kY sbid mnu BydIAY sdw vsY hir nwil ]",
+          "unicode": "ਗੁਰ ਕੈ ਸਬਦਿ ਮਨੁ ਭੇਦੀਐ ਸਦਾ ਵਸੈ ਹਰਿ ਨਾਲਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​kY​sbid​mnu​BydIAY​sdw​vsY​hir​nwil​]",
+          "unicode": "ਗੁਰ​ਕੈ​ਸਬਦਿ​ਮਨੁ​ਭੇਦੀਐ​ਸਦਾ​ਵਸੈ​ਹਰਿ​ਨਾਲਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The soul is pierced by the Word of the Guru's Shabad. The Lord dwells ever with the soul."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN siqgurU dy Sbd ivc mn ƒ pRo dyeIey qW hrI sdw AMg sMg v`sdw hY[",
+              "unicode": "ਜਦੋਂ ਸਤਿਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਮਨ ਨੂੰ ਪ੍ਰੋ ਦੇਈਏ ਤਾਂ ਹਰੀ ਸਦਾ ਅੰਗ ਸੰਗ ਵੱਸਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Si uno deja atravesar su mente con la Palabra del Shabd del Guru, uno puede vivir para siempre en Dios."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur kai sabad man bhedeeai sadaa vasai har naal |",
+            "larivaar": "gur​kai​sabad​man​bhedeeai​sadaa​vasai​har​naal​|"
+          },
+          "devanagari": {
+            "text": "गुर कै सबदि मनु भेदीऐ सदा वसै हरि नालि ॥",
+            "larivaar": "गुर​कै​सबदि​मनु​भेदीऐ​सदा​वसै​हरि​नालि​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "gksmBsvhn",
+          "unicode": "ਗਕਸਮਭਸਵਹਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "362B",
+        "type": 4,
+        "shabadid": "SVL",
+        "gurmukhi": {
+          "akhar": "nwnk nwmu iqnw kau imlY ijn hir vyKY ndir inhwil ]1]",
+          "unicode": "ਨਾਨਕ ਨਾਮੁ ਤਿਨਾ ਕਉ ਮਿਲੈ ਜਿਨ ਹਰਿ ਵੇਖੈ ਨਦਰਿ ਨਿਹਾਲਿ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​nwmu​iqnw​kau​imlY​ijn​hir​vyKY​ndir​inhwil​]1]",
+          "unicode": "ਨਾਨਕ​ਨਾਮੁ​ਤਿਨਾ​ਕਉ​ਮਿਲੈ​ਜਿਨ​ਹਰਿ​ਵੇਖੈ​ਨਦਰਿ​ਨਿਹਾਲਿ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, they alone obtain the Naam, the Name of the Lord, who are blessed by the Lord with His Glance of Grace. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! (hrI dw) nwm auhnW ƒ imldw hY, ijnHW ƒ pRBU myhr dI nzr nwl vyKdw hY ]1]",
+              "unicode": "ਹੇ ਨਾਨਕ! (ਹਰੀ ਦਾ) ਨਾਮ ਉਹਨਾਂ ਨੂੰ ਮਿਲਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਨਾਲ ਵੇਖਦਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "Dice Nanak, sólo aquél que es bendecido por el Señor con Su Mirada de Gracia, logra obtener Su Nombre. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak naam tinaa kau milai jin har vekhai nadar nihaal |1|",
+            "larivaar": "naanak​naam​tinaa​kau​milai​jin​har​vekhai​nadar​nihaal​|1|"
+          },
+          "devanagari": {
+            "text": "नानक नामु तिना कउ मिलै जिन हरि वेखै नदरि निहालि ॥१॥",
+            "larivaar": "नानक​नामु​तिना​कउ​मिलै​जिन​हरि​वेखै​नदरि​निहालि​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "nnqkmjhvnn",
+          "unicode": "ਨਨਤਕਮਜਹਵਨਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5J84",
+        "type": 2,
+        "shabadid": "5YL",
+        "gurmukhi": {
+          "akhar": "mÚ 3 ]",
+          "unicode": "ਮਃ ੩ ॥"
+        },
+        "larivaar": {
+          "akhar": "mÚ​3​]",
+          "unicode": "ਮਃ​੩​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Third Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Mejl Guru Amar Das, Tercer Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mahalaa 3 |",
+            "larivaar": "mahalaa​3​|"
+          },
+          "devanagari": {
+            "text": "मः ३ ॥",
+            "larivaar": "मः​३​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "m3]",
+          "unicode": "ਮ੩॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "53JK",
+        "type": 4,
+        "shabadid": "5YL",
+        "gurmukhi": {
+          "akhar": "isPiq Kjwnw bKs hY ijsu bKsY so KrcY Kwie ]",
+          "unicode": "ਸਿਫਤਿ ਖਜਾਨਾ ਬਖਸ ਹੈ ਜਿਸੁ ਬਖਸੈ ਸੋ ਖਰਚੈ ਖਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "isPiq​Kjwnw​bKs​hY​ijsu​bKsY​so​KrcY​Kwie​]",
+          "unicode": "ਸਿਫਤਿ​ਖਜਾਨਾ​ਬਖਸ​ਹੈ​ਜਿਸੁ​ਬਖਸੈ​ਸੋ​ਖਰਚੈ​ਖਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The treasure of the Lord's Praise is such a blessed gift; he alone obtains it to spend, unto whom the Lord bestows it."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hrI dI is&q-swlwh dw ^zwnw (hrI dI) b^SS hY qy ijs ƒ (pRBU) b^Sdw hY auh hI ^rcdw qy ^Wdw hY (Bwv, is&q-swlwh dw Awnµd lYNdw hY)[",
+              "unicode": "ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਖ਼ਜ਼ਾਨਾ (ਹਰੀ ਦੀ) ਬਖ਼ਸ਼ਸ਼ ਹੈ ਤੇ ਜਿਸ ਨੂੰ (ਪ੍ਰਭੂ) ਬਖ਼ਸ਼ਦਾ ਹੈ ਉਹ ਹੀ ਖ਼ਰਚਦਾ ਤੇ ਖ਼ਾਂਦਾ ਹੈ (ਭਾਵ, ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਆਨੰਦ ਲੈਂਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "Aquél a quien el Señor bendice con el Tesoro de Su Alabanza, lo puede gastar de la forma en que le plazca."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sifat khajaanaa bakhas hai jis bakhasai so kharachai khaae |",
+            "larivaar": "sifat​khajaanaa​bakhas​hai​jis​bakhasai​so​kharachai​khaae​|"
+          },
+          "devanagari": {
+            "text": "सिफति खजाना बखस है जिसु बखसै सो खरचै खाइ ॥",
+            "larivaar": "सिफति​खजाना​बखस​है​जिसु​बखसै​सो​खरचै​खाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "sKbhjbsKK",
+          "unicode": "ਸਖਬਹਜਬਸਖਖ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "01HA",
+        "type": 4,
+        "shabadid": "5YL",
+        "gurmukhi": {
+          "akhar": "siqgur ibnu hiQ n AwveI sB Qky krm kmwie ]",
+          "unicode": "ਸਤਿਗੁਰ ਬਿਨੁ ਹਥਿ ਨ ਆਵਈ ਸਭ ਥਕੇ ਕਰਮ ਕਮਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "siqgur​ibnu​hiQ​n​AwveI​sB​Qky​krm​kmwie​]",
+          "unicode": "ਸਤਿਗੁਰ​ਬਿਨੁ​ਹਥਿ​ਨ​ਆਵਈ​ਸਭ​ਥਕੇ​ਕਰਮ​ਕਮਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Without the True Guru, it does not come to hand; all have grown weary of performing religious rituals."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "bQyry krm-kWf krky lok kr ky Q`k jWdy hn pr (ieh b^SS) siqgurU qoN ibnW imldI nhIN[",
+              "unicode": "ਬਥੇਰੇ ਕਰਮ-ਕਾਂਡ ਕਰਕੇ ਲੋਕ ਕਰ ਕੇ ਥੱਕ ਜਾਂਦੇ ਹਨ ਪਰ (ਇਹ ਬਖ਼ਸ਼ਸ਼) ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾਂ ਮਿਲਦੀ ਨਹੀਂ।"
+            }
+          },
+          "spanish": "Pero sin el Guru Verdadero, esto no le llega, haga lo que haga."
+        },
+        "transliteration": {
+          "english": {
+            "text": "satigur bin hath na aavee sabh thake karam kamaae |",
+            "larivaar": "satigur​bin​hath​na​aavee​sabh​thake​karam​kamaae​|"
+          },
+          "devanagari": {
+            "text": "सतिगुर बिनु हथि न आवई सभ थके करम कमाइ ॥",
+            "larivaar": "सतिगुर​बिनु​हथि​न​आवई​सभ​थके​करम​कमाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "sbhnAsQkk",
+          "unicode": "ਸਬਹਨਅਸਥਕਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XJNP",
+        "type": 4,
+        "shabadid": "5YL",
+        "gurmukhi": {
+          "akhar": "nwnk mnmuKu jgqu DnhIxu hY AgY BuKw ik Kwie ]2]",
+          "unicode": "ਨਾਨਕ ਮਨਮੁਖੁ ਜਗਤੁ ਧਨਹੀਣੁ ਹੈ ਅਗੈ ਭੁਖਾ ਕਿ ਖਾਇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​mnmuKu​jgqu​DnhIxu​hY​AgY​BuKw​ik​Kwie​]2]",
+          "unicode": "ਨਾਨਕ​ਮਨਮੁਖੁ​ਜਗਤੁ​ਧਨਹੀਣੁ​ਹੈ​ਅਗੈ​ਭੁਖਾ​ਕਿ​ਖਾਇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, the self-willed manmukhs of the world lack this wealth; when they are hungry in the next world, what will they have to eat there? ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! mn dw ADIn (qy siqgurU qoN Bu`lw) hoieAw sMswr Asl Dn qoN s`Kxw hY qy (Awqmk jIvn) dw BuKw ies qoN kuJ nhIN hwsl kr skdw ]2]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਮਨ ਦਾ ਅਧੀਨ (ਤੇ ਸਤਿਗੁਰੂ ਤੋਂ ਭੁੱਲਾ) ਹੋਇਆ ਸੰਸਾਰ ਅਸਲ ਧਨ ਤੋਂ ਸੱਖਣਾ ਹੈ ਤੇ (ਆਤਮਕ ਜੀਵਨ) ਦਾ ਭੁਖਾ ਇਸ ਤੋਂ ਕੁਝ ਨਹੀਂ ਹਾਸਲ ਕਰ ਸਕਦਾ ॥੨॥"
+            }
+          },
+          "spanish": "Dice Nanak, al mundo en su soberbia le es quitado este Tesoro, y permanecerá hambriento en él de aquí en adelante y no tendrá nada que lo alimente. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak manamukh jagat dhanaheen hai agai bhukhaa ki khaae |2|",
+            "larivaar": "naanak​manamukh​jagat​dhanaheen​hai​agai​bhukhaa​ki​khaae​|2|"
+          },
+          "devanagari": {
+            "text": "नानक मनमुखु जगतु धनहीणु है अगै भुखा कि खाइ ॥२॥",
+            "larivaar": "नानक​मनमुखु​जगतु​धनहीणु​है​अगै​भुखा​कि​खाइ​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "nmjDhABkK",
+          "unicode": "ਨਮਜਧਹਅਭਕਖ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JT32",
+        "type": 2,
+        "shabadid": "5X4",
+        "gurmukhi": {
+          "akhar": "pauVI ]",
+          "unicode": "ਪਉੜੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "pauVI​]",
+          "unicode": "ਪਉੜੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Pauree:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Pauri"
+        },
+        "transliteration": {
+          "english": {
+            "text": "paurree |",
+            "larivaar": "paurree​|"
+          },
+          "devanagari": {
+            "text": "पउड़ी ॥",
+            "larivaar": "पउड़ी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "p]",
+          "unicode": "ਪ॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KJE1",
+        "type": 4,
+        "shabadid": "5X4",
+        "gurmukhi": {
+          "akhar": "sB qyrI qU sBs dw sB quDu aupwieAw ]",
+          "unicode": "ਸਭ ਤੇਰੀ ਤੂ ਸਭਸ ਦਾ ਸਭ ਤੁਧੁ ਉਪਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "sB​qyrI​qU​sBs​dw​sB​quDu​aupwieAw​]",
+          "unicode": "ਸਭ​ਤੇਰੀ​ਤੂ​ਸਭਸ​ਦਾ​ਸਭ​ਤੁਧੁ​ਉਪਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "All are Yours, and You belong to all. You created all."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pRBU! swrI isRStI qyrI hY, qUM sBnW dw mwlk hYN, sBnW ƒ qUM hI pYdw kIqw hY[",
+              "unicode": "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੀ ਹੈ, ਤੂੰ ਸਭਨਾਂ ਦਾ ਮਾਲਕ ਹੈਂ, ਸਭਨਾਂ ਨੂੰ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ।"
+            }
+          },
+          "spanish": "Tú perteneces a todos, oh Dios, pues todos han sido creados por Ti."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sabh teree too sabhas daa sabh tudh upaaeaa |",
+            "larivaar": "sabh​teree​too​sabhas​daa​sabh​tudh​upaaeaa​|"
+          },
+          "devanagari": {
+            "text": "सभ तेरी तू सभस दा सभ तुधु उपाइआ ॥",
+            "larivaar": "सभ​तेरी​तू​सभस​दा​सभ​तुधु​उपाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "sqqsdsqa",
+          "unicode": "ਸਤਤਸਦਸਤੳ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6S7F",
+        "type": 4,
+        "shabadid": "5X4",
+        "gurmukhi": {
+          "akhar": "sBnw ivic qU vrqdw qU sBnI iDAwieAw ]",
+          "unicode": "ਸਭਨਾ ਵਿਚਿ ਤੂ ਵਰਤਦਾ ਤੂ ਸਭਨੀ ਧਿਆਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "sBnw​ivic​qU​vrqdw​qU​sBnI​iDAwieAw​]",
+          "unicode": "ਸਭਨਾ​ਵਿਚਿ​ਤੂ​ਵਰਤਦਾ​ਤੂ​ਸਭਨੀ​ਧਿਆਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You are pervading within all - all meditate on You."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "swirAW (jIvW) ivc qUM ivAwpk hYN, qy sB qyrw ismrn krdy hn[",
+              "unicode": "ਸਾਰਿਆਂ (ਜੀਵਾਂ) ਵਿਚ ਤੂੰ ਵਿਆਪਕ ਹੈਂ, ਤੇ ਸਭ ਤੇਰਾ ਸਿਮਰਨ ਕਰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Tú prevaleces en todo, y todas Tus criaturas habitan en Ti."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sabhanaa vich too varatadaa too sabhanee dhiaaeaa |",
+            "larivaar": "sabhanaa​vich​too​varatadaa​too​sabhanee​dhiaaeaa​|"
+          },
+          "devanagari": {
+            "text": "सभना विचि तू वरतदा तू सभनी धिआइआ ॥",
+            "larivaar": "सभना​विचि​तू​वरतदा​तू​सभनी​धिआइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "svqvqsD",
+          "unicode": "ਸਵਤਵਤਸਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "05B9",
+        "type": 4,
+        "shabadid": "5X4",
+        "gurmukhi": {
+          "akhar": "iqs dI qU Bgiq Qwie pwieih jo quDu min BwieAw ]",
+          "unicode": "ਤਿਸ ਦੀ ਤੂ ਭਗਤਿ ਥਾਇ ਪਾਇਹਿ ਜੋ ਤੁਧੁ ਮਨਿ ਭਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "iqs​dI​qU​Bgiq​Qwie​pwieih​jo​quDu​min​BwieAw​]",
+          "unicode": "ਤਿਸ​ਦੀ​ਤੂ​ਭਗਤਿ​ਥਾਇ​ਪਾਇਹਿ​ਜੋ​ਤੁਧੁ​ਮਨਿ​ਭਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You accept the devotional worship of those who are pleasing to Your Mind."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo mnu`K qYƒ mn ivc ipAwrw l`gdw hY, aus dI BgqI qUM kbUl krdw hYN[",
+              "unicode": "ਜੋ ਮਨੁੱਖ ਤੈਨੂੰ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਉਸ ਦੀ ਭਗਤੀ ਤੂੰ ਕਬੂਲ ਕਰਦਾ ਹੈਂ।"
+            }
+          },
+          "spanish": "Tú apruebas la Devoción de aquél con quien estás complacido."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tis dee too bhagat thaae paaeihi jo tudh man bhaaeaa |",
+            "larivaar": "tis​dee​too​bhagat​thaae​paaeihi​jo​tudh​man​bhaaeaa​|"
+          },
+          "devanagari": {
+            "text": "तिस दी तू भगति थाइ पाइहि जो तुधु मनि भाइआ ॥",
+            "larivaar": "तिस​दी​तू​भगति​थाइ​पाइहि​जो​तुधु​मनि​भाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "qdqBQpjqmB",
+          "unicode": "ਤਦਤਭਥਪਜਤਮਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JX7A",
+        "type": 4,
+        "shabadid": "5X4",
+        "gurmukhi": {
+          "akhar": "jo hir pRB BwvY so QIAY siB krin qyrw krwieAw ]",
+          "unicode": "ਜੋ ਹਰਿ ਪ੍ਰਭ ਭਾਵੈ ਸੋ ਥੀਐ ਸਭਿ ਕਰਨਿ ਤੇਰਾ ਕਰਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "jo​hir​pRB​BwvY​so​QIAY​siB​krin​qyrw​krwieAw​]",
+          "unicode": "ਜੋ​ਹਰਿ​ਪ੍ਰਭ​ਭਾਵੈ​ਸੋ​ਥੀਐ​ਸਭਿ​ਕਰਨਿ​ਤੇਰਾ​ਕਰਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Whatever pleases the Lord God happens; all act as You cause them to act."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI pRBU! jo qYƒ cMgw l`gdw hY so (sMswr ivc) huMdw hY, swry jIv qyrw krwieAw krdy hn[",
+              "unicode": "ਹੇ ਹਰੀ ਪ੍ਰਭੂ! ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਸੋ (ਸੰਸਾਰ ਵਿਚ) ਹੁੰਦਾ ਹੈ, ਸਾਰੇ ਜੀਵ ਤੇਰਾ ਕਰਾਇਆ ਕਰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Todo lo que está en Tu Voluntad sucede y todos actúan así como Tú los haces actuar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jo har prabh bhaavai so theeai sabh karan teraa karaaeaa |",
+            "larivaar": "jo​har​prabh​bhaavai​so​theeai​sabh​karan​teraa​karaaeaa​|"
+          },
+          "devanagari": {
+            "text": "जो हरि प्रभ भावै सो थीऐ सभि करनि तेरा कराइआ ॥",
+            "larivaar": "जो​हरि​प्रभ​भावै​सो​थीऐ​सभि​करनि​तेरा​कराइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "jhpBsQskqk",
+          "unicode": "ਜਹਪਭਸਥਸਕਤਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DM5B",
+        "type": 4,
+        "shabadid": "5X4",
+        "gurmukhi": {
+          "akhar": "slwihhu hir sBnw qy vfw jo sMq jnW kI pYj rKdw AwieAw ]1]",
+          "unicode": "ਸਲਾਹਿਹੁ ਹਰਿ ਸਭਨਾ ਤੇ ਵਡਾ ਜੋ ਸੰਤ ਜਨਾਂ ਕੀ ਪੈਜ ਰਖਦਾ ਆਇਆ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "slwihhu​hir​sBnw​qy​vfw​jo​sMq​jnW​kI​pYj​rKdw​AwieAw​]1]",
+          "unicode": "ਸਲਾਹਿਹੁ​ਹਰਿ​ਸਭਨਾ​ਤੇ​ਵਡਾ​ਜੋ​ਸੰਤ​ਜਨਾਂ​ਕੀ​ਪੈਜ​ਰਖਦਾ​ਆਇਆ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Praise the Lord, the greatest of all; He preserves the honor of the Saints. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo hrI (mu`F qoN) BgqW dI lwj r`Kdw AwieAw hY qy sB qoN v`fw hY, aus dI is&q-swlwh kro ]1]",
+              "unicode": "ਜੋ ਹਰੀ (ਮੁੱਢ ਤੋਂ) ਭਗਤਾਂ ਦੀ ਲਾਜ ਰੱਖਦਾ ਆਇਆ ਹੈ ਤੇ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈ, ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰੋ ॥੧॥"
+            }
+          },
+          "spanish": "Alaba al Señor, el más Grandioso, Él conserva el honor de Sus Santos. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "salaahihu har sabhanaa te vaddaa jo sant janaan kee paij rakhadaa aaeaa |1|",
+            "larivaar": "salaahihu​har​sabhanaa​te​vaddaa​jo​sant​janaan​kee​paij​rakhadaa​aaeaa​|1|"
+          },
+          "devanagari": {
+            "text": "सलाहिहु हरि सभना ते वडा जो संत जनां की पैज रखदा आइआ ॥१॥",
+            "larivaar": "सलाहिहु​हरि​सभना​ते​वडा​जो​संत​जनां​की​पैज​रखदा​आइआ​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "shsqvjsjkprA",
+          "unicode": "ਸਹਸਤਵਜਸਜਕਪਰਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BQTL",
+        "type": 2,
+        "shabadid": "HZ0",
+        "gurmukhi": {
+          "akhar": "slok mÚ 3 ]",
+          "unicode": "ਸਲੋਕ ਮਃ ੩ ॥"
+        },
+        "larivaar": {
+          "akhar": "slok​mÚ​3​]",
+          "unicode": "ਸਲੋਕ​ਮਃ​੩​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Salok, Third Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Slok, Mejl Guru Amar Das, Tercer Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "salok mahalaa 3 |",
+            "larivaar": "salok​mahalaa​3​|"
+          },
+          "devanagari": {
+            "text": "सलोक मः ३ ॥",
+            "larivaar": "सलोक​मः​३​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "sm3]",
+          "unicode": "ਸਮ੩॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R69N",
+        "type": 4,
+        "shabadid": "HZ0",
+        "gurmukhi": {
+          "akhar": "nwnk igAwnI jgu jIqw jig jIqw sBu koie ]",
+          "unicode": "ਨਾਨਕ ਗਿਆਨੀ ਜਗੁ ਜੀਤਾ ਜਗਿ ਜੀਤਾ ਸਭੁ ਕੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​igAwnI​jgu​jIqw​jig​jIqw​sBu​koie​]",
+          "unicode": "ਨਾਨਕ​ਗਿਆਨੀ​ਜਗੁ​ਜੀਤਾ​ਜਗਿ​ਜੀਤਾ​ਸਭੁ​ਕੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, the spiritually wise one has conquered all others."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! igAwnvwn mnu`K ny sMswr ƒ (Bwv, mwieAw dy moh ƒ) ij`q ilAw hY, (qy igAwnI qoN ibnw) hr iek mnu`K ƒ sMswr ny ij`iqAw hY, (igAwnI dy)",
+              "unicode": "ਹੇ ਨਾਨਕ! ਗਿਆਨਵਾਨ ਮਨੁੱਖ ਨੇ ਸੰਸਾਰ ਨੂੰ (ਭਾਵ, ਮਾਇਆ ਦੇ ਮੋਹ ਨੂੰ) ਜਿੱਤ ਲਿਆ ਹੈ, (ਤੇ ਗਿਆਨੀ ਤੋਂ ਬਿਨਾ) ਹਰ ਇਕ ਮਨੁੱਖ ਨੂੰ ਸੰਸਾਰ ਨੇ ਜਿੱਤਿਆ ਹੈ, (ਗਿਆਨੀ ਦੇ)"
+            }
+          },
+          "spanish": "Dice Nanak, los Sabios han conquistado al mundo, el mundo conquista todo, excepto a los Sabios."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak giaanee jag jeetaa jag jeetaa sabh koe |",
+            "larivaar": "naanak​giaanee​jag​jeetaa​jag​jeetaa​sabh​koe​|"
+          },
+          "devanagari": {
+            "text": "नानक गिआनी जगु जीता जगि जीता सभु कोइ ॥",
+            "larivaar": "नानक​गिआनी​जगु​जीता​जगि​जीता​सभु​कोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "ngjjjjsk",
+          "unicode": "ਨਗਜਜਜਜਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1E8B",
+        "type": 4,
+        "shabadid": "HZ0",
+        "gurmukhi": {
+          "akhar": "nwmy kwrj isiD hY shjy hoie su hoie ]",
+          "unicode": "ਨਾਮੇ ਕਾਰਜ ਸਿਧਿ ਹੈ ਸਹਜੇ ਹੋਇ ਸੁ ਹੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwmy​kwrj​isiD​hY​shjy​hoie​su​hoie​]",
+          "unicode": "ਨਾਮੇ​ਕਾਰਜ​ਸਿਧਿ​ਹੈ​ਸਹਜੇ​ਹੋਇ​ਸੁ​ਹੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Through the Name, his affairs are brought to perfection; whatever happens is by His Will."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(Awqmk jIvn) dI sPlqw nwm jpx nwl hI huMdI hY qW ieMj jwpdw hY ik jo kuJ ho irhw hY, pRBU dI rzw ivc ho irhw hY[",
+              "unicode": "(ਆਤਮਕ ਜੀਵਨ) ਦੀ ਸਫਲਤਾ ਨਾਮ ਜਪਣ ਨਾਲ ਹੀ ਹੁੰਦੀ ਹੈ ਤਾਂ ਇੰਜ ਜਾਪਦਾ ਹੈ ਕਿ ਜੋ ਕੁਝ ਹੋ ਰਿਹਾ ਹੈ, ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ।"
+            }
+          },
+          "spanish": "Sí, es a través del Nombre del Señor que uno se vuelve Sabio, pero el Nombre le llega de manera natural."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naame kaaraj sidh hai sahaje hoe su hoe |",
+            "larivaar": "naame​kaaraj​sidh​hai​sahaje​hoe​su​hoe​|"
+          },
+          "devanagari": {
+            "text": "नामे कारज सिधि है सहजे होइ सु होइ ॥",
+            "larivaar": "नामे​कारज​सिधि​है​सहजे​होइ​सु​होइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "nkshshsh",
+          "unicode": "ਨਕਸਹਸਹਸਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VVRD",
+        "type": 4,
+        "shabadid": "HZ0",
+        "gurmukhi": {
+          "akhar": "gurmiq miq Aclu hY clwie n skY koie ]",
+          "unicode": "ਗੁਰਮਤਿ ਮਤਿ ਅਚਲੁ ਹੈ ਚਲਾਇ ਨ ਸਕੈ ਕੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "gurmiq​miq​Aclu​hY​clwie​n​skY​koie​]",
+          "unicode": "ਗੁਰਮਤਿ​ਮਤਿ​ਅਚਲੁ​ਹੈ​ਚਲਾਇ​ਨ​ਸਕੈ​ਕੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Under Guru's Instruction, his mind is held steady; no one can make him waver."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "siqgurU dI m`q qy quirAW (mnu`K dI) m`q p`kI ho jWdI hY, koeI (mwiek ivhwr) aus ƒ fulw nhIN skdw,",
+              "unicode": "ਸਤਿਗੁਰੂ ਦੀ ਮੱਤ ਤੇ ਤੁਰਿਆਂ (ਮਨੁੱਖ ਦੀ) ਮੱਤ ਪੱਕੀ ਹੋ ਜਾਂਦੀ ਹੈ, ਕੋਈ (ਮਾਇਕ ਵਿਹਾਰ) ਉਸ ਨੂੰ ਡੁਲਾ ਨਹੀਂ ਸਕਦਾ,"
+            }
+          },
+          "spanish": "La mente instruida en la Sabiduría del Guru, se vuelve estable, y nadie la puede mover o perturbar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "guramat mat achal hai chalaae na sakai koe |",
+            "larivaar": "guramat​mat​achal​hai​chalaae​na​sakai​koe​|"
+          },
+          "devanagari": {
+            "text": "गुरमति मति अचलु है चलाइ न सकै कोइ ॥",
+            "larivaar": "गुरमति​मति​अचलु​है​चलाइ​न​सकै​कोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "gmAhcnsk",
+          "unicode": "ਗਮਅਹਚਨਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RCUV",
+        "type": 4,
+        "shabadid": "HZ0",
+        "gurmukhi": {
+          "akhar": "Bgqw kw hir AMgIkwru kry kwrju suhwvw hoie ]",
+          "unicode": "ਭਗਤਾ ਕਾ ਹਰਿ ਅੰਗੀਕਾਰੁ ਕਰੇ ਕਾਰਜੁ ਸੁਹਾਵਾ ਹੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "Bgqw​kw​hir​AMgIkwru​kry​kwrju​suhwvw​hoie​]",
+          "unicode": "ਭਗਤਾ​ਕਾ​ਹਰਿ​ਅੰਗੀਕਾਰੁ​ਕਰੇ​ਕਾਰਜੁ​ਸੁਹਾਵਾ​ਹੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord makes His devotee His own, and his affairs are adjusted."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy (aus ƒ inscw huMdw hY ik) pRBU BgqW dw swQ inBwauNdw hY (qy auhnW dw hryk) kMm rws Aw jWdw hY[",
+              "unicode": "ਤੇ (ਉਸ ਨੂੰ ਨਿਸਚਾ ਹੁੰਦਾ ਹੈ ਕਿ) ਪ੍ਰਭੂ ਭਗਤਾਂ ਦਾ ਸਾਥ ਨਿਭਾਉਂਦਾ ਹੈ (ਤੇ ਉਹਨਾਂ ਦਾ ਹਰੇਕ) ਕੰਮ ਰਾਸ ਆ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "El Señor se adueña de Sus Propios Devotos y todos sus asuntos son ajustados."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhagataa kaa har angeekaar kare kaaraj suhaavaa hoe |",
+            "larivaar": "bhagataa​kaa​har​angeekaar​kare​kaaraj​suhaavaa​hoe​|"
+          },
+          "devanagari": {
+            "text": "भगता का हरि अंगीकारु करे कारजु सुहावा होइ ॥",
+            "larivaar": "भगता​का​हरि​अंगीकारु​करे​कारजु​सुहावा​होइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 11,
+          "akhar": "rwgu ibhwgVw",
+          "unicode": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+          "english": "Raag Bihaagraa",
+          "startang": 537,
+          "endang": 556,
+          "raagwithpage": "Raag Bihaagraa (537-556)"
+        },
+        "pageno": 548,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "BkhAkksh",
+          "unicode": "ਭਕਹਅਕਕਸਹ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

@@ -1,0 +1,2281 @@
+{
+  "pageno": 311,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 39,
+  "page": [
+    {
+      "line": {
+        "id": "BLPA",
+        "type": 4,
+        "shabadid": "7WB",
+        "gurmukhi": {
+          "akhar": "scu scw rsu ijnI ciKAw sy iqRpiq rhy AwGweI ]",
+          "unicode": "ਸਚੁ ਸਚਾ ਰਸੁ ਜਿਨੀ ਚਖਿਆ ਸੇ ਤ੍ਰਿਪਤਿ ਰਹੇ ਆਘਾਈ ॥"
+        },
+        "larivaar": {
+          "akhar": "scu​scw​rsu​ijnI​ciKAw​sy​iqRpiq​rhy​AwGweI​]",
+          "unicode": "ਸਚੁ​ਸਚਾ​ਰਸੁ​ਜਿਨੀ​ਚਖਿਆ​ਸੇ​ਤ੍ਰਿਪਤਿ​ਰਹੇ​ਆਘਾਈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who have tasted the true essence of the True Lord, remain satisfied and fulfilled."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijnHW ny s`cy pRBU dy nwm dw suAwd c`iKAw hY, auh (mwieAw vloN) iqRpq ho ky r`jy rihMdy hn[",
+              "unicode": "ਜਿਨ੍ਹਾਂ ਨੇ ਸੱਚੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖਿਆ ਹੈ, ਉਹ (ਮਾਇਆ ਵਲੋਂ) ਤ੍ਰਿਪਤ ਹੋ ਕੇ ਰੱਜੇ ਰਹਿੰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Aquéllos que prueban la Esencia del Verdadero Maestro, quedan satisfechos,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach sachaa ras jinee chakhiaa se tripat rahe aaghaaee |",
+            "larivaar": "sach​sachaa​ras​jinee​chakhiaa​se​tripat​rahe​aaghaaee​|"
+          },
+          "devanagari": {
+            "text": "सचु सचा रसु जिनी चखिआ से त्रिपति रहे आघाई ॥",
+            "larivaar": "सचु​सचा​रसु​जिनी​चखिआ​से​त्रिपति​रहे​आघाई​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "ssrjcsqrA",
+          "unicode": "ਸਸਰਜਚਸਤਰਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WUNP",
+        "type": 4,
+        "shabadid": "7WB",
+        "gurmukhi": {
+          "akhar": "iehu hir rsu syeI jwxdy ijau gUMgY imiTAweI KweI ]",
+          "unicode": "ਇਹੁ ਹਰਿ ਰਸੁ ਸੇਈ ਜਾਣਦੇ ਜਿਉ ਗੂੰਗੈ ਮਿਠਿਆਈ ਖਾਈ ॥"
+        },
+        "larivaar": {
+          "akhar": "iehu​hir​rsu​syeI​jwxdy​ijau​gUMgY​imiTAweI​KweI​]",
+          "unicode": "ਇਹੁ​ਹਰਿ​ਰਸੁ​ਸੇਈ​ਜਾਣਦੇ​ਜਿਉ​ਗੂੰਗੈ​ਮਿਠਿਆਈ​ਖਾਈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They know this essence of the Lord, but they say nothing, like the mute who tastes the sweet candy, and says nothing."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies suAwd ƒ jwxdy BI auhI hn, (pr ibAwn nhIN kr skdy) ijvyN gUMgw imiTAweI KWdw hY (qy suAwd nhIN d`s skdw)[",
+              "unicode": "ਇਸ ਸੁਆਦ ਨੂੰ ਜਾਣਦੇ ਭੀ ਉਹੀ ਹਨ, (ਪਰ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦੇ) ਜਿਵੇਂ ਗੂੰਗਾ ਮਿਠਿਆਈ ਖਾਂਦਾ ਹੈ (ਤੇ ਸੁਆਦ ਨਹੀਂ ਦੱਸ ਸਕਦਾ)।"
+            }
+          },
+          "spanish": "pero sin embargo, al tratar de expresar la experiencia de esta Esencia se quedan mudos, como el mudo que prueba los dulces y no puede decir en palabras el sabor que han probado"
+        },
+        "transliteration": {
+          "english": {
+            "text": "eihu har ras seee jaanade jiau goongai mitthiaaee khaaee |",
+            "larivaar": "eihu​har​ras​seee​jaanade​jiau​goongai​mitthiaaee​khaaee​|"
+          },
+          "devanagari": {
+            "text": "इहु हरि रसु सेई जाणदे जिउ गूंगै मिठिआई खाई ॥",
+            "larivaar": "इहु​हरि​रसु​सेई​जाणदे​जिउ​गूंगै​मिठिआई​खाई​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "ehrsjjgmK",
+          "unicode": "ੲਹਰਸਜਜਗਮਖ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Y47Y",
+        "type": 4,
+        "shabadid": "7WB",
+        "gurmukhi": {
+          "akhar": "guir pUrY hir pRBu syivAw min vjI vwDweI ]18]",
+          "unicode": "ਗੁਰਿ ਪੂਰੈ ਹਰਿ ਪ੍ਰਭੁ ਸੇਵਿਆ ਮਨਿ ਵਜੀ ਵਾਧਾਈ ॥੧੮॥"
+        },
+        "larivaar": {
+          "akhar": "guir​pUrY​hir​pRBu​syivAw​min​vjI​vwDweI​]18]",
+          "unicode": "ਗੁਰਿ​ਪੂਰੈ​ਹਰਿ​ਪ੍ਰਭੁ​ਸੇਵਿਆ​ਮਨਿ​ਵਜੀ​ਵਾਧਾਈ​॥੧੮॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Perfect Guru serves the Lord God; His vibration vibrates and resounds in the mind. ||18||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pUry siqgurU dI rwhIN ijnHW ny pRBU dw nwm jipAw hY auhnW dy mn ivc auqSwh bixAw rihMdw hY (Bwv, auhnW dy mn iKVy rihMdy hn) ]18]",
+              "unicode": "ਪੂਰੇ ਸਤਿਗੁਰੂ ਦੀ ਰਾਹੀਂ ਜਿਨ੍ਹਾਂ ਨੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਹੈ ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ ਉਤਸ਼ਾਹ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ (ਭਾਵ, ਉਹਨਾਂ ਦੇ ਮਨ ਖਿੜੇ ਰਹਿੰਦੇ ਹਨ) ॥੧੮॥"
+            }
+          },
+          "spanish": "El Verdadero Guru sirve solamente a su Señor y Maestro, y así está lleno de Éxtasis. (18)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur poorai har prabh seviaa man vajee vaadhaaee |18|",
+            "larivaar": "gur​poorai​har​prabh​seviaa​man​vajee​vaadhaaee​|18|"
+          },
+          "devanagari": {
+            "text": "गुरि पूरै हरि प्रभु सेविआ मनि वजी वाधाई ॥१८॥",
+            "larivaar": "गुरि​पूरै​हरि​प्रभु​सेविआ​मनि​वजी​वाधाई​॥१८॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "gphpsmvv",
+          "unicode": "ਗਪਹਪਸਮਵਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RKZX",
+        "type": 2,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "slok mÚ 4 ]",
+          "unicode": "ਸਲੋਕ ਮਃ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "slok​mÚ​4​]",
+          "unicode": "ਸਲੋਕ​ਮਃ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Salok, Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Slok, Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "salok mahalaa 4 |",
+            "larivaar": "salok​mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "सलोक मः ४ ॥",
+            "larivaar": "सलोक​मः​४​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "sm4]",
+          "unicode": "ਸਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2WED",
+        "type": 4,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "ijnw AMdir aumrQl syeI jwxin sUlIAw ]",
+          "unicode": "ਜਿਨਾ ਅੰਦਰਿ ਉਮਰਥਲ ਸੇਈ ਜਾਣਨਿ ਸੂਲੀਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijnw​AMdir​aumrQl​syeI​jwxin​sUlIAw​]",
+          "unicode": "ਜਿਨਾ​ਅੰਦਰਿ​ਉਮਰਥਲ​ਸੇਈ​ਜਾਣਨਿ​ਸੂਲੀਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who have a festering boil within - they alone know its pain."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ijvyN) ijnHW dy srIr ivc g`dhuDwxw PoVw hY auho hI aus dI pIVw ƒ jwxdy hn[",
+              "unicode": "(ਜਿਵੇਂ) ਜਿਨ੍ਹਾਂ ਦੇ ਸਰੀਰ ਵਿਚ ਗੱਦਹੁਧਾਣਾ ਫੋੜਾ ਹੈ ਉਹੋ ਹੀ ਉਸ ਦੀ ਪੀੜਾ ਨੂੰ ਜਾਣਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Aquéllos que desarrollan un carbúnculo en el interior, solo ellos entienden su dolor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jinaa andar umarathal seee jaanan sooleea |",
+            "larivaar": "jinaa​andar​umarathal​seee​jaanan​sooleea​|"
+          },
+          "devanagari": {
+            "text": "जिना अंदरि उमरथल सेई जाणनि सूलीआ ॥",
+            "larivaar": "जिना​अंदरि​उमरथल​सेई​जाणनि​सूलीआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "jAasjs",
+          "unicode": "ਜਅੳਸਜਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "28XS",
+        "type": 4,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "hir jwxih syeI ibrhu hau iqn ivthu sd Guim GolIAw ]",
+          "unicode": "ਹਰਿ ਜਾਣਹਿ ਸੇਈ ਬਿਰਹੁ ਹਉ ਤਿਨ ਵਿਟਹੁ ਸਦ ਘੁਮਿ ਘੋਲੀਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​jwxih​syeI​ibrhu​hau​iqn​ivthu​sd​Guim​GolIAw​]",
+          "unicode": "ਹਰਿ​ਜਾਣਹਿ​ਸੇਈ​ਬਿਰਹੁ​ਹਉ​ਤਿਨ​ਵਿਟਹੁ​ਸਦ​ਘੁਮਿ​ਘੋਲੀਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who know the pain of separation from the Lord - I am forever a sacrifice, a sacrifice to them."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(iqvyN ijnHW dy ihrdy ivc ivCoVy dw s`l hY auho hI aus dI pIVw ƒ jwxdy hn, qy) ivCoVy qoN pYdw hoey ipAwr ƒ BI auhI smJdy hn-mYN auhnW qoN sdw sdky hW[",
+              "unicode": "(ਤਿਵੇਂ ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਵਿਛੋੜੇ ਦਾ ਸੱਲ ਹੈ ਉਹੋ ਹੀ ਉਸ ਦੀ ਪੀੜਾ ਨੂੰ ਜਾਣਦੇ ਹਨ, ਤੇ) ਵਿਛੋੜੇ ਤੋਂ ਪੈਦਾ ਹੋਏ ਪਿਆਰ ਨੂੰ ਭੀ ਉਹੀ ਸਮਝਦੇ ਹਨ-ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਹਾਂ।"
+            }
+          },
+          "spanish": "Los Gurmukjs que están separados de su Señor, sólo ellos conocen lo agudo que se siente la separación del Amor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har jaaneh seee birahu hau tin vittahu sad ghum gholeea |",
+            "larivaar": "har​jaaneh​seee​birahu​hau​tin​vittahu​sad​ghum​gholeea​|"
+          },
+          "devanagari": {
+            "text": "हरि जाणहि सेई बिरहु हउ तिन विटहु सद घुमि घोलीआ ॥",
+            "larivaar": "हरि​जाणहि​सेई​बिरहु​हउ​तिन​विटहु​सद​घुमि​घोलीआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "hjsbhqvsGG",
+          "unicode": "ਹਜਸਬਹਤਵਸਘਘ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NT7C",
+        "type": 4,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "hir mylhu sjxu purKu myrw isru iqn ivthu ql rolIAw ]",
+          "unicode": "ਹਰਿ ਮੇਲਹੁ ਸਜਣੁ ਪੁਰਖੁ ਮੇਰਾ ਸਿਰੁ ਤਿਨ ਵਿਟਹੁ ਤਲ ਰੋਲੀਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​mylhu​sjxu​purKu​myrw​isru​iqn​ivthu​ql​rolIAw​]",
+          "unicode": "ਹਰਿ​ਮੇਲਹੁ​ਸਜਣੁ​ਪੁਰਖੁ​ਮੇਰਾ​ਸਿਰੁ​ਤਿਨ​ਵਿਟਹੁ​ਤਲ​ਰੋਲੀਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Lord, please lead me to meet the Guru, the Primal Being, my Friend; my head shall roll in the dust under His feet."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI! mYƒ koeI Ajyhw hI s`jx mrd imlw, Ajyhy bMidAW (dy dIdwr) dI ^wqr myrw isr auhnW dy pYrW hyT ruly[",
+              "unicode": "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਕੋਈ ਅਜੇਹਾ ਹੀ ਸੱਜਣ ਮਰਦ ਮਿਲਾ, ਅਜੇਹੇ ਬੰਦਿਆਂ (ਦੇ ਦੀਦਾਰ) ਦੀ ਖ਼ਾਤਰ ਮੇਰਾ ਸਿਰ ਉਹਨਾਂ ਦੇ ਪੈਰਾਂ ਹੇਠ ਰੁਲੇ।"
+            }
+          },
+          "spanish": "En sacrificio ofrezco mi ser a ellos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har melahu sajan purakh meraa sir tin vittahu tal roleea |",
+            "larivaar": "har​melahu​sajan​purakh​meraa​sir​tin​vittahu​tal​roleea​|"
+          },
+          "devanagari": {
+            "text": "हरि मेलहु सजणु पुरखु मेरा सिरु तिन विटहु तल रोलीआ ॥",
+            "larivaar": "हरि​मेलहु​सजणु​पुरखु​मेरा​सिरु​तिन​विटहु​तल​रोलीआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "hmspmsqvqr",
+          "unicode": "ਹਮਸਪਮਸਤਵਤਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UYJF",
+        "type": 4,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "jo isK gur kwr kmwvih hau gulmu iqnw kw golIAw ]",
+          "unicode": "ਜੋ ਸਿਖ ਗੁਰ ਕਾਰ ਕਮਾਵਹਿ ਹਉ ਗੁਲਮੁ ਤਿਨਾ ਕਾ ਗੋਲੀਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "jo​isK​gur​kwr​kmwvih​hau​gulmu​iqnw​kw​golIAw​]",
+          "unicode": "ਜੋ​ਸਿਖ​ਗੁਰ​ਕਾਰ​ਕਮਾਵਹਿ​ਹਉ​ਗੁਲਮੁ​ਤਿਨਾ​ਕਾ​ਗੋਲੀਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I am the slave of the slaves of those GurSikhs who serve Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo is`K siqgurU dI d`sI hoeI kwr krdy hn, mYN auhnW dy ZulwmW dw Zulwm hW[",
+              "unicode": "ਜੋ ਸਿੱਖ ਸਤਿਗੁਰੂ ਦੀ ਦੱਸੀ ਹੋਈ ਕਾਰ ਕਰਦੇ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਦੇ ਗ਼ੁਲਾਮਾਂ ਦਾ ਗ਼ੁਲਾਮ ਹਾਂ।"
+            }
+          },
+          "spanish": "Oh mi Señor, guíame hacia mi amigo, el Guru; voy a ungir en mi frente el Polvo Sagrado de Sus Pies."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jo sikh gur kaar kamaaveh hau gulam tinaa kaa goleea |",
+            "larivaar": "jo​sikh​gur​kaar​kamaaveh​hau​gulam​tinaa​kaa​goleea​|"
+          },
+          "devanagari": {
+            "text": "जो सिख गुर कार कमावहि हउ गुलमु तिना का गोलीआ ॥",
+            "larivaar": "जो​सिख​गुर​कार​कमावहि​हउ​गुलमु​तिना​का​गोलीआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "jsgkkhgqkg",
+          "unicode": "ਜਸਗਕਕਹਗਤਕਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VS1N",
+        "type": 4,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "hir rMig clUlY jo rqy iqn iBnI hir rMig colIAw ]",
+          "unicode": "ਹਰਿ ਰੰਗਿ ਚਲੂਲੈ ਜੋ ਰਤੇ ਤਿਨ ਭਿਨੀ ਹਰਿ ਰੰਗਿ ਚੋਲੀਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​rMig​clUlY​jo​rqy​iqn​iBnI​hir​rMig​colIAw​]",
+          "unicode": "ਹਰਿ​ਰੰਗਿ​ਚਲੂਲੈ​ਜੋ​ਰਤੇ​ਤਿਨ​ਭਿਨੀ​ਹਰਿ​ਰੰਗਿ​ਚੋਲੀਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who are imbued with the deep crimson color of the Lord's Love - their robes are drenched in the Love of the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijnHW dy mn pRBU-nwm dy gUVHy rMg ivc rMgy hoey hn, auhnW dy coly (BI, Bwv, srIr) pRBU dy ipAwr ivc iB`jy hoey huMdy hn[",
+              "unicode": "ਜਿਨ੍ਹਾਂ ਦੇ ਮਨ ਪ੍ਰਭੂ-ਨਾਮ ਦੇ ਗੂੜ੍ਹੇ ਰੰਗ ਵਿਚ ਰੰਗੇ ਹੋਏ ਹਨ, ਉਹਨਾਂ ਦੇ ਚੋਲੇ (ਭੀ, ਭਾਵ, ਸਰੀਰ) ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਵਿਚ ਭਿੱਜੇ ਹੋਏ ਹੁੰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Soy un esclavo amarrado al Devoto que camina en el Sendero del Guru. Imbuido en el Amor del Señor, el ropaje de su cuerpo es teñido con el Color Profundo del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har rang chaloolai jo rate tin bhinee har rang choleea |",
+            "larivaar": "har​rang​chaloolai​jo​rate​tin​bhinee​har​rang​choleea​|"
+          },
+          "devanagari": {
+            "text": "हरि रंगि चलूलै जो रते तिन भिनी हरि रंगि चोलीआ ॥",
+            "larivaar": "हरि​रंगि​चलूलै​जो​रते​तिन​भिनी​हरि​रंगि​चोलीआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "hrcjrqBhrc",
+          "unicode": "ਹਰਚਜਰਤਭਹਰਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BSLD",
+        "type": 4,
+        "shabadid": "EUU",
+        "gurmukhi": {
+          "akhar": "kir ikrpw nwnk myil gur pih isru vyicAw molIAw ]1]",
+          "unicode": "ਕਰਿ ਕਿਰਪਾ ਨਾਨਕ ਮੇਲਿ ਗੁਰ ਪਹਿ ਸਿਰੁ ਵੇਚਿਆ ਮੋਲੀਆ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "kir​ikrpw​nwnk​myil​gur​pih​isru​vyicAw​molIAw​]1]",
+          "unicode": "ਕਰਿ​ਕਿਰਪਾ​ਨਾਨਕ​ਮੇਲਿ​ਗੁਰ​ਪਹਿ​ਸਿਰੁ​ਵੇਚਿਆ​ਮੋਲੀਆ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Grant Your Grace, and lead Nanak to meet the Guru; I have sold my head to Him. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! auhnW ƒ pRBU ny ikrpw kr ky gurU nwl imlwieAw hY, qy auhnW Awpxw isr gurU A`gy vyc id`qw hY ]1]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਭੂ ਨੇ ਕਿਰਪਾ ਕਰ ਕੇ ਗੁਰੂ ਨਾਲ ਮਿਲਾਇਆ ਹੈ, ਤੇ ਉਹਨਾਂ ਆਪਣਾ ਸਿਰ ਗੁਰੂ ਅੱਗੇ ਵੇਚ ਦਿੱਤਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "Sé Compasivo, oh Señor; llévame hasta mi Guru, para que pueda entregar mi cabeza a Sus Pies.(1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kar kirapaa naanak mel gur peh sir vechiaa moleea |1|",
+            "larivaar": "kar​kirapaa​naanak​mel​gur​peh​sir​vechiaa​moleea​|1|"
+          },
+          "devanagari": {
+            "text": "करि किरपा नानक मेलि गुर पहि सिरु वेचिआ मोलीआ ॥१॥",
+            "larivaar": "करि​किरपा​नानक​मेलि​गुर​पहि​सिरु​वेचिआ​मोलीआ​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "kknmgpsvm",
+          "unicode": "ਕਕਨਮਗਪਸਵਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CSCG",
+        "type": 2,
+        "shabadid": "P7D",
+        "gurmukhi": {
+          "akhar": "mÚ 4 ]",
+          "unicode": "ਮਃ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "mÚ​4​]",
+          "unicode": "ਮਃ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mahalaa 4 |",
+            "larivaar": "mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "मः ४ ॥",
+            "larivaar": "मः​४​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "m4]",
+          "unicode": "ਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YXKU",
+        "type": 4,
+        "shabadid": "P7D",
+        "gurmukhi": {
+          "akhar": "AaugxI BirAw srIru hY ikau sMqhu inrmlu hoie ]",
+          "unicode": "ਅਉਗਣੀ ਭਰਿਆ ਸਰੀਰੁ ਹੈ ਕਿਉ ਸੰਤਹੁ ਨਿਰਮਲੁ ਹੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "AaugxI​BirAw​srIru​hY​ikau​sMqhu​inrmlu​hoie​]",
+          "unicode": "ਅਉਗਣੀ​ਭਰਿਆ​ਸਰੀਰੁ​ਹੈ​ਕਿਉ​ਸੰਤਹੁ​ਨਿਰਮਲੁ​ਹੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The body is full of mistakes and misdeeds; how can it become pure, O Saints?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pRSn) hy sMq jno! (ieh) srIr AaugxW nwl BirAw hoieAw hY, sw& ikvyN ho skdw hY?",
+              "unicode": "(ਪ੍ਰਸ਼ਨ) ਹੇ ਸੰਤ ਜਨੋ! (ਇਹ) ਸਰੀਰ ਅਉਗਣਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਹੈ, ਸਾਫ਼ ਕਿਵੇਂ ਹੋ ਸਕਦਾ ਹੈ?"
+            }
+          },
+          "spanish": "El cuerpo está saturado de errores, ¿cómo, oh Santos, puedo yo purificarlo?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aauganee bhariaa sareer hai kiau santahu niramal hoe |",
+            "larivaar": "aauganee​bhariaa​sareer​hai​kiau​santahu​niramal​hoe​|"
+          },
+          "devanagari": {
+            "text": "अउगणी भरिआ सरीरु है किउ संतहु निरमलु होइ ॥",
+            "larivaar": "अउगणी​भरिआ​सरीरु​है​किउ​संतहु​निरमलु​होइ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "ABshksnh",
+          "unicode": "ਅਭਸਹਕਸਨਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BDUN",
+        "type": 4,
+        "shabadid": "P7D",
+        "gurmukhi": {
+          "akhar": "gurmuiK gux vyhwJIAih mlu haumY kFY Doie ]",
+          "unicode": "ਗੁਰਮੁਖਿ ਗੁਣ ਵੇਹਾਝੀਅਹਿ ਮਲੁ ਹਉਮੈ ਕਢੈ ਧੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "gurmuiK​gux​vyhwJIAih​mlu​haumY​kFY​Doie​]",
+          "unicode": "ਗੁਰਮੁਖਿ​ਗੁਣ​ਵੇਹਾਝੀਅਹਿ​ਮਲੁ​ਹਉਮੈ​ਕਢੈ​ਧੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Gurmukh purchases virtues, which wash off the sin of egotism."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(au`qr) siqgurU dy snmuK ho ky gux ^rIdy jwx, qW (ies qrHW mnu`Kw srIr ivcoN) haumY-rUp mYl koeI Do ky k`F skdw hY[",
+              "unicode": "(ਉੱਤਰ) ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਗੁਣ ਖ਼ਰੀਦੇ ਜਾਣ, ਤਾਂ (ਇਸ ਤਰ੍ਹਾਂ ਮਨੁੱਖਾ ਸਰੀਰ ਵਿਚੋਂ) ਹਉਮੈ-ਰੂਪ ਮੈਲ ਕੋਈ ਧੋ ਕੇ ਕੱਢ ਸਕਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Si compro la mercancía a través del Guru, la suciedad del ego que está en el interior será lavada."
+        },
+        "transliteration": {
+          "english": {
+            "text": "guramukh gun vehaajheeeh mal haumai kadtai dhoe |",
+            "larivaar": "guramukh​gun​vehaajheeeh​mal​haumai​kadtai​dhoe​|"
+          },
+          "devanagari": {
+            "text": "गुरमुखि गुण वेहाझीअहि मलु हउमै कढै धोइ ॥",
+            "larivaar": "गुरमुखि​गुण​वेहाझीअहि​मलु​हउमै​कढै​धोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "ggvmhkD",
+          "unicode": "ਗਗਵਮਹਕਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9DA7",
+        "type": 4,
+        "shabadid": "P7D",
+        "gurmukhi": {
+          "akhar": "scu vxMjih rMg isau scu saudw hoie ]",
+          "unicode": "ਸਚੁ ਵਣੰਜਹਿ ਰੰਗ ਸਿਉ ਸਚੁ ਸਉਦਾ ਹੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "scu​vxMjih​rMg​isau​scu​saudw​hoie​]",
+          "unicode": "ਸਚੁ​ਵਣੰਜਹਿ​ਰੰਗ​ਸਿਉ​ਸਚੁ​ਸਉਦਾ​ਹੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "True is the trade which purchases the True Lord with love."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo mnu`K ipAwr nwl s`c ƒ (Bwv, s`cy dy nwm ƒ) ^rIddy hn, auhnW dw ieh sOdw sdw nwl inBdw hY[",
+              "unicode": "ਜੋ ਮਨੁੱਖ ਪਿਆਰ ਨਾਲ ਸੱਚ ਨੂੰ (ਭਾਵ, ਸੱਚੇ ਦੇ ਨਾਮ ਨੂੰ) ਖ਼ਰੀਦਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਇਹ ਸੌਦਾ ਸਦਾ ਨਾਲ ਨਿਭਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Comercia con todo tu Amor en la Verdad,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach vananjeh rang siau sach saudaa hoe |",
+            "larivaar": "sach​vananjeh​rang​siau​sach​saudaa​hoe​|"
+          },
+          "devanagari": {
+            "text": "सचु वणंजहि रंग सिउ सचु सउदा होइ ॥",
+            "larivaar": "सचु​वणंजहि​रंग​सिउ​सचु​सउदा​होइ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "svrsssh",
+          "unicode": "ਸਵਰਸਸਸਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "0VC1",
+        "type": 4,
+        "shabadid": "P7D",
+        "gurmukhi": {
+          "akhar": "qotw mUil n AwveI lwhw hir BwvY soie ]",
+          "unicode": "ਤੋਟਾ ਮੂਲਿ ਨ ਆਵਈ ਲਾਹਾ ਹਰਿ ਭਾਵੈ ਸੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "qotw​mUil​n​AwveI​lwhw​hir​BwvY​soie​]",
+          "unicode": "ਤੋਟਾ​ਮੂਲਿ​ਨ​ਆਵਈ​ਲਾਹਾ​ਹਰਿ​ਭਾਵੈ​ਸੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "No loss will come from this, and the profit comes by the Lord's Will."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ies sOdy ivc) Gwtw kdy huMdw hI nhIN; (qy, sOdy ivcoN) lwB (ieh imldw) hY ik prmwqmw auhnW ƒ ipAwrw l`gx l`g pYNdw hY[",
+              "unicode": "(ਇਸ ਸੌਦੇ ਵਿਚ) ਘਾਟਾ ਕਦੇ ਹੁੰਦਾ ਹੀ ਨਹੀਂ; (ਤੇ, ਸੌਦੇ ਵਿਚੋਂ) ਲਾਭ (ਇਹ ਮਿਲਦਾ) ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਉਹਨਾਂ ਨੂੰ ਪਿਆਰਾ ਲੱਗਣ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "y en nada más que en  la Verdad, así nunca perderás, y el fruto será el de la Voluntad del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tottaa mool na aavee laahaa har bhaavai soe |",
+            "larivaar": "tottaa​mool​na​aavee​laahaa​har​bhaavai​soe​|"
+          },
+          "devanagari": {
+            "text": "तोटा मूलि न आवई लाहा हरि भावै सोइ ॥",
+            "larivaar": "तोटा​मूलि​न​आवई​लाहा​हरि​भावै​सोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "qmnAlhBs",
+          "unicode": "ਤਮਨਅਲਹਭਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HXNB",
+        "type": 4,
+        "shabadid": "P7D",
+        "gurmukhi": {
+          "akhar": "nwnk iqn scu vxMijAw ijnw Duir iliKAw prwpiq hoie ]2]",
+          "unicode": "ਨਾਨਕ ਤਿਨ ਸਚੁ ਵਣੰਜਿਆ ਜਿਨਾ ਧੁਰਿ ਲਿਖਿਆ ਪਰਾਪਤਿ ਹੋਇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​iqn​scu​vxMijAw​ijnw​Duir​iliKAw​prwpiq​hoie​]2]",
+          "unicode": "ਨਾਨਕ​ਤਿਨ​ਸਚੁ​ਵਣੰਜਿਆ​ਜਿਨਾ​ਧੁਰਿ​ਲਿਖਿਆ​ਪਰਾਪਤਿ​ਹੋਇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, they alone purchase the Truth, who are blessed with such pre-ordained destiny. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! s`cy nwm dI ^rId auh mnu`K krdy hn, ijnHW ƒ (ieh s`cw nwm) muF qoN (kIqy hoey Bly krmW dy sMskwrW Anuswr) (ihrdy ivc) au`kirAw hoieAw imldw hY ]2]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਸੱਚੇ ਨਾਮ ਦੀ ਖ਼ਰੀਦ ਉਹ ਮਨੁੱਖ ਕਰਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ (ਇਹ ਸੱਚਾ ਨਾਮ) ਮੁਢ ਤੋਂ (ਕੀਤੇ ਹੋਏ ਭਲੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਅਨੁਸਾਰ) (ਹਿਰਦੇ ਵਿਚ) ਉੱਕਰਿਆ ਹੋਇਆ ਮਿਲਦਾ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "Dice Nanak, Sólo comercian en la Verdad los que así lo tienen inscrito en su Destino por Dios. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak tin sach vananjiaa jinaa dhur likhiaa paraapat hoe |2|",
+            "larivaar": "naanak​tin​sach​vananjiaa​jinaa​dhur​likhiaa​paraapat​hoe​|2|"
+          },
+          "devanagari": {
+            "text": "नानक तिन सचु वणंजिआ जिना धुरि लिखिआ परापति होइ ॥२॥",
+            "larivaar": "नानक​तिन​सचु​वणंजिआ​जिना​धुरि​लिखिआ​परापति​होइ​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "nqsvjDlph",
+          "unicode": "ਨਤਸਵਜਧਲਪਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1UY3",
+        "type": 2,
+        "shabadid": "G5R",
+        "gurmukhi": {
+          "akhar": "pauVI ]",
+          "unicode": "ਪਉੜੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "pauVI​]",
+          "unicode": "ਪਉੜੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Pauree:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Pauri"
+        },
+        "transliteration": {
+          "english": {
+            "text": "paurree |",
+            "larivaar": "paurree​|"
+          },
+          "devanagari": {
+            "text": "पउड़ी ॥",
+            "larivaar": "पउड़ी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "p]",
+          "unicode": "ਪ॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PKFB",
+        "type": 4,
+        "shabadid": "G5R",
+        "gurmukhi": {
+          "akhar": "swlwhI scu swlwhxw scu scw purKu inrwly ]",
+          "unicode": "ਸਾਲਾਹੀ ਸਚੁ ਸਾਲਾਹਣਾ ਸਚੁ ਸਚਾ ਪੁਰਖੁ ਨਿਰਾਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "swlwhI​scu​swlwhxw​scu​scw​purKu​inrwly​]",
+          "unicode": "ਸਾਲਾਹੀ​ਸਚੁ​ਸਾਲਾਹਣਾ​ਸਚੁ​ਸਚਾ​ਪੁਰਖੁ​ਨਿਰਾਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I praise the True One, who alone is worthy of praise. The True Primal Being is True - this is His unique quality."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(myrw ic`q cwhuMdw hY ik) jo inrwlw purK s`cw hrI hY, aus s`cy hrI dI is&iq krW, aus dI is&iq kIqI hoeI sdw nwl inBdI hY[",
+              "unicode": "(ਮੇਰਾ ਚਿੱਤ ਚਾਹੁੰਦਾ ਹੈ ਕਿ) ਜੋ ਨਿਰਾਲਾ ਪੁਰਖ ਸੱਚਾ ਹਰੀ ਹੈ, ਉਸ ਸੱਚੇ ਹਰੀ ਦੀ ਸਿਫ਼ਤਿ ਕਰਾਂ, ਉਸ ਦੀ ਸਿਫ਼ਤਿ ਕੀਤੀ ਹੋਈ ਸਦਾ ਨਾਲ ਨਿਭਦੀ ਹੈ।"
+            }
+          },
+          "spanish": "Yo alabo al Señor de la Verdad, el Purusha, el Espíritu Divino; su distinción es que Él es Verdad."
+        },
+        "transliteration": {
+          "english": {
+            "text": "saalaahee sach saalaahanaa sach sachaa purakh niraale |",
+            "larivaar": "saalaahee​sach​saalaahanaa​sach​sachaa​purakh​niraale​|"
+          },
+          "devanagari": {
+            "text": "सालाही सचु सालाहणा सचु सचा पुरखु निराले ॥",
+            "larivaar": "सालाही​सचु​सालाहणा​सचु​सचा​पुरखु​निराले​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "ssssspn",
+          "unicode": "ਸਸਸਸਸਪਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7FP5",
+        "type": 4,
+        "shabadid": "G5R",
+        "gurmukhi": {
+          "akhar": "scu syvI scu min vsY scu scw hir rKvwly ]",
+          "unicode": "ਸਚੁ ਸੇਵੀ ਸਚੁ ਮਨਿ ਵਸੈ ਸਚੁ ਸਚਾ ਹਰਿ ਰਖਵਾਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "scu​syvI​scu​min​vsY​scu​scw​hir​rKvwly​]",
+          "unicode": "ਸਚੁ​ਸੇਵੀ​ਸਚੁ​ਮਨਿ​ਵਸੈ​ਸਚੁ​ਸਚਾ​ਹਰਿ​ਰਖਵਾਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Serving the True Lord, the Truth comes to dwell in the mind. The Lord, the Truest of the True, is my Protector."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ic`q locdw hY ik) jo s`cw hrI sB dw rwKw hY aus dI syvw krW, qy s`cw hrI myry mn ivc invws kry[",
+              "unicode": "(ਚਿੱਤ ਲੋਚਦਾ ਹੈ ਕਿ) ਜੋ ਸੱਚਾ ਹਰੀ ਸਭ ਦਾ ਰਾਖਾ ਹੈ ਉਸ ਦੀ ਸੇਵਾ ਕਰਾਂ, ਤੇ ਸੱਚਾ ਹਰੀ ਮੇਰੇ ਮਨ ਵਿਚ ਨਿਵਾਸ ਕਰੇ।"
+            }
+          },
+          "spanish": "Conociendo al Uno Verdadero, la Verdad habita en mi mente, y entonces el Señor de la Verdad me protege."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach sevee sach man vasai sach sachaa har rakhavaale |",
+            "larivaar": "sach​sevee​sach​man​vasai​sach​sachaa​har​rakhavaale​|"
+          },
+          "devanagari": {
+            "text": "सचु सेवी सचु मनि वसै सचु सचा हरि रखवाले ॥",
+            "larivaar": "सचु​सेवी​सचु​मनि​वसै​सचु​सचा​हरि​रखवाले​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "sssmvsshr",
+          "unicode": "ਸਸਸਮਵਸਸਹਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6F9C",
+        "type": 4,
+        "shabadid": "G5R",
+        "gurmukhi": {
+          "akhar": "scu scw ijnI ArwiDAw sy jwie rly sc nwly ]",
+          "unicode": "ਸਚੁ ਸਚਾ ਜਿਨੀ ਅਰਾਧਿਆ ਸੇ ਜਾਇ ਰਲੇ ਸਚ ਨਾਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "scu​scw​ijnI​ArwiDAw​sy​jwie​rly​sc​nwly​]",
+          "unicode": "ਸਚੁ​ਸਚਾ​ਜਿਨੀ​ਅਰਾਧਿਆ​ਸੇ​ਜਾਇ​ਰਲੇ​ਸਚ​ਨਾਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who worship and adore the Truest of the True, shall go and merge with the True Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijnHW ny s`c-muc s`cw hrI syivAw hY auh aus s`cy dy nwl jw rly hn[",
+              "unicode": "ਜਿਨ੍ਹਾਂ ਨੇ ਸੱਚ-ਮੁਚ ਸੱਚਾ ਹਰੀ ਸੇਵਿਆ ਹੈ ਉਹ ਉਸ ਸੱਚੇ ਦੇ ਨਾਲ ਜਾ ਰਲੇ ਹਨ।"
+            }
+          },
+          "spanish": "Quienes contemplan al Verdadero Uno, se inmergen en el Señor,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach sachaa jinee araadhiaa se jaae rale sach naale |",
+            "larivaar": "sach​sachaa​jinee​araadhiaa​se​jaae​rale​sach​naale​|"
+          },
+          "devanagari": {
+            "text": "सचु सचा जिनी अराधिआ से जाइ रले सच नाले ॥",
+            "larivaar": "सचु​सचा​जिनी​अराधिआ​से​जाइ​रले​सच​नाले​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "ssjAsjrsn",
+          "unicode": "ਸਸਜਅਸਜਰਸਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UKXM",
+        "type": 4,
+        "shabadid": "G5R",
+        "gurmukhi": {
+          "akhar": "scu scw ijnI n syivAw sy mnmuK mUV byqwly ]",
+          "unicode": "ਸਚੁ ਸਚਾ ਜਿਨੀ ਨ ਸੇਵਿਆ ਸੇ ਮਨਮੁਖ ਮੂੜ ਬੇਤਾਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "scu​scw​ijnI​n​syivAw​sy​mnmuK​mUV​byqwly​]",
+          "unicode": "ਸਚੁ​ਸਚਾ​ਜਿਨੀ​ਨ​ਸੇਵਿਆ​ਸੇ​ਮਨਮੁਖ​ਮੂੜ​ਬੇਤਾਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who do not serve the Truest of the True - those self-willed manmukhs are foolish demons."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijnHW ny s`cy hrI ƒ nhIN syivAw, auh mnmuK mUrK qy BUqny hn,",
+              "unicode": "ਜਿਨ੍ਹਾਂ ਨੇ ਸੱਚੇ ਹਰੀ ਨੂੰ ਨਹੀਂ ਸੇਵਿਆ, ਉਹ ਮਨਮੁਖ ਮੂਰਖ ਤੇ ਭੂਤਨੇ ਹਨ,"
+            }
+          },
+          "spanish": "mientras que los soberbios Manmukjs son tontos y malvados,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach sachaa jinee na seviaa se manamukh moorr betaale |",
+            "larivaar": "sach​sachaa​jinee​na​seviaa​se​manamukh​moorr​betaale​|"
+          },
+          "devanagari": {
+            "text": "सचु सचा जिनी न सेविआ से मनमुख मूड़ बेताले ॥",
+            "larivaar": "सचु​सचा​जिनी​न​सेविआ​से​मनमुख​मूड़​बेताले​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "ssjnssmmb",
+          "unicode": "ਸਸਜਨਸਸਮਮਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "N8HU",
+        "type": 4,
+        "shabadid": "G5R",
+        "gurmukhi": {
+          "akhar": "Eh Awlu pqwlu muhhu boldy ijau pIqY mid mqvwly ]19]",
+          "unicode": "ਓਹ ਆਲੁ ਪਤਾਲੁ ਮੁਹਹੁ ਬੋਲਦੇ ਜਿਉ ਪੀਤੈ ਮਦਿ ਮਤਵਾਲੇ ॥੧੯॥"
+        },
+        "larivaar": {
+          "akhar": "Eh​Awlu​pqwlu​muhhu​boldy​ijau​pIqY​mid​mqvwly​]19]",
+          "unicode": "ਓਹ​ਆਲੁ​ਪਤਾਲੁ​ਮੁਹਹੁ​ਬੋਲਦੇ​ਜਿਉ​ਪੀਤੈ​ਮਦਿ​ਮਤਵਾਲੇ​॥੧੯॥"
+        },
+        "translation": {
+          "english": {
+            "default": "With their mouths, they babble on about this and that, like the drunkard who has drunk his wine. ||19||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mUMhoN Aijhw bkvws krdy hn ijvyN Srwb pIiqAW SrwbI (bkvws krdy hn) ]19]",
+              "unicode": "ਮੂੰਹੋਂ ਅਜਿਹਾ ਬਕਵਾਸ ਕਰਦੇ ਹਨ ਜਿਵੇਂ ਸ਼ਰਾਬ ਪੀਤਿਆਂ ਸ਼ਰਾਬੀ (ਬਕਵਾਸ ਕਰਦੇ ਹਨ) ॥੧੯॥"
+            }
+          },
+          "spanish": "pues sólo balbucean de esto y lo otro, así como el borracho pegado a su botella de vino. (19)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "oeh aal pataal muhahu bolade jiau peetai mad matavaale |19|",
+            "larivaar": "oeh​aal​pataal​muhahu​bolade​jiau​peetai​mad​matavaale​|19|"
+          },
+          "devanagari": {
+            "text": "ओह आलु पतालु मुहहु बोलदे जिउ पीतै मदि मतवाले ॥१९॥",
+            "larivaar": "ओह​आलु​पतालु​मुहहु​बोलदे​जिउ​पीतै​मदि​मतवाले​॥१९॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "aApmbjpmm",
+          "unicode": "ੳਅਪਮਬਜਪਮਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LMKQ",
+        "type": 2,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "slok mhlw 3 ]",
+          "unicode": "ਸਲੋਕ ਮਹਲਾ ੩ ॥"
+        },
+        "larivaar": {
+          "akhar": "slok​mhlw​3​]",
+          "unicode": "ਸਲੋਕ​ਮਹਲਾ​੩​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Salok, Third Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Slok, Mejl Guru Amar Das, Tercer Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "salok mahalaa 3 |",
+            "larivaar": "salok​mahalaa​3​|"
+          },
+          "devanagari": {
+            "text": "सलोक महला ३ ॥",
+            "larivaar": "सलोक​महला​३​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "sm3]",
+          "unicode": "ਸਮ੩॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R9UC",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "gauVI rwig sulKxI jy KsmY iciq kryie ]",
+          "unicode": "ਗਉੜੀ ਰਾਗਿ ਸੁਲਖਣੀ ਜੇ ਖਸਮੈ ਚਿਤਿ ਕਰੇਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "gauVI​rwig​sulKxI​jy​KsmY​iciq​kryie​]",
+          "unicode": "ਗਉੜੀ​ਰਾਗਿ​ਸੁਲਖਣੀ​ਜੇ​ਖਸਮੈ​ਚਿਤਿ​ਕਰੇਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Gauree Raga is auspicious, if, through it, one comes to think of his Lord and Master."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(jIv-rUpI iesqRI) gauVI rwgxI duAwrw qW hI cMgy l`CxW vwlI ho skdI hY jy pRBU-pqI ƒ ihrdy ivc vswey;",
+              "unicode": "(ਜੀਵ-ਰੂਪੀ ਇਸਤ੍ਰੀ) ਗਉੜੀ ਰਾਗਣੀ ਦੁਆਰਾ ਤਾਂ ਹੀ ਚੰਗੇ ਲੱਛਣਾਂ ਵਾਲੀ ਹੋ ਸਕਦੀ ਹੈ ਜੇ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾਏ;"
+            }
+          },
+          "spanish": "Los versos cantados en Raga Gauri son benditos si a través de ellos la mente descansa en Dios y adornada así, camina en la Voluntad del Verdadero Guru."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gaurree raag sulakhanee je khasamai chit karee |",
+            "larivaar": "gaurree​raag​sulakhanee​je​khasamai​chit​karee​|"
+          },
+          "devanagari": {
+            "text": "गउड़ी रागि सुलखणी जे खसमै चिति करेइ ॥",
+            "larivaar": "गउड़ी​रागि​सुलखणी​जे​खसमै​चिति​करेइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "grsjKck",
+          "unicode": "ਗਰਸਜਖਚਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "0VBC",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "BwxY clY siqgurU kY AYsw sIgwru kryie ]",
+          "unicode": "ਭਾਣੈ ਚਲੈ ਸਤਿਗੁਰੂ ਕੈ ਐਸਾ ਸੀਗਾਰੁ ਕਰੇਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "BwxY​clY​siqgurU​kY​AYsw​sIgwru​kryie​]",
+          "unicode": "ਭਾਣੈ​ਚਲੈ​ਸਤਿਗੁਰੂ​ਕੈ​ਐਸਾ​ਸੀਗਾਰੁ​ਕਰੇਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He should walk in harmony with the Will of the True Guru; this should be his decoration."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "siqgurU dy Bwxy ivc qury-ieho ijhw iSMgwr kry;",
+              "unicode": "ਸਤਿਗੁਰੂ ਦੇ ਭਾਣੇ ਵਿਚ ਤੁਰੇ-ਇਹੋ ਜਿਹਾ ਸ਼ਿੰਗਾਰ ਕਰੇ;"
+            }
+          },
+          "spanish": "Casándonos con la Palabra Verdadera del Shabd, gozamos de nuestro Verdadero Esposo y disfrutamos siempre de Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhaanai chalai satiguroo kai aisaa seegaar karee |",
+            "larivaar": "bhaanai​chalai​satiguroo​kai​aisaa​seegaar​karee​|"
+          },
+          "devanagari": {
+            "text": "भाणै चलै सतिगुरू कै ऐसा सीगारु करेइ ॥",
+            "larivaar": "भाणै​चलै​सतिगुरू​कै​ऐसा​सीगारु​करेइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "BcskAsk",
+          "unicode": "ਭਚਸਕਅਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7LZ9",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "scw sbdu Bqwru hY sdw sdw rwvyie ]",
+          "unicode": "ਸਚਾ ਸਬਦੁ ਭਤਾਰੁ ਹੈ ਸਦਾ ਸਦਾ ਰਾਵੇਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "scw​sbdu​Bqwru​hY​sdw​sdw​rwvyie​]",
+          "unicode": "ਸਚਾ​ਸਬਦੁ​ਭਤਾਰੁ​ਹੈ​ਸਦਾ​ਸਦਾ​ਰਾਵੇਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The True Word of the Shabad is our spouse; ravish and enjoy it, forever and ever."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "s`cw Sbd (rUp jo) Ksm (hY) aus dw sdw Awnµd ley (Bwv, aus ƒ sdw jpy)[",
+              "unicode": "ਸੱਚਾ ਸ਼ਬਦ (ਰੂਪ ਜੋ) ਖਸਮ (ਹੈ) ਉਸ ਦਾ ਸਦਾ ਆਨੰਦ ਲਏ (ਭਾਵ, ਉਸ ਨੂੰ ਸਦਾ ਜਪੇ)।"
+            }
+          },
+          "spanish": "Como el profundo carmesí de la raíz de rubia es permanente,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sachaa sabad bhataar hai sadaa sadaa raavee |",
+            "larivaar": "sachaa​sabad​bhataar​hai​sadaa​sadaa​raavee​|"
+          },
+          "devanagari": {
+            "text": "सचा सबदु भतारु है सदा सदा रावेइ ॥",
+            "larivaar": "सचा​सबदु​भतारु​है​सदा​सदा​रावेइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "ssBhssr",
+          "unicode": "ਸਸਭਹਸਸਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TN11",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "ijau aublI mjITY rMgu ghghw iqau scy no jIau dyie ]",
+          "unicode": "ਜਿਉ ਉਬਲੀ ਮਜੀਠੈ ਰੰਗੁ ਗਹਗਹਾ ਤਿਉ ਸਚੇ ਨੋ ਜੀਉ ਦੇਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijau​aublI​mjITY​rMgu​ghghw​iqau​scy​no​jIau​dyie​]",
+          "unicode": "ਜਿਉ​ਉਬਲੀ​ਮਜੀਠੈ​ਰੰਗੁ​ਗਹਗਹਾ​ਤਿਉ​ਸਚੇ​ਨੋ​ਜੀਉ​ਦੇਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Like the deep crimson color of the madder plant - such is the dye which shall color you, when you dedicate your soul to the True One."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijvyN mjIT aubwlw shwrdI hY qy aus dw rMg gUVHw ho jWdw hY, iqvyN (jIv rUp iesqRI) Awpxw Awp Ksm qoN sdky kry,",
+              "unicode": "ਜਿਵੇਂ ਮਜੀਠ ਉਬਾਲਾ ਸਹਾਰਦੀ ਹੈ ਤੇ ਉਸ ਦਾ ਰੰਗ ਗੂੜ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਤਿਵੇਂ (ਜੀਵ ਰੂਪ ਇਸਤ੍ਰੀ) ਆਪਣਾ ਆਪ ਖਸਮ ਤੋਂ ਸਦਕੇ ਕਰੇ,"
+            }
+          },
+          "spanish": "así el Alma se embulle en el Color del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jiau ubalee majeetthai rang gahagahaa tiau sache no jeeo dee |",
+            "larivaar": "jiau​ubalee​majeetthai​rang​gahagahaa​tiau​sache​no​jeeo​dee​|"
+          },
+          "devanagari": {
+            "text": "जिउ उबली मजीठै रंगु गहगहा तिउ सचे नो जीउ देइ ॥",
+            "larivaar": "जिउ​उबली​मजीठै​रंगु​गहगहा​तिउ​सचे​नो​जीउ​देइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "jamrgqsnjd",
+          "unicode": "ਜੳਮਰਗਤਸਨਜਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DDG3",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "rMig clUlY Aiq rqI scy isau lgw nyhu ]",
+          "unicode": "ਰੰਗਿ ਚਲੂਲੈ ਅਤਿ ਰਤੀ ਸਚੇ ਸਿਉ ਲਗਾ ਨੇਹੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "rMig​clUlY​Aiq​rqI​scy​isau​lgw​nyhu​]",
+          "unicode": "ਰੰਗਿ​ਚਲੂਲੈ​ਅਤਿ​ਰਤੀ​ਸਚੇ​ਸਿਉ​ਲਗਾ​ਨੇਹੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One who loves the True Lord is totally imbued with the Lord's Love, like the deep crimson color of the poppy."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ies ƒ BI nwm dw gUVHw rMg cVH jwey) qW aus dw s`cy pRBU nwl ipAwr bx jWdw hY, auh (nwm dy) gUVHy rMg ivc r`qI jWdI hY[",
+              "unicode": "(ਇਸ ਨੂੰ ਭੀ ਨਾਮ ਦਾ ਗੂੜ੍ਹਾ ਰੰਗ ਚੜ੍ਹ ਜਾਏ) ਤਾਂ ਉਸ ਦਾ ਸੱਚੇ ਪ੍ਰਭੂ ਨਾਲ ਪਿਆਰ ਬਣ ਜਾਂਦਾ ਹੈ, ਉਹ (ਨਾਮ ਦੇ) ਗੂੜ੍ਹੇ ਰੰਗ ਵਿਚ ਰੱਤੀ ਜਾਂਦੀ ਹੈ।"
+            }
+          },
+          "spanish": "Lo que se tiñe con la Verdad del Señor, se manifiesta como la Flor de Loto,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "rang chaloolai at ratee sache siau lagaa nehu |",
+            "larivaar": "rang​chaloolai​at​ratee​sache​siau​lagaa​nehu​|"
+          },
+          "devanagari": {
+            "text": "रंगि चलूलै अति रती सचे सिउ लगा नेहु ॥",
+            "larivaar": "रंगि​चलूलै​अति​रती​सचे​सिउ​लगा​नेहु​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "rcArssln",
+          "unicode": "ਰਚਅਰਸਸਲਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WBR3",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "kUVu TgI guJI nw rhY kUVu mulµmw plyit Dryhu ]",
+          "unicode": "ਕੂੜੁ ਠਗੀ ਗੁਝੀ ਨਾ ਰਹੈ ਕੂੜੁ ਮੁਲੰਮਾ ਪਲੇਟਿ ਧਰੇਹੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "kUVu​TgI​guJI​nw​rhY​kUVu​mulµmw​plyit​Dryhu​]",
+          "unicode": "ਕੂੜੁ​ਠਗੀ​ਗੁਝੀ​ਨਾ​ਰਹੈ​ਕੂੜੁ​ਮੁਲੰਮਾ​ਪਲੇਟਿ​ਧਰੇਹੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Falsehood and deception may be covered with false coatings, but they cannot remain hidden."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "kUV (rUp) mulµmw (byS`k s`c nwl) lpyt ky rKo, (iPr BI) jo JUT qy T`gI hY auh luky nhIN rih skdy[",
+              "unicode": "ਕੂੜ (ਰੂਪ) ਮੁਲੰਮਾ (ਬੇਸ਼ੱਕ ਸੱਚ ਨਾਲ) ਲਪੇਟ ਕੇ ਰਖੋ, (ਫਿਰ ਭੀ) ਜੋ ਝੂਠ ਤੇ ਠੱਗੀ ਹੈ ਉਹ ਲੁਕੇ ਨਹੀਂ ਰਹਿ ਸਕਦੇ।"
+            }
+          },
+          "spanish": "pero lo que es falso se delata siempre como tal, aunque uno trate de cubrirlo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "koorr tthagee gujhee naa rahai koorr mulamaa palett dharehu |",
+            "larivaar": "koorr​tthagee​gujhee​naa​rahai​koorr​mulamaa​palett​dharehu​|"
+          },
+          "devanagari": {
+            "text": "कूड़ु ठगी गुझी ना रहै कूड़ु मुलंमा पलेटि धरेहु ॥",
+            "larivaar": "कूड़ु​ठगी​गुझी​ना​रहै​कूड़ु​मुलंमा​पलेटि​धरेहु​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "kTgnrkmpD",
+          "unicode": "ਕਠਗਨਰਕਮਪਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "AMVC",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "kUVI krin vfweIAw kUVy isau lgw nyhu ]",
+          "unicode": "ਕੂੜੀ ਕਰਨਿ ਵਡਾਈਆ ਕੂੜੇ ਸਿਉ ਲਗਾ ਨੇਹੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "kUVI​krin​vfweIAw​kUVy​isau​lgw​nyhu​]",
+          "unicode": "ਕੂੜੀ​ਕਰਨਿ​ਵਡਾਈਆ​ਕੂੜੇ​ਸਿਉ​ਲਗਾ​ਨੇਹੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "False is the uttering of praises, by those who love falsehood."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ihrdy ivc T`gI r`Kx vwly AYvyN) JUTI vifAweI krdy hn, auhnW dw ipAwr JUT nwl hI huMdw hY (qy ieh g`l lukI nhIN rihMdI)[",
+              "unicode": "(ਹਿਰਦੇ ਵਿਚ ਠੱਗੀ ਰੱਖਣ ਵਾਲੇ ਐਵੇਂ) ਝੂਠੀ ਵਡਿਆਈ ਕਰਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਪਿਆਰ ਝੂਠ ਨਾਲ ਹੀ ਹੁੰਦਾ ਹੈ (ਤੇ ਇਹ ਗੱਲ ਲੁਕੀ ਨਹੀਂ ਰਹਿੰਦੀ)।"
+            }
+          },
+          "spanish": "Falsa es la alabanza de los falsos porque ellos aman sólo lo que es falso."
+        },
+        "transliteration": {
+          "english": {
+            "text": "koorree karan vaddaaeea koorre siau lagaa nehu |",
+            "larivaar": "koorree​karan​vaddaaeea​koorre​siau​lagaa​nehu​|"
+          },
+          "devanagari": {
+            "text": "कूड़ी करनि वडाईआ कूड़े सिउ लगा नेहु ॥",
+            "larivaar": "कूड़ी​करनि​वडाईआ​कूड़े​सिउ​लगा​नेहु​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "kkvksln",
+          "unicode": "ਕਕਵਕਸਲਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PWKQ",
+        "type": 4,
+        "shabadid": "3CZ",
+        "gurmukhi": {
+          "akhar": "nwnk scw Awip hY Awpy ndir kryie ]1]",
+          "unicode": "ਨਾਨਕ ਸਚਾ ਆਪਿ ਹੈ ਆਪੇ ਨਦਰਿ ਕਰੇਇ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​scw​Awip​hY​Awpy​ndir​kryie​]1]",
+          "unicode": "ਨਾਨਕ​ਸਚਾ​ਆਪਿ​ਹੈ​ਆਪੇ​ਨਦਰਿ​ਕਰੇਇ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, He alone is True; He Himself casts His Glance of Grace. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pr) hy nwnk! (ieh iksy dy v`s nhIN) jo hrI s`cw Awp hY auho hI imhr krdw hY (qy ihrdy ivcoN T`gI dUr ho skdI hY) ]1]",
+              "unicode": "(ਪਰ) ਹੇ ਨਾਨਕ! (ਇਹ ਕਿਸੇ ਦੇ ਵੱਸ ਨਹੀਂ) ਜੋ ਹਰੀ ਸੱਚਾ ਆਪ ਹੈ ਉਹੋ ਹੀ ਮਿਹਰ ਕਰਦਾ ਹੈ (ਤੇ ਹਿਰਦੇ ਵਿਚੋਂ ਠੱਗੀ ਦੂਰ ਹੋ ਸਕਦੀ ਹੈ) ॥੧॥"
+            }
+          },
+          "spanish": "Dice Nanak, oh, solamente el Señor es Verdad y es por Su Gracia que somos bendecidos. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak sachaa aap hai aape nadar karee |1|",
+            "larivaar": "naanak​sachaa​aap​hai​aape​nadar​karee​|1|"
+          },
+          "devanagari": {
+            "text": "नानक सचा आपि है आपे नदरि करेइ ॥१॥",
+            "larivaar": "नानक​सचा​आपि​है​आपे​नदरि​करेइ​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "nsAhAnk",
+          "unicode": "ਨਸਅਹਅਨਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7ZPR",
+        "type": 2,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "mÚ 4 ]",
+          "unicode": "ਮਃ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "mÚ​4​]",
+          "unicode": "ਮਃ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mahalaa 4 |",
+            "larivaar": "mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "मः ४ ॥",
+            "larivaar": "मः​४​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "m4]",
+          "unicode": "ਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "X2QK",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "sqsMgiq mih hir ausqiq hY sMig swDU imly ipAwirAw ]",
+          "unicode": "ਸਤਸੰਗਤਿ ਮਹਿ ਹਰਿ ਉਸਤਤਿ ਹੈ ਸੰਗਿ ਸਾਧੂ ਮਿਲੇ ਪਿਆਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "sqsMgiq​mih​hir​ausqiq​hY​sMig​swDU​imly​ipAwirAw​]",
+          "unicode": "ਸਤਸੰਗਤਿ​ਮਹਿ​ਹਰਿ​ਉਸਤਤਿ​ਹੈ​ਸੰਗਿ​ਸਾਧੂ​ਮਿਲੇ​ਪਿਆਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "In the Sat Sangat, the True Congregation, the Lord's Praises are sung. In the Saadh Sangat, the Company of the Holy, the Beloved Lord is met."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "sqsMg ivc prmwqmw dI is&iq-swlwh huMdI hY (ikauNik EQy) ipAwry (guris`K, sMq jn) siqgurU dy nwl imldy hn[",
+              "unicode": "ਸਤਸੰਗ ਵਿਚ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੁੰਦੀ ਹੈ (ਕਿਉਂਕਿ ਓਥੇ) ਪਿਆਰੇ (ਗੁਰਸਿੱਖ, ਸੰਤ ਜਨ) ਸਤਿਗੁਰੂ ਦੇ ਨਾਲ ਮਿਲਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "La Saad Sangat, la Sociedad de los Santos resuena con la Alabanza del Señor; es ahí en donde el Señor es obtenido."
+        },
+        "transliteration": {
+          "english": {
+            "text": "satasangat meh har usatat hai sang saadhoo mile piaariaa |",
+            "larivaar": "satasangat​meh​har​usatat​hai​sang​saadhoo​mile​piaariaa​|"
+          },
+          "devanagari": {
+            "text": "सतसंगति महि हरि उसतति है संगि साधू मिले पिआरिआ ॥",
+            "larivaar": "सतसंगति​महि​हरि​उसतति​है​संगि​साधू​मिले​पिआरिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "smhahssmp",
+          "unicode": "ਸਮਹੳਹਸਸਮਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Q6WE",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "Eie purK pRwxI DMin jn hih aupdysu krih praupkwirAw ]",
+          "unicode": "ਓਇ ਪੁਰਖ ਪ੍ਰਾਣੀ ਧੰਨਿ ਜਨ ਹਹਿ ਉਪਦੇਸੁ ਕਰਹਿ ਪਰਉਪਕਾਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "Eie​purK​pRwxI​DMin​jn​hih​aupdysu​krih​praupkwirAw​]",
+          "unicode": "ਓਇ​ਪੁਰਖ​ਪ੍ਰਾਣੀ​ਧੰਨਿ​ਜਨ​ਹਹਿ​ਉਪਦੇਸੁ​ਕਰਹਿ​ਪਰਉਪਕਾਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Blessed is that mortal being, who shares the Teachings for the good of others."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh mnu`K mubwirk hn (ikauNik) praupkwr leI auh (hornW ƒ BI) aupdyS krdy hn[",
+              "unicode": "ਉਹ ਮਨੁੱਖ ਮੁਬਾਰਿਕ ਹਨ (ਕਿਉਂਕਿ) ਪਰਉਪਕਾਰ ਲਈ ਉਹ (ਹੋਰਨਾਂ ਨੂੰ ਭੀ) ਉਪਦੇਸ਼ ਕਰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Benditos son los Santos de Bien que instruyen a otros en los Modos del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "oe purakh praanee dhan jan heh upades kareh praupakaariaa |",
+            "larivaar": "oe​purakh​praanee​dhan​jan​heh​upades​kareh​praupakaariaa​|"
+          },
+          "devanagari": {
+            "text": "ओइ पुरख प्राणी धंनि जन हहि उपदेसु करहि परउपकारिआ ॥",
+            "larivaar": "ओइ​पुरख​प्राणी​धंनि​जन​हहि​उपदेसु​करहि​परउपकारिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "appDjhakp",
+          "unicode": "ੳਪਪਧਜਹੳਕਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "K6WH",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "hir nwmu idRVwvih hir nwmu suxwvih hir nwmy jgu insqwirAw ]",
+          "unicode": "ਹਰਿ ਨਾਮੁ ਦ੍ਰਿੜਾਵਹਿ ਹਰਿ ਨਾਮੁ ਸੁਣਾਵਹਿ ਹਰਿ ਨਾਮੇ ਜਗੁ ਨਿਸਤਾਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​nwmu​idRVwvih​hir​nwmu​suxwvih​hir​nwmy​jgu​insqwirAw​]",
+          "unicode": "ਹਰਿ​ਨਾਮੁ​ਦ੍ਰਿੜਾਵਹਿ​ਹਰਿ​ਨਾਮੁ​ਸੁਣਾਵਹਿ​ਹਰਿ​ਨਾਮੇ​ਜਗੁ​ਨਿਸਤਾਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He implants the Name of the Lord, and he preaches the Name of the Lord; through the Name of the Lord, the world is saved."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pRBU dy nwm ivc isdk bMnHwauNdy hn, pRBU dw nwm hI suxwauNdy hn qy pRBU dy nwm dI rwhIN hI sMswr ƒ qwrdy hn, (ieh swrI brkiq ies leI hY ik auh vfBwgI sqsMgiq ivc jw ky siqgurU ivc juVdy hn)[",
+              "unicode": "ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਸਿਦਕ ਬੰਨ੍ਹਾਉਂਦੇ ਹਨ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਸੁਣਾਉਂਦੇ ਹਨ ਤੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ ਹੀ ਸੰਸਾਰ ਨੂੰ ਤਾਰਦੇ ਹਨ, (ਇਹ ਸਾਰੀ ਬਰਕਤਿ ਇਸ ਲਈ ਹੈ ਕਿ ਉਹ ਵਡਭਾਗੀ ਸਤਸੰਗਤਿ ਵਿਚ ਜਾ ਕੇ ਸਤਿਗੁਰੂ ਵਿਚ ਜੁੜਦੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Imparten el Naam, el Nombre del Señor a otros, y a través del Nombre, emancipan al mundo entero."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har naam drirraaveh har naam sunaaveh har naame jag nisataariaa |",
+            "larivaar": "har​naam​drirraaveh​har​naam​sunaaveh​har​naame​jag​nisataariaa​|"
+          },
+          "devanagari": {
+            "text": "हरि नामु द्रिड़ावहि हरि नामु सुणावहि हरि नामे जगु निसतारिआ ॥",
+            "larivaar": "हरि​नामु​द्रिड़ावहि​हरि​नामु​सुणावहि​हरि​नामे​जगु​निसतारिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "hndhnshnjn",
+          "unicode": "ਹਨਦਹਨਸਹਨਜਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BPDG",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "gur vyKx kau sBu koeI locY nv KMf jgiq nmskwirAw ]",
+          "unicode": "ਗੁਰ ਵੇਖਣ ਕਉ ਸਭੁ ਕੋਈ ਲੋਚੈ ਨਵ ਖੰਡ ਜਗਤਿ ਨਮਸਕਾਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​vyKx​kau​sBu​koeI​locY​nv​KMf​jgiq​nmskwirAw​]",
+          "unicode": "ਗੁਰ​ਵੇਖਣ​ਕਉ​ਸਭੁ​ਕੋਈ​ਲੋਚੈ​ਨਵ​ਖੰਡ​ਜਗਤਿ​ਨਮਸਕਾਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Everyone longs to see the Guru; the world, and the nine continents, bow down to Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ieh brkqW sux ky) hryk jIv siqgurU dw drSn krn ƒ qWGdw hY qy sMswr ivc nvW KMfW (dy jIv) siqgurU dy A`gy isr invWdy hn[",
+              "unicode": "(ਇਹ ਬਰਕਤਾਂ ਸੁਣ ਕੇ) ਹਰੇਕ ਜੀਵ ਸਤਿਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰਨ ਨੂੰ ਤਾਂਘਦਾ ਹੈ ਤੇ ਸੰਸਾਰ ਵਿਚ ਨਵਾਂ ਖੰਡਾਂ (ਦੇ ਜੀਵ) ਸਤਿਗੁਰੂ ਦੇ ਅੱਗੇ ਸਿਰ ਨਿਵਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Todos añoran ver al Guru; el Universo entero saluda con Reverencia y aplaude al Guru."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur vekhan kau sabh koee lochai nav khandd jagat namasakaariaa |",
+            "larivaar": "gur​vekhan​kau​sabh​koee​lochai​nav​khandd​jagat​namasakaariaa​|"
+          },
+          "devanagari": {
+            "text": "गुर वेखण कउ सभु कोई लोचै नव खंड जगति नमसकारिआ ॥",
+            "larivaar": "गुर​वेखण​कउ​सभु​कोई​लोचै​नव​खंड​जगति​नमसकारिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "gvksklnKjn",
+          "unicode": "ਗਵਕਸਕਲਨਖਜਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TEYR",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "quDu Awpy Awpu riKAw siqgur ivic guru Awpy quDu svwirAw ]",
+          "unicode": "ਤੁਧੁ ਆਪੇ ਆਪੁ ਰਖਿਆ ਸਤਿਗੁਰ ਵਿਚਿ ਗੁਰੁ ਆਪੇ ਤੁਧੁ ਸਵਾਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "quDu​Awpy​Awpu​riKAw​siqgur​ivic​guru​Awpy​quDu​svwirAw​]",
+          "unicode": "ਤੁਧੁ​ਆਪੇ​ਆਪੁ​ਰਖਿਆ​ਸਤਿਗੁਰ​ਵਿਚਿ​ਗੁਰੁ​ਆਪੇ​ਤੁਧੁ​ਸਵਾਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You Yourself have established the True Guru; You Yourself have adorned the Guru."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "siqgurU ƒ pYdw krn vwly hy pRBU! qUM Awpxw Awp siqgurU ivc lukw r`iKAw hY qy qUM Awp hI siqgurU ƒ suMdr bxwieAw hY[",
+              "unicode": "ਸਤਿਗੁਰੂ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲੇ ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪਣਾ ਆਪ ਸਤਿਗੁਰੂ ਵਿਚ ਲੁਕਾ ਰੱਖਿਆ ਹੈ ਤੇ ਤੂੰ ਆਪ ਹੀ ਸਤਿਗੁਰੂ ਨੂੰ ਸੁੰਦਰ ਬਣਾਇਆ ਹੈ।"
+            }
+          },
+          "spanish": "Tú, oh Señor, habitas en la mente del Guru, y Tú Mismo adornas al Guru con Gloria."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tudh aape aap rakhiaa satigur vich gur aape tudh savaariaa |",
+            "larivaar": "tudh​aape​aap​rakhiaa​satigur​vich​gur​aape​tudh​savaariaa​|"
+          },
+          "devanagari": {
+            "text": "तुधु आपे आपु रखिआ सतिगुर विचि गुरु आपे तुधु सवारिआ ॥",
+            "larivaar": "तुधु​आपे​आपु​रखिआ​सतिगुर​विचि​गुरु​आपे​तुधु​सवारिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "qAArsvgAqs",
+          "unicode": "ਤਅਅਰਸਵਗਅਤਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ZL2Z",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "qU Awpy pUjih pUj krwvih siqgur kau isrjxhwirAw ]",
+          "unicode": "ਤੂ ਆਪੇ ਪੂਜਹਿ ਪੂਜ ਕਰਾਵਹਿ ਸਤਿਗੁਰ ਕਉ ਸਿਰਜਣਹਾਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "qU​Awpy​pUjih​pUj​krwvih​siqgur​kau​isrjxhwirAw​]",
+          "unicode": "ਤੂ​ਆਪੇ​ਪੂਜਹਿ​ਪੂਜ​ਕਰਾਵਹਿ​ਸਤਿਗੁਰ​ਕਉ​ਸਿਰਜਣਹਾਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You Yourself worship and adore the True Guru; You inspire others to worship Him as well, O Creator Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qUM Awp hI siqgurU ƒ vifAweI dyNdw hYN qy Awp hI (hornW pwsoN gurU dI) vifAweI krwauNdw hYN[",
+              "unicode": "ਤੂੰ ਆਪ ਹੀ ਸਤਿਗੁਰੂ ਨੂੰ ਵਡਿਆਈ ਦੇਂਦਾ ਹੈਂ ਤੇ ਆਪ ਹੀ (ਹੋਰਨਾਂ ਪਾਸੋਂ ਗੁਰੂ ਦੀ) ਵਡਿਆਈ ਕਰਾਉਂਦਾ ਹੈਂ।"
+            }
+          },
+          "spanish": "Oh mi Señor Creador, eres Tu Propio alabador en la forma de Guru."
+        },
+        "transliteration": {
+          "english": {
+            "text": "too aape poojeh pooj karaaveh satigur kau sirajanahaariaa |",
+            "larivaar": "too​aape​poojeh​pooj​karaaveh​satigur​kau​sirajanahaariaa​|"
+          },
+          "devanagari": {
+            "text": "तू आपे पूजहि पूज करावहि सतिगुर कउ सिरजणहारिआ ॥",
+            "larivaar": "तू​आपे​पूजहि​पूज​करावहि​सतिगुर​कउ​सिरजणहारिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "qAppksks",
+          "unicode": "ਤਅਪਪਕਸਕਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "49ER",
+        "type": 4,
+        "shabadid": "WT2",
+        "gurmukhi": {
+          "akhar": "koeI ivCuiV jwie siqgurU pwshu iqsu kwlw muhu jim mwirAw ]",
+          "unicode": "ਕੋਈ ਵਿਛੁੜਿ ਜਾਇ ਸਤਿਗੁਰੂ ਪਾਸਹੁ ਤਿਸੁ ਕਾਲਾ ਮੁਹੁ ਜਮਿ ਮਾਰਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "koeI​ivCuiV​jwie​siqgurU​pwshu​iqsu​kwlw​muhu​jim​mwirAw​]",
+          "unicode": "ਕੋਈ​ਵਿਛੁੜਿ​ਜਾਇ​ਸਤਿਗੁਰੂ​ਪਾਸਹੁ​ਤਿਸੁ​ਕਾਲਾ​ਮੁਹੁ​ਜਮਿ​ਮਾਰਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If someone separates himself from the True Guru, his face is blackened, and he is destroyed by the Messenger of Death."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo mnu`K siqgurU koloN iv`CV jwey, aus dw mUMh kwlw huMdw hY qy jmrwj pwsoN aus ƒ mwr pYNdI hY, (Bwv, auh jgq ivc iek qW mukwlK K`tdw hY, dUjy mOq Awidk dw aus ƒ sdw sihm ipAw rihMdw hY)[",
+              "unicode": "ਜੋ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਕੋਲੋਂ ਵਿੱਛੜ ਜਾਏ, ਉਸ ਦਾ ਮੂੰਹ ਕਾਲਾ ਹੁੰਦਾ ਹੈ ਤੇ ਜਮਰਾਜ ਪਾਸੋਂ ਉਸ ਨੂੰ ਮਾਰ ਪੈਂਦੀ ਹੈ, (ਭਾਵ, ਉਹ ਜਗਤ ਵਿਚ ਇਕ ਤਾਂ ਮੁਕਾਲਖ ਖੱਟਦਾ ਹੈ, ਦੂਜੇ ਮੌਤ ਆਦਿਕ ਦਾ ਉਸ ਨੂੰ ਸਦਾ ਸਹਿਮ ਪਿਆ ਰਹਿੰਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "El semblante de aquél que se aparta del Guru, expresa impiedad, y es llevado por Yama, el mensajero de la muerte."
+        },
+        "transliteration": {
+          "english": {
+            "text": "koee vichhurr jaae satiguroo paasahu tis kaalaa muhu jam maariaa |",
+            "larivaar": "koee​vichhurr​jaae​satiguroo​paasahu​tis​kaalaa​muhu​jam​maariaa​|"
+          },
+          "devanagari": {
+            "text": "कोई विछुड़ि जाइ सतिगुरू पासहु तिसु काला मुहु जमि मारिआ ॥",
+            "larivaar": "कोई​विछुड़ि​जाइ​सतिगुरू​पासहु​तिसु​काला​मुहु​जमि​मारिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 7,
+          "akhar": "rwgu gauVI",
+          "unicode": "ਰਾਗੁ ਗਉੜੀ",
+          "english": "Raag Gauree",
+          "startang": 151,
+          "endang": 346,
+          "raagwithpage": "Raag Gauree (151-346)"
+        },
+        "pageno": 311,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "kvjspqkmjm",
+          "unicode": "ਕਵਜਸਪਤਕਮਜਮ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

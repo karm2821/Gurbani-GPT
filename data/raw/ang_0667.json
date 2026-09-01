@@ -1,0 +1,2049 @@
+{
+  "pageno": 667,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 35,
+  "page": [
+    {
+      "line": {
+        "id": "X3LV",
+        "type": 4,
+        "shabadid": "3FK",
+        "gurmukhi": {
+          "akhar": "hir hir Agm AgwiD boiD AprMpr purK ApwrI ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਅਗਮ ਅਗਾਧਿ ਬੋਧਿ ਅਪਰੰਪਰ ਪੁਰਖ ਅਪਾਰੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​Agm​AgwiD​boiD​AprMpr​purK​ApwrI​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਅਗਮ​ਅਗਾਧਿ​ਬੋਧਿ​ਅਪਰੰਪਰ​ਪੁਰਖ​ਅਪਾਰੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord, Har, Har, is unapproachable, of unfathomable wisdom, unlimited, all-powerful and infinite."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy AphuMc! hy mnu`KW dI smJ qoN pry! hy pry qoN pry! hy srb-ivAwpk! hy byAMq!",
+              "unicode": "ਹੇ ਅਪਹੁੰਚ! ਹੇ ਮਨੁੱਖਾਂ ਦੀ ਸਮਝ ਤੋਂ ਪਰੇ! ਹੇ ਪਰੇ ਤੋਂ ਪਰੇ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਬੇਅੰਤ!"
+            }
+          },
+          "spanish": "El Señor, Jar, Jar, es Inaccesible, de Sabiduría Insondable, Ilimitado, Omnipotente, e Infinito."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har agam agaadh bodh aparanpar purakh apaaree |",
+            "larivaar": "har​har​agam​agaadh​bodh​aparanpar​purakh​apaaree​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि अगम अगाधि बोधि अपरंपर पुरख अपारी ॥",
+            "larivaar": "हरि​हरि​अगम​अगाधि​बोधि​अपरंपर​पुरख​अपारी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "hhAAbApA",
+          "unicode": "ਹਹਅਅਬਅਪਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "W8ZK",
+        "type": 4,
+        "shabadid": "3FK",
+        "gurmukhi": {
+          "akhar": "jn kau ik®pw krhu jgjIvn jn nwnk pYj svwrI ]4]1]",
+          "unicode": "ਜਨ ਕਉ ਕ੍ਰਿਪਾ ਕਰਹੁ ਜਗਜੀਵਨ ਜਨ ਨਾਨਕ ਪੈਜ ਸਵਾਰੀ ॥੪॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "jn​kau​ik®pw​krhu​jgjIvn​jn​nwnk​pYj​svwrI​]4]1]",
+          "unicode": "ਜਨ​ਕਉ​ਕ੍ਰਿਪਾ​ਕਰਹੁ​ਜਗਜੀਵਨ​ਜਨ​ਨਾਨਕ​ਪੈਜ​ਸਵਾਰੀ​॥੪॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Show Mercy to Your humble servant, O Life of the world, and save the honor of servant Nanak. ||4||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy jgq dy jIvn! Awpxy dwsW auqy myhr kr, qy, (ies ivkwr-Bry sMswr-smuMdr ivcoN) hy nwnk! (AwK-) dwsW dI lwj r`K lY ]4]1]",
+              "unicode": "ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ! ਆਪਣੇ ਦਾਸਾਂ ਉਤੇ ਮੇਹਰ ਕਰ, ਤੇ, (ਇਸ ਵਿਕਾਰ-ਭਰੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ) ਹੇ ਨਾਨਕ! (ਆਖ-) ਦਾਸਾਂ ਦੀ ਲਾਜ ਰੱਖ ਲੈ ॥੪॥੧॥"
+            }
+          },
+          "spanish": "Oh Vida del Mundo, muestra Misericordia a Tu Humilde Sirviente y salva el Honor de Nanak, Tu Sirviente. (4-1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jan kau kripaa karahu jagajeevan jan naanak paij savaaree |4|1|",
+            "larivaar": "jan​kau​kripaa​karahu​jagajeevan​jan​naanak​paij​savaaree​|4|1|"
+          },
+          "devanagari": {
+            "text": "जन कउ क्रिपा करहु जगजीवन जन नानक पैज सवारी ॥४॥१॥",
+            "larivaar": "जन​कउ​क्रिपा​करहु​जगजीवन​जन​नानक​पैज​सवारी​॥४॥१॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "jkkkjjnps",
+          "unicode": "ਜਕਕਕਜਜਨਪਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "G1TW",
+        "type": 2,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "DnwsrI mhlw 4 ]",
+          "unicode": "ਧਨਾਸਰੀ ਮਹਲਾ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "DnwsrI​mhlw​4​]",
+          "unicode": "ਧਨਾਸਰੀ​ਮਹਲਾ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Dhanaasaree, Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Dhanasri, Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "dhanaasaree mahalaa 4 |",
+            "larivaar": "dhanaasaree​mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "धनासरी महला ४ ॥",
+            "larivaar": "धनासरी​महला​४​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "Dm4]",
+          "unicode": "ਧਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LQ1Q",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "hir ky sMq jnw hir jipE iqn kw dUKu Brmu Bau BwgI ]",
+          "unicode": "ਹਰਿ ਕੇ ਸੰਤ ਜਨਾ ਹਰਿ ਜਪਿਓ ਤਿਨ ਕਾ ਦੂਖੁ ਭਰਮੁ ਭਉ ਭਾਗੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​ky​sMq​jnw​hir​jipE​iqn​kw​dUKu​Brmu​Bau​BwgI​]",
+          "unicode": "ਹਰਿ​ਕੇ​ਸੰਤ​ਜਨਾ​ਹਰਿ​ਜਪਿਓ​ਤਿਨ​ਕਾ​ਦੂਖੁ​ਭਰਮੁ​ਭਉ​ਭਾਗੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The humble Saints of the Lord meditate on the Lord; their pain, doubt and fear have run away."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! prmwqmw dy ijnHW sMq jnW ny prmwqmw dw nwm jipAw, auhnW dw hryk du`K, hryk Brm hryk fr dUr ho jWdw hY[",
+              "unicode": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਜਿਨ੍ਹਾਂ ਸੰਤ ਜਨਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ, ਉਹਨਾਂ ਦਾ ਹਰੇਕ ਦੁੱਖ, ਹਰੇਕ ਭਰਮ ਹਰੇਕ ਡਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Los seres piadosos y de Dios, meditan en Él, sus dudas, preocupaciones y miedos vuelan lejos de ellos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har ke sant janaa har japio tin kaa dookh bharam bhau bhaagee |",
+            "larivaar": "har​ke​sant​janaa​har​japio​tin​kaa​dookh​bharam​bhau​bhaagee​|"
+          },
+          "devanagari": {
+            "text": "हरि के संत जना हरि जपिओ तिन का दूखु भरमु भउ भागी ॥",
+            "larivaar": "हरि​के​संत​जना​हरि​जपिओ​तिन​का​दूखु​भरमु​भउ​भागी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "hksjhjqkdBBB",
+          "unicode": "ਹਕਸਜਹਜਤਕਦਭਭਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HKQ6",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "ApnI syvw Awip krweI gurmiq AMqir jwgI ]1]",
+          "unicode": "ਅਪਨੀ ਸੇਵਾ ਆਪਿ ਕਰਾਈ ਗੁਰਮਤਿ ਅੰਤਰਿ ਜਾਗੀ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "ApnI​syvw​Awip​krweI​gurmiq​AMqir​jwgI​]1]",
+          "unicode": "ਅਪਨੀ​ਸੇਵਾ​ਆਪਿ​ਕਰਾਈ​ਗੁਰਮਤਿ​ਅੰਤਰਿ​ਜਾਗੀ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord Himself inspires them to serve Him; they are awakened within to the Guru's Teachings. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw Awp hI auhnW pwsoN AwpxI BgqI krWdw hY[ (prmwqmw dI ikrpw nwl hI) auhnW dy AMdr gurU dw aupdyS Awpxw pRBwv pWdw hY ]1]",
+              "unicode": "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਉਹਨਾਂ ਪਾਸੋਂ ਆਪਣੀ ਭਗਤੀ ਕਰਾਂਦਾ ਹੈ। (ਪਰਮਾਤਮਾ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ) ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਆਪਣਾ ਪ੍ਰਭਾਵ ਪਾਂਦਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "El Señor Mismo los pone a hacer Su Servicio y la Preciosa Luz de la Instrucción del Guru brilla en su interior. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "apanee sevaa aap karaaee guramat antar jaagee |1|",
+            "larivaar": "apanee​sevaa​aap​karaaee​guramat​antar​jaagee​|1|"
+          },
+          "devanagari": {
+            "text": "अपनी सेवा आपि कराई गुरमति अंतरि जागी ॥१॥",
+            "larivaar": "अपनी​सेवा​आपि​कराई​गुरमति​अंतरि​जागी​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "AsAkgAj",
+          "unicode": "ਅਸਅਕਗਅਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YY2N",
+        "type": 3,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "hir kY nwim rqw bYrwgI ]",
+          "unicode": "ਹਰਿ ਕੈ ਨਾਮਿ ਰਤਾ ਬੈਰਾਗੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​kY​nwim​rqw​bYrwgI​]",
+          "unicode": "ਹਰਿ​ਕੈ​ਨਾਮਿ​ਰਤਾ​ਬੈਰਾਗੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Imbued with the Lord's Name, they are unattached to the world."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! jyhVw mnu`K prmwqmw dy nwm ivc mgn rihMdw hY auh mwieAw dy moh qoN inrlyp ho jWdw hY[",
+              "unicode": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਮਗਨ ਰਹਿੰਦਾ ਹੈ ਉਹ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਨਿਰਲੇਪ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "El Enamorado de Dios está imbuido en el Nombre del Señor. Escuchar el Discurso del Señor Dios,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har kai naam rataa bairaagee |",
+            "larivaar": "har​kai​naam​rataa​bairaagee​|"
+          },
+          "devanagari": {
+            "text": "हरि कै नामि रता बैरागी ॥",
+            "larivaar": "हरि​कै​नामि​रता​बैरागी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "hknrb",
+          "unicode": "ਹਕਨਰਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4Z4Q",
+        "type": 3,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "hir hir kQw suxI min BweI gurmiq hir ilv lwgI ]1] rhwau ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਕਥਾ ਸੁਣੀ ਮਨਿ ਭਾਈ ਗੁਰਮਤਿ ਹਰਿ ਲਿਵ ਲਾਗੀ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​kQw​suxI​min​BweI​gurmiq​hir​ilv​lwgI​]1]​rhwau​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਕਥਾ​ਸੁਣੀ​ਮਨਿ​ਭਾਈ​ਗੁਰਮਤਿ​ਹਰਿ​ਲਿਵ​ਲਾਗੀ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Listening to the sermon of the Lord, Har, Har, their minds are pleased; through Guru's Instruction, they enshrine love for the Lord. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh (ijauN ijauN) prmwqmw dI is&q-swlwh dIAW g`lW suxdw hY, aus ƒ auh mn ivc ipAwrIAW l`gdIAW hn[ gurU dy aupdyS dI brkiq nwl aus dI lgn prmwqmw ivc l`gI rihMdI hY ]1] rhwau ]",
+              "unicode": "ਉਹ (ਜਿਉਂ ਜਿਉਂ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਦਾ ਹੈ, ਉਸ ਨੂੰ ਉਹ ਮਨ ਵਿਚ ਪਿਆਰੀਆਂ ਲੱਗਦੀਆਂ ਹਨ। ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਸ ਦੀ ਲਗਨ ਪਰਮਾਤਮਾ ਵਿਚ ਲੱਗੀ ਰਹਿੰਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "complace a su mente y, a través de la Instrucción del Guru, logra elevar su Amor por el Señor. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har kathaa sunee man bhaaee guramat har liv laagee |1| rahaau |",
+            "larivaar": "har​har​kathaa​sunee​man​bhaaee​guramat​har​liv​laagee​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि कथा सुणी मनि भाई गुरमति हरि लिव लागी ॥१॥ रहाउ ॥",
+            "larivaar": "हरि​हरि​कथा​सुणी​मनि​भाई​गुरमति​हरि​लिव​लागी​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "hhksmBghll",
+          "unicode": "ਹਹਕਸਮਭਗਹਲਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "06EL",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "sMq jnw kI jwiq hir suAwmI qum@ Twkur hm sWgI ]",
+          "unicode": "ਸੰਤ ਜਨਾ ਕੀ ਜਾਤਿ ਹਰਿ ਸੁਆਮੀ ਤੁਮੑ ਠਾਕੁਰ ਹਮ ਸਾਂਗੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "sMq​jnw​kI​jwiq​hir​suAwmI​qum@​Twkur​hm​sWgI​]",
+          "unicode": "ਸੰਤ​ਜਨਾ​ਕੀ​ਜਾਤਿ​ਹਰਿ​ਸੁਆਮੀ​ਤੁਮੑ​ਠਾਕੁਰ​ਹਮ​ਸਾਂਗੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "God, the Lord and Master, is the caste and social status of His humble Saints. You are the Lord and Master; I am just Your puppet."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI pRBU! (dunIAw dy lok AwpxI au`cI jwiq dw mwx krdy hn) sMq jnW dI jwiq qUM Awp hI hYN (sMq jn qYQoN hI Awqmk jIvn lYNdy hn)[ hy pRBU! qUM swfw mwlk hYN, AsIN qyry pUrinAW auqy qurn vwly hW[",
+              "unicode": "ਹੇ ਹਰੀ ਪ੍ਰਭੂ! (ਦੁਨੀਆ ਦੇ ਲੋਕ ਆਪਣੀ ਉੱਚੀ ਜਾਤਿ ਦਾ ਮਾਣ ਕਰਦੇ ਹਨ) ਸੰਤ ਜਨਾਂ ਦੀ ਜਾਤਿ ਤੂੰ ਆਪ ਹੀ ਹੈਂ (ਸੰਤ ਜਨ ਤੈਥੋਂ ਹੀ ਆਤਮਕ ਜੀਵਨ ਲੈਂਦੇ ਹਨ)। ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਡਾ ਮਾਲਕ ਹੈਂ, ਅਸੀਂ ਤੇਰੇ ਪੂਰਨਿਆਂ ਉਤੇ ਤੁਰਨ ਵਾਲੇ ਹਾਂ।"
+            }
+          },
+          "spanish": "El Señor Dios es la casta de los seres Santos. Tú eres mi Señor y yo soy Tu cachorrito. Oh Señor Maestro,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sant janaa kee jaat har suaamee tuma tthaakur ham saangee |",
+            "larivaar": "sant​janaa​kee​jaat​har​suaamee​tuma​tthaakur​ham​saangee​|"
+          },
+          "devanagari": {
+            "text": "संत जना की जाति हरि सुआमी तुम ठाकुर हम सांगी ॥",
+            "larivaar": "संत​जना​की​जाति​हरि​सुआमी​तुम​ठाकुर​हम​सांगी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "sjkjhsqThs",
+          "unicode": "ਸਜਕਜਹਸਤਠਹਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QDXH",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "jYsI miq dyvhu hir suAwmI hm qYsy bulg bulwgI ]2]",
+          "unicode": "ਜੈਸੀ ਮਤਿ ਦੇਵਹੁ ਹਰਿ ਸੁਆਮੀ ਹਮ ਤੈਸੇ ਬੁਲਗ ਬੁਲਾਗੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "jYsI​miq​dyvhu​hir​suAwmI​hm​qYsy​bulg​bulwgI​]2]",
+          "unicode": "ਜੈਸੀ​ਮਤਿ​ਦੇਵਹੁ​ਹਰਿ​ਸੁਆਮੀ​ਹਮ​ਤੈਸੇ​ਬੁਲਗ​ਬੁਲਾਗੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "As is the understanding You bless us with, so are the words we speak. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy mwlk pRBU! ijho ijhI Akl qUM swƒ dyNdw hYN, AsIN auho ijhy bol hI boldy hW ]2]",
+              "unicode": "ਹੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਜਿਹੋ ਜਿਹੀ ਅਕਲ ਤੂੰ ਸਾਨੂੰ ਦੇਂਦਾ ਹੈਂ, ਅਸੀਂ ਉਹੋ ਜਿਹੇ ਬੋਲ ਹੀ ਬੋਲਦੇ ਹਾਂ ॥੨॥"
+            }
+          },
+          "spanish": "así como es el Entendimiento con el que me bendices, así son las palabras que recito. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaisee mat devahu har suaamee ham taise bulag bulaagee |2|",
+            "larivaar": "jaisee​mat​devahu​har​suaamee​ham​taise​bulag​bulaagee​|2|"
+          },
+          "devanagari": {
+            "text": "जैसी मति देवहु हरि सुआमी हम तैसे बुलग बुलागी ॥२॥",
+            "larivaar": "जैसी​मति​देवहु​हरि​सुआमी​हम​तैसे​बुलग​बुलागी​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "jmdhshqbb",
+          "unicode": "ਜਮਦਹਸਹਤਬਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UT3V",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "ikAw hm ikrm nwn@ ink kIry qum@ vf purK vfwgI ]",
+          "unicode": "ਕਿਆ ਹਮ ਕਿਰਮ ਨਾਨੑ ਨਿਕ ਕੀਰੇ ਤੁਮੑ ਵਡ ਪੁਰਖ ਵਡਾਗੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "ikAw​hm​ikrm​nwn@​ink​kIry​qum@​vf​purK​vfwgI​]",
+          "unicode": "ਕਿਆ​ਹਮ​ਕਿਰਮ​ਨਾਨੑ​ਨਿਕ​ਕੀਰੇ​ਤੁਮੑ​ਵਡ​ਪੁਰਖ​ਵਡਾਗੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "What are we? Tiny worms, and microscopic germs. You are our great and glorious Lord and Master."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pRBU! swfI kIh pWieAW hY? AsIN bhuq Coty ikrm hW, in`ky in`ky kIVy hW, qUM v`fw purK hYN[",
+              "unicode": "ਹੇ ਪ੍ਰਭੂ! ਸਾਡੀ ਕੀਹ ਪਾਂਇਆਂ ਹੈ? ਅਸੀਂ ਬਹੁਤ ਛੋਟੇ ਕਿਰਮ ਹਾਂ, ਨਿੱਕੇ ਨਿੱਕੇ ਕੀੜੇ ਹਾਂ, ਤੂੰ ਵੱਡਾ ਪੁਰਖ ਹੈਂ।"
+            }
+          },
+          "spanish": "¿Qué soy yo?, un pequeño gusano, un germen diminuto, Tu eres mi Gran Señor,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kiaa ham kiram naana nik keere tuma vadd purakh vaddaagee |",
+            "larivaar": "kiaa​ham​kiram​naana​nik​keere​tuma​vadd​purakh​vaddaagee​|"
+          },
+          "devanagari": {
+            "text": "किआ हम किरम नान निक कीरे तुम वड पुरख वडागी ॥",
+            "larivaar": "किआ​हम​किरम​नान​निक​कीरे​तुम​वड​पुरख​वडागी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "khknnkqvpv",
+          "unicode": "ਕਹਕਨਨਕਤਵਪਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TJQX",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "qum@rI giq imiq kih n skh pRB hm ikau kir imlh ABwgI ]3]",
+          "unicode": "ਤੁਮੑਰੀ ਗਤਿ ਮਿਤਿ ਕਹਿ ਨ ਸਕਹ ਪ੍ਰਭ ਹਮ ਕਿਉ ਕਰਿ ਮਿਲਹ ਅਭਾਗੀ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "qum@rI​giq​imiq​kih​n​skh​pRB​hm​ikau​kir​imlh​ABwgI​]3]",
+          "unicode": "ਤੁਮੑਰੀ​ਗਤਿ​ਮਿਤਿ​ਕਹਿ​ਨ​ਸਕਹ​ਪ੍ਰਭ​ਹਮ​ਕਿਉ​ਕਰਿ​ਮਿਲਹ​ਅਭਾਗੀ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I cannot describe Your state and extent. O God, how can we unfortunate ones meet with You? ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AsIN jIv ieh nhIN d`s skdy ik qUM ikho ijhw hYN, qy, kyfw v`fw hYN[ AsIN Bwg-hIx jIv (Awpxy au`dm nwl) qYƒ ikvyN iml skdy hW? ]3]",
+              "unicode": "ਅਸੀਂ ਜੀਵ ਇਹ ਨਹੀਂ ਦੱਸ ਸਕਦੇ ਕਿ ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਹੈਂ, ਤੇ, ਕੇਡਾ ਵੱਡਾ ਹੈਂ। ਅਸੀਂ ਭਾਗ-ਹੀਣ ਜੀਵ (ਆਪਣੇ ਉੱਦਮ ਨਾਲ) ਤੈਨੂੰ ਕਿਵੇਂ ਮਿਲ ਸਕਦੇ ਹਾਂ? ॥੩॥"
+            }
+          },
+          "spanish": "Tu Cualidad y Valor no los puedo ni empezar a narrar, oh mi Señor, ¿cómo podría yo, el pobre desafortunado, encontrarme Contigo? (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "tumaree gat mit keh na sakah prabh ham kiau kar milah abhaagee |3|",
+            "larivaar": "tumaree​gat​mit​keh​na​sakah​prabh​ham​kiau​kar​milah​abhaagee​|3|"
+          },
+          "devanagari": {
+            "text": "तुमरी गति मिति कहि न सकह प्रभ हम किउ करि मिलह अभागी ॥३॥",
+            "larivaar": "तुमरी​गति​मिति​कहि​न​सकह​प्रभ​हम​किउ​करि​मिलह​अभागी​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "qgmknsphkkmA",
+          "unicode": "ਤਗਮਕਨਸਪਹਕਕਮਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4QUK",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "hir pRB suAwmI ikrpw Dwrhu hm hir hir syvw lwgI ]",
+          "unicode": "ਹਰਿ ਪ੍ਰਭ ਸੁਆਮੀ ਕਿਰਪਾ ਧਾਰਹੁ ਹਮ ਹਰਿ ਹਰਿ ਸੇਵਾ ਲਾਗੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​pRB​suAwmI​ikrpw​Dwrhu​hm​hir​hir​syvw​lwgI​]",
+          "unicode": "ਹਰਿ​ਪ੍ਰਭ​ਸੁਆਮੀ​ਕਿਰਪਾ​ਧਾਰਹੁ​ਹਮ​ਹਰਿ​ਹਰਿ​ਸੇਵਾ​ਲਾਗੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O God, my Lord and Master, shower me with Your Mercy, and commit me to Your service."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI pRBU! hy mwlk! swfy auqy myhr kr, AsIN qyrI syvw-BgqI ivc l`gIey[",
+              "unicode": "ਹੇ ਹਰੀ ਪ੍ਰਭੂ! ਹੇ ਮਾਲਕ! ਸਾਡੇ ਉਤੇ ਮੇਹਰ ਕਰ, ਅਸੀਂ ਤੇਰੀ ਸੇਵਾ-ਭਗਤੀ ਵਿਚ ਲੱਗੀਏ।"
+            }
+          },
+          "spanish": "Oh Señor Dios, Maestro mío, muéstrame Tu Misericordia, así podré ser amarrado a Tu Servicio."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har prabh suaamee kirapaa dhaarahu ham har har sevaa laagee |",
+            "larivaar": "har​prabh​suaamee​kirapaa​dhaarahu​ham​har​har​sevaa​laagee​|"
+          },
+          "devanagari": {
+            "text": "हरि प्रभ सुआमी किरपा धारहु हम हरि हरि सेवा लागी ॥",
+            "larivaar": "हरि​प्रभ​सुआमी​किरपा​धारहु​हम​हरि​हरि​सेवा​लागी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "hpskDhhhsl",
+          "unicode": "ਹਪਸਕਧਹਹਹਸਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UF7W",
+        "type": 4,
+        "shabadid": "C3H",
+        "gurmukhi": {
+          "akhar": "nwnk dwsin dwsu krhu pRB hm hir kQw kQwgI ]4]2]",
+          "unicode": "ਨਾਨਕ ਦਾਸਨਿ ਦਾਸੁ ਕਰਹੁ ਪ੍ਰਭ ਹਮ ਹਰਿ ਕਥਾ ਕਥਾਗੀ ॥੪॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​dwsin​dwsu​krhu​pRB​hm​hir​kQw​kQwgI​]4]2]",
+          "unicode": "ਨਾਨਕ​ਦਾਸਨਿ​ਦਾਸੁ​ਕਰਹੁ​ਪ੍ਰਭ​ਹਮ​ਹਰਿ​ਕਥਾ​ਕਥਾਗੀ​॥੪॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Make Nanak the slave of Your slaves, God; I speak the speech of the Lord's sermon. ||4||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! (AwK-) hy pRBU! swƒ Awpxy dwsW dw dws bxw lY, AsIN qyrI is&q-swlwh dIAW g`lW krdy rhIey ]4]2]",
+              "unicode": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਪ੍ਰਭੂ! ਸਾਨੂੰ ਆਪਣੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਬਣਾ ਲੈ, ਅਸੀਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਕਰਦੇ ਰਹੀਏ ॥੪॥੨॥"
+            }
+          },
+          "spanish": "Mi Señor, hazme el Esclavo de Tus Esclavos, para que recite siempre el Discurso Divino. (4-2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak daasan daas karahu prabh ham har kathaa kathaagee |4|2|",
+            "larivaar": "naanak​daasan​daas​karahu​prabh​ham​har​kathaa​kathaagee​|4|2|"
+          },
+          "devanagari": {
+            "text": "नानक दासनि दासु करहु प्रभ हम हरि कथा कथागी ॥४॥२॥",
+            "larivaar": "नानक​दासनि​दासु​करहु​प्रभ​हम​हरि​कथा​कथागी​॥४॥२॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "nddkphhkk",
+          "unicode": "ਨਦਦਕਪਹਹਕਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2FT4",
+        "type": 2,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "DnwsrI mhlw 4 ]",
+          "unicode": "ਧਨਾਸਰੀ ਮਹਲਾ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "DnwsrI​mhlw​4​]",
+          "unicode": "ਧਨਾਸਰੀ​ਮਹਲਾ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Dhanaasaree, Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Dhanasri, Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "dhanaasaree mahalaa 4 |",
+            "larivaar": "dhanaasaree​mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "धनासरी महला ४ ॥",
+            "larivaar": "धनासरी​महला​४​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "Dm4]",
+          "unicode": "ਧਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HJE3",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "hir kw sMqu sqguru sq purKw jo bolY hir hir bwnI ]",
+          "unicode": "ਹਰਿ ਕਾ ਸੰਤੁ ਸਤਗੁਰੁ ਸਤ ਪੁਰਖਾ ਜੋ ਬੋਲੈ ਹਰਿ ਹਰਿ ਬਾਨੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​kw​sMqu​sqguru​sq​purKw​jo​bolY​hir​hir​bwnI​]",
+          "unicode": "ਹਰਿ​ਕਾ​ਸੰਤੁ​ਸਤਗੁਰੁ​ਸਤ​ਪੁਰਖਾ​ਜੋ​ਬੋਲੈ​ਹਰਿ​ਹਰਿ​ਬਾਨੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The True Guru is the Lord's Saint, the True Being, who chants the Bani of the Lord, Har, Har."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! gurU mhW purK hY, gurU prmwqmw dw sMq hY, jyhVw prmwqmw dI is&q-swlwh dI bwxI aucwrdw hY[",
+              "unicode": "ਹੇ ਭਾਈ! ਗੁਰੂ ਮਹਾਂ ਪੁਰਖ ਹੈ, ਗੁਰੂ ਪਰਮਾਤਮਾ ਦਾ ਸੰਤ ਹੈ, ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਉਚਾਰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "El Guru Verdadero es el Santo Señor y también la Persona Verdadera que canta el Gurbani del Señor Maestro."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har kaa sant satagur sat purakhaa jo bolai har har baanee |",
+            "larivaar": "har​kaa​sant​satagur​sat​purakhaa​jo​bolai​har​har​baanee​|"
+          },
+          "devanagari": {
+            "text": "हरि का संतु सतगुरु सत पुरखा जो बोलै हरि हरि बानी ॥",
+            "larivaar": "हरि​का​संतु​सतगुरु​सत​पुरखा​जो​बोलै​हरि​हरि​बानी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "hkssspjbhhb",
+          "unicode": "ਹਕਸਸਸਪਜਬਹਹਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "D5QA",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "jo jo khY suxY so mukqw hm iqs kY sd kurbwnI ]1]",
+          "unicode": "ਜੋ ਜੋ ਕਹੈ ਸੁਣੈ ਸੋ ਮੁਕਤਾ ਹਮ ਤਿਸ ਕੈ ਸਦ ਕੁਰਬਾਨੀ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "jo​jo​khY​suxY​so​mukqw​hm​iqs​kY​sd​kurbwnI​]1]",
+          "unicode": "ਜੋ​ਜੋ​ਕਹੈ​ਸੁਣੈ​ਸੋ​ਮੁਕਤਾ​ਹਮ​ਤਿਸ​ਕੈ​ਸਦ​ਕੁਰਬਾਨੀ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Whoever chants it, and listens to it, is liberated; I am forever a sacrifice to him. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVw jyhVw mnu`K ies bwxI ƒ pVHdw suxdw hY, auh pwpW qoN mukq ho jWdw hY[ hy BweI! mYN aus gurU qoN sdw sdky hW ]1]",
+              "unicode": "ਜੇਹੜਾ ਜੇਹੜਾ ਮਨੁੱਖ ਇਸ ਬਾਣੀ ਨੂੰ ਪੜ੍ਹਦਾ ਸੁਣਦਾ ਹੈ, ਉਹ ਪਾਪਾਂ ਤੋਂ ਮੁਕਤ ਹੋ ਜਾਂਦਾ ਹੈ। ਹੇ ਭਾਈ! ਮੈਂ ਉਸ ਗੁਰੂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਹਾਂ ॥੧॥"
+            }
+          },
+          "spanish": "Quien sea que recite y escuche el Gurbani, será emancipado y yo ofreceré mi ser en sacrificio a él. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jo jo kahai sunai so mukataa ham tis kai sad kurabaanee |1|",
+            "larivaar": "jo​jo​kahai​sunai​so​mukataa​ham​tis​kai​sad​kurabaanee​|1|"
+          },
+          "devanagari": {
+            "text": "जो जो कहै सुणै सो मुकता हम तिस कै सद कुरबानी ॥१॥",
+            "larivaar": "जो​जो​कहै​सुणै​सो​मुकता​हम​तिस​कै​सद​कुरबानी​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "jjkssmhqksk",
+          "unicode": "ਜਜਕਸਸਮਹਤਕਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WX94",
+        "type": 3,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "hir ky sMq sunhu jsu kwnI ]",
+          "unicode": "ਹਰਿ ਕੇ ਸੰਤ ਸੁਨਹੁ ਜਸੁ ਕਾਨੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​ky​sMq​sunhu​jsu​kwnI​]",
+          "unicode": "ਹਰਿ​ਕੇ​ਸੰਤ​ਸੁਨਹੁ​ਜਸੁ​ਕਾਨੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Saints of the Lord, listen to the Lord's Praises with your ears."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy prmwqmw dy sMq jno! prmwqmw dI is&q-swlwh iDAwn nwl suixAw kro[",
+              "unicode": "ਹੇ ਪਰਮਾਤਮਾ ਦੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਧਿਆਨ ਨਾਲ ਸੁਣਿਆ ਕਰੋ।"
+            }
+          },
+          "spanish": "Oh Santos de Dios, escuchen la Alabanza del Señor con sus oídos,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har ke sant sunahu jas kaanee |",
+            "larivaar": "har​ke​sant​sunahu​jas​kaanee​|"
+          },
+          "devanagari": {
+            "text": "हरि के संत सुनहु जसु कानी ॥",
+            "larivaar": "हरि​के​संत​सुनहु​जसु​कानी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "hkssjk",
+          "unicode": "ਹਕਸਸਜਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QWDU",
+        "type": 3,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "hir hir kQw sunhu iek inmK pl siB iklivK pwp lih jwnI ]1] rhwau ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਕਥਾ ਸੁਨਹੁ ਇਕ ਨਿਮਖ ਪਲ ਸਭਿ ਕਿਲਵਿਖ ਪਾਪ ਲਹਿ ਜਾਨੀ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​kQw​sunhu​iek​inmK​pl​siB​iklivK​pwp​lih​jwnI​]1]​rhwau​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਕਥਾ​ਸੁਨਹੁ​ਇਕ​ਨਿਮਖ​ਪਲ​ਸਭਿ​ਕਿਲਵਿਖ​ਪਾਪ​ਲਹਿ​ਜਾਨੀ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Listen to the sermon of the Lord, Har, Har, for a moment, for even an instant, and all your sins and mistakes shall be erased. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "A`K Jmkx ijqny smy vwsqy, iek pl vwsqy BI jy prmwqmw dI is&q-swlwh dIAW g`lW suxo, qW swry pwp doK lih jWdy hn ]1] rhwau ]",
+              "unicode": "ਅੱਖ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇ ਵਾਸਤੇ, ਇਕ ਪਲ ਵਾਸਤੇ ਭੀ ਜੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣੋ, ਤਾਂ ਸਾਰੇ ਪਾਪ ਦੋਖ ਲਹਿ ਜਾਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "por un momento escuchen el Sermón del Señor Maestro y todas sus faltas y errores serán anulados. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har kathaa sunahu ik nimakh pal sabh kilavikh paap leh jaanee |1| rahaau |",
+            "larivaar": "har​har​kathaa​sunahu​ik​nimakh​pal​sabh​kilavikh​paap​leh​jaanee​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि कथा सुनहु इक निमख पल सभि किलविख पाप लहि जानी ॥१॥ रहाउ ॥",
+            "larivaar": "हरि​हरि​कथा​सुनहु​इक​निमख​पल​सभि​किलविख​पाप​लहि​जानी​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "hhksenpskplj",
+          "unicode": "ਹਹਕਸੲਨਪਸਕਪਲਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EHN7",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "AYsw sMqu swDu ijn pwieAw qy vf purK vfwnI ]",
+          "unicode": "ਐਸਾ ਸੰਤੁ ਸਾਧੁ ਜਿਨ ਪਾਇਆ ਤੇ ਵਡ ਪੁਰਖ ਵਡਾਨੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "AYsw​sMqu​swDu​ijn​pwieAw​qy​vf​purK​vfwnI​]",
+          "unicode": "ਐਸਾ​ਸੰਤੁ​ਸਾਧੁ​ਜਿਨ​ਪਾਇਆ​ਤੇ​ਵਡ​ਪੁਰਖ​ਵਡਾਨੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who find such humble, Holy Saints, are the greatest of the great persons."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! ijnHW mnu`KW ny Ajyhw sMq gurU l`B ilAw hY, auh v`fy mnu`K (au`cy jIvn vwly mnu`K) bx gey hn[",
+              "unicode": "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਅਜੇਹਾ ਸੰਤ ਗੁਰੂ ਲੱਭ ਲਿਆ ਹੈ, ਉਹ ਵੱਡੇ ਮਨੁੱਖ (ਉੱਚੇ ਜੀਵਨ ਵਾਲੇ ਮਨੁੱਖ) ਬਣ ਗਏ ਹਨ।"
+            }
+          },
+          "spanish": "Lo más grande de lo grande es la gente que logra tener como Maestro a tal Santo y ser de Dios."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aisaa sant saadh jin paaeaa te vadd purakh vaddaanee |",
+            "larivaar": "aisaa​sant​saadh​jin​paaeaa​te​vadd​purakh​vaddaanee​|"
+          },
+          "devanagari": {
+            "text": "ऐसा संतु साधु जिन पाइआ ते वड पुरख वडानी ॥",
+            "larivaar": "ऐसा​संतु​साधु​जिन​पाइआ​ते​वड​पुरख​वडानी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "Assjpqvpv",
+          "unicode": "ਅਸਸਜਪਤਵਪਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "E48X",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "iqn kI DUir mMgh pRB suAwmI hm hir loc lucwnI ]2]",
+          "unicode": "ਤਿਨ ਕੀ ਧੂਰਿ ਮੰਗਹ ਪ੍ਰਭ ਸੁਆਮੀ ਹਮ ਹਰਿ ਲੋਚ ਲੁਚਾਨੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "iqn​kI​DUir​mMgh​pRB​suAwmI​hm​hir​loc​lucwnI​]2]",
+          "unicode": "ਤਿਨ​ਕੀ​ਧੂਰਿ​ਮੰਗਹ​ਪ੍ਰਭ​ਸੁਆਮੀ​ਹਮ​ਹਰਿ​ਲੋਚ​ਲੁਚਾਨੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I beg for the dust of their feet; I long for the longing for God, my Lord and Master. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pRBU! hy suAwmI! hy hrI! mYN auhnW dy crnW dI DUV mMgdw hW, mYƒ auhnW dI crn DUV dI qWG hY ]2]",
+              "unicode": "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਸੁਆਮੀ! ਹੇ ਹਰੀ! ਮੈਂ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੰਗਦਾ ਹਾਂ, ਮੈਨੂੰ ਉਹਨਾਂ ਦੀ ਚਰਨ ਧੂੜ ਦੀ ਤਾਂਘ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "Sólo pido por Tus Pies y conservo mi añoranza por Ti, oh mi Señor Maestro. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "tin kee dhoor mangah prabh suaamee ham har loch luchaanee |2|",
+            "larivaar": "tin​kee​dhoor​mangah​prabh​suaamee​ham​har​loch​luchaanee​|2|"
+          },
+          "devanagari": {
+            "text": "तिन की धूरि मंगह प्रभ सुआमी हम हरि लोच लुचानी ॥२॥",
+            "larivaar": "तिन​की​धूरि​मंगह​प्रभ​सुआमी​हम​हरि​लोच​लुचानी​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "qkDmpshhll",
+          "unicode": "ਤਕਧਮਪਸਹਹਲਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BRXF",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "hir hir sPilE ibrKu pRB suAwmI ijn jipE sy iqRpqwnI ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਸਫਲਿਓ ਬਿਰਖੁ ਪ੍ਰਭ ਸੁਆਮੀ ਜਿਨ ਜਪਿਓ ਸੇ ਤ੍ਰਿਪਤਾਨੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​sPilE​ibrKu​pRB​suAwmI​ijn​jipE​sy​iqRpqwnI​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਸਫਲਿਓ​ਬਿਰਖੁ​ਪ੍ਰਭ​ਸੁਆਮੀ​ਜਿਨ​ਜਪਿਓ​ਸੇ​ਤ੍ਰਿਪਤਾਨੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Name of God, the Lord and Master, Har, Har, is the fruit-bearing tree; those who meditate on it are satisfied."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pRBU! hy suAwmI! hy hrI! qUM swry Pl dyx vwlw (mwno) ru`K hYN[ ijnHW mnu`KW ny qyrw nwm jipAw, auh (mwieAw dI iqRSnw vloN) r`j gey[",
+              "unicode": "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਸੁਆਮੀ! ਹੇ ਹਰੀ! ਤੂੰ ਸਾਰੇ ਫਲ ਦੇਣ ਵਾਲਾ (ਮਾਨੋ) ਰੁੱਖ ਹੈਂ। ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਤੇਰਾ ਨਾਮ ਜਪਿਆ, ਉਹ (ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵਲੋਂ) ਰੱਜ ਗਏ।"
+            }
+          },
+          "spanish": "El Nombre del Dios, el Señor Maestro, es la planta que da fruto, aquellos que meditan en Él, son saciados en su ser."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har safalio birakh prabh suaamee jin japio se tripataanee |",
+            "larivaar": "har​har​safalio​birakh​prabh​suaamee​jin​japio​se​tripataanee​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि सफलिओ बिरखु प्रभ सुआमी जिन जपिओ से त्रिपतानी ॥",
+            "larivaar": "हरि​हरि​सफलिओ​बिरखु​प्रभ​सुआमी​जिन​जपिओ​से​त्रिपतानी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "hhsbpsjjsq",
+          "unicode": "ਹਹਸਬਪਸਜਜਸਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "17C3",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "hir hir AMimRqu pI iqRpqwsy sB lwQI BUK BuKwnI ]3]",
+          "unicode": "ਹਰਿ ਹਰਿ ਅੰਮ੍ਰਿਤੁ ਪੀ ਤ੍ਰਿਪਤਾਸੇ ਸਭ ਲਾਥੀ ਭੂਖ ਭੁਖਾਨੀ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​AMimRqu​pI​iqRpqwsy​sB​lwQI​BUK​BuKwnI​]3]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਅੰਮ੍ਰਿਤੁ​ਪੀ​ਤ੍ਰਿਪਤਾਸੇ​ਸਭ​ਲਾਥੀ​ਭੂਖ​ਭੁਖਾਨੀ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Drinking in the ambrosia of the Name of the Lord, Har, Har, I am satisfied; all my hunger and thirst is quenched. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI! qyrw nwm Awqmk jIvn dyx vwlw jl hY, (BwgW vwly mnu`K ieh jl) pI ky iqRpq ho jWdy hn, auhnW dI hor swrI Bu`K lih jWdI hY ]3]",
+              "unicode": "ਹੇ ਹਰੀ! ਤੇਰਾ ਨਾਮ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਜਲ ਹੈ, (ਭਾਗਾਂ ਵਾਲੇ ਮਨੁੱਖ ਇਹ ਜਲ) ਪੀ ਕੇ ਤ੍ਰਿਪਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਦੀ ਹੋਰ ਸਾਰੀ ਭੁੱਖ ਲਹਿ ਜਾਂਦੀ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "Chupando las gotas del Elixir del Señor Dios, mi ser se aligera, mi hambre es removida y mi sed también. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har amrit pee tripataase sabh laathee bhookh bhukhaanee |3|",
+            "larivaar": "har​har​amrit​pee​tripataase​sabh​laathee​bhookh​bhukhaanee​|3|"
+          },
+          "devanagari": {
+            "text": "हरि हरि अंम्रितु पी त्रिपतासे सभ लाथी भूख भुखानी ॥३॥",
+            "larivaar": "हरि​हरि​अंम्रितु​पी​त्रिपतासे​सभ​लाथी​भूख​भुखानी​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "hhApqslBB",
+          "unicode": "ਹਹਅਪਤਸਲਭਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QGWU",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "ijn ky vfy Bwg vf aUcy iqn hir jipE jpwnI ]",
+          "unicode": "ਜਿਨ ਕੇ ਵਡੇ ਭਾਗ ਵਡ ਊਚੇ ਤਿਨ ਹਰਿ ਜਪਿਓ ਜਪਾਨੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijn​ky​vfy​Bwg​vf​aUcy​iqn​hir​jipE​jpwnI​]",
+          "unicode": "ਜਿਨ​ਕੇ​ਵਡੇ​ਭਾਗ​ਵਡ​ਊਚੇ​ਤਿਨ​ਹਰਿ​ਜਪਿਓ​ਜਪਾਨੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who are blessed with the highest, loftiest destiny, chant and meditate on the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! ijnHW mnu`KW dy v`fy au`cy Bwg huMdy hn, auh prmwqmw dy nwm dw jwp jpdy hn[",
+              "unicode": "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਵੱਡੇ ਉੱਚੇ ਭਾਗ ਹੁੰਦੇ ਹਨ, ਉਹ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Aquéllos que fueron bendecidos con un elevado, pero muy elevado Destino, sólo ellos pueden concentrarse y meditar en Dios."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jin ke vadde bhaag vadd aooche tin har japio japaanee |",
+            "larivaar": "jin​ke​vadde​bhaag​vadd​aooche​tin​har​japio​japaanee​|"
+          },
+          "devanagari": {
+            "text": "जिन के वडे भाग वड ऊचे तिन हरि जपिओ जपानी ॥",
+            "larivaar": "जिन​के​वडे​भाग​वड​ऊचे​तिन​हरि​जपिओ​जपानी​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "jkvBvaqhjj",
+          "unicode": "ਜਕਵਭਵੳਤਹਜਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BYPH",
+        "type": 4,
+        "shabadid": "P09",
+        "gurmukhi": {
+          "akhar": "iqn hir sMgiq myil pRB suAwmI jn nwnk dws dswnI ]4]3]",
+          "unicode": "ਤਿਨ ਹਰਿ ਸੰਗਤਿ ਮੇਲਿ ਪ੍ਰਭ ਸੁਆਮੀ ਜਨ ਨਾਨਕ ਦਾਸ ਦਸਾਨੀ ॥੪॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "iqn​hir​sMgiq​myil​pRB​suAwmI​jn​nwnk​dws​dswnI​]4]3]",
+          "unicode": "ਤਿਨ​ਹਰਿ​ਸੰਗਤਿ​ਮੇਲਿ​ਪ੍ਰਭ​ਸੁਆਮੀ​ਜਨ​ਨਾਨਕ​ਦਾਸ​ਦਸਾਨੀ​॥੪॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Let me join their congregation, O God, my Lord and Master; Nanak is the slave of their slaves. ||4||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy dws nwnk! (AwK-) hy hrI! hy pRBU! hy suAwmI! mYƒ auhnW dI sMgiq ivc mylI r`K, mYƒ auhnW dy dwsW dw dws bxw dy ]4]3]",
+              "unicode": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਹੇ ਸੁਆਮੀ! ਮੈਨੂੰ ਉਹਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮੇਲੀ ਰੱਖ, ਮੈਨੂੰ ਉਹਨਾਂ ਦੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਬਣਾ ਦੇ ॥੪॥੩॥"
+            }
+          },
+          "spanish": "Oh Señor Dios, Maestro mío, une al Sirviente Nanak a la Sociedad de los Santos y vuélvelo el Esclavo de Tus Esclavos. (4-3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "tin har sangat mel prabh suaamee jan naanak daas dasaanee |4|3|",
+            "larivaar": "tin​har​sangat​mel​prabh​suaamee​jan​naanak​daas​dasaanee​|4|3|"
+          },
+          "devanagari": {
+            "text": "तिन हरि संगति मेलि प्रभ सुआमी जन नानक दास दसानी ॥४॥३॥",
+            "larivaar": "तिन​हरि​संगति​मेलि​प्रभ​सुआमी​जन​नानक​दास​दसानी​॥४॥३॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "qhsmpsjndd",
+          "unicode": "ਤਹਸਮਪਸਜਨਦਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8RMZ",
+        "type": 2,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "DnwsrI mhlw 4 ]",
+          "unicode": "ਧਨਾਸਰੀ ਮਹਲਾ ੪ ॥"
+        },
+        "larivaar": {
+          "akhar": "DnwsrI​mhlw​4​]",
+          "unicode": "ਧਨਾਸਰੀ​ਮਹਲਾ​੪​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Dhanaasaree, Fourth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Dhanasri, Mejl Guru Ram Das, Cuarto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "dhanaasaree mahalaa 4 |",
+            "larivaar": "dhanaasaree​mahalaa​4​|"
+          },
+          "devanagari": {
+            "text": "धनासरी महला ४ ॥",
+            "larivaar": "धनासरी​महला​४​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "Dm4]",
+          "unicode": "ਧਮ੪॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2QSL",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "hm AMDuly AMD ibKY ibKu rwqy ikau cwlh gur cwlI ]",
+          "unicode": "ਹਮ ਅੰਧੁਲੇ ਅੰਧ ਬਿਖੈ ਬਿਖੁ ਰਾਤੇ ਕਿਉ ਚਾਲਹ ਗੁਰ ਚਾਲੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hm​AMDuly​AMD​ibKY​ibKu​rwqy​ikau​cwlh​gur​cwlI​]",
+          "unicode": "ਹਮ​ਅੰਧੁਲੇ​ਅੰਧ​ਬਿਖੈ​ਬਿਖੁ​ਰਾਤੇ​ਕਿਉ​ਚਾਲਹ​ਗੁਰ​ਚਾਲੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I am blind, totally blind, entangled in corruption and poison. How can I walk on the Guru's Path?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! AsIN jIv mwieAw dy moh ivc bhuq AMnHy ho ky mwiek pdwrQW dy zhr ivc mgn rihMdy hW[ AsIN ikvyN gurU dy d`sy jIvn-rwh auqy qur skdy hW?",
+              "unicode": "ਹੇ ਭਾਈ! ਅਸੀਂ ਜੀਵ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਬਹੁਤ ਅੰਨ੍ਹੇ ਹੋ ਕੇ ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੇ ਜ਼ਹਰ ਵਿਚ ਮਗਨ ਰਹਿੰਦੇ ਹਾਂ। ਅਸੀਂ ਕਿਵੇਂ ਗੁਰੂ ਦੇ ਦੱਸੇ ਜੀਵਨ-ਰਾਹ ਉਤੇ ਤੁਰ ਸਕਦੇ ਹਾਂ?"
+            }
+          },
+          "spanish": "Estoy ciego, soy un ignorante y permanezco absorbido en una actitud errónea y ponzoñosa."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ham andhule andh bikhai bikh raate kiau chaalah gur chaalee |",
+            "larivaar": "ham​andhule​andh​bikhai​bikh​raate​kiau​chaalah​gur​chaalee​|"
+          },
+          "devanagari": {
+            "text": "हम अंधुले अंध बिखै बिखु राते किउ चालह गुर चाली ॥",
+            "larivaar": "हम​अंधुले​अंध​बिखै​बिखु​राते​किउ​चालह​गुर​चाली​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "hAAbbrkcgc",
+          "unicode": "ਹਅਅਬਬਰਕਚਗਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "A6BB",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "sqguru dieAw kry suKdwqw hm lwvY Awpn pwlI ]1]",
+          "unicode": "ਸਤਗੁਰੁ ਦਇਆ ਕਰੇ ਸੁਖਦਾਤਾ ਹਮ ਲਾਵੈ ਆਪਨ ਪਾਲੀ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "sqguru​dieAw​kry​suKdwqw​hm​lwvY​Awpn​pwlI​]1]",
+          "unicode": "ਸਤਗੁਰੁ​ਦਇਆ​ਕਰੇ​ਸੁਖਦਾਤਾ​ਹਮ​ਲਾਵੈ​ਆਪਨ​ਪਾਲੀ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If the True Guru, the Giver of peace, shows His kindness, He attaches us to the hem of His robe. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "suKW dw dyx vwlw gurU (Awp hI) myhr kry, qy, swƒ Awpxy lV lw ley ]1]",
+              "unicode": "ਸੁਖਾਂ ਦਾ ਦੇਣ ਵਾਲਾ ਗੁਰੂ (ਆਪ ਹੀ) ਮੇਹਰ ਕਰੇ, ਤੇ, ਸਾਨੂੰ ਆਪਣੇ ਲੜ ਲਾ ਲਏ ॥੧॥"
+            }
+          },
+          "spanish": "¿Cómo podría caminar en el Sendero del Guru? Que el Guru Verdadero Dador de Paz, muestre Su Misericordia y me apegue a Su Túnica. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "satagur deaa kare sukhadaataa ham laavai aapan paalee |1|",
+            "larivaar": "satagur​deaa​kare​sukhadaataa​ham​laavai​aapan​paalee​|1|"
+          },
+          "devanagari": {
+            "text": "सतगुरु दइआ करे सुखदाता हम लावै आपन पाली ॥१॥",
+            "larivaar": "सतगुरु​दइआ​करे​सुखदाता​हम​लावै​आपन​पाली​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "sdkshlAp",
+          "unicode": "ਸਦਕਸਹਲਅਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "AZMV",
+        "type": 3,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "gurisK mIq clhu gur cwlI ]",
+          "unicode": "ਗੁਰਸਿਖ ਮੀਤ ਚਲਹੁ ਗੁਰ ਚਾਲੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "gurisK​mIq​clhu​gur​cwlI​]",
+          "unicode": "ਗੁਰਸਿਖ​ਮੀਤ​ਚਲਹੁ​ਗੁਰ​ਚਾਲੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Sikhs of the Guru, O friends, walk on the Guru's Path."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy guris`K im`qro! gurU dy d`sy hoey jIvn-rwh qy quro[",
+              "unicode": "ਹੇ ਗੁਰਸਿੱਖ ਮਿੱਤਰੋ! ਗੁਰੂ ਦੇ ਦੱਸੇ ਹੋਏ ਜੀਵਨ-ਰਾਹ ਤੇ ਤੁਰੋ।"
+            }
+          },
+          "spanish": "Oh, Sikjs del Guru y amigos, caminen en el Sendero del Guru, lo que sea que el Guru diga,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gurasikh meet chalahu gur chaalee |",
+            "larivaar": "gurasikh​meet​chalahu​gur​chaalee​|"
+          },
+          "devanagari": {
+            "text": "गुरसिख मीत चलहु गुर चाली ॥",
+            "larivaar": "गुरसिख​मीत​चलहु​गुर​चाली​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "gmcgc",
+          "unicode": "ਗਮਚਗਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YCA2",
+        "type": 3,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "jo guru khY soeI Bl mwnhu hir hir kQw inrwlI ]1] rhwau ]",
+          "unicode": "ਜੋ ਗੁਰੁ ਕਹੈ ਸੋਈ ਭਲ ਮਾਨਹੁ ਹਰਿ ਹਰਿ ਕਥਾ ਨਿਰਾਲੀ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "jo​guru​khY​soeI​Bl​mwnhu​hir​hir​kQw​inrwlI​]1]​rhwau​]",
+          "unicode": "ਜੋ​ਗੁਰੁ​ਕਹੈ​ਸੋਈ​ਭਲ​ਮਾਨਹੁ​ਹਰਿ​ਹਰਿ​ਕਥਾ​ਨਿਰਾਲੀ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Whatever the Guru says, accept that as good; the sermon of the Lord, Har, Har, is unique and wonderful. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(gurU AwKdw hY ik prmwqmw dI is&q-swlwh kirAw kro, ieh) jo kuJ gurU AwKdw hY, ies ƒ (Awpxy vwsqy) Blw smJo, (ikauNik) pRBU dI is&q-swlwh AnoKI (qbdIlI jIvn ivc pYdw kr dyNdI hY) ]1] rhwau ]",
+              "unicode": "(ਗੁਰੂ ਆਖਦਾ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਿਆ ਕਰੋ, ਇਹ) ਜੋ ਕੁਝ ਗੁਰੂ ਆਖਦਾ ਹੈ, ਇਸ ਨੂੰ (ਆਪਣੇ ਵਾਸਤੇ) ਭਲਾ ਸਮਝੋ, (ਕਿਉਂਕਿ) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਅਨੋਖੀ (ਤਬਦੀਲੀ ਜੀਵਨ ਵਿਚ ਪੈਦਾ ਕਰ ਦੇਂਦੀ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "eso acéptenlo como bueno, pues Único en verdad es el Discurso del Dios Guru. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jo gur kahai soee bhal maanahu har har kathaa niraalee |1| rahaau |",
+            "larivaar": "jo​gur​kahai​soee​bhal​maanahu​har​har​kathaa​niraalee​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "जो गुरु कहै सोई भल मानहु हरि हरि कथा निराली ॥१॥ रहाउ ॥",
+            "larivaar": "जो​गुरु​कहै​सोई​भल​मानहु​हरि​हरि​कथा​निराली​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "jgksBmhhkn",
+          "unicode": "ਜਗਕਸਭਮਹਹਕਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DB8P",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "hir ky sMq suxhu jn BweI guru syivhu byig bygwlI ]",
+          "unicode": "ਹਰਿ ਕੇ ਸੰਤ ਸੁਣਹੁ ਜਨ ਭਾਈ ਗੁਰੁ ਸੇਵਿਹੁ ਬੇਗਿ ਬੇਗਾਲੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​ky​sMq​suxhu​jn​BweI​guru​syivhu​byig​bygwlI​]",
+          "unicode": "ਹਰਿ​ਕੇ​ਸੰਤ​ਸੁਣਹੁ​ਜਨ​ਭਾਈ​ਗੁਰੁ​ਸੇਵਿਹੁ​ਬੇਗਿ​ਬੇਗਾਲੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Saints of the Lord, O Siblings of Destiny, listen: serve the Guru, quickly now!"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI dy sMq jno! hy Brwvo! suxo, CyqI hI gurU dI srn pY jwE[",
+              "unicode": "ਹੇ ਹਰੀ ਦੇ ਸੰਤ ਜਨੋ! ਹੇ ਭਰਾਵੋ! ਸੁਣੋ, ਛੇਤੀ ਹੀ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਜਾਓ।"
+            }
+          },
+          "spanish": "Oh Santos, Esclavos de Dios y hermanos, escuchen todos, no se dilaten en servir al Guru,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har ke sant sunahu jan bhaaee gur sevihu beg begaalee |",
+            "larivaar": "har​ke​sant​sunahu​jan​bhaaee​gur​sevihu​beg​begaalee​|"
+          },
+          "devanagari": {
+            "text": "हरि के संत सुणहु जन भाई गुरु सेविहु बेगि बेगाली ॥",
+            "larivaar": "हरि​के​संत​सुणहु​जन​भाई​गुरु​सेविहु​बेगि​बेगाली​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "hkssjBgsbb",
+          "unicode": "ਹਕਸਸਜਭਗਸਬਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7QFP",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "sqguru syiv Krcu hir bwDhu mq jwxhu Awju ik kwl@I ]2]",
+          "unicode": "ਸਤਗੁਰੁ ਸੇਵਿ ਖਰਚੁ ਹਰਿ ਬਾਧਹੁ ਮਤ ਜਾਣਹੁ ਆਜੁ ਕਿ ਕਾਲੑੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "sqguru​syiv​Krcu​hir​bwDhu​mq​jwxhu​Awju​ik​kwl@I​]2]",
+          "unicode": "ਸਤਗੁਰੁ​ਸੇਵਿ​ਖਰਚੁ​ਹਰਿ​ਬਾਧਹੁ​ਮਤ​ਜਾਣਹੁ​ਆਜੁ​ਕਿ​ਕਾਲੑੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Let your service to the True Guru be your supplies on the Lord's Path; pack them up, and don't think of today or tomorrow. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "gurU dI srn pY ky (jIvn-s&r vwsqy) prmwqmw dy nwm dI KrcI (p`ly) bMnHo[ mqW ieh smiJE ik A`j (ieh kMm kr lvWgy) Blky (ieh kMm kr lvWgy[ twl mtoly nwh krny) ]2]",
+              "unicode": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ (ਜੀਵਨ-ਸਫ਼ਰ ਵਾਸਤੇ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਖਰਚੀ (ਪੱਲੇ) ਬੰਨ੍ਹੋ। ਮਤਾਂ ਇਹ ਸਮਝਿਓ ਕਿ ਅੱਜ (ਇਹ ਕੰਮ ਕਰ ਲਵਾਂਗੇ) ਭਲਕੇ (ਇਹ ਕੰਮ ਕਰ ਲਵਾਂਗੇ। ਟਾਲ ਮਟੋਲੇ ਨਾਹ ਕਰਨੇ) ॥੨॥"
+            }
+          },
+          "spanish": "comiencen ya Su Servicio y atesoren al Señor en su corazón, para que los sostenga en el viaje al mas allá, pues uno no sabe cuando dejará de existir. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "satagur sev kharach har baadhahu mat jaanahu aaj ki kaalaee |2|",
+            "larivaar": "satagur​sev​kharach​har​baadhahu​mat​jaanahu​aaj​ki​kaalaee​|2|"
+          },
+          "devanagari": {
+            "text": "सतगुरु सेवि खरचु हरि बाधहु मत जाणहु आजु कि काली ॥२॥",
+            "larivaar": "सतगुरु​सेवि​खरचु​हरि​बाधहु​मत​जाणहु​आजु​कि​काली​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "ssKhbmjAkk",
+          "unicode": "ਸਸਖਹਬਮਜਅਕਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LMG6",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "hir ky sMq jphu hir jpxw hir sMqu clY hir nwlI ]",
+          "unicode": "ਹਰਿ ਕੇ ਸੰਤ ਜਪਹੁ ਹਰਿ ਜਪਣਾ ਹਰਿ ਸੰਤੁ ਚਲੈ ਹਰਿ ਨਾਲੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​ky​sMq​jphu​hir​jpxw​hir​sMqu​clY​hir​nwlI​]",
+          "unicode": "ਹਰਿ​ਕੇ​ਸੰਤ​ਜਪਹੁ​ਹਰਿ​ਜਪਣਾ​ਹਰਿ​ਸੰਤੁ​ਚਲੈ​ਹਰਿ​ਨਾਲੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Saints of the Lord, chant the chant of the Lord's Name; the Lord's Saints walk with the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy hrI dy sMq jno! prmwqmw dy nwm dw jwp jipAw kro[ (ies jwp dI brkiq nwl) hrI dw sMq hrI dI rzw ivc qurn l`g pYNdw hY[",
+              "unicode": "ਹੇ ਹਰੀ ਦੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਿਆ ਕਰੋ। (ਇਸ ਜਾਪ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਹਰੀ ਦਾ ਸੰਤ ਹਰੀ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰਨ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Oh Santos de Dios, reciten el Nombre del Señor; los Santos de Dios llevan a Dios por todas partes, y aquéllos que recuerdan a Dios"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har ke sant japahu har japanaa har sant chalai har naalee |",
+            "larivaar": "har​ke​sant​japahu​har​japanaa​har​sant​chalai​har​naalee​|"
+          },
+          "devanagari": {
+            "text": "हरि के संत जपहु हरि जपणा हरि संतु चलै हरि नाली ॥",
+            "larivaar": "हरि​के​संत​जपहु​हरि​जपणा​हरि​संतु​चलै​हरि​नाली​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "hksjhjhschn",
+          "unicode": "ਹਕਸਜਹਜਹਸਚਹਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JN8F",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "ijn hir jipAw sy hir hoey hir imilAw kyl kylwlI ]3]",
+          "unicode": "ਜਿਨ ਹਰਿ ਜਪਿਆ ਸੇ ਹਰਿ ਹੋਏ ਹਰਿ ਮਿਲਿਆ ਕੇਲ ਕੇਲਾਲੀ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "ijn​hir​jipAw​sy​hir​hoey​hir​imilAw​kyl​kylwlI​]3]",
+          "unicode": "ਜਿਨ​ਹਰਿ​ਜਪਿਆ​ਸੇ​ਹਰਿ​ਹੋਏ​ਹਰਿ​ਮਿਲਿਆ​ਕੇਲ​ਕੇਲਾਲੀ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Those who meditate on the Lord, become the Lord; the playful, wondrous Lord meets them. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! jyhVy mnu`K prmwqmw dw nwm jpdy hn, auh prmwqmw dw rUp ho jWdy hn[ coj-qmwSy krn vwlw cojI pRBU auhnW ƒ iml pYNdw hY ]3]",
+              "unicode": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦੇ ਹਨ, ਉਹ ਪਰਮਾਤਮਾ ਦਾ ਰੂਪ ਹੋ ਜਾਂਦੇ ਹਨ। ਚੋਜ-ਤਮਾਸ਼ੇ ਕਰਨ ਵਾਲਾ ਚੋਜੀ ਪ੍ਰਭੂ ਉਹਨਾਂ ਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "se vuelven como Él, pues el Jovial Señor que apoya a todos, los encuentra. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jin har japiaa se har hoe har miliaa kel kelaalee |3|",
+            "larivaar": "jin​har​japiaa​se​har​hoe​har​miliaa​kel​kelaalee​|3|"
+          },
+          "devanagari": {
+            "text": "जिन हरि जपिआ से हरि होए हरि मिलिआ केल केलाली ॥३॥",
+            "larivaar": "जिन​हरि​जपिआ​से​हरि​होए​हरि​मिलिआ​केल​केलाली​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "jhjshhhmkk",
+          "unicode": "ਜਹਜਸਹਹਹਮਕਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2H5Q",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "hir hir jpnu jip loc luocwnI hir ikrpw kir bnvwlI ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਜਪਨੁ ਜਪਿ ਲੋਚ ਲੋੁਚਾਨੀ ਹਰਿ ਕਿਰਪਾ ਕਰਿ ਬਨਵਾਲੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​jpnu​jip​loc​luocwnI​hir​ikrpw​kir​bnvwlI​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਜਪਨੁ​ਜਪਿ​ਲੋਚ​ਲੋੁਚਾਨੀ​ਹਰਿ​ਕਿਰਪਾ​ਕਰਿ​ਬਨਵਾਲੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "To chant the chant of the Lord's Name, Har, Har, is the longing I long for; have Mercy upon me, O Lord of the world-forest."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy bnvwrI pRBU! mYƒ qyrw nwm jpx dI qWG l`gI hoeI hY[ myhr kr!",
+              "unicode": "ਹੇ ਬਨਵਾਰੀ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰਾ ਨਾਮ ਜਪਣ ਦੀ ਤਾਂਘ ਲੱਗੀ ਹੋਈ ਹੈ। ਮੇਹਰ ਕਰ!"
+            }
+          },
+          "spanish": "El repetir el Nombre del Señor Dios, es la añoranza de mi Alma, oh Dios, Señor del bosque,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har japan jap loch luochaanee har kirapaa kar banavaalee |",
+            "larivaar": "har​har​japan​jap​loch​luochaanee​har​kirapaa​kar​banavaalee​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि जपनु जपि लोच लुोचानी हरि किरपा करि बनवाली ॥",
+            "larivaar": "हरि​हरि​जपनु​जपि​लोच​लुोचानी​हरि​किरपा​करि​बनवाली​॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "hhjjllhkkb",
+          "unicode": "ਹਹਜਜਲਲਹਕਕਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BWVL",
+        "type": 4,
+        "shabadid": "SJ9",
+        "gurmukhi": {
+          "akhar": "jn nwnk sMgiq swD hir mylhu hm swD jnw pg rwlI ]4]4]",
+          "unicode": "ਜਨ ਨਾਨਕ ਸੰਗਤਿ ਸਾਧ ਹਰਿ ਮੇਲਹੁ ਹਮ ਸਾਧ ਜਨਾ ਪਗ ਰਾਲੀ ॥੪॥੪॥"
+        },
+        "larivaar": {
+          "akhar": "jn​nwnk​sMgiq​swD​hir​mylhu​hm​swD​jnw​pg​rwlI​]4]4]",
+          "unicode": "ਜਨ​ਨਾਨਕ​ਸੰਗਤਿ​ਸਾਧ​ਹਰਿ​ਮੇਲਹੁ​ਹਮ​ਸਾਧ​ਜਨਾ​ਪਗ​ਰਾਲੀ​॥੪॥੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Lord, unite servant Nanak with the Saadh Sangat, the Company of the Holy; make me the dust of the feet of the Holy. ||4||4||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy dws nwnk! (AwK-) hy pRBU! mYƒ swD sMgiq ivc imlweI r`K, mYƒ qyry sMq jnW dy crnW dI DUV imlI rhy ]4]4]",
+              "unicode": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲਾਈ ਰੱਖ, ਮੈਨੂੰ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮਿਲੀ ਰਹੇ ॥੪॥੪॥"
+            }
+          },
+          "spanish": "ten Misericordia de mí. Maestro mío, une al Esclavo Nanak a la Sociedad de los Santos y vuélvelo el Polvo debajo de los Pies de los Santos. (4-4)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jan naanak sangat saadh har melahu ham saadh janaa pag raalee |4|4|",
+            "larivaar": "jan​naanak​sangat​saadh​har​melahu​ham​saadh​janaa​pag​raalee​|4|4|"
+          },
+          "devanagari": {
+            "text": "जन नानक संगति साध हरि मेलहु हम साध जना पग राली ॥४॥४॥",
+            "larivaar": "जन​नानक​संगति​साध​हरि​मेलहु​हम​साध​जना​पग​राली​॥४॥४॥"
+          }
+        },
+        "writer": {
+          "id": 4,
+          "akhar": "gurU rwmdws jI",
+          "unicode": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+          "english": "Guru Ramdas Ji"
+        },
+        "raag": {
+          "id": 14,
+          "akhar": "rwgu DnwsrI",
+          "unicode": "ਰਾਗੁ ਧਨਾਸਰੀ",
+          "english": "Raag Dhanaasree",
+          "startang": 660,
+          "endang": 695,
+          "raagwithpage": "Raag Dhanaasree (660-695)"
+        },
+        "pageno": 667,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "jnsshmhsjpr",
+          "unicode": "ਜਨਸਸਹਮਹਸਜਪਰ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

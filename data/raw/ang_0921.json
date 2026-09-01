@@ -1,0 +1,1933 @@
+{
+  "pageno": 921,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 33,
+  "page": [
+    {
+      "line": {
+        "id": "SXM1",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "AwpxI ilv Awpy lwey gurmuiK sdw smwlIAY ]",
+          "unicode": "ਆਪਣੀ ਲਿਵ ਆਪੇ ਲਾਏ ਗੁਰਮੁਖਿ ਸਦਾ ਸਮਾਲੀਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "AwpxI​ilv​Awpy​lwey​gurmuiK​sdw​smwlIAY​]",
+          "unicode": "ਆਪਣੀ​ਲਿਵ​ਆਪੇ​ਲਾਏ​ਗੁਰਮੁਖਿ​ਸਦਾ​ਸਮਾਲੀਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He Himself is the love, and He Himself is the embrace; the Gurmukh contemplates Him forever."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pr jIv dy kIh v`s?) pRBU Awp hI AwpxI pRIq dI dwq dyNdw hY[ gurU dI srn pY ky aus ƒ ismrdy rihxw cwhIdw hY[",
+              "unicode": "(ਪਰ ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ?) ਪ੍ਰਭੂ ਆਪ ਹੀ ਆਪਣੀ ਪ੍ਰੀਤ ਦੀ ਦਾਤ ਦੇਂਦਾ ਹੈ। ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਉਸ ਨੂੰ ਸਿਮਰਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Estando entonado en Él, el Gurmukj alaba permanentemente a su Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aapanee liv aape laae guramukh sadaa samaaleeai |",
+            "larivaar": "aapanee​liv​aape​laae​guramukh​sadaa​samaaleeai​|"
+          },
+          "devanagari": {
+            "text": "आपणी लिव आपे लाए गुरमुखि सदा समालीऐ ॥",
+            "larivaar": "आपणी​लिव​आपे​लाए​गुरमुखि​सदा​समालीऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "AlAlgss",
+          "unicode": "ਅਲਅਲਗਸਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XR8Y",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "khY nwnku eyvfu dwqw so ikau mnhu ivswrIAY ]28]",
+          "unicode": "ਕਹੈ ਨਾਨਕੁ ਏਵਡੁ ਦਾਤਾ ਸੋ ਕਿਉ ਮਨਹੁ ਵਿਸਾਰੀਐ ॥੨੮॥"
+        },
+        "larivaar": {
+          "akhar": "khY​nwnku​eyvfu​dwqw​so​ikau​mnhu​ivswrIAY​]28]",
+          "unicode": "ਕਹੈ​ਨਾਨਕੁ​ਏਵਡੁ​ਦਾਤਾ​ਸੋ​ਕਿਉ​ਮਨਹੁ​ਵਿਸਾਰੀਐ​॥੨੮॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Nanak, why forget such a Great Giver from the mind? ||28||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk AwKdw hY ik (jy Awqmk Awnµd dI loV hY qW) ieqny v`fy dwqwr pRBU ƒ kdy BI Bulwxw nhIN cwhIdw ]28]",
+              "unicode": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ (ਜੇ ਆਤਮਕ ਆਨੰਦ ਦੀ ਲੋੜ ਹੈ ਤਾਂ) ਇਤਨੇ ਵੱਡੇ ਦਾਤਾਰ ਪ੍ਰਭੂ ਨੂੰ ਕਦੇ ਭੀ ਭੁਲਾਣਾ ਨਹੀਂ ਚਾਹੀਦਾ ॥੨੮॥"
+            }
+          },
+          "spanish": "Dice Nanak, oh mi mente, ¿por qué olvidar a tan Grandioso Señor?(28)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahai naanak evadd daataa so kiau manahu visaareeai |28|",
+            "larivaar": "kahai​naanak​evadd​daataa​so​kiau​manahu​visaareeai​|28|"
+          },
+          "devanagari": {
+            "text": "कहै नानकु एवडु दाता सो किउ मनहु विसारीऐ ॥२८॥",
+            "larivaar": "कहै​नानकु​एवडु​दाता​सो​किउ​मनहु​विसारीऐ​॥२८॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "knedskmv",
+          "unicode": "ਕਨੲਦਸਕਮਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "G8GB",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "jYsI Agin audr mih qYsI bwhir mwieAw ]",
+          "unicode": "ਜੈਸੀ ਅਗਨਿ ਉਦਰ ਮਹਿ ਤੈਸੀ ਬਾਹਰਿ ਮਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "jYsI​Agin​audr​mih​qYsI​bwhir​mwieAw​]",
+          "unicode": "ਜੈਸੀ​ਅਗਨਿ​ਉਦਰ​ਮਹਿ​ਤੈਸੀ​ਬਾਹਰਿ​ਮਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "As is the fire within the womb, so is Maya outside."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijvyN mW dy pyt ivc A`g hY iqvyN bwhr jgq ivc mwieAw (duKdweI) hY[",
+              "unicode": "ਜਿਵੇਂ ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਅੱਗ ਹੈ ਤਿਵੇਂ ਬਾਹਰ ਜਗਤ ਵਿਚ ਮਾਇਆ (ਦੁਖਦਾਈ) ਹੈ।"
+            }
+          },
+          "spanish": "El fuego del vientre es como el fuego de Maya;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaisee agan udar meh taisee baahar maaeaa |",
+            "larivaar": "jaisee​agan​udar​meh​taisee​baahar​maaeaa​|"
+          },
+          "devanagari": {
+            "text": "जैसी अगनि उदर महि तैसी बाहरि माइआ ॥",
+            "larivaar": "जैसी​अगनि​उदर​महि​तैसी​बाहरि​माइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "jAamqbm",
+          "unicode": "ਜਅੳਮਤਬਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Y1WZ",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "mwieAw Agin sB ieko jyhI krqY Kylu rcwieAw ]",
+          "unicode": "ਮਾਇਆ ਅਗਨਿ ਸਭ ਇਕੋ ਜੇਹੀ ਕਰਤੈ ਖੇਲੁ ਰਚਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwieAw​Agin​sB​ieko​jyhI​krqY​Kylu​rcwieAw​]",
+          "unicode": "ਮਾਇਆ​ਅਗਨਿ​ਸਭ​ਇਕੋ​ਜੇਹੀ​ਕਰਤੈ​ਖੇਲੁ​ਰਚਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The fire of Maya is one and the same; the Creator has staged this play."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mwieAw qy A`g ieko ijhIAW hI hn, krqwr ny AYsI hI Kyf rc id`qI hY[",
+              "unicode": "ਮਾਇਆ ਤੇ ਅੱਗ ਇਕੋ ਜਿਹੀਆਂ ਹੀ ਹਨ, ਕਰਤਾਰ ਨੇ ਐਸੀ ਹੀ ਖੇਡ ਰਚ ਦਿੱਤੀ ਹੈ।"
+            }
+          },
+          "spanish": "ambos son la Obra del Creador, y ambos son extinguidos por Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "maaeaa agan sabh iko jehee karatai khel rachaaeaa |",
+            "larivaar": "maaeaa​agan​sabh​iko​jehee​karatai​khel​rachaaeaa​|"
+          },
+          "devanagari": {
+            "text": "माइआ अगनि सभ इको जेही करतै खेलु रचाइआ ॥",
+            "larivaar": "माइआ​अगनि​सभ​इको​जेही​करतै​खेलु​रचाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "mAsejkKr",
+          "unicode": "ਮਅਸੲਜਕਖਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "M74D",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "jw iqsu Bwxw qw jMimAw prvwir Blw BwieAw ]",
+          "unicode": "ਜਾ ਤਿਸੁ ਭਾਣਾ ਤਾ ਜੰਮਿਆ ਪਰਵਾਰਿ ਭਲਾ ਭਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "jw​iqsu​Bwxw​qw​jMimAw​prvwir​Blw​BwieAw​]",
+          "unicode": "ਜਾ​ਤਿਸੁ​ਭਾਣਾ​ਤਾ​ਜੰਮਿਆ​ਪਰਵਾਰਿ​ਭਲਾ​ਭਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "According to His Will, the child is born, and the family is very pleased."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN prmwqmw dI rzw huMdI hY jIv pYdw huMdw hY prvwr ivc ipAwrw l`gdw hY[",
+              "unicode": "ਜਦੋਂ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਹੁੰਦੀ ਹੈ ਜੀਵ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ਪਰਵਾਰ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Por la Voluntad del Señor se nace en el mundo para dicha de los parientes;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaa tis bhaanaa taa jamiaa paravaar bhalaa bhaaeaa |",
+            "larivaar": "jaa​tis​bhaanaa​taa​jamiaa​paravaar​bhalaa​bhaaeaa​|"
+          },
+          "devanagari": {
+            "text": "जा तिसु भाणा ता जंमिआ परवारि भला भाइआ ॥",
+            "larivaar": "जा​तिसु​भाणा​ता​जंमिआ​परवारि​भला​भाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "jqBqjpBB",
+          "unicode": "ਜਤਭਤਜਪਭਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "S1WY",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "ilv CuVkI lgI iqRsnw mwieAw Amru vrqwieAw ]",
+          "unicode": "ਲਿਵ ਛੁੜਕੀ ਲਗੀ ਤ੍ਰਿਸਨਾ ਮਾਇਆ ਅਮਰੁ ਵਰਤਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "ilv​CuVkI​lgI​iqRsnw​mwieAw​Amru​vrqwieAw​]",
+          "unicode": "ਲਿਵ​ਛੁੜਕੀ​ਲਗੀ​ਤ੍ਰਿਸਨਾ​ਮਾਇਆ​ਅਮਰੁ​ਵਰਤਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Love for the Lord wears off, and the child becomes attached to desires; the script of Maya runs its course."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(prvwr dy jIv aus nvyN jMmy bwl ƒ ipAwr krdy hn, ies ipAwr ivc Ps ky aus dI pRBU-crnW nwloN) pRIq dI qwr tu`t jWdI hY, mwieAw dI iqRSnw Aw cMbVdI hY, mwieAw (aus auqy) Awpxw zor pw lYNdI hY[",
+              "unicode": "(ਪਰਵਾਰ ਦੇ ਜੀਵ ਉਸ ਨਵੇਂ ਜੰਮੇ ਬਾਲ ਨੂੰ ਪਿਆਰ ਕਰਦੇ ਹਨ, ਇਸ ਪਿਆਰ ਵਿਚ ਫਸ ਕੇ ਉਸ ਦੀ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਨਾਲੋਂ) ਪ੍ਰੀਤ ਦੀ ਤਾਰ ਟੁੱਟ ਜਾਂਦੀ ਹੈ, ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਆ ਚੰਬੜਦੀ ਹੈ, ਮਾਇਆ (ਉਸ ਉਤੇ) ਆਪਣਾ ਜ਼ੋਰ ਪਾ ਲੈਂਦੀ ਹੈ।"
+            }
+          },
+          "spanish": "más tarde uno se desentiende del Señor dando prominencia al mundo ilusorio de Maya."
+        },
+        "transliteration": {
+          "english": {
+            "text": "liv chhurrakee lagee trisanaa maaeaa amar varataaeaa |",
+            "larivaar": "liv​chhurrakee​lagee​trisanaa​maaeaa​amar​varataaeaa​|"
+          },
+          "devanagari": {
+            "text": "लिव छुड़की लगी त्रिसना माइआ अमरु वरताइआ ॥",
+            "larivaar": "लिव​छुड़की​लगी​त्रिसना​माइआ​अमरु​वरताइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "lClqmAv",
+          "unicode": "ਲਛਲਤਮਅਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4EN8",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "eyh mwieAw ijqu hir ivsrY mohu aupjY Bwau dUjw lwieAw ]",
+          "unicode": "ਏਹ ਮਾਇਆ ਜਿਤੁ ਹਰਿ ਵਿਸਰੈ ਮੋਹੁ ਉਪਜੈ ਭਾਉ ਦੂਜਾ ਲਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "eyh​mwieAw​ijqu​hir​ivsrY​mohu​aupjY​Bwau​dUjw​lwieAw​]",
+          "unicode": "ਏਹ​ਮਾਇਆ​ਜਿਤੁ​ਹਰਿ​ਵਿਸਰੈ​ਮੋਹੁ​ਉਪਜੈ​ਭਾਉ​ਦੂਜਾ​ਲਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "This is Maya, by which the Lord is forgotten; emotional attachment and love of duality well up."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mwieAw hY hI AYsI ik ies dI rwhIN r`b Bu`l jWdw hY, (dunIAw dw) moh pYdw ho jWdw hY, (r`b qoN ibnw) hor hor ipAwr aupj pYNdw hY (iPr AjyhI hwlq ivc Awqmk Awnµd ikQoN imly?)",
+              "unicode": "ਮਾਇਆ ਹੈ ਹੀ ਐਸੀ ਕਿ ਇਸ ਦੀ ਰਾਹੀਂ ਰੱਬ ਭੁੱਲ ਜਾਂਦਾ ਹੈ, (ਦੁਨੀਆ ਦਾ) ਮੋਹ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ, (ਰੱਬ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਹੋਰ ਪਿਆਰ ਉਪਜ ਪੈਂਦਾ ਹੈ (ਫਿਰ ਅਜੇਹੀ ਹਾਲਤ ਵਿਚ ਆਤਮਕ ਆਨੰਦ ਕਿਥੋਂ ਮਿਲੇ?)"
+            }
+          },
+          "spanish": "Maya es quien nos hace olvidar al Señor; entonces crece en nuestra mente el amor por lo efímero."
+        },
+        "transliteration": {
+          "english": {
+            "text": "eeh maaeaa jit har visarai mohu upajai bhaau doojaa laaeaa |",
+            "larivaar": "eeh​maaeaa​jit​har​visarai​mohu​upajai​bhaau​doojaa​laaeaa​|"
+          },
+          "devanagari": {
+            "text": "एह माइआ जितु हरि विसरै मोहु उपजै भाउ दूजा लाइआ ॥",
+            "larivaar": "एह​माइआ​जितु​हरि​विसरै​मोहु​उपजै​भाउ​दूजा​लाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "emjhvmaBdl",
+          "unicode": "ੲਮਜਹਵਮੳਭਦਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4AX7",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "khY nwnku gur prswdI ijnw ilv lwgI iqnI ivcy mwieAw pwieAw ]29]",
+          "unicode": "ਕਹੈ ਨਾਨਕੁ ਗੁਰ ਪਰਸਾਦੀ ਜਿਨਾ ਲਿਵ ਲਾਗੀ ਤਿਨੀ ਵਿਚੇ ਮਾਇਆ ਪਾਇਆ ॥੨੯॥"
+        },
+        "larivaar": {
+          "akhar": "khY​nwnku​gur​prswdI​ijnw​ilv​lwgI​iqnI​ivcy​mwieAw​pwieAw​]29]",
+          "unicode": "ਕਹੈ​ਨਾਨਕੁ​ਗੁਰ​ਪਰਸਾਦੀ​ਜਿਨਾ​ਲਿਵ​ਲਾਗੀ​ਤਿਨੀ​ਵਿਚੇ​ਮਾਇਆ​ਪਾਇਆ​॥੨੯॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Nanak, by Guru's Grace, those who enshrine love for the Lord find Him, in the midst of Maya. ||29||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk AwKdw hY ik gurU dI ikrpw nwl ijnHW bMidAW dI pRIq dI for pRBU-crnW ivc juVI rihMdI hY, auhnW ƒ mwieAw ivc vrqidAW hI (Awqmk Awnµd) iml pYNdw hY ]29]",
+              "unicode": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਦੀ ਪ੍ਰੀਤ ਦੀ ਡੋਰ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜੀ ਰਹਿੰਦੀ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਮਾਇਆ ਵਿਚ ਵਰਤਦਿਆਂ ਹੀ (ਆਤਮਕ ਆਨੰਦ) ਮਿਲ ਪੈਂਦਾ ਹੈ ॥੨੯॥"
+            }
+          },
+          "spanish": "Dice Nanak, sólo a través de la Gracia del Guru puede vivirse en medio de Maya entonado en el Señor. (29)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahai naanak gur parasaadee jinaa liv laagee tinee viche maaeaa paaeaa |29|",
+            "larivaar": "kahai​naanak​gur​parasaadee​jinaa​liv​laagee​tinee​viche​maaeaa​paaeaa​|29|"
+          },
+          "devanagari": {
+            "text": "कहै नानकु गुर परसादी जिना लिव लागी तिनी विचे माइआ पाइआ ॥२९॥",
+            "larivaar": "कहै​नानकु​गुर​परसादी​जिना​लिव​लागी​तिनी​विचे​माइआ​पाइआ​॥२९॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "kngpjllqvmp",
+          "unicode": "ਕਨਗਪਜਲਲਤਵਮਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "66A2",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir Awip Amulku hY muil n pwieAw jwie ]",
+          "unicode": "ਹਰਿ ਆਪਿ ਅਮੁਲਕੁ ਹੈ ਮੁਲਿ ਨ ਪਾਇਆ ਜਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​Awip​Amulku​hY​muil​n​pwieAw​jwie​]",
+          "unicode": "ਹਰਿ​ਆਪਿ​ਅਮੁਲਕੁ​ਹੈ​ਮੁਲਿ​ਨ​ਪਾਇਆ​ਜਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord Himself is priceless; His worth cannot be estimated."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(jd qk prmwqmw dw imlwp nw hovy qd qk Awnµd nhIN mwixAw jw skdw, pr) pRBU dw mu`l nhIN pY skdw, prmwqmw (Dn Awidk) iksy kImq qoN nhIN iml skdw[",
+              "unicode": "(ਜਦ ਤਕ ਪਰਮਾਤਮਾ ਦਾ ਮਿਲਾਪ ਨਾ ਹੋਵੇ ਤਦ ਤਕ ਆਨੰਦ ਨਹੀਂ ਮਾਣਿਆ ਜਾ ਸਕਦਾ, ਪਰ) ਪ੍ਰਭੂ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ, ਪਰਮਾਤਮਾ (ਧਨ ਆਦਿਕ) ਕਿਸੇ ਕੀਮਤ ਤੋਂ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "El Señor es Invaluable, nadie Lo puede describir, y aunque muchos han intentado, nadie ha logrado ponderarlo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har aap amulak hai mul na paaeaa jaae |",
+            "larivaar": "har​aap​amulak​hai​mul​na​paaeaa​jaae​|"
+          },
+          "devanagari": {
+            "text": "हरि आपि अमुलकु है मुलि न पाइआ जाइ ॥",
+            "larivaar": "हरि​आपि​अमुलकु​है​मुलि​न​पाइआ​जाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "hAAhmnpj",
+          "unicode": "ਹਅਅਹਮਨਪਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "33YW",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "muil n pwieAw jwie iksY ivthu rhy lok ivllwie ]",
+          "unicode": "ਮੁਲਿ ਨ ਪਾਇਆ ਜਾਇ ਕਿਸੈ ਵਿਟਹੁ ਰਹੇ ਲੋਕ ਵਿਲਲਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "muil​n​pwieAw​jwie​iksY​ivthu​rhy​lok​ivllwie​]",
+          "unicode": "ਮੁਲਿ​ਨ​ਪਾਇਆ​ਜਾਇ​ਕਿਸੈ​ਵਿਟਹੁ​ਰਹੇ​ਲੋਕ​ਵਿਲਲਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "His worth cannot be estimated, even though people have grown weary of trying."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jIv Kp Kp ky hwr gey, iksy ƒ (Dn Awidk) kImq dy ky prmwqmw nhIN imilAw[",
+              "unicode": "ਜੀਵ ਖਪ ਖਪ ਕੇ ਹਾਰ ਗਏ, ਕਿਸੇ ਨੂੰ (ਧਨ ਆਦਿਕ) ਕੀਮਤ ਦੇ ਕੇ ਪਰਮਾਤਮਾ ਨਹੀਂ ਮਿਲਿਆ।"
+            }
+          },
+          "spanish": "Si alguien tuviera la ventura de encontrar al Guru Verdadero, debería entregarle su cabeza e incluso su propio ser."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mul na paaeaa jaae kisai vittahu rahe lok vilalaae |",
+            "larivaar": "mul​na​paaeaa​jaae​kisai​vittahu​rahe​lok​vilalaae​|"
+          },
+          "devanagari": {
+            "text": "मुलि न पाइआ जाइ किसै विटहु रहे लोक विललाइ ॥",
+            "larivaar": "मुलि​न​पाइआ​जाइ​किसै​विटहु​रहे​लोक​विललाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "mnpjkvrlv",
+          "unicode": "ਮਨਪਜਕਵਰਲਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8PGN",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "AYsw siqguru jy imlY iqs no isru saupIAY ivchu Awpu jwie ]",
+          "unicode": "ਐਸਾ ਸਤਿਗੁਰੁ ਜੇ ਮਿਲੈ ਤਿਸ ਨੋ ਸਿਰੁ ਸਉਪੀਐ ਵਿਚਹੁ ਆਪੁ ਜਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "AYsw​siqguru​jy​imlY​iqs​no​isru​saupIAY​ivchu​Awpu​jwie​]",
+          "unicode": "ਐਸਾ​ਸਤਿਗੁਰੁ​ਜੇ​ਮਿਲੈ​ਤਿਸ​ਨੋ​ਸਿਰੁ​ਸਉਪੀਐ​ਵਿਚਹੁ​ਆਪੁ​ਜਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If you meet such a True Guru, offer your head to Him; your selfishness and conceit will be eradicated from within."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hW,) jy Ajyhw gurU iml pey (ijs dy imilAW mnu`K dy AMdroN Awpw-Bwv inkl jwey) qW aus gurU dy A`gy Awpxw isr Byt kr dyxw cwhIdw hY (Awpxw Awp Arpx kr dyxw cwhIdw hY),",
+              "unicode": "(ਹਾਂ,) ਜੇ ਅਜੇਹਾ ਗੁਰੂ ਮਿਲ ਪਏ (ਜਿਸ ਦੇ ਮਿਲਿਆਂ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ ਆਪਾ-ਭਾਵ ਨਿਕਲ ਜਾਏ) ਤਾਂ ਉਸ ਗੁਰੂ ਦੇ ਅੱਗੇ ਆਪਣਾ ਸਿਰ ਭੇਟ ਕਰ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ (ਆਪਣਾ ਆਪ ਅਰਪਣ ਕਰ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ),"
+            }
+          },
+          "spanish": "Ese ser tendría que entonarse solamente en el Uno"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aisaa satigur je milai tis no sir saupeeai vichahu aap jaae |",
+            "larivaar": "aisaa​satigur​je​milai​tis​no​sir​saupeeai​vichahu​aap​jaae​|"
+          },
+          "devanagari": {
+            "text": "ऐसा सतिगुरु जे मिलै तिस नो सिरु सउपीऐ विचहु आपु जाइ ॥",
+            "larivaar": "ऐसा​सतिगुरु​जे​मिलै​तिस​नो​सिरु​सउपीऐ​विचहु​आपु​जाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "AsjmqnssvAj",
+          "unicode": "ਅਸਜਮਤਨਸਸਵਅਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6BAF",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "ijs dw jIau iqsu imil rhY hir vsY min Awie ]",
+          "unicode": "ਜਿਸ ਦਾ ਜੀਉ ਤਿਸੁ ਮਿਲਿ ਰਹੈ ਹਰਿ ਵਸੈ ਮਨਿ ਆਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijs​dw​jIau​iqsu​imil​rhY​hir​vsY​min​Awie​]",
+          "unicode": "ਜਿਸ​ਦਾ​ਜੀਉ​ਤਿਸੁ​ਮਿਲਿ​ਰਹੈ​ਹਰਿ​ਵਸੈ​ਮਨਿ​ਆਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Your soul belongs to Him; remain united with Him, and the Lord will come to dwell in your mind."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(qy ijs gurU dy imilAW) jIv aus hrI dy crnW ivc juiVAw rhy auh hrI aus dy mn ivc v`s pey ijs dw ieh pYdw kIqw hoieAw hY[",
+              "unicode": "(ਤੇ ਜਿਸ ਗੁਰੂ ਦੇ ਮਿਲਿਆਂ) ਜੀਵ ਉਸ ਹਰੀ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆ ਰਹੇ ਉਹ ਹਰੀ ਉਸ ਦੇ ਮਨ ਵਿਚ ਵੱਸ ਪਏ ਜਿਸ ਦਾ ਇਹ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ।"
+            }
+          },
+          "spanish": "a Quien todas las Almas pertenecen y elevar así al Señor en su mente."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jis daa jeeo tis mil rahai har vasai man aae |",
+            "larivaar": "jis​daa​jeeo​tis​mil​rahai​har​vasai​man​aae​|"
+          },
+          "devanagari": {
+            "text": "जिस दा जीउ तिसु मिलि रहै हरि वसै मनि आइ ॥",
+            "larivaar": "जिस​दा​जीउ​तिसु​मिलि​रहै​हरि​वसै​मनि​आइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "jdjqmrhvmA",
+          "unicode": "ਜਦਜਤਮਰਹਵਮਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UYFE",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir Awip Amulku hY Bwg iqnw ky nwnkw ijn hir plY pwie ]30]",
+          "unicode": "ਹਰਿ ਆਪਿ ਅਮੁਲਕੁ ਹੈ ਭਾਗ ਤਿਨਾ ਕੇ ਨਾਨਕਾ ਜਿਨ ਹਰਿ ਪਲੈ ਪਾਇ ॥੩੦॥"
+        },
+        "larivaar": {
+          "akhar": "hir​Awip​Amulku​hY​Bwg​iqnw​ky​nwnkw​ijn​hir​plY​pwie​]30]",
+          "unicode": "ਹਰਿ​ਆਪਿ​ਅਮੁਲਕੁ​ਹੈ​ਭਾਗ​ਤਿਨਾ​ਕੇ​ਨਾਨਕਾ​ਜਿਨ​ਹਰਿ​ਪਲੈ​ਪਾਇ​॥੩੦॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord Himself is priceless; very fortunate are those, O Nanak, who attain to the Lord. ||30||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! prmwqmw dw mu`l nhIN pY skdw (iksy kImq qoN nhIN imldw, pr) prmwqmw ijnHW ƒ (gurU dy) lV lw dyNdw hY auhnW dy Bwg jwg pYNdy hn (auh Awqmk Awnµd mwxdy hn) ]30]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ (ਕਿਸੇ ਕੀਮਤ ਤੋਂ ਨਹੀਂ ਮਿਲਦਾ, ਪਰ) ਪਰਮਾਤਮਾ ਜਿਨ੍ਹਾਂ ਨੂੰ (ਗੁਰੂ ਦੇ) ਲੜ ਲਾ ਦੇਂਦਾ ਹੈ ਉਹਨਾਂ ਦੇ ਭਾਗ ਜਾਗ ਪੈਂਦੇ ਹਨ (ਉਹ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੇ ਹਨ) ॥੩੦॥"
+            }
+          },
+          "spanish": "Sí, en verdad que el Señor es Invaluable; afortunados son aquéllos que viven entonados en Él. (30)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har aap amulak hai bhaag tinaa ke naanakaa jin har palai paae |30|",
+            "larivaar": "har​aap​amulak​hai​bhaag​tinaa​ke​naanakaa​jin​har​palai​paae​|30|"
+          },
+          "devanagari": {
+            "text": "हरि आपि अमुलकु है भाग तिना के नानका जिन हरि पलै पाइ ॥३०॥",
+            "larivaar": "हरि​आपि​अमुलकु​है​भाग​तिना​के​नानका​जिन​हरि​पलै​पाइ​॥३०॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "hAAhBqknjhpp",
+          "unicode": "ਹਅਅਹਭਤਕਨਜਹਪਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "T5F2",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir rwis myrI mnu vxjwrw ]",
+          "unicode": "ਹਰਿ ਰਾਸਿ ਮੇਰੀ ਮਨੁ ਵਣਜਾਰਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​rwis​myrI​mnu​vxjwrw​]",
+          "unicode": "ਹਰਿ​ਰਾਸਿ​ਮੇਰੀ​ਮਨੁ​ਵਣਜਾਰਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord is my capital; my mind is the merchant."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw dw nwm myrI rwis-pUMjI hY qy myrw mn vpwrI ho igAw hY[",
+              "unicode": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੀ ਰਾਸਿ-ਪੂੰਜੀ ਹੈ ਤੇ ਮੇਰਾ ਮਨ ਵਪਾਰੀ ਹੋ ਗਿਆ ਹੈ।"
+            }
+          },
+          "spanish": "El Señor es mi fortuna, mi mente es un mercader"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har raas meree man vanajaaraa |",
+            "larivaar": "har​raas​meree​man​vanajaaraa​|"
+          },
+          "devanagari": {
+            "text": "हरि रासि मेरी मनु वणजारा ॥",
+            "larivaar": "हरि​रासि​मेरी​मनु​वणजारा​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "hrmmv",
+          "unicode": "ਹਰਮਮਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BALT",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir rwis myrI mnu vxjwrw siqgur qy rwis jwxI ]",
+          "unicode": "ਹਰਿ ਰਾਸਿ ਮੇਰੀ ਮਨੁ ਵਣਜਾਰਾ ਸਤਿਗੁਰ ਤੇ ਰਾਸਿ ਜਾਣੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​rwis​myrI​mnu​vxjwrw​siqgur​qy​rwis​jwxI​]",
+          "unicode": "ਹਰਿ​ਰਾਸਿ​ਮੇਰੀ​ਮਨੁ​ਵਣਜਾਰਾ​ਸਤਿਗੁਰ​ਤੇ​ਰਾਸਿ​ਜਾਣੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord is my capital, and my mind is the merchant; through the True Guru, I know my capital."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Awpxy gurU qoN mYƒ smJ AweI hY ik (Awqmk Awnµd dI K`tI K`tx leI) prmwqmw dw nwm hI myrI rwis-pUMjI (ho skdI hY), myrw mn (ies vxj dw) vpwrI bx igAw hY[",
+              "unicode": "ਆਪਣੇ ਗੁਰੂ ਤੋਂ ਮੈਨੂੰ ਸਮਝ ਆਈ ਹੈ ਕਿ (ਆਤਮਕ ਆਨੰਦ ਦੀ ਖੱਟੀ ਖੱਟਣ ਲਈ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਮੇਰੀ ਰਾਸਿ-ਪੂੰਜੀ (ਹੋ ਸਕਦੀ ਹੈ), ਮੇਰਾ ਮਨ (ਇਸ ਵਣਜ ਦਾ) ਵਪਾਰੀ ਬਣ ਗਿਆ ਹੈ।"
+            }
+          },
+          "spanish": "que sólo comercia con los Bienes del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har raas meree man vanajaaraa satigur te raas jaanee |",
+            "larivaar": "har​raas​meree​man​vanajaaraa​satigur​te​raas​jaanee​|"
+          },
+          "devanagari": {
+            "text": "हरि रासि मेरी मनु वणजारा सतिगुर ते रासि जाणी ॥",
+            "larivaar": "हरि​रासि​मेरी​मनु​वणजारा​सतिगुर​ते​रासि​जाणी​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "hrmmvsqrj",
+          "unicode": "ਹਰਮਮਵਸਤਰਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "USCW",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir hir inq jiphu jIAhu lwhw Kithu idhwVI ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਨਿਤ ਜਪਿਹੁ ਜੀਅਹੁ ਲਾਹਾ ਖਟਿਹੁ ਦਿਹਾੜੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​inq​jiphu​jIAhu​lwhw​Kithu​idhwVI​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਨਿਤ​ਜਪਿਹੁ​ਜੀਅਹੁ​ਲਾਹਾ​ਖਟਿਹੁ​ਦਿਹਾੜੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Meditate continually on the Lord, Har, Har, O my soul, and you shall collect your profits daily."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qusI BI pRym nwl sdw hrI dw nwm jipAw kro, qy hr roz (Awqmk Awnµd dw) lwB K`to[",
+              "unicode": "ਤੁਸੀ ਭੀ ਪ੍ਰੇਮ ਨਾਲ ਸਦਾ ਹਰੀ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰੋ, ਤੇ ਹਰ ਰੋਜ਼ (ਆਤਮਕ ਆਨੰਦ ਦਾ) ਲਾਭ ਖੱਟੋ।"
+            }
+          },
+          "spanish": "Así lo entendí del Guru: contempla siempre a tu Señor y disfruta de Sus Ganancias."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har nit japihu jeeahu laahaa khattihu dihaarree |",
+            "larivaar": "har​har​nit​japihu​jeeahu​laahaa​khattihu​dihaarree​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि नित जपिहु जीअहु लाहा खटिहु दिहाड़ी ॥",
+            "larivaar": "हरि​हरि​नित​जपिहु​जीअहु​लाहा​खटिहु​दिहाड़ी​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "hhnjjlKd",
+          "unicode": "ਹਹਨਜਜਲਖਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Q9HT",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "eyhu Dnu iqnw imilAw ijn hir Awpy Bwxw ]",
+          "unicode": "ਏਹੁ ਧਨੁ ਤਿਨਾ ਮਿਲਿਆ ਜਿਨ ਹਰਿ ਆਪੇ ਭਾਣਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "eyhu​Dnu​iqnw​imilAw​ijn​hir​Awpy​Bwxw​]",
+          "unicode": "ਏਹੁ​ਧਨੁ​ਤਿਨਾ​ਮਿਲਿਆ​ਜਿਨ​ਹਰਿ​ਆਪੇ​ਭਾਣਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "This wealth is obtained by those who are pleasing to the Lord's Will."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hrI-nwm dw, Awqmk Awnµd dw) ieh Dn auhnW ƒ hI imldw hY, ijnHW ƒ dyxw pRBU ƒ Awp hI cMgw l`gdw hY[",
+              "unicode": "(ਹਰੀ-ਨਾਮ ਦਾ, ਆਤਮਕ ਆਨੰਦ ਦਾ) ਇਹ ਧਨ ਉਹਨਾਂ ਨੂੰ ਹੀ ਮਿਲਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਦੇਣਾ ਪ੍ਰਭੂ ਨੂੰ ਆਪ ਹੀ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Pero sólo aquéllos que viven en la Gracia del Señor, son bendecidos con Sus Riquezas."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ehu dhan tinaa miliaa jin har aape bhaanaa |",
+            "larivaar": "ehu​dhan​tinaa​miliaa​jin​har​aape​bhaanaa​|"
+          },
+          "devanagari": {
+            "text": "एहु धनु तिना मिलिआ जिन हरि आपे भाणा ॥",
+            "larivaar": "एहु​धनु​तिना​मिलिआ​जिन​हरि​आपे​भाणा​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "eDqmjhAB",
+          "unicode": "ੲਧਤਮਜਹਅਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BV30",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "khY nwnku hir rwis myrI mnu hoAw vxjwrw ]31]",
+          "unicode": "ਕਹੈ ਨਾਨਕੁ ਹਰਿ ਰਾਸਿ ਮੇਰੀ ਮਨੁ ਹੋਆ ਵਣਜਾਰਾ ॥੩੧॥"
+        },
+        "larivaar": {
+          "akhar": "khY​nwnku​hir​rwis​myrI​mnu​hoAw​vxjwrw​]31]",
+          "unicode": "ਕਹੈ​ਨਾਨਕੁ​ਹਰਿ​ਰਾਸਿ​ਮੇਰੀ​ਮਨੁ​ਹੋਆ​ਵਣਜਾਰਾ​॥੩੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Nanak, the Lord is my capital, and my mind is the merchant. ||31||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk AwKdw hY ik prmwqmw dw nwm myrI pUMjI bx geI hY (hux gurU dI ikrpw nwl mYN Awqmk Awnµd dI K`tI K`tdw hW) ]31]",
+              "unicode": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੀ ਪੂੰਜੀ ਬਣ ਗਈ ਹੈ (ਹੁਣ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਂ ਆਤਮਕ ਆਨੰਦ ਦੀ ਖੱਟੀ ਖੱਟਦਾ ਹਾਂ) ॥੩੧॥"
+            }
+          },
+          "spanish": "Dice Nanak, el Señor es mi fortuna, mi mente el mercader.(31)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahai naanak har raas meree man hoaa vanajaaraa |31|",
+            "larivaar": "kahai​naanak​har​raas​meree​man​hoaa​vanajaaraa​|31|"
+          },
+          "devanagari": {
+            "text": "कहै नानकु हरि रासि मेरी मनु होआ वणजारा ॥३१॥",
+            "larivaar": "कहै​नानकु​हरि​रासि​मेरी​मनु​होआ​वणजारा​॥३१॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "knhrmmhv",
+          "unicode": "ਕਨਹਰਮਮਹਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BLCS",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "ey rsnw qU An ris rwic rhI qyrI ipAws n jwie ]",
+          "unicode": "ਏ ਰਸਨਾ ਤੂ ਅਨ ਰਸਿ ਰਾਚਿ ਰਹੀ ਤੇਰੀ ਪਿਆਸ ਨ ਜਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "ey​rsnw​qU​An​ris​rwic​rhI​qyrI​ipAws​n​jwie​]",
+          "unicode": "ਏ​ਰਸਨਾ​ਤੂ​ਅਨ​ਰਸਿ​ਰਾਚਿ​ਰਹੀ​ਤੇਰੀ​ਪਿਆਸ​ਨ​ਜਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O my tongue, you are engrossed in other tastes, but your thirsty desire is not quenched."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy (myrI) jIB! qUM hor hor suAwd ivc msq ho rhI hYN, (ies qrHW) qyrw suAwdW dw cskw dUr nhIN ho skdw[",
+              "unicode": "ਹੇ (ਮੇਰੀ) ਜੀਭ! ਤੂੰ ਹੋਰ ਹੋਰ ਸੁਆਦ ਵਿਚ ਮਸਤ ਹੋ ਰਹੀ ਹੈਂ, (ਇਸ ਤਰ੍ਹਾਂ) ਤੇਰਾ ਸੁਆਦਾਂ ਦਾ ਚਸਕਾ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Sin embargo, mis labios son engañados por otros sabores y por ello, nunca cesa su añoranza;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "e rasanaa too an ras raach rahee teree piaas na jaae |",
+            "larivaar": "e​rasanaa​too​an​ras​raach​rahee​teree​piaas​na​jaae​|"
+          },
+          "devanagari": {
+            "text": "ए रसना तू अन रसि राचि रही तेरी पिआस न जाइ ॥",
+            "larivaar": "ए​रसना​तू​अन​रसि​राचि​रही​तेरी​पिआस​न​जाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "erqArrrqpnj",
+          "unicode": "ੲਰਤਅਰਰਰਤਪਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UN2J",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "ipAws n jwie horqu ikqY ijcru hir rsu plY n pwie ]",
+          "unicode": "ਪਿਆਸ ਨ ਜਾਇ ਹੋਰਤੁ ਕਿਤੈ ਜਿਚਰੁ ਹਰਿ ਰਸੁ ਪਲੈ ਨ ਪਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "ipAws​n​jwie​horqu​ikqY​ijcru​hir​rsu​plY​n​pwie​]",
+          "unicode": "ਪਿਆਸ​ਨ​ਜਾਇ​ਹੋਰਤੁ​ਕਿਤੈ​ਜਿਚਰੁ​ਹਰਿ​ਰਸੁ​ਪਲੈ​ਨ​ਪਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Your thirst shall not be quenched by any means, until you attain the subtle essence of the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijqnw icr prmwqmw dy ismrn dw Awnµd pRwpq nw hovy, (auqnw icr) iksy hor QW qoN suAwdW dw cskw imt nhIN skdw[",
+              "unicode": "ਜਿਤਨਾ ਚਿਰ ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਦਾ ਆਨੰਦ ਪ੍ਰਾਪਤ ਨਾ ਹੋਵੇ, (ਉਤਨਾ ਚਿਰ) ਕਿਸੇ ਹੋਰ ਥਾਂ ਤੋਂ ਸੁਆਦਾਂ ਦਾ ਚਸਕਾ ਮਿਟ ਨਹੀਂ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "sólo se libera uno de ese apego hasta obtener al Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "piaas na jaae horat kitai jichar har ras palai na paae |",
+            "larivaar": "piaas​na​jaae​horat​kitai​jichar​har​ras​palai​na​paae​|"
+          },
+          "devanagari": {
+            "text": "पिआस न जाइ होरतु कितै जिचरु हरि रसु पलै न पाइ ॥",
+            "larivaar": "पिआस​न​जाइ​होरतु​कितै​जिचरु​हरि​रसु​पलै​न​पाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "pnjhkjhrpnp",
+          "unicode": "ਪਨਜਹਕਜਹਰਪਨਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9YRZ",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir rsu pwie plY pIAY hir rsu bhuiV n iqRsnw lwgY Awie ]",
+          "unicode": "ਹਰਿ ਰਸੁ ਪਾਇ ਪਲੈ ਪੀਐ ਹਰਿ ਰਸੁ ਬਹੁੜਿ ਨ ਤ੍ਰਿਸਨਾ ਲਾਗੈ ਆਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​rsu​pwie​plY​pIAY​hir​rsu​bhuiV​n​iqRsnw​lwgY​Awie​]",
+          "unicode": "ਹਰਿ​ਰਸੁ​ਪਾਇ​ਪਲੈ​ਪੀਐ​ਹਰਿ​ਰਸੁ​ਬਹੁੜਿ​ਨ​ਤ੍ਰਿਸਨਾ​ਲਾਗੈ​ਆਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If you do obtain the subtle essence of the Lord, and drink in this essence of the Lord, you shall not be troubled by desire again."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs mnu`K ƒ prmwqmw dy nwm dw Awnµd iml jwey, jo mnu`K hrI-ismrn dw suAwd mwxn l`g pey, aus ƒ mwieAw dI iqRSnw nhIN poh skdI[",
+              "unicode": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਆਨੰਦ ਮਿਲ ਜਾਏ, ਜੋ ਮਨੁੱਖ ਹਰੀ-ਸਿਮਰਨ ਦਾ ਸੁਆਦ ਮਾਣਨ ਲੱਗ ਪਏ, ਉਸ ਨੂੰ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਨਹੀਂ ਪੋਹ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "Al beber la Esencia del Señor, la ansiedad se desvanece;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har ras paae palai peeai har ras bahurr na trisanaa laagai aae |",
+            "larivaar": "har​ras​paae​palai​peeai​har​ras​bahurr​na​trisanaa​laagai​aae​|"
+          },
+          "devanagari": {
+            "text": "हरि रसु पाइ पलै पीऐ हरि रसु बहुड़ि न त्रिसना लागै आइ ॥",
+            "larivaar": "हरि​रसु​पाइ​पलै​पीऐ​हरि​रसु​बहुड़ि​न​त्रिसना​लागै​आइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "hrppphrbnqlA",
+          "unicode": "ਹਰਪਪਪਹਰਬਨਤਲਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "323D",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "eyhu hir rsu krmI pweIAY siqguru imlY ijsu Awie ]",
+          "unicode": "ਏਹੁ ਹਰਿ ਰਸੁ ਕਰਮੀ ਪਾਈਐ ਸਤਿਗੁਰੁ ਮਿਲੈ ਜਿਸੁ ਆਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "eyhu​hir​rsu​krmI​pweIAY​siqguru​imlY​ijsu​Awie​]",
+          "unicode": "ਏਹੁ​ਹਰਿ​ਰਸੁ​ਕਰਮੀ​ਪਾਈਐ​ਸਤਿਗੁਰੁ​ਮਿਲੈ​ਜਿਸੁ​ਆਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "This subtle essence of the Lord is obtained by good karma, when one comes to meet with the True Guru."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr ieh hrI-nwm dw Awnµd pRBU dI myhr nwl imldw hY (aus ƒ imldw hY) ijs ƒ gurU imly[",
+              "unicode": "ਪਰ ਇਹ ਹਰੀ-ਨਾਮ ਦਾ ਆਨੰਦ ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਨਾਲ ਮਿਲਦਾ ਹੈ (ਉਸ ਨੂੰ ਮਿਲਦਾ ਹੈ) ਜਿਸ ਨੂੰ ਗੁਰੂ ਮਿਲੇ।"
+            }
+          },
+          "spanish": "el Néctar del Nombre del Señor sólo se obtiene a través de Su Gracia, cuando se encuentra al Guru Verdadero."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ehu har ras karamee paaeeai satigur milai jis aae |",
+            "larivaar": "ehu​har​ras​karamee​paaeeai​satigur​milai​jis​aae​|"
+          },
+          "devanagari": {
+            "text": "एहु हरि रसु करमी पाईऐ सतिगुरु मिलै जिसु आइ ॥",
+            "larivaar": "एहु​हरि​रसु​करमी​पाईऐ​सतिगुरु​मिलै​जिसु​आइ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "ehrkpsmjA",
+          "unicode": "ੲਹਰਕਪਸਮਜਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "A6T2",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "khY nwnku hoir An rs siB vIsry jw hir vsY min Awie ]32]",
+          "unicode": "ਕਹੈ ਨਾਨਕੁ ਹੋਰਿ ਅਨ ਰਸ ਸਭਿ ਵੀਸਰੇ ਜਾ ਹਰਿ ਵਸੈ ਮਨਿ ਆਇ ॥੩੨॥"
+        },
+        "larivaar": {
+          "akhar": "khY​nwnku​hoir​An​rs​siB​vIsry​jw​hir​vsY​min​Awie​]32]",
+          "unicode": "ਕਹੈ​ਨਾਨਕੁ​ਹੋਰਿ​ਅਨ​ਰਸ​ਸਭਿ​ਵੀਸਰੇ​ਜਾ​ਹਰਿ​ਵਸੈ​ਮਨਿ​ਆਇ​॥੩੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Nanak, all other tastes and essences are forgotten, when the Lord comes to dwell within the mind. ||32||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk AwKdw hY ik jdoN hrI-ismrn dw Awnµd mn ivc v`s pey, qdoN hor hor swry csky Bu`l jWdy hn ]32]",
+              "unicode": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਜਦੋਂ ਹਰੀ-ਸਿਮਰਨ ਦਾ ਆਨੰਦ ਮਨ ਵਿਚ ਵੱਸ ਪਏ, ਤਦੋਂ ਹੋਰ ਹੋਰ ਸਾਰੇ ਚਸਕੇ ਭੁੱਲ ਜਾਂਦੇ ਹਨ ॥੩੨॥"
+            }
+          },
+          "spanish": "Dice Nanak, toda inquietud se calma, cuando uno eleva al Señor en su mente. (32)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahai naanak hor an ras sabh veesare jaa har vasai man aae |32|",
+            "larivaar": "kahai​naanak​hor​an​ras​sabh​veesare​jaa​har​vasai​man​aae​|32|"
+          },
+          "devanagari": {
+            "text": "कहै नानकु होरि अन रस सभि वीसरे जा हरि वसै मनि आइ ॥३२॥",
+            "larivaar": "कहै​नानकु​होरि​अन​रस​सभि​वीसरे​जा​हरि​वसै​मनि​आइ​॥३२॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "knhArsvjhvmA",
+          "unicode": "ਕਨਹਅਰਸਵਜਹਵਮਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "H0V6",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "ey srIrw myirAw hir qum mih joiq rKI qw qU jg mih AwieAw ]",
+          "unicode": "ਏ ਸਰੀਰਾ ਮੇਰਿਆ ਹਰਿ ਤੁਮ ਮਹਿ ਜੋਤਿ ਰਖੀ ਤਾ ਤੂ ਜਗ ਮਹਿ ਆਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "ey​srIrw​myirAw​hir​qum​mih​joiq​rKI​qw​qU​jg​mih​AwieAw​]",
+          "unicode": "ਏ​ਸਰੀਰਾ​ਮੇਰਿਆ​ਹਰਿ​ਤੁਮ​ਮਹਿ​ਜੋਤਿ​ਰਖੀ​ਤਾ​ਤੂ​ਜਗ​ਮਹਿ​ਆਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O my body, the Lord infused His Light into you, and then you came into the world."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "myry srIr! (qUM dunIAw dy pdwrQW ivcoN Anµd FUMFdw hYN, pr Awnµd dw somw qW prmwqmw hY jo qyry AMdr v`sdw hY) qUM jgq ivc AwieAw hI qdoN, jdoN hrI ny AwpxI joiq qyry AMdr r`K id`qI[",
+              "unicode": "ਮੇਰੇ ਸਰੀਰ! (ਤੂੰ ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਵਿਚੋਂ ਅਨੰਦ ਢੂੰਢਦਾ ਹੈਂ, ਪਰ ਆਨੰਦ ਦਾ ਸੋਮਾ ਤਾਂ ਪਰਮਾਤਮਾ ਹੈ ਜੋ ਤੇਰੇ ਅੰਦਰ ਵੱਸਦਾ ਹੈ) ਤੂੰ ਜਗਤ ਵਿਚ ਆਇਆ ਹੀ ਤਦੋਂ, ਜਦੋਂ ਹਰੀ ਨੇ ਆਪਣੀ ਜੋਤਿ ਤੇਰੇ ਅੰਦਰ ਰੱਖ ਦਿੱਤੀ।"
+            }
+          },
+          "spanish": "Oh mi cuerpo, el Señor ha puesto Su Luz en ti y así llegaste al mundo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "e sareeraa meriaa har tum meh jot rakhee taa too jag meh aaeaa |",
+            "larivaar": "e​sareeraa​meriaa​har​tum​meh​jot​rakhee​taa​too​jag​meh​aaeaa​|"
+          },
+          "devanagari": {
+            "text": "ए सरीरा मेरिआ हरि तुम महि जोति रखी ता तू जग महि आइआ ॥",
+            "larivaar": "ए​सरीरा​मेरिआ​हरि​तुम​महि​जोति​रखी​ता​तू​जग​महि​आइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "esmhqmjrqqjmA",
+          "unicode": "ੲਸਮਹਤਮਜਰਤਤਜਮਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8RG4",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir joiq rKI quDu ivic qw qU jg mih AwieAw ]",
+          "unicode": "ਹਰਿ ਜੋਤਿ ਰਖੀ ਤੁਧੁ ਵਿਚਿ ਤਾ ਤੂ ਜਗ ਮਹਿ ਆਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​joiq​rKI​quDu​ivic​qw​qU​jg​mih​AwieAw​]",
+          "unicode": "ਹਰਿ​ਜੋਤਿ​ਰਖੀ​ਤੁਧੁ​ਵਿਚਿ​ਤਾ​ਤੂ​ਜਗ​ਮਹਿ​ਆਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord infused His Light into you, and then you came into the world."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ieh XkIn jwx ik) jdoN prmwqmw ny qyry AMdr AwpxI joiq r`KI, qdoN qUM jgq ivc jMimAw[",
+              "unicode": "(ਇਹ ਯਕੀਨ ਜਾਣ ਕਿ) ਜਦੋਂ ਪਰਮਾਤਮਾ ਨੇ ਤੇਰੇ ਅੰਦਰ ਆਪਣੀ ਜੋਤਿ ਰੱਖੀ, ਤਦੋਂ ਤੂੰ ਜਗਤ ਵਿਚ ਜੰਮਿਆ।"
+            }
+          },
+          "spanish": "sí, llegaste al mundo cuando el Señor con Su Luz iluminó tu mente."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har jot rakhee tudh vich taa too jag meh aaeaa |",
+            "larivaar": "har​jot​rakhee​tudh​vich​taa​too​jag​meh​aaeaa​|"
+          },
+          "devanagari": {
+            "text": "हरि जोति रखी तुधु विचि ता तू जग महि आइआ ॥",
+            "larivaar": "हरि​जोति​रखी​तुधु​विचि​ता​तू​जग​महि​आइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "hjrqvqqjmA",
+          "unicode": "ਹਜਰਤਵਤਤਜਮਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Y8HW",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir Awpy mwqw Awpy ipqw ijin jIau aupwie jgqu idKwieAw ]",
+          "unicode": "ਹਰਿ ਆਪੇ ਮਾਤਾ ਆਪੇ ਪਿਤਾ ਜਿਨਿ ਜੀਉ ਉਪਾਇ ਜਗਤੁ ਦਿਖਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​Awpy​mwqw​Awpy​ipqw​ijin​jIau​aupwie​jgqu​idKwieAw​]",
+          "unicode": "ਹਰਿ​ਆਪੇ​ਮਾਤਾ​ਆਪੇ​ਪਿਤਾ​ਜਿਨਿ​ਜੀਉ​ਉਪਾਇ​ਜਗਤੁ​ਦਿਖਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord Himself is your mother, and He Himself is your father; He created the created beings, and revealed the world to them."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVw prmwqmw jIv pYdw krky aus ƒ jgq ivc Byjdw hY auh Awp hI ies dI mW hY Awp hI ies dw ipqw hY (pRBU Awp hI mwipAW vWg jIv ƒ hr qrHW dw suK dyNdw hY, suK Awnµd dw dwqw hY hI pRBU Awp[ pr jIv jgq ivcoN mwiek pdwrQW ivcoN Awnµd Bwldw hY)[",
+              "unicode": "ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਜੀਵ ਪੈਦਾ ਕਰਕੇ ਉਸ ਨੂੰ ਜਗਤ ਵਿਚ ਭੇਜਦਾ ਹੈ ਉਹ ਆਪ ਹੀ ਇਸ ਦੀ ਮਾਂ ਹੈ ਆਪ ਹੀ ਇਸ ਦਾ ਪਿਤਾ ਹੈ (ਪ੍ਰਭੂ ਆਪ ਹੀ ਮਾਪਿਆਂ ਵਾਂਗ ਜੀਵ ਨੂੰ ਹਰ ਤਰ੍ਹਾਂ ਦਾ ਸੁਖ ਦੇਂਦਾ ਹੈ, ਸੁਖ ਆਨੰਦ ਦਾ ਦਾਤਾ ਹੈ ਹੀ ਪ੍ਰਭੂ ਆਪ। ਪਰ ਜੀਵ ਜਗਤ ਵਿਚੋਂ ਮਾਇਕ ਪਦਾਰਥਾਂ ਵਿਚੋਂ ਆਨੰਦ ਭਾਲਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "El Señor Mismo es el Padre y la Madre, es Quien creó la vida para contemplar el mundo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har aape maataa aape pitaa jin jeeo upaae jagat dikhaaeaa |",
+            "larivaar": "har​aape​maataa​aape​pitaa​jin​jeeo​upaae​jagat​dikhaaeaa​|"
+          },
+          "devanagari": {
+            "text": "हरि आपे माता आपे पिता जिनि जीउ उपाइ जगतु दिखाइआ ॥",
+            "larivaar": "हरि​आपे​माता​आपे​पिता​जिनि​जीउ​उपाइ​जगतु​दिखाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "hAmApjjajd",
+          "unicode": "ਹਅਮਅਪਜਜੳਜਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "F6PW",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "gur prswdI buiJAw qw clqu hoAw clqu ndrI AwieAw ]",
+          "unicode": "ਗੁਰ ਪਰਸਾਦੀ ਬੁਝਿਆ ਤਾ ਚਲਤੁ ਹੋਆ ਚਲਤੁ ਨਦਰੀ ਆਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​prswdI​buiJAw​qw​clqu​hoAw​clqu​ndrI​AwieAw​]",
+          "unicode": "ਗੁਰ​ਪਰਸਾਦੀ​ਬੁਝਿਆ​ਤਾ​ਚਲਤੁ​ਹੋਆ​ਚਲਤੁ​ਨਦਰੀ​ਆਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By Guru's Grace, some understand, and then it's a show; it seems like just a show."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN gurU dI myhr nwl jIv ƒ igAwn huMdw hY qW ies ƒ smJ AwauNdI hY ik ieh jgq qW iek Kyf hI hY, iPr jIv ƒ ieh jgq (mdwrI dw) iek qmwSw hI id`s pYNdw hY (sdw-iQr rihx vwlw Awqmk Awnµd ies ivc nhIN ho skdw)[",
+              "unicode": "ਜਦੋਂ ਗੁਰੂ ਦੀ ਮੇਹਰ ਨਾਲ ਜੀਵ ਨੂੰ ਗਿਆਨ ਹੁੰਦਾ ਹੈ ਤਾਂ ਇਸ ਨੂੰ ਸਮਝ ਆਉਂਦੀ ਹੈ ਕਿ ਇਹ ਜਗਤ ਤਾਂ ਇਕ ਖੇਡ ਹੀ ਹੈ, ਫਿਰ ਜੀਵ ਨੂੰ ਇਹ ਜਗਤ (ਮਦਾਰੀ ਦਾ) ਇਕ ਤਮਾਸ਼ਾ ਹੀ ਦਿੱਸ ਪੈਂਦਾ ਹੈ (ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਆਤਮਕ ਆਨੰਦ ਇਸ ਵਿਚ ਨਹੀਂ ਹੋ ਸਕਦਾ)।"
+            }
+          },
+          "spanish": "pero cuando la vida, por la Gracia del Guru, conoció su propia realidad,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur parasaadee bujhiaa taa chalat hoaa chalat nadaree aaeaa |",
+            "larivaar": "gur​parasaadee​bujhiaa​taa​chalat​hoaa​chalat​nadaree​aaeaa​|"
+          },
+          "devanagari": {
+            "text": "गुर परसादी बुझिआ ता चलतु होआ चलतु नदरी आइआ ॥",
+            "larivaar": "गुर​परसादी​बुझिआ​ता​चलतु​होआ​चलतु​नदरी​आइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "gpbqchcnA",
+          "unicode": "ਗਪਬਤਚਹਚਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "D4YY",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "khY nwnku isRsit kw mUlu ricAw joiq rwKI qw qU jg mih AwieAw ]33]",
+          "unicode": "ਕਹੈ ਨਾਨਕੁ ਸ੍ਰਿਸਟਿ ਕਾ ਮੂਲੁ ਰਚਿਆ ਜੋਤਿ ਰਾਖੀ ਤਾ ਤੂ ਜਗ ਮਹਿ ਆਇਆ ॥੩੩॥"
+        },
+        "larivaar": {
+          "akhar": "khY​nwnku​isRsit​kw​mUlu​ricAw​joiq​rwKI​qw​qU​jg​mih​AwieAw​]33]",
+          "unicode": "ਕਹੈ​ਨਾਨਕੁ​ਸ੍ਰਿਸਟਿ​ਕਾ​ਮੂਲੁ​ਰਚਿਆ​ਜੋਤਿ​ਰਾਖੀ​ਤਾ​ਤੂ​ਜਗ​ਮਹਿ​ਆਇਆ​॥੩੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Nanak, He laid the foundation of the Universe, and infused His Light, and then you came into the world. ||33||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk AwKdw hY ik hy myry srIr! jdoN pRBU ny jgq-rcnw dw mu`F b`Dw, qyry AMdr AwpxI joiq pweI, qdoN qUM jgq ivc jnimAw ]33]",
+              "unicode": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਹੇ ਮੇਰੇ ਸਰੀਰ! ਜਦੋਂ ਪ੍ਰਭੂ ਨੇ ਜਗਤ-ਰਚਨਾ ਦਾ ਮੁੱਢ ਬੱਧਾ, ਤੇਰੇ ਅੰਦਰ ਆਪਣੀ ਜੋਤਿ ਪਾਈ, ਤਦੋਂ ਤੂੰ ਜਗਤ ਵਿਚ ਜਨਮਿਆ ॥੩੩॥"
+            }
+          },
+          "spanish": "entonces se dio cuenta de que era sólo un teatro. Dice Nanak, y así, el Señor creó el Universo y poniendo Su Luz en ti, te trajo a ser.(33)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahai naanak srisatt kaa mool rachiaa jot raakhee taa too jag meh aaeaa |33|",
+            "larivaar": "kahai​naanak​srisatt​kaa​mool​rachiaa​jot​raakhee​taa​too​jag​meh​aaeaa​|33|"
+          },
+          "devanagari": {
+            "text": "कहै नानकु स्रिसटि का मूलु रचिआ जोति राखी ता तू जग महि आइआ ॥३३॥",
+            "larivaar": "कहै​नानकु​स्रिसटि​का​मूलु​रचिआ​जोति​राखी​ता​तू​जग​महि​आइआ​॥३३॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "knskmrjrqqjmA",
+          "unicode": "ਕਨਸਕਮਰਜਰਤਤਜਮਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FFNC",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "min cwau BieAw pRB Awgmu suixAw ]",
+          "unicode": "ਮਨਿ ਚਾਉ ਭਇਆ ਪ੍ਰਭ ਆਗਮੁ ਸੁਣਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "min​cwau​BieAw​pRB​Awgmu​suixAw​]",
+          "unicode": "ਮਨਿ​ਚਾਉ​ਭਇਆ​ਪ੍ਰਭ​ਆਗਮੁ​ਸੁਣਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "My mind has become joyful, hearing of God's coming."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AwpxI ihrdy-syj auqy pRBU-pqI dw Awauxw mYN sux ilAw hY (mYN AnuBv kr ilAw hY ik pRBU myry ihrdy ivc Aw v`isAw hY hux) myry mn ivc Awnµd bx igAw hY[",
+              "unicode": "ਆਪਣੀ ਹਿਰਦੇ-ਸੇਜ ਉਤੇ ਪ੍ਰਭੂ-ਪਤੀ ਦਾ ਆਉਣਾ ਮੈਂ ਸੁਣ ਲਿਆ ਹੈ (ਮੈਂ ਅਨੁਭਵ ਕਰ ਲਿਆ ਹੈ ਕਿ ਪ੍ਰਭੂ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਆ ਵੱਸਿਆ ਹੈ ਹੁਣ) ਮੇਰੇ ਮਨ ਵਿਚ ਆਨੰਦ ਬਣ ਗਿਆ ਹੈ।"
+            }
+          },
+          "spanish": "Mi mente se pone en Éxtasis, escuchando que el Señor va a llegar a mi hogar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "man chaau bheaa prabh aagam suniaa |",
+            "larivaar": "man​chaau​bheaa​prabh​aagam​suniaa​|"
+          },
+          "devanagari": {
+            "text": "मनि चाउ भइआ प्रभ आगमु सुणिआ ॥",
+            "larivaar": "मनि​चाउ​भइआ​प्रभ​आगमु​सुणिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "mcBpAs",
+          "unicode": "ਮਚਭਪਅਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "14FA",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir mMglu gwau sKI igRhu mMdru bixAw ]",
+          "unicode": "ਹਰਿ ਮੰਗਲੁ ਗਾਉ ਸਖੀ ਗ੍ਰਿਹੁ ਮੰਦਰੁ ਬਣਿਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​mMglu​gwau​sKI​igRhu​mMdru​bixAw​]",
+          "unicode": "ਹਰਿ​ਮੰਗਲੁ​ਗਾਉ​ਸਖੀ​ਗ੍ਰਿਹੁ​ਮੰਦਰੁ​ਬਣਿਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Sing the songs of joy to welcome the Lord, O my companions; my household has become the Lord's Mansion."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myrI ijMdy! myrw ieh ihrdw-Gr pRBU-pqI dw invws-AsQwn bx igAw hY, hux qUM pRBU dI is&q-swlwh dw gIq gw[",
+              "unicode": "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਮੇਰਾ ਇਹ ਹਿਰਦਾ-ਘਰ ਪ੍ਰਭੂ-ਪਤੀ ਦਾ ਨਿਵਾਸ-ਅਸਥਾਨ ਬਣ ਗਿਆ ਹੈ, ਹੁਣ ਤੂੰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾ।"
+            }
+          },
+          "spanish": "Oh mis compañeros, canten los himnos nupciales, pues mi hogar se ha convertido en templo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har mangal gaau sakhee grihu mandar baniaa |",
+            "larivaar": "har​mangal​gaau​sakhee​grihu​mandar​baniaa​|"
+          },
+          "devanagari": {
+            "text": "हरि मंगलु गाउ सखी ग्रिहु मंदरु बणिआ ॥",
+            "larivaar": "हरि​मंगलु​गाउ​सखी​ग्रिहु​मंदरु​बणिआ​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "hmgsgmb",
+          "unicode": "ਹਮਗਸਗਮਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FJDA",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "hir gwau mMglu inq sKIey sogu dUKu n ivAwpey ]",
+          "unicode": "ਹਰਿ ਗਾਉ ਮੰਗਲੁ ਨਿਤ ਸਖੀਏ ਸੋਗੁ ਦੂਖੁ ਨ ਵਿਆਪਏ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​gwau​mMglu​inq​sKIey​sogu​dUKu​n​ivAwpey​]",
+          "unicode": "ਹਰਿ​ਗਾਉ​ਮੰਗਲੁ​ਨਿਤ​ਸਖੀਏ​ਸੋਗੁ​ਦੂਖੁ​ਨ​ਵਿਆਪਏ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Sing continually the songs of joy to welcome the Lord, O my companions, and sorrow and suffering will not afflict you."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy ijMdy! sdw pRBU dI vifAweI dw gIq gWdI rhu, (ieh qrHW) koeI i&kr koeI du`K (Awpxw) zor nhIN pw skdw[",
+              "unicode": "ਹੇ ਜਿੰਦੇ! ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਵਡਿਆਈ ਦਾ ਗੀਤ ਗਾਂਦੀ ਰਹੁ, (ਇਹ ਤਰ੍ਹਾਂ) ਕੋਈ ਫ਼ਿਕਰ ਕੋਈ ਦੁੱਖ (ਆਪਣਾ) ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Sí, canten por siempre la Melodía de Dicha, para que nunca sean infectados por la pena y la tristeza;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har gaau mangal nit sakhee sog dookh na viaape |",
+            "larivaar": "har​gaau​mangal​nit​sakhee​sog​dookh​na​viaape​|"
+          },
+          "devanagari": {
+            "text": "हरि गाउ मंगलु नित सखीए सोगु दूखु न विआपए ॥",
+            "larivaar": "हरि​गाउ​मंगलु​नित​सखीए​सोगु​दूखु​न​विआपए​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "hgmnssdnv",
+          "unicode": "ਹਗਮਨਸਸਦਨਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DLHV",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "gur crn lwgy idn sBwgy Awpxw ipru jwpey ]",
+          "unicode": "ਗੁਰ ਚਰਨ ਲਾਗੇ ਦਿਨ ਸਭਾਗੇ ਆਪਣਾ ਪਿਰੁ ਜਾਪਏ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​crn​lwgy​idn​sBwgy​Awpxw​ipru​jwpey​]",
+          "unicode": "ਗੁਰ​ਚਰਨ​ਲਾਗੇ​ਦਿਨ​ਸਭਾਗੇ​ਆਪਣਾ​ਪਿਰੁ​ਜਾਪਏ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Blessed is that day, when I am attached to the Guru's feet and meditate on my Husband Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh idn BwgW vwly huMdy hn jdoN (m`Qw) gurU dy crnW auqy itky, ipAwrw pqI-pRBU (ihrdy ivc) id`s pYNdw hY[",
+              "unicode": "ਉਹ ਦਿਨ ਭਾਗਾਂ ਵਾਲੇ ਹੁੰਦੇ ਹਨ ਜਦੋਂ (ਮੱਥਾ) ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉਤੇ ਟਿਕੇ, ਪਿਆਰਾ ਪਤੀ-ਪ੍ਰਭੂ (ਹਿਰਦੇ ਵਿਚ) ਦਿੱਸ ਪੈਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "permanezcan, mis hermanos, entonados a los Pies del Guru y así, sus días serán bendecidos y verán la Presencia del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur charan laage din sabhaage aapanaa pir jaape |",
+            "larivaar": "gur​charan​laage​din​sabhaage​aapanaa​pir​jaape​|"
+          },
+          "devanagari": {
+            "text": "गुर चरन लागे दिन सभागे आपणा पिरु जापए ॥",
+            "larivaar": "गुर​चरन​लागे​दिन​सभागे​आपणा​पिरु​जापए​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "gcldsApj",
+          "unicode": "ਗਚਲਦਸਅਪਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WBAJ",
+        "type": 4,
+        "shabadid": "TUY",
+        "gurmukhi": {
+          "akhar": "Anhq bwxI gur sbid jwxI hir nwmu hir rsu Bogo ]",
+          "unicode": "ਅਨਹਤ ਬਾਣੀ ਗੁਰ ਸਬਦਿ ਜਾਣੀ ਹਰਿ ਨਾਮੁ ਹਰਿ ਰਸੁ ਭੋਗੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "Anhq​bwxI​gur​sbid​jwxI​hir​nwmu​hir​rsu​Bogo​]",
+          "unicode": "ਅਨਹਤ​ਬਾਣੀ​ਗੁਰ​ਸਬਦਿ​ਜਾਣੀ​ਹਰਿ​ਨਾਮੁ​ਹਰਿ​ਰਸੁ​ਭੋਗੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I have come to know the unstruck sound current and the Word of the Guru's Shabad; I enjoy the sublime essence of the Lord, the Lord's Name."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "gurU dy Sbd dI rwhIN iek-rs is&q-swlwh dI rO nwl sWJ bx jWdI hY, pRBU dw nwm pRwpq ho jWdw hY, pRBU-imlwp dw Awnµd mwxIdw hY[",
+              "unicode": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਇਕ-ਰਸ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਰੌ ਨਾਲ ਸਾਂਝ ਬਣ ਜਾਂਦੀ ਹੈ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ, ਪ੍ਰਭੂ-ਮਿਲਾਪ ਦਾ ਆਨੰਦ ਮਾਣੀਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "He podido escuchar la Melodía Divina del Shabd de la Palabra y ahora disfruto de la Sublime Esencia del Señor, del Nombre del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "anahat baanee gur sabad jaanee har naam har ras bhogo |",
+            "larivaar": "anahat​baanee​gur​sabad​jaanee​har​naam​har​ras​bhogo​|"
+          },
+          "devanagari": {
+            "text": "अनहत बाणी गुर सबदि जाणी हरि नामु हरि रसु भोगो ॥",
+            "larivaar": "अनहत​बाणी​गुर​सबदि​जाणी​हरि​नामु​हरि​रसु​भोगो​॥"
+          }
+        },
+        "writer": {
+          "id": 3,
+          "akhar": "gurU Amrdws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+          "english": "Guru Amardas Ji"
+        },
+        "raag": {
+          "id": 22,
+          "akhar": "rwgu rwmklI",
+          "unicode": "ਰਾਗੁ ਰਾਮਕਲੀ",
+          "english": "Raag Raamkalee",
+          "startang": 876,
+          "endang": 974,
+          "raagwithpage": "Raag Raamkalee (876-974)"
+        },
+        "pageno": 921,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "AbgsjhnhrB",
+          "unicode": "ਅਬਗਸਜਹਨਹਰਭ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

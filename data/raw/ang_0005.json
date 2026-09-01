@@ -1,0 +1,3383 @@
+{
+  "pageno": 5,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 58,
+  "page": [
+    {
+      "line": {
+        "id": "RW45",
+        "type": 4,
+        "shabadid": "1ZF",
+        "gurmukhi": {
+          "akhar": "nwnk AwKix sBu ko AwKY iek dU ieku isAwxw ]",
+          "unicode": "ਨਾਨਕ ਆਖਣਿ ਸਭੁ ਕੋ ਆਖੈ ਇਕ ਦੂ ਇਕੁ ਸਿਆਣਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​AwKix​sBu​ko​AwKY​iek​dU​ieku​isAwxw​]",
+          "unicode": "ਨਾਨਕ​ਆਖਣਿ​ਸਭੁ​ਕੋ​ਆਖੈ​ਇਕ​ਦੂ​ਇਕੁ​ਸਿਆਣਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, everyone speaks of Him, each one wiser than the rest."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! hryk jIv Awpxy Awp ƒ dUjy nwloN isAwxw smJ ky (Akwl purK dI vifAweI) d`sx dw jqn krdw hY, (pr d`s nhIN skdw)[",
+              "unicode": "ਹੇ ਨਾਨਕ! ਹਰੇਕ ਜੀਵ ਆਪਣੇ ਆਪ ਨੂੰ ਦੂਜੇ ਨਾਲੋਂ ਸਿਆਣਾ ਸਮਝ ਕੇ (ਅਕਾਲ ਪੁਰਖ ਦੀ ਵਡਿਆਈ) ਦੱਸਣ ਦਾ ਜਤਨ ਕਰਦਾ ਹੈ, (ਪਰ ਦੱਸ ਨਹੀਂ ਸਕਦਾ)।"
+            }
+          },
+          "spanish": "Sin embargo, todos dicen que saben, cada uno más sabio que los demás."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak aakhan sabh ko aakhai ik doo ik siaanaa |",
+            "larivaar": "naanak​aakhan​sabh​ko​aakhai​ik​doo​ik​siaanaa​|"
+          },
+          "devanagari": {
+            "text": "नानक आखणि सभु को आखै इक दू इकु सिआणा ॥",
+            "larivaar": "नानक​आखणि​सभु​को​आखै​इक​दू​इकु​सिआणा​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "nAskAedes",
+          "unicode": "ਨਅਸਕਅੲਦੲਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FN4U",
+        "type": 4,
+        "shabadid": "1ZF",
+        "gurmukhi": {
+          "akhar": "vfw swihbu vfI nweI kIqw jw kw hovY ]",
+          "unicode": "ਵਡਾ ਸਾਹਿਬੁ ਵਡੀ ਨਾਈ ਕੀਤਾ ਜਾ ਕਾ ਹੋਵੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfw​swihbu​vfI​nweI​kIqw​jw​kw​hovY​]",
+          "unicode": "ਵਡਾ​ਸਾਹਿਬੁ​ਵਡੀ​ਨਾਈ​ਕੀਤਾ​ਜਾ​ਕਾ​ਹੋਵੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Great is the Master, Great is His Name. Whatever happens is according to His Will."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK (sB qoN) v`fw hY, aus dI vifAweI au`cI hY[ jo kuJ jgq ivc ho irhw hY, ausy dw kIqw ho irhw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ (ਸਭ ਤੋਂ) ਵੱਡਾ ਹੈ, ਉਸ ਦੀ ਵਡਿਆਈ ਉੱਚੀ ਹੈ। ਜੋ ਕੁਝ ਜਗਤ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ, ਉਸੇ ਦਾ ਕੀਤਾ ਹੋ ਰਿਹਾ ਹੈ।"
+            }
+          },
+          "spanish": "Grande es el Maestro, grande es Su Nombre, todo lo que existe viene de Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddaa saahib vaddee naaee keetaa jaa kaa hovai |",
+            "larivaar": "vaddaa​saahib​vaddee​naaee​keetaa​jaa​kaa​hovai​|"
+          },
+          "devanagari": {
+            "text": "वडा साहिबु वडी नाई कीता जा का होवै ॥",
+            "larivaar": "वडा​साहिबु​वडी​नाई​कीता​जा​का​होवै​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "vsvnkjkh",
+          "unicode": "ਵਸਵਨਕਜਕਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "SM79",
+        "type": 4,
+        "shabadid": "1ZF",
+        "gurmukhi": {
+          "akhar": "nwnk jy ko AwpO jwxY AgY gieAw n sohY ]21]",
+          "unicode": "ਨਾਨਕ ਜੇ ਕੋ ਆਪੌ ਜਾਣੈ ਅਗੈ ਗਇਆ ਨ ਸੋਹੈ ॥੨੧॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​jy​ko​AwpO​jwxY​AgY​gieAw​n​sohY​]21]",
+          "unicode": "ਨਾਨਕ​ਜੇ​ਕੋ​ਆਪੌ​ਜਾਣੈ​ਅਗੈ​ਗਇਆ​ਨ​ਸੋਹੈ​॥੨੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, one who claims to know everything shall not be decorated in the world hereafter. ||21||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! jy koeI mnu`K AwpxI Akl dy Awsry (pRBU dI vifAweI dw AMq pwx dw) jqn kry, auh Akwl purK dy dr 'qy jw ky Awdr nhIN pWdw ]21]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਜੇ ਕੋਈ ਮਨੁੱਖ ਆਪਣੀ ਅਕਲ ਦੇ ਆਸਰੇ (ਪ੍ਰਭੂ ਦੀ ਵਡਿਆਈ ਦਾ ਅੰਤ ਪਾਣ ਦਾ) ਜਤਨ ਕਰੇ, ਉਹ ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰ 'ਤੇ ਜਾ ਕੇ ਆਦਰ ਨਹੀਂ ਪਾਂਦਾ ॥੨੧॥"
+            }
+          },
+          "spanish": "Oh, dice Nanak, aquél que piensa que es muy grande, será hecho muy pequeño en el Reino de Dios. (21)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak je ko aapau jaanai agai geaa na sohai |21|",
+            "larivaar": "naanak​je​ko​aapau​jaanai​agai​geaa​na​sohai​|21|"
+          },
+          "devanagari": {
+            "text": "नानक जे को आपौ जाणै अगै गइआ न सोहै ॥२१॥",
+            "larivaar": "नानक​जे​को​आपौ​जाणै​अगै​गइआ​न​सोहै​॥२१॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "njkAjAgns",
+          "unicode": "ਨਜਕਅਜਅਗਨਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YB5R",
+        "type": 4,
+        "shabadid": "345",
+        "gurmukhi": {
+          "akhar": "pwqwlw pwqwl lK Awgwsw Awgws ]",
+          "unicode": "ਪਾਤਾਲਾ ਪਾਤਾਲ ਲਖ ਆਗਾਸਾ ਆਗਾਸ ॥"
+        },
+        "larivaar": {
+          "akhar": "pwqwlw​pwqwl​lK​Awgwsw​Awgws​]",
+          "unicode": "ਪਾਤਾਲਾ​ਪਾਤਾਲ​ਲਖ​ਆਗਾਸਾ​ਆਗਾਸ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "There are nether worlds beneath nether worlds, and hundreds of thousands of heavenly worlds above."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(swry vyd ie`k-zbwn ho ky AwKdy hn) \"pwqwlW dy hyT hor l`KW pwqwl hn Aqy AwkwSW dy au`qy hor l`KW AwkwS hn,",
+              "unicode": "(ਸਾਰੇ ਵੇਦ ਇੱਕ-ਜ਼ਬਾਨ ਹੋ ਕੇ ਆਖਦੇ ਹਨ) \"ਪਾਤਾਲਾਂ ਦੇ ਹੇਠ ਹੋਰ ਲੱਖਾਂ ਪਾਤਾਲ ਹਨ ਅਤੇ ਆਕਾਸ਼ਾਂ ਦੇ ਉੱਤੇ ਹੋਰ ਲੱਖਾਂ ਆਕਾਸ਼ ਹਨ,"
+            }
+          },
+          "spanish": "Ilimitados son los mundos de abajo e ilimitados son los mundos de arriba,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "paataalaa paataal lakh aagaasaa aagaas |",
+            "larivaar": "paataalaa​paataal​lakh​aagaasaa​aagaas​|"
+          },
+          "devanagari": {
+            "text": "पाताला पाताल लख आगासा आगास ॥",
+            "larivaar": "पाताला​पाताल​लख​आगासा​आगास​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "pplAA",
+          "unicode": "ਪਪਲਅਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CWGK",
+        "type": 4,
+        "shabadid": "345",
+        "gurmukhi": {
+          "akhar": "EVk EVk Bwil Qky vyd khin iek vwq ]",
+          "unicode": "ਓੜਕ ਓੜਕ ਭਾਲਿ ਥਕੇ ਵੇਦ ਕਹਨਿ ਇਕ ਵਾਤ ॥"
+        },
+        "larivaar": {
+          "akhar": "EVk​EVk​Bwil​Qky​vyd​khin​iek​vwq​]",
+          "unicode": "ਓੜਕ​ਓੜਕ​ਭਾਲਿ​ਥਕੇ​ਵੇਦ​ਕਹਨਿ​ਇਕ​ਵਾਤ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Vedas say that you can search and search for them all, until you grow weary."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(byAMq irSI munI iehnW dy) A^Irly bMinAW dI Bwl krky Q`k gey hn, (pr l`B nhIN sky)[\"",
+              "unicode": "(ਬੇਅੰਤ ਰਿਸ਼ੀ ਮੁਨੀ ਇਹਨਾਂ ਦੇ) ਅਖ਼ੀਰਲੇ ਬੰਨਿਆਂ ਦੀ ਭਾਲ ਕਰਕੇ ਥੱਕ ਗਏ ਹਨ, (ਪਰ ਲੱਭ ਨਹੀਂ ਸਕੇ)।\""
+            }
+          },
+          "spanish": "uno podrá cansarse de buscar Sus límites, pero nunca llegará al fin de Su Vastedad"
+        },
+        "transliteration": {
+          "english": {
+            "text": "orrak orrak bhaal thake ved kehan ik vaat |",
+            "larivaar": "orrak​orrak​bhaal​thake​ved​kehan​ik​vaat​|"
+          },
+          "devanagari": {
+            "text": "ओड़क ओड़क भालि थके वेद कहनि इक वात ॥",
+            "larivaar": "ओड़क​ओड़क​भालि​थके​वेद​कहनि​इक​वात​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "aaBQvkev",
+          "unicode": "ੳੳਭਥਵਕੲਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2B00",
+        "type": 4,
+        "shabadid": "345",
+        "gurmukhi": {
+          "akhar": "shs ATwrh khin kqybw AsulU ieku Dwqu ]",
+          "unicode": "ਸਹਸ ਅਠਾਰਹ ਕਹਨਿ ਕਤੇਬਾ ਅਸੁਲੂ ਇਕੁ ਧਾਤੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "shs​ATwrh​khin​kqybw​AsulU​ieku​Dwqu​]",
+          "unicode": "ਸਹਸ​ਅਠਾਰਹ​ਕਹਨਿ​ਕਤੇਬਾ​ਅਸੁਲੂ​ਇਕੁ​ਧਾਤੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The scriptures say that there are 18,000 worlds, but in reality, there is only One Universe."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(muslmwn qy eIsweI Awidk dIAW cwry) kqybW AwKdIAW hn, \"ku`l ATwrh hzwr Awlm hn, ijnHW dw mu`F iek Akwl purK hY[\" (pr s`cI g`l qW ieh hY ik Sbd) 'hzwrW' qy 'l`KW' BI kudrq dI igxqI ivc vrqy nhIN jw skdy[",
+              "unicode": "(ਮੁਸਲਮਾਨ ਤੇ ਈਸਾਈ ਆਦਿਕ ਦੀਆਂ ਚਾਰੇ) ਕਤੇਬਾਂ ਆਖਦੀਆਂ ਹਨ, \"ਕੁੱਲ ਅਠਾਰਹ ਹਜ਼ਾਰ ਆਲਮ ਹਨ, ਜਿਨ੍ਹਾਂ ਦਾ ਮੁੱਢ ਇਕ ਅਕਾਲ ਪੁਰਖ ਹੈ।\" (ਪਰ ਸੱਚੀ ਗੱਲ ਤਾਂ ਇਹ ਹੈ ਕਿ ਸ਼ਬਦ) 'ਹਜ਼ਾਰਾਂ' ਤੇ 'ਲੱਖਾਂ' ਭੀ ਕੁਦਰਤ ਦੀ ਗਿਣਤੀ ਵਿਚ ਵਰਤੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
+            }
+          },
+          "spanish": "Los Vedas hablan de los dieciocho mil mundos, pero todos ellos forman parte de la misma Unidad."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sehas atthaarah kehan katebaa asuloo ik dhaat |",
+            "larivaar": "sehas​atthaarah​kehan​katebaa​asuloo​ik​dhaat​|"
+          },
+          "devanagari": {
+            "text": "सहस अठारह कहनि कतेबा असुलू इकु धातु ॥",
+            "larivaar": "सहस​अठारह​कहनि​कतेबा​असुलू​इकु​धातु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "sAkkAeD",
+          "unicode": "ਸਅਕਕਅੲਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1H1W",
+        "type": 4,
+        "shabadid": "345",
+        "gurmukhi": {
+          "akhar": "lyKw hoie q ilKIAY lyKY hoie ivxwsu ]",
+          "unicode": "ਲੇਖਾ ਹੋਇ ਤ ਲਿਖੀਐ ਲੇਖੈ ਹੋਇ ਵਿਣਾਸੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "lyKw​hoie​q​ilKIAY​lyKY​hoie​ivxwsu​]",
+          "unicode": "ਲੇਖਾ​ਹੋਇ​ਤ​ਲਿਖੀਐ​ਲੇਖੈ​ਹੋਇ​ਵਿਣਾਸੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If you try to write an account of this, you will surely finish yourself before you finish writing it."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK dI kudrq dw) lyKw qdoN hI il`K skIdw hY, jy lyKw ho hI sky[ (ieh lyKw qW ho hI nhIN skdw, lyKw kridAW kridAW) lyKy dw hI ^wqmw ho jWdw hY (igxqI dy ihMdsy hI mu`k jWdy hn)[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਦੀ ਕੁਦਰਤ ਦਾ) ਲੇਖਾ ਤਦੋਂ ਹੀ ਲਿੱਖ ਸਕੀਦਾ ਹੈ, ਜੇ ਲੇਖਾ ਹੋ ਹੀ ਸਕੇ। (ਇਹ ਲੇਖਾ ਤਾਂ ਹੋ ਹੀ ਨਹੀਂ ਸਕਦਾ, ਲੇਖਾ ਕਰਦਿਆਂ ਕਰਦਿਆਂ) ਲੇਖੇ ਦਾ ਹੀ ਖ਼ਾਤਮਾ ਹੋ ਜਾਂਦਾ ਹੈ (ਗਿਣਤੀ ਦੇ ਹਿੰਦਸੇ ਹੀ ਮੁੱਕ ਜਾਂਦੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Aunque uno dedicara la vida entera  Definirlo, nunca terminaría de hacerlo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "lekhaa hoe ta likheeai lekhai hoe vinaas |",
+            "larivaar": "lekhaa​hoe​ta​likheeai​lekhai​hoe​vinaas​|"
+          },
+          "devanagari": {
+            "text": "लेखा होइ त लिखीऐ लेखै होइ विणासु ॥",
+            "larivaar": "लेखा​होइ​त​लिखीऐ​लेखै​होइ​विणासु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "lhqllhv",
+          "unicode": "ਲਹਤਲਲਹਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WR3V",
+        "type": 4,
+        "shabadid": "345",
+        "gurmukhi": {
+          "akhar": "nwnk vfw AwKIAY Awpy jwxY Awpu ]22]",
+          "unicode": "ਨਾਨਕ ਵਡਾ ਆਖੀਐ ਆਪੇ ਜਾਣੈ ਆਪੁ ॥੨੨॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​vfw​AwKIAY​Awpy​jwxY​Awpu​]22]",
+          "unicode": "ਨਾਨਕ​ਵਡਾ​ਆਖੀਐ​ਆਪੇ​ਜਾਣੈ​ਆਪੁ​॥੨੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, call Him Great! He Himself knows Himself. ||22||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! ijs Akwl purK ƒ (swry jgq ivc) v`fw AwiKAw jw irhw hY, auh Awp hI Awpxy Awp ƒ jwxdw hY[ (auh AwpxI vifAweI Awp hI jwxdw hY ]22]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਜਿਸ ਅਕਾਲ ਪੁਰਖ ਨੂੰ (ਸਾਰੇ ਜਗਤ ਵਿਚ) ਵੱਡਾ ਆਖਿਆ ਜਾ ਰਿਹਾ ਹੈ, ਉਹ ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਣਦਾ ਹੈ। (ਉਹ ਆਪਣੀ ਵਡਿਆਈ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ ॥੨੨॥"
+            }
+          },
+          "spanish": "Oh, dice Nanak, llámalo Grandioso, Él Mismo conoce Su Ser. (22)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak vaddaa aakheeai aape jaanai aap |22|",
+            "larivaar": "naanak​vaddaa​aakheeai​aape​jaanai​aap​|22|"
+          },
+          "devanagari": {
+            "text": "नानक वडा आखीऐ आपे जाणै आपु ॥२२॥",
+            "larivaar": "नानक​वडा​आखीऐ​आपे​जाणै​आपु​॥२२॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "nvAAjA",
+          "unicode": "ਨਵਅਅਜਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YTFR",
+        "type": 4,
+        "shabadid": "EJT",
+        "gurmukhi": {
+          "akhar": "swlwhI swlwih eyqI suriq n pweIAw ]",
+          "unicode": "ਸਾਲਾਹੀ ਸਾਲਾਹਿ ਏਤੀ ਸੁਰਤਿ ਨ ਪਾਈਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "swlwhI​swlwih​eyqI​suriq​n​pweIAw​]",
+          "unicode": "ਸਾਲਾਹੀ​ਸਾਲਾਹਿ​ਏਤੀ​ਸੁਰਤਿ​ਨ​ਪਾਈਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The praisers praise the Lord, but they do not obtain intuitive understanding"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "slwhux-jog Akwl purK dIAW vifAweIAW AwK AwK ky iksy mnu`K ny ieqnI smJ nhIN pweI ik Akwl purK kyfw v`fw hY[ (is&q-swlwh krn vwly mnu`K aus Akwl purK dy ivcy hI lIn ho jWdy hn)[",
+              "unicode": "ਸਲਾਹੁਣ-ਜੋਗ ਅਕਾਲ ਪੁਰਖ ਦੀਆਂ ਵਡਿਆਈਆਂ ਆਖ ਆਖ ਕੇ ਕਿਸੇ ਮਨੁੱਖ ਨੇ ਇਤਨੀ ਸਮਝ ਨਹੀਂ ਪਾਈ ਕਿ ਅਕਾਲ ਪੁਰਖ ਕੇਡਾ ਵੱਡਾ ਹੈ। (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨ ਵਾਲੇ ਮਨੁੱਖ ਉਸ ਅਕਾਲ ਪੁਰਖ ਦੇ ਵਿਚੇ ਹੀ ਲੀਨ ਹੋ ਜਾਂਦੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Aquéllos que cantan Su Alabanza, no saben lo Grande que es Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "saalaahee saalaeh etee surat na paaeea |",
+            "larivaar": "saalaahee​saalaeh​etee​surat​na​paaeea​|"
+          },
+          "devanagari": {
+            "text": "सालाही सालाहि एती सुरति न पाईआ ॥",
+            "larivaar": "सालाही​सालाहि​एती​सुरति​न​पाईआ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "ssesnp",
+          "unicode": "ਸਸੲਸਨਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5WQP",
+        "type": 4,
+        "shabadid": "EJT",
+        "gurmukhi": {
+          "akhar": "ndIAw AqY vwh pvih smuMid n jwxIAih ]",
+          "unicode": "ਨਦੀਆ ਅਤੈ ਵਾਹ ਪਵਹਿ ਸਮੁੰਦਿ ਨ ਜਾਣੀਅਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "ndIAw​AqY​vwh​pvih​smuMid​n​jwxIAih​]",
+          "unicode": "ਨਦੀਆ​ਅਤੈ​ਵਾਹ​ਪਵਹਿ​ਸਮੁੰਦਿ​ਨ​ਜਾਣੀਅਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "the streams and rivers flowing into the ocean do not know its vastness."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ndIAW qy nwly smuMdr ivc pYNdy hn, (pr iPr v`Kry) auh pCwxy nhIN jw skdy (ivcy hI lIn ho jWdy hn, qy smuMdr dI Qwh nhIN pw skdy)[",
+              "unicode": "ਨਦੀਆਂ ਤੇ ਨਾਲੇ ਸਮੁੰਦਰ ਵਿਚ ਪੈਂਦੇ ਹਨ, (ਪਰ ਫਿਰ ਵੱਖਰੇ) ਉਹ ਪਛਾਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ (ਵਿਚੇ ਹੀ ਲੀਨ ਹੋ ਜਾਂਦੇ ਹਨ, ਤੇ ਸਮੁੰਦਰ ਦੀ ਥਾਹ ਨਹੀਂ ਪਾ ਸਕਦੇ)।"
+            }
+          },
+          "spanish": "Así como los ríos fluyen sin saber el tamaño del mar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "nadeea atai vaah paveh samund na jaaneeeh |",
+            "larivaar": "nadeea​atai​vaah​paveh​samund​na​jaaneeeh​|"
+          },
+          "devanagari": {
+            "text": "नदीआ अतै वाह पवहि समुंदि न जाणीअहि ॥",
+            "larivaar": "नदीआ​अतै​वाह​पवहि​समुंदि​न​जाणीअहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "nAvpsnj",
+          "unicode": "ਨਅਵਪਸਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "X2T8",
+        "type": 4,
+        "shabadid": "EJT",
+        "gurmukhi": {
+          "akhar": "smuMd swh sulqwn igrhw syqI mwlu Dnu ]",
+          "unicode": "ਸਮੁੰਦ ਸਾਹ ਸੁਲਤਾਨ ਗਿਰਹਾ ਸੇਤੀ ਮਾਲੁ ਧਨੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "smuMd​swh​sulqwn​igrhw​syqI​mwlu​Dnu​]",
+          "unicode": "ਸਮੁੰਦ​ਸਾਹ​ਸੁਲਤਾਨ​ਗਿਰਹਾ​ਸੇਤੀ​ਮਾਲੁ​ਧਨੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Even kings and emperors, with mountains of property and oceans of wealth"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "smuMdrW dy pwqSwh qy sulqwn (ijnHW dy ^zwinAW iv`c) phwV jyfy Dn pdwrQW (dy Fyr hox)",
+              "unicode": "ਸਮੁੰਦਰਾਂ ਦੇ ਪਾਤਸ਼ਾਹ ਤੇ ਸੁਲਤਾਨ (ਜਿਨ੍ਹਾਂ ਦੇ ਖ਼ਜ਼ਾਨਿਆਂ ਵਿੱਚ) ਪਹਾੜ ਜੇਡੇ ਧਨ ਪਦਾਰਥਾਂ (ਦੇ ਢੇਰ ਹੋਣ)"
+            }
+          },
+          "spanish": "De la misma manera, El hombre de mucha riqueza y vasta fortuna,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "samund saah sulataan girahaa setee maal dhan |",
+            "larivaar": "samund​saah​sulataan​girahaa​setee​maal​dhan​|"
+          },
+          "devanagari": {
+            "text": "समुंद साह सुलतान गिरहा सेती मालु धनु ॥",
+            "larivaar": "समुंद​साह​सुलतान​गिरहा​सेती​मालु​धनु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "sssgsmD",
+          "unicode": "ਸਸਸਗਸਮਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5K0J",
+        "type": 4,
+        "shabadid": "EJT",
+        "gurmukhi": {
+          "akhar": "kIVI quil n hovnI jy iqsu mnhu n vIsrih ]23]",
+          "unicode": "ਕੀੜੀ ਤੁਲਿ ਨ ਹੋਵਨੀ ਜੇ ਤਿਸੁ ਮਨਹੁ ਨ ਵੀਸਰਹਿ ॥੨੩॥"
+        },
+        "larivaar": {
+          "akhar": "kIVI​quil​n​hovnI​jy​iqsu​mnhu​n​vIsrih​]23]",
+          "unicode": "ਕੀੜੀ​ਤੁਲਿ​ਨ​ਹੋਵਨੀ​ਜੇ​ਤਿਸੁ​ਮਨਹੁ​ਨ​ਵੀਸਰਹਿ​॥੨੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "-these are not even equal to an ant, who does not forget God. ||23||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pRBU dI is&q-swlwh krn vwly dIAW nzrW ivc) iek kIVI dy BI brwbr nhIN huMdy, jy (hy Akwl purK!) aus kIVI dy mn ivcoN qUM nwh ivsr jweyN ]23]",
+              "unicode": "(ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨ ਵਾਲੇ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ) ਇਕ ਕੀੜੀ ਦੇ ਭੀ ਬਰਾਬਰ ਨਹੀਂ ਹੁੰਦੇ, ਜੇ (ਹੇ ਅਕਾਲ ਪੁਰਖ!) ਉਸ ਕੀੜੀ ਦੇ ਮਨ ਵਿਚੋਂ ਤੂੰ ਨਾਹ ਵਿਸਰ ਜਾਏਂ ॥੨੩॥"
+            }
+          },
+          "spanish": "no puede igualarse a una hormiga que nunca olvida a su Creador. (23)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "keerree tul na hovanee je tis manahu na veesareh |23|",
+            "larivaar": "keerree​tul​na​hovanee​je​tis​manahu​na​veesareh​|23|"
+          },
+          "devanagari": {
+            "text": "कीड़ी तुलि न होवनी जे तिसु मनहु न वीसरहि ॥२३॥",
+            "larivaar": "कीड़ी​तुलि​न​होवनी​जे​तिसु​मनहु​न​वीसरहि​॥२३॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "kqnhjqmnv",
+          "unicode": "ਕਤਨਹਜਤਮਨਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "40DA",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMqu n isPqI khix n AMqu ]",
+          "unicode": "ਅੰਤੁ ਨ ਸਿਫਤੀ ਕਹਣਿ ਨ ਅੰਤੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqu​n​isPqI​khix​n​AMqu​]",
+          "unicode": "ਅੰਤੁ​ਨ​ਸਿਫਤੀ​ਕਹਣਿ​ਨ​ਅੰਤੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Endless are His Praises, endless are those who speak them."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(Akwl purK dy) guxW dw koeI h`d-bMnw nhIN hY, igxn nwl BI (guxW dw) AMq nhIN pY skdw[ (igxy nhIN jw skdy)[",
+              "unicode": "(ਅਕਾਲ ਪੁਰਖ ਦੇ) ਗੁਣਾਂ ਦਾ ਕੋਈ ਹੱਦ-ਬੰਨਾ ਨਹੀਂ ਹੈ, ਗਿਣਨ ਨਾਲ ਭੀ (ਗੁਣਾਂ ਦਾ) ਅੰਤ ਨਹੀਂ ਪੈ ਸਕਦਾ। (ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ)।"
+            }
+          },
+          "spanish": "Infinita es Su Alabanza e Infinitos son los que la cantan."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant na sifatee kehan na ant |",
+            "larivaar": "ant​na​sifatee​kehan​na​ant​|"
+          },
+          "devanagari": {
+            "text": "अंतु न सिफती कहणि न अंतु ॥",
+            "larivaar": "अंतु​न​सिफती​कहणि​न​अंतु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "AnsknA",
+          "unicode": "ਅਨਸਕਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VKD8",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMqu n krxY dyix n AMqu ]",
+          "unicode": "ਅੰਤੁ ਨ ਕਰਣੈ ਦੇਣਿ ਨ ਅੰਤੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqu​n​krxY​dyix​n​AMqu​]",
+          "unicode": "ਅੰਤੁ​ਨ​ਕਰਣੈ​ਦੇਣਿ​ਨ​ਅੰਤੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Endless are His Actions, endless are His Gifts."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK dI rcnw qy dwqW dw AMq nhIN pY skdw[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਚਨਾ ਤੇ ਦਾਤਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪੈ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Infinitas son Sus Obras e Infinitas Sus Maneras. Infinitos son Sus Regalos,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant na karanai den na ant |",
+            "larivaar": "ant​na​karanai​den​na​ant​|"
+          },
+          "devanagari": {
+            "text": "अंतु न करणै देणि न अंतु ॥",
+            "larivaar": "अंतु​न​करणै​देणि​न​अंतु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "AnkdnA",
+          "unicode": "ਅਨਕਦਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "X8NU",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMqu n vyKix suxix n AMqu ]",
+          "unicode": "ਅੰਤੁ ਨ ਵੇਖਣਿ ਸੁਣਣਿ ਨ ਅੰਤੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqu​n​vyKix​suxix​n​AMqu​]",
+          "unicode": "ਅੰਤੁ​ਨ​ਵੇਖਣਿ​ਸੁਣਣਿ​ਨ​ਅੰਤੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Endless is His Vision, endless is His Hearing."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "vyKx qy suxn nwl BI aus dy guxW dw pwr nhIN pw skIdw[",
+              "unicode": "ਵੇਖਣ ਤੇ ਸੁਣਨ ਨਾਲ ਭੀ ਉਸ ਦੇ ਗੁਣਾਂ ਦਾ ਪਾਰ ਨਹੀਂ ਪਾ ਸਕੀਦਾ।"
+            }
+          },
+          "spanish": "Infinitos son los sonidos y las visiones."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant na vekhan sunan na ant |",
+            "larivaar": "ant​na​vekhan​sunan​na​ant​|"
+          },
+          "devanagari": {
+            "text": "अंतु न वेखणि सुणणि न अंतु ॥",
+            "larivaar": "अंतु​न​वेखणि​सुणणि​न​अंतु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "AnvsnA",
+          "unicode": "ਅਨਵਸਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "N8DF",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMqu n jwpY ikAw min mMqu ]",
+          "unicode": "ਅੰਤੁ ਨ ਜਾਪੈ ਕਿਆ ਮਨਿ ਮੰਤੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqu​n​jwpY​ikAw​min​mMqu​]",
+          "unicode": "ਅੰਤੁ​ਨ​ਜਾਪੈ​ਕਿਆ​ਮਨਿ​ਮੰਤੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "His limits cannot be perceived. What is the Mystery of His Mind?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "aus Akwl purK dy mn ivc ikhVI slwh hY, ies g`l dw BI AMq nhIN pwieAw jw skdw[",
+              "unicode": "ਉਸ ਅਕਾਲ ਪੁਰਖ ਦੇ ਮਨ ਵਿਚ ਕਿਹੜੀ ਸਲਾਹ ਹੈ, ਇਸ ਗੱਲ ਦਾ ਭੀ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Infinitos los Misterios de Su Voluntad."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant na jaapai kiaa man mant |",
+            "larivaar": "ant​na​jaapai​kiaa​man​mant​|"
+          },
+          "devanagari": {
+            "text": "अंतु न जापै किआ मनि मंतु ॥",
+            "larivaar": "अंतु​न​जापै​किआ​मनि​मंतु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "Anjkmm",
+          "unicode": "ਅਨਜਕਮਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WHBU",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMqu n jwpY kIqw Awkwru ]",
+          "unicode": "ਅੰਤੁ ਨ ਜਾਪੈ ਕੀਤਾ ਆਕਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqu​n​jwpY​kIqw​Awkwru​]",
+          "unicode": "ਅੰਤੁ​ਨ​ਜਾਪੈ​ਕੀਤਾ​ਆਕਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The limits of the created universe cannot be perceived."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK ny ieh jgq (jo id`s irhw hY) bxwieAw hY, pr ies dw hI AMq nhIN pwieAw jWdw[ A^Ir",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਨੇ ਇਹ ਜਗਤ (ਜੋ ਦਿੱਸ ਰਿਹਾ ਹੈ) ਬਣਾਇਆ ਹੈ, ਪਰ ਇਸ ਦਾ ਹੀ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾਂਦਾ। ਅਖ਼ੀਰ"
+            }
+          },
+          "spanish": "Infinita es la creación, Infinita su expansión."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant na jaapai keetaa aakaar |",
+            "larivaar": "ant​na​jaapai​keetaa​aakaar​|"
+          },
+          "devanagari": {
+            "text": "अंतु न जापै कीता आकारु ॥",
+            "larivaar": "अंतु​न​जापै​कीता​आकारु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "AnjkA",
+          "unicode": "ਅਨਜਕਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5T92",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMqu n jwpY pwrwvwru ]",
+          "unicode": "ਅੰਤੁ ਨ ਜਾਪੈ ਪਾਰਾਵਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqu​n​jwpY​pwrwvwru​]",
+          "unicode": "ਅੰਤੁ​ਨ​ਜਾਪੈ​ਪਾਰਾਵਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Its limits here and beyond cannot be perceived."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies dw aurlw qy pwrlw bMnw koeI nhIN id`sdw[",
+              "unicode": "ਇਸ ਦਾ ਉਰਲਾ ਤੇ ਪਾਰਲਾ ਬੰਨਾ ਕੋਈ ਨਹੀਂ ਦਿੱਸਦਾ।"
+            }
+          },
+          "spanish": "Sus limites tangibles e intangibles no pueden ser medidos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant na jaapai paaraavaar |",
+            "larivaar": "ant​na​jaapai​paaraavaar​|"
+          },
+          "devanagari": {
+            "text": "अंतु न जापै पारावारु ॥",
+            "larivaar": "अंतु​न​जापै​पारावारु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "Anjp",
+          "unicode": "ਅਨਜਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LDZY",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "AMq kwrix kyqy ibllwih ]",
+          "unicode": "ਅੰਤ ਕਾਰਣਿ ਕੇਤੇ ਬਿਲਲਾਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMq​kwrix​kyqy​ibllwih​]",
+          "unicode": "ਅੰਤ​ਕਾਰਣਿ​ਕੇਤੇ​ਬਿਲਲਾਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Many struggle to know His limits,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "keI mnu`K Akwl purK dw h`d-bMnw l`Bx leI qrlY lY rhy sn,",
+              "unicode": "ਕਈ ਮਨੁੱਖ ਅਕਾਲ ਪੁਰਖ ਦਾ ਹੱਦ-ਬੰਨਾ ਲੱਭਣ ਲਈ ਤਰਲੈ ਲੈ ਰਹੇ ਸਨ,"
+            }
+          },
+          "spanish": "Infinito será nuestro esfuerzo para encontrar Su Límite,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ant kaaran kete bilalaeh |",
+            "larivaar": "ant​kaaran​kete​bilalaeh​|"
+          },
+          "devanagari": {
+            "text": "अंत कारणि केते बिललाहि ॥",
+            "larivaar": "अंत​कारणि​केते​बिललाहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "Akkb",
+          "unicode": "ਅਕਕਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "J73M",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "qw ky AMq n pwey jwih ]",
+          "unicode": "ਤਾ ਕੇ ਅੰਤ ਨ ਪਾਏ ਜਾਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "qw​ky​AMq​n​pwey​jwih​]",
+          "unicode": "ਤਾ​ਕੇ​ਅੰਤ​ਨ​ਪਾਏ​ਜਾਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "but His limits cannot be found."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr aus dy h`d-bMny l`By nhIN jw skdy[",
+              "unicode": "ਪਰ ਉਸ ਦੇ ਹੱਦ-ਬੰਨੇ ਲੱਭੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
+            }
+          },
+          "spanish": "Pero sus poderes no tienen limites."
+        },
+        "transliteration": {
+          "english": {
+            "text": "taa ke ant na paae jaeh |",
+            "larivaar": "taa​ke​ant​na​paae​jaeh​|"
+          },
+          "devanagari": {
+            "text": "ता के अंत न पाए जाहि ॥",
+            "larivaar": "ता​के​अंत​न​पाए​जाहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "qkAnpj",
+          "unicode": "ਤਕਅਨਪਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CXK7",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "eyhu AMqu n jwxY koie ]",
+          "unicode": "ਏਹੁ ਅੰਤੁ ਨ ਜਾਣੈ ਕੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "eyhu​AMqu​n​jwxY​koie​]",
+          "unicode": "ਏਹੁ​ਅੰਤੁ​ਨ​ਜਾਣੈ​ਕੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "No one can know these limits."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(Akwl purK dy guxW dw) ieh h`d-bMnw (ijs dI byAMq jIv Bwl kr rhy hn) koeI mnu`K nhIN pw skdw[",
+              "unicode": "(ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣਾਂ ਦਾ) ਇਹ ਹੱਦ-ਬੰਨਾ (ਜਿਸ ਦੀ ਬੇਅੰਤ ਜੀਵ ਭਾਲ ਕਰ ਰਹੇ ਹਨ) ਕੋਈ ਮਨੁੱਖ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Nadie conoce de sus limites."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ehu ant na jaanai koe |",
+            "larivaar": "ehu​ant​na​jaanai​koe​|"
+          },
+          "devanagari": {
+            "text": "एहु अंतु न जाणै कोइ ॥",
+            "larivaar": "एहु​अंतु​न​जाणै​कोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "eAnjk",
+          "unicode": "ੲਅਨਜਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WRQ5",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "bhuqw khIAY bhuqw hoie ]",
+          "unicode": "ਬਹੁਤਾ ਕਹੀਐ ਬਹੁਤਾ ਹੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "bhuqw​khIAY​bhuqw​hoie​]",
+          "unicode": "ਬਹੁਤਾ​ਕਹੀਐ​ਬਹੁਤਾ​ਹੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The more you say about them, the more there still remains to be said."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijauN ijauN ieh g`l AwKI jwvIey ik auh v`fw hY, iqauN iqauN auh hor v`fw, hor v`fw prqIq hox l`g pYNdw hY[",
+              "unicode": "ਜਿਉਂ ਜਿਉਂ ਇਹ ਗੱਲ ਆਖੀ ਜਾਵੀਏ ਕਿ ਉਹ ਵੱਡਾ ਹੈ, ਤਿਉਂ ਤਿਉਂ ਉਹ ਹੋਰ ਵੱਡਾ, ਹੋਰ ਵੱਡਾ ਪਰਤੀਤ ਹੋਣ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Mientras más tenga uno que decir, más habrá que decir."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bahutaa kaheeai bahutaa hoe |",
+            "larivaar": "bahutaa​kaheeai​bahutaa​hoe​|"
+          },
+          "devanagari": {
+            "text": "बहुता कहीऐ बहुता होइ ॥",
+            "larivaar": "बहुता​कहीऐ​बहुता​होइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "bkbh",
+          "unicode": "ਬਕਬਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "0W15",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "vfw swihbu aUcw Qwau ]",
+          "unicode": "ਵਡਾ ਸਾਹਿਬੁ ਊਚਾ ਥਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfw​swihbu​aUcw​Qwau​]",
+          "unicode": "ਵਡਾ​ਸਾਹਿਬੁ​ਊਚਾ​ਥਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Great is the Master, High is His Heavenly Home."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl pur`K v`fw hY, aus dw itkwxw au`cw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰੱਖ ਵੱਡਾ ਹੈ, ਉਸ ਦਾ ਟਿਕਾਣਾ ਉੱਚਾ ਹੈ।"
+            }
+          },
+          "spanish": "Exaltado es el Creador de todo el Juego; más allá de nuestra imaginación está Su Inmensidad."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddaa saahib aoochaa thaau |",
+            "larivaar": "vaddaa​saahib​aoochaa​thaau​|"
+          },
+          "devanagari": {
+            "text": "वडा साहिबु ऊचा थाउ ॥",
+            "larivaar": "वडा​साहिबु​ऊचा​थाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "vsaQ",
+          "unicode": "ਵਸੳਥ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "E6WZ",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "aUcy aupir aUcw nwau ]",
+          "unicode": "ਊਚੇ ਉਪਰਿ ਊਚਾ ਨਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "aUcy​aupir​aUcw​nwau​]",
+          "unicode": "ਊਚੇ​ਉਪਰਿ​ਊਚਾ​ਨਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Highest of the High, above all is His Name."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "aus dw nwmxw BI au`cw hY[",
+              "unicode": "ਉਸ ਦਾ ਨਾਮਣਾ ਭੀ ਉੱਚਾ ਹੈ।"
+            }
+          },
+          "spanish": "Uno debe ser tan grande como Él para entender Su Grandeza."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aooche upar aoochaa naau |",
+            "larivaar": "aooche​upar​aoochaa​naau​|"
+          },
+          "devanagari": {
+            "text": "ऊचे उपरि ऊचा नाउ ॥",
+            "larivaar": "ऊचे​उपरि​ऊचा​नाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "aaan",
+          "unicode": "ੳੳੳਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BLFR",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "eyvfu aUcw hovY koie ]",
+          "unicode": "ਏਵਡੁ ਊਚਾ ਹੋਵੈ ਕੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "eyvfu​aUcw​hovY​koie​]",
+          "unicode": "ਏਵਡੁ​ਊਚਾ​ਹੋਵੈ​ਕੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Only one as Great and as High as God"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy koeI hor aus jyfw v`fw hovy,",
+              "unicode": "ਜੇ ਕੋਈ ਹੋਰ ਉਸ ਜੇਡਾ ਵੱਡਾ ਹੋਵੇ,"
+            }
+          },
+          "spanish": "Exaltado es el Creador de todo el Juego;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "evadd aoochaa hovai koe |",
+            "larivaar": "evadd​aoochaa​hovai​koe​|"
+          },
+          "devanagari": {
+            "text": "एवडु ऊचा होवै कोइ ॥",
+            "larivaar": "एवडु​ऊचा​होवै​कोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "eahk",
+          "unicode": "ੲੳਹਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "J79G",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "iqsu aUcy kau jwxY soie ]",
+          "unicode": "ਤਿਸੁ ਊਚੇ ਕਉ ਜਾਣੈ ਸੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "iqsu​aUcy​kau​jwxY​soie​]",
+          "unicode": "ਤਿਸੁ​ਊਚੇ​ਕਉ​ਜਾਣੈ​ਸੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "can know His Lofty and Exalted State."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh hI aus au`cy Akwl purK ƒ smJ skdw hY (ik auh kyfw v`fw hY)[",
+              "unicode": "ਉਹ ਹੀ ਉਸ ਉੱਚੇ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਸਮਝ ਸਕਦਾ ਹੈ (ਕਿ ਉਹ ਕੇਡਾ ਵੱਡਾ ਹੈ)।"
+            }
+          },
+          "spanish": "más allá de nuestra imaginación está Su Inmensidad."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tis aooche kau jaanai soe |",
+            "larivaar": "tis​aooche​kau​jaanai​soe​|"
+          },
+          "devanagari": {
+            "text": "तिसु ऊचे कउ जाणै सोइ ॥",
+            "larivaar": "तिसु​ऊचे​कउ​जाणै​सोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "qakjs",
+          "unicode": "ਤੳਕਜਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RMD4",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "jyvfu Awip jwxY Awip Awip ]",
+          "unicode": "ਜੇਵਡੁ ਆਪਿ ਜਾਣੈ ਆਪਿ ਆਪਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "jyvfu​Awip​jwxY​Awip​Awip​]",
+          "unicode": "ਜੇਵਡੁ​ਆਪਿ​ਜਾਣੈ​ਆਪਿ​ਆਪਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Only He Himself is that Great. He Himself knows Himself."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK Awp hI jwxdw hY ik auh Awp kyfw v`fw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਉਹ ਆਪ ਕੇਡਾ ਵੱਡਾ ਹੈ।"
+            }
+          },
+          "spanish": "Uno debe ser tan grande como Él para entender Su Grandeza."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jevadd aap jaanai aap aap |",
+            "larivaar": "jevadd​aap​jaanai​aap​aap​|"
+          },
+          "devanagari": {
+            "text": "जेवडु आपि जाणै आपि आपि ॥",
+            "larivaar": "जेवडु​आपि​जाणै​आपि​आपि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "jAjAA",
+          "unicode": "ਜਅਜਅਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "W145",
+        "type": 4,
+        "shabadid": "DD0",
+        "gurmukhi": {
+          "akhar": "nwnk ndrI krmI dwiq ]24]",
+          "unicode": "ਨਾਨਕ ਨਦਰੀ ਕਰਮੀ ਦਾਤਿ ॥੨੪॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​ndrI​krmI​dwiq​]24]",
+          "unicode": "ਨਾਨਕ​ਨਦਰੀ​ਕਰਮੀ​ਦਾਤਿ​॥੨੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, by His Glance of Grace, He bestows His Blessings. ||24||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! (hryk) dwq imhr dI nzr krn vwly Akwl purK dI b^SS nwl imldI hY ]24]",
+              "unicode": "ਹੇ ਨਾਨਕ! (ਹਰੇਕ) ਦਾਤ ਮਿਹਰ ਦੀ ਨਜ਼ਰ ਕਰਨ ਵਾਲੇ ਅਕਾਲ ਪੁਰਖ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਨਾਲ ਮਿਲਦੀ ਹੈ ॥੨੪॥"
+            }
+          },
+          "spanish": "Oh, dice Nanak, sólo por Su Gracia el hombre puede elevarse tanto, y ahí se realiza la Unión con Él. (24)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak nadaree karamee daat |24|",
+            "larivaar": "naanak​nadaree​karamee​daat​|24|"
+          },
+          "devanagari": {
+            "text": "नानक नदरी करमी दाति ॥२४॥",
+            "larivaar": "नानक​नदरी​करमी​दाति​॥२४॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "nnkd",
+          "unicode": "ਨਨਕਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YXH5",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "bhuqw krmu iliKAw nw jwie ]",
+          "unicode": "ਬਹੁਤਾ ਕਰਮੁ ਲਿਖਿਆ ਨਾ ਜਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "bhuqw​krmu​iliKAw​nw​jwie​]",
+          "unicode": "ਬਹੁਤਾ​ਕਰਮੁ​ਲਿਖਿਆ​ਨਾ​ਜਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "His Blessings are so abundant that there can be no written account of them."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK dI b^SS eyfI v`fI hY ik ilKx ivc ilAWdI nhIN jw skdI[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਏਡੀ ਵੱਡੀ ਹੈ ਕਿ ਲਿਖਣ ਵਿਚ ਲਿਆਂਦੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "Sus Bendiciones son tan abundantes que la descripción de Su Maravillosa Misericordia es imposible de lograr."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bahutaa karam likhiaa naa jaae |",
+            "larivaar": "bahutaa​karam​likhiaa​naa​jaae​|"
+          },
+          "devanagari": {
+            "text": "बहुता करमु लिखिआ ना जाइ ॥",
+            "larivaar": "बहुता​करमु​लिखिआ​ना​जाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "bklnj",
+          "unicode": "ਬਕਲਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QRM0",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "vfw dwqw iqlu n qmwie ]",
+          "unicode": "ਵਡਾ ਦਾਤਾ ਤਿਲੁ ਨ ਤਮਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfw​dwqw​iqlu​n​qmwie​]",
+          "unicode": "ਵਡਾ​ਦਾਤਾ​ਤਿਲੁ​ਨ​ਤਮਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Great Giver does not hold back anything."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh bVIAW dwqW dyx vwlw hY, aus ƒ rqw BI lwlc nhIN[",
+              "unicode": "ਉਹ ਬੜੀਆਂ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈ, ਉਸ ਨੂੰ ਰਤਾ ਭੀ ਲਾਲਚ ਨਹੀਂ।"
+            }
+          },
+          "spanish": "Él, el Dador da todo; para Él no guarda nada."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddaa daataa til na tamaae |",
+            "larivaar": "vaddaa​daataa​til​na​tamaae​|"
+          },
+          "devanagari": {
+            "text": "वडा दाता तिलु न तमाइ ॥",
+            "larivaar": "वडा​दाता​तिलु​न​तमाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "vdqnq",
+          "unicode": "ਵਦਤਨਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8F5K",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "kyqy mMgih joD Apwr ]",
+          "unicode": "ਕੇਤੇ ਮੰਗਹਿ ਜੋਧ ਅਪਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "kyqy​mMgih​joD​Apwr​]",
+          "unicode": "ਕੇਤੇ​ਮੰਗਹਿ​ਜੋਧ​ਅਪਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "There are so many great, heroic warriors begging at the Door of the Infinite Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "byAMq sUrmy (Akwl purK dy dr 'qy) mMg rhy hn,",
+              "unicode": "ਬੇਅੰਤ ਸੂਰਮੇ (ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰ 'ਤੇ) ਮੰਗ ਰਹੇ ਹਨ,"
+            }
+          },
+          "spanish": "Muchos son los guerreros que tocan a Su Puerta; imposibles de contar los que se acercan a Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kete mangeh jodh apaar |",
+            "larivaar": "kete​mangeh​jodh​apaar​|"
+          },
+          "devanagari": {
+            "text": "केते मंगहि जोध अपार ॥",
+            "larivaar": "केते​मंगहि​जोध​अपार​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kmjA",
+          "unicode": "ਕਮਜਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WATD",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "kyiqAw gxq nhI vIcwru ]",
+          "unicode": "ਕੇਤਿਆ ਗਣਤ ਨਹੀ ਵੀਚਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "kyiqAw​gxq​nhI​vIcwru​]",
+          "unicode": "ਕੇਤਿਆ​ਗਣਤ​ਨਹੀ​ਵੀਚਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So many contemplate and dwell upon Him, that they cannot be counted."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Aqy (mMgx vwly) keI hor Aijhy hn, ijnHW dI igxqI 'qy ivcwr nhIN ho skdI[",
+              "unicode": "ਅਤੇ (ਮੰਗਣ ਵਾਲੇ) ਕਈ ਹੋਰ ਅਜਿਹੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦੀ ਗਿਣਤੀ 'ਤੇ ਵਿਚਾਰ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+            }
+          },
+          "spanish": "Muchos contemplan y se detienen en Él, para que no puedan ser contados."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ketiaa ganat nahee veechaar |",
+            "larivaar": "ketiaa​ganat​nahee​veechaar​|"
+          },
+          "devanagari": {
+            "text": "केतिआ गणत नही वीचारु ॥",
+            "larivaar": "केतिआ​गणत​नही​वीचारु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kgnv",
+          "unicode": "ਕਗਨਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "E536",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "kyqy Kip qutih vykwr ]",
+          "unicode": "ਕੇਤੇ ਖਪਿ ਤੁਟਹਿ ਵੇਕਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "kyqy​Kip​qutih​vykwr​]",
+          "unicode": "ਕੇਤੇ​ਖਪਿ​ਤੁਟਹਿ​ਵੇਕਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So many waste away to death engaged in corruption."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "keI jIv (aus dIAW dwqW vrq ky) ivkwrW ivc (hI) Kp Kp ky nws huMdy hn[",
+              "unicode": "ਕਈ ਜੀਵ (ਉਸ ਦੀਆਂ ਦਾਤਾਂ ਵਰਤ ਕੇ) ਵਿਕਾਰਾਂ ਵਿਚ (ਹੀ) ਖਪ ਖਪ ਕੇ ਨਾਸ ਹੁੰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Tantos residuos hasta la muerte comprometidos con la corrupción."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kete khap tutteh vekaar |",
+            "larivaar": "kete​khap​tutteh​vekaar​|"
+          },
+          "devanagari": {
+            "text": "केते खपि तुटहि वेकार ॥",
+            "larivaar": "केते​खपि​तुटहि​वेकार​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kKqv",
+          "unicode": "ਕਖਤਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MZZ6",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "kyqy lY lY mukru pwih ]",
+          "unicode": "ਕੇਤੇ ਲੈ ਲੈ ਮੁਕਰੁ ਪਾਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "kyqy​lY​lY​mukru​pwih​]",
+          "unicode": "ਕੇਤੇ​ਲੈ​ਲੈ​ਮੁਕਰੁ​ਪਾਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So many take and take again, and then deny receiving."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "byAMq jIv (Akwl purK dy dr qoN pdwrQ) prwpq kr ky mukr pYNdy hn (Bwv, kdy Sukr ivc Aw ky ieh nhI AwKdy ik sB pdwrQ pRBU Awp dy irhw hY)[",
+              "unicode": "ਬੇਅੰਤ ਜੀਵ (ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰ ਤੋਂ ਪਦਾਰਥ) ਪਰਾਪਤ ਕਰ ਕੇ ਮੁਕਰ ਪੈਂਦੇ ਹਨ (ਭਾਵ, ਕਦੇ ਸ਼ੁਕਰ ਵਿਚ ਆ ਕੇ ਇਹ ਨਹੀ ਆਖਦੇ ਕਿ ਸਭ ਪਦਾਰਥ ਪ੍ਰਭੂ ਆਪ ਦੇ ਰਿਹਾ ਹੈ)।"
+            }
+          },
+          "spanish": "Muchos reciben Su Favor, y gozando de éste se olvidan de su Creador."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kete lai lai mukar paeh |",
+            "larivaar": "kete​lai​lai​mukar​paeh​|"
+          },
+          "devanagari": {
+            "text": "केते लै लै मुकरु पाहि ॥",
+            "larivaar": "केते​लै​लै​मुकरु​पाहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kllmp",
+          "unicode": "ਕਲਲਮਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3N29",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "kyqy mUrK KwhI Kwih ]",
+          "unicode": "ਕੇਤੇ ਮੂਰਖ ਖਾਹੀ ਖਾਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "kyqy​mUrK​KwhI​Kwih​]",
+          "unicode": "ਕੇਤੇ​ਮੂਰਖ​ਖਾਹੀ​ਖਾਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So many foolish consumers keep on consuming."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AnykW mUrK (pdwrQ lY ky) KwhI hI jWdy hn (pr dwqwr ƒ cyqy nhIN r`Kdy)[",
+              "unicode": "ਅਨੇਕਾਂ ਮੂਰਖ (ਪਦਾਰਥ ਲੈ ਕੇ) ਖਾਹੀ ਹੀ ਜਾਂਦੇ ਹਨ (ਪਰ ਦਾਤਾਰ ਨੂੰ ਚੇਤੇ ਨਹੀਂ ਰੱਖਦੇ)।"
+            }
+          },
+          "spanish": "Tantos consumidores tontos se dedican a consumir."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kete moorakh khaahee khaeh |",
+            "larivaar": "kete​moorakh​khaahee​khaeh​|"
+          },
+          "devanagari": {
+            "text": "केते मूरख खाही खाहि ॥",
+            "larivaar": "केते​मूरख​खाही​खाहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "kmKK",
+          "unicode": "ਕਮਖਖ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TRBN",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "kyiqAw dUK BUK sd mwr ]",
+          "unicode": "ਕੇਤਿਆ ਦੂਖ ਭੂਖ ਸਦ ਮਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "kyiqAw​dUK​BUK​sd​mwr​]",
+          "unicode": "ਕੇਤਿਆ​ਦੂਖ​ਭੂਖ​ਸਦ​ਮਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So many endure distress, deprivation and constant abuse."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AnykW jIvW ƒ sdw mwr, klyS Aqy BuK (hI BwgW ivc ilKy hn)[",
+              "unicode": "ਅਨੇਕਾਂ ਜੀਵਾਂ ਨੂੰ ਸਦਾ ਮਾਰ, ਕਲੇਸ਼ ਅਤੇ ਭੁਖ (ਹੀ ਭਾਗਾਂ ਵਿਚ ਲਿਖੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Muchos son los que sufren tensión y privación y constante abuso;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ketiaa dookh bhookh sad maar |",
+            "larivaar": "ketiaa​dookh​bhookh​sad​maar​|"
+          },
+          "devanagari": {
+            "text": "केतिआ दूख भूख सद मार ॥",
+            "larivaar": "केतिआ​दूख​भूख​सद​मार​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "kdBsm",
+          "unicode": "ਕਦਭਸਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5AFL",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "eyih iB dwiq qyrI dwqwr ]",
+          "unicode": "ਏਹਿ ਭਿ ਦਾਤਿ ਤੇਰੀ ਦਾਤਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "eyih​iB​dwiq​qyrI​dwqwr​]",
+          "unicode": "ਏਹਿ​ਭਿ​ਦਾਤਿ​ਤੇਰੀ​ਦਾਤਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Even these are Your Gifts, O Great Giver!"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pr) hy dyxhwr Akwl purK! ieh BI qyrI b^SS hI hY (ikauNik iehnW du`KW klySW dy kwrn hI mnu`K ƒ rzw ivc qurn dI smJ pYNdI hY)[",
+              "unicode": "(ਪਰ) ਹੇ ਦੇਣਹਾਰ ਅਕਾਲ ਪੁਰਖ! ਇਹ ਭੀ ਤੇਰੀ ਬਖ਼ਸ਼ਸ਼ ਹੀ ਹੈ (ਕਿਉਂਕਿ ਇਹਨਾਂ ਦੁੱਖਾਂ ਕਲੇਸ਼ਾਂ ਦੇ ਕਾਰਨ ਹੀ ਮਨੁੱਖ ਨੂੰ ਰਜ਼ਾ ਵਿਚ ਤੁਰਨ ਦੀ ਸਮਝ ਪੈਂਦੀ ਹੈ)।"
+            }
+          },
+          "spanish": "aun estas también son Tus Bendiciones, oh Ser Bondadoso."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ehi bhi daat teree daataar |",
+            "larivaar": "ehi​bhi​daat​teree​daataar​|"
+          },
+          "devanagari": {
+            "text": "एहि भि दाति तेरी दातार ॥",
+            "larivaar": "एहि​भि​दाति​तेरी​दातार​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "eBdqd",
+          "unicode": "ੲਭਦਤਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "W1JH",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "bMid KlwsI BwxY hoie ]",
+          "unicode": "ਬੰਦਿ ਖਲਾਸੀ ਭਾਣੈ ਹੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "bMid​KlwsI​BwxY​hoie​]",
+          "unicode": "ਬੰਦਿ​ਖਲਾਸੀ​ਭਾਣੈ​ਹੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Liberation from bondage comes only by Your Will."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy (mwieAw dy moh rUp) bMDn qoN Cutkwrw Akwl purK dI rzw ivc quirAW hI huMdw hY[",
+              "unicode": "ਤੇ (ਮਾਇਆ ਦੇ ਮੋਹ ਰੂਪ) ਬੰਧਨ ਤੋਂ ਛੁਟਕਾਰਾ ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰਿਆਂ ਹੀ ਹੁੰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Es por Tu Voluntad que las amarras son cortadas para que el hombre sea liberado."
+        },
+        "transliteration": {
+          "english": {
+            "text": "band khalaasee bhaanai hoe |",
+            "larivaar": "band​khalaasee​bhaanai​hoe​|"
+          },
+          "devanagari": {
+            "text": "बंदि खलासी भाणै होइ ॥",
+            "larivaar": "बंदि​खलासी​भाणै​होइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "bKBh",
+          "unicode": "ਬਖਭਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "85FC",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "horu AwiK n skY koie ]",
+          "unicode": "ਹੋਰੁ ਆਖਿ ਨ ਸਕੈ ਕੋਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "horu​AwiK​n​skY​koie​]",
+          "unicode": "ਹੋਰੁ​ਆਖਿ​ਨ​ਸਕੈ​ਕੋਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "No one else has any say in this."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rzw qoN ibnw koeI hor qrIkw koeI mnu`K nhIN d`s skdw (Bwv, koeI mnu`K nhIN d`s skdw ik rzw ivc qurn qoN ibnw moh qoN Cutkwry dw koeI hor vsIlw BI ho skdw hY)[",
+              "unicode": "ਰਜ਼ਾ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ ਤਰੀਕਾ ਕੋਈ ਮਨੁੱਖ ਨਹੀਂ ਦੱਸ ਸਕਦਾ (ਭਾਵ, ਕੋਈ ਮਨੁੱਖ ਨਹੀਂ ਦੱਸ ਸਕਦਾ ਕਿ ਰਜ਼ਾ ਵਿਚ ਤੁਰਨ ਤੋਂ ਬਿਨਾ ਮੋਹ ਤੋਂ ਛੁਟਕਾਰੇ ਦਾ ਕੋਈ ਹੋਰ ਵਸੀਲਾ ਭੀ ਹੋ ਸਕਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "Tus Maneras son conocidas solamente por Ti"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hor aakh na sakai koe |",
+            "larivaar": "hor​aakh​na​sakai​koe​|"
+          },
+          "devanagari": {
+            "text": "होरु आखि न सकै कोइ ॥",
+            "larivaar": "होरु​आखि​न​सकै​कोइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "hAnsk",
+          "unicode": "ਹਅਨਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7AFD",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "jy ko Kwieku AwKix pwie ]",
+          "unicode": "ਜੇ ਕੋ ਖਾਇਕੁ ਆਖਣਿ ਪਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "jy​ko​Kwieku​AwKix​pwie​]",
+          "unicode": "ਜੇ​ਕੋ​ਖਾਇਕੁ​ਆਖਣਿ​ਪਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If some fool should presume to say that he does,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pr) jy koeI mUrK (mwieAw dy moh qoN Cutkwry dw koeI hor vsIlw) d`sx dw jqn kry,",
+              "unicode": "(ਪਰ) ਜੇ ਕੋਈ ਮੂਰਖ (ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਛੁਟਕਾਰੇ ਦਾ ਕੋਈ ਹੋਰ ਵਸੀਲਾ) ਦੱਸਣ ਦਾ ਜਤਨ ਕਰੇ,"
+            }
+          },
+          "spanish": "y si el hombre osara decir que las entiende,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "je ko khaaeik aakhan paae |",
+            "larivaar": "je​ko​khaaeik​aakhan​paae​|"
+          },
+          "devanagari": {
+            "text": "जे को खाइकु आखणि पाइ ॥",
+            "larivaar": "जे​को​खाइकु​आखणि​पाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "jkKAp",
+          "unicode": "ਜਕਖਅਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R3S4",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "Ehu jwxY jyqIAw muih Kwie ]",
+          "unicode": "ਓਹੁ ਜਾਣੈ ਜੇਤੀਆ ਮੁਹਿ ਖਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "Ehu​jwxY​jyqIAw​muih​Kwie​]",
+          "unicode": "ਓਹੁ​ਜਾਣੈ​ਜੇਤੀਆ​ਮੁਹਿ​ਖਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "he shall learn, and feel the effects of his folly."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qW auhI jwxdw hY ijqnIAW cotW auh (ies mUrKqw dy kwrn) Awpxy mUMh au`qy KWdw hY (Bwv, 'kUV' qoN bcx leI ieko hI qrIkw hY ik mnu`K rzw ivc qury[ pr jy koeI mUrK koeI hor qrIkw Bwldw hY qW ies 'kUV' qoN bcx dy QW sgoN vDIk duKI huMdw hY)[",
+              "unicode": "ਤਾਂ ਉਹੀ ਜਾਣਦਾ ਹੈ ਜਿਤਨੀਆਂ ਚੋਟਾਂ ਉਹ (ਇਸ ਮੂਰਖਤਾ ਦੇ ਕਾਰਨ) ਆਪਣੇ ਮੂੰਹ ਉੱਤੇ ਖਾਂਦਾ ਹੈ (ਭਾਵ, 'ਕੂੜ' ਤੋਂ ਬਚਣ ਲਈ ਇਕੋ ਹੀ ਤਰੀਕਾ ਹੈ ਕਿ ਮਨੁੱਖ ਰਜ਼ਾ ਵਿਚ ਤੁਰੇ। ਪਰ ਜੇ ਕੋਈ ਮੂਰਖ ਕੋਈ ਹੋਰ ਤਰੀਕਾ ਭਾਲਦਾ ਹੈ ਤਾਂ ਇਸ 'ਕੂੜ' ਤੋਂ ਬਚਣ ਦੇ ਥਾਂ ਸਗੋਂ ਵਧੀਕ ਦੁਖੀ ਹੁੰਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "seguramente después tendría que reconocer su tontería."
+        },
+        "transliteration": {
+          "english": {
+            "text": "ohu jaanai jeteea muhi khaae |",
+            "larivaar": "ohu​jaanai​jeteea​muhi​khaae​|"
+          },
+          "devanagari": {
+            "text": "ओहु जाणै जेतीआ मुहि खाइ ॥",
+            "larivaar": "ओहु​जाणै​जेतीआ​मुहि​खाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "ajjmK",
+          "unicode": "ੳਜਜਮਖ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GXTL",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "Awpy jwxY Awpy dyie ]",
+          "unicode": "ਆਪੇ ਜਾਣੈ ਆਪੇ ਦੇਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awpy​jwxY​Awpy​dyie​]",
+          "unicode": "ਆਪੇ​ਜਾਣੈ​ਆਪੇ​ਦੇਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He Himself knows, He Himself gives."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "'Akwl purK Awp hI (jIvW dIAW loVW) jwxdw hY qy Awp hI (dwqW) dyNdw hY',",
+              "unicode": "'ਅਕਾਲ ਪੁਰਖ ਆਪ ਹੀ (ਜੀਵਾਂ ਦੀਆਂ ਲੋੜਾਂ) ਜਾਣਦਾ ਹੈ ਤੇ ਆਪ ਹੀ (ਦਾਤਾਂ) ਦੇਂਦਾ ਹੈ',"
+            }
+          },
+          "spanish": "Él Mismo conoce y Él Mismo da."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aape jaanai aape dee |",
+            "larivaar": "aape​jaanai​aape​dee​|"
+          },
+          "devanagari": {
+            "text": "आपे जाणै आपे देइ ॥",
+            "larivaar": "आपे​जाणै​आपे​देइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "AjAd",
+          "unicode": "ਅਜਅਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JWU4",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "AwKih is iB kyeI kyie ]",
+          "unicode": "ਆਖਹਿ ਸਿ ਭਿ ਕੇਈ ਕੇਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "AwKih​is​iB​kyeI​kyie​]",
+          "unicode": "ਆਖਹਿ​ਸਿ​ਭਿ​ਕੇਈ​ਕੇਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Few, very few are those who acknowledge this."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AnykW mnu`K ieh g`l BI AwKdy hn[ (swry n-Sukry hI nhIN hn)",
+              "unicode": "ਅਨੇਕਾਂ ਮਨੁੱਖ ਇਹ ਗੱਲ ਭੀ ਆਖਦੇ ਹਨ। (ਸਾਰੇ ਨ-ਸ਼ੁਕਰੇ ਹੀ ਨਹੀਂ ਹਨ)"
+            }
+          },
+          "spanish": "Pero pocos, muy pocos son los que saben esto."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aakheh si bhi keee kee |",
+            "larivaar": "aakheh​si​bhi​keee​kee​|"
+          },
+          "devanagari": {
+            "text": "आखहि सि भि केई केइ ॥",
+            "larivaar": "आखहि​सि​भि​केई​केइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "AsBkk",
+          "unicode": "ਅਸਭਕਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ZDF9",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "ijs no bKsy isPiq swlwh ]",
+          "unicode": "ਜਿਸ ਨੋ ਬਖਸੇ ਸਿਫਤਿ ਸਾਲਾਹ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijs​no​bKsy​isPiq​swlwh​]",
+          "unicode": "ਜਿਸ​ਨੋ​ਬਖਸੇ​ਸਿਫਤਿ​ਸਾਲਾਹ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One who is blessed to sing the Praises of the Lord,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! ijs mnu`K ƒ Akwl purK AwpxI is&q-swlwh bKSdw hY,",
+              "unicode": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਅਕਾਲ ਪੁਰਖ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਬਖਸ਼ਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Oh, dice Nanak, aquél a quien Dios ha otorgado el Don de Alabarlo,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jis no bakhase sifat saalaah |",
+            "larivaar": "jis​no​bakhase​sifat​saalaah​|"
+          },
+          "devanagari": {
+            "text": "जिस नो बखसे सिफति सालाह ॥",
+            "larivaar": "जिस​नो​बखसे​सिफति​सालाह​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "jnbss",
+          "unicode": "ਜਨਬਸਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B8J0",
+        "type": 4,
+        "shabadid": "KP5",
+        "gurmukhi": {
+          "akhar": "nwnk pwiqswhI pwiqswhu ]25]",
+          "unicode": "ਨਾਨਕ ਪਾਤਿਸਾਹੀ ਪਾਤਿਸਾਹੁ ॥੨੫॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​pwiqswhI​pwiqswhu​]25]",
+          "unicode": "ਨਾਨਕ​ਪਾਤਿਸਾਹੀ​ਪਾਤਿਸਾਹੁ​॥੨੫॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, is the king of kings. ||25||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh pwqSwhW dw pwqSwh (bx jWdw) hY (is&q-swlwh hI sB qoN au`cI  dwq hY) ]25]",
+              "unicode": "ਉਹ ਪਾਤਸ਼ਾਹਾਂ ਦਾ ਪਾਤਸ਼ਾਹ (ਬਣ ਜਾਂਦਾ) ਹੈ (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਹੀ ਸਭ ਤੋਂ ਉੱਚੀ  ਦਾਤ ਹੈ) ॥੨੫॥"
+            }
+          },
+          "spanish": "es rey entre los reyes.  (25)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak paatisaahee paatisaahu |25|",
+            "larivaar": "naanak​paatisaahee​paatisaahu​|25|"
+          },
+          "devanagari": {
+            "text": "नानक पातिसाही पातिसाहु ॥२५॥",
+            "larivaar": "नानक​पातिसाही​पातिसाहु​॥२५॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "npp",
+          "unicode": "ਨਪਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MU2K",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amul gux Amul vwpwr ]",
+          "unicode": "ਅਮੁਲ ਗੁਣ ਅਮੁਲ ਵਾਪਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amul​gux​Amul​vwpwr​]",
+          "unicode": "ਅਮੁਲ​ਗੁਣ​ਅਮੁਲ​ਵਾਪਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless are His Virtues, Priceless are His Dealings."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(Akwl purK dy) gux Amolk hn (Bwv, guxW dw mu`l nhIN pY skdw[) (iehnW guxW dy) vpwr krny BI Amolk hn[",
+              "unicode": "(ਅਕਾਲ ਪੁਰਖ ਦੇ) ਗੁਣ ਅਮੋਲਕ ਹਨ (ਭਾਵ, ਗੁਣਾਂ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ।) (ਇਹਨਾਂ ਗੁਣਾਂ ਦੇ) ਵਪਾਰ ਕਰਨੇ ਭੀ ਅਮੋਲਕ ਹਨ।"
+            }
+          },
+          "spanish": "Incalculables son Tus Virtudes y el comercio Contigo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul gun amul vaapaar |",
+            "larivaar": "amul​gun​amul​vaapaar​|"
+          },
+          "devanagari": {
+            "text": "अमुल गुण अमुल वापार ॥",
+            "larivaar": "अमुल​गुण​अमुल​वापार​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "AgAv",
+          "unicode": "ਅਗਅਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XEQ3",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amul vwpwrIey Amul BMfwr ]",
+          "unicode": "ਅਮੁਲ ਵਾਪਾਰੀਏ ਅਮੁਲ ਭੰਡਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amul​vwpwrIey​Amul​BMfwr​]",
+          "unicode": "ਅਮੁਲ​ਵਾਪਾਰੀਏ​ਅਮੁਲ​ਭੰਡਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless are His Dealers, Priceless are His Treasures."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auhnW mnu`KW dw (BI) mu`l nhIN pY skdw, jo (Akwl purK dy guxW dy) vpwr krdy hn, (guxW dy) ^zwny (BI) Amolk hn[",
+              "unicode": "ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦਾ (ਭੀ) ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ, ਜੋ (ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣਾਂ ਦੇ) ਵਪਾਰ ਕਰਦੇ ਹਨ, (ਗੁਣਾਂ ਦੇ) ਖ਼ਜ਼ਾਨੇ (ਭੀ) ਅਮੋਲਕ ਹਨ।"
+            }
+          },
+          "spanish": "Incalculables son Tus Compradores , Incalculables tus tesoros."
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul vaapaaree amul bhanddaar |",
+            "larivaar": "amul​vaapaaree​amul​bhanddaar​|"
+          },
+          "devanagari": {
+            "text": "अमुल वापारीए अमुल भंडार ॥",
+            "larivaar": "अमुल​वापारीए​अमुल​भंडार​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "AvAB",
+          "unicode": "ਅਵਅਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EU2A",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amul Awvih Amul lY jwih ]",
+          "unicode": "ਅਮੁਲ ਆਵਹਿ ਅਮੁਲ ਲੈ ਜਾਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amul​Awvih​Amul​lY​jwih​]",
+          "unicode": "ਅਮੁਲ​ਆਵਹਿ​ਅਮੁਲ​ਲੈ​ਜਾਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless are those who come to Him, Priceless are those who buy from Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auhnW mnu`KW dw mu`l nhIN pY skdw, jo (ies vpwr leI jgq ivc) AwauNdy hn[ auh BI v`fy BwgW vwly hn, jo (ieh sOdw ^rId ky) lY jWdy hn[",
+              "unicode": "ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ, ਜੋ (ਇਸ ਵਪਾਰ ਲਈ ਜਗਤ ਵਿਚ) ਆਉਂਦੇ ਹਨ। ਉਹ ਭੀ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਜੋ (ਇਹ ਸੌਦਾ ਖ਼ਰੀਦ ਕੇ) ਲੈ ਜਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Valor incalculable tienen los que se acercan a ti, incalculable valor el que pide tu ayuda."
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul aaveh amul lai jaeh |",
+            "larivaar": "amul​aaveh​amul​lai​jaeh​|"
+          },
+          "devanagari": {
+            "text": "अमुल आवहि अमुल लै जाहि ॥",
+            "larivaar": "अमुल​आवहि​अमुल​लै​जाहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "AAAlj",
+          "unicode": "ਅਅਅਲਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "T80Z",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amul Bwie Amulw smwih ]",
+          "unicode": "ਅਮੁਲ ਭਾਇ ਅਮੁਲਾ ਸਮਾਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amul​Bwie​Amulw​smwih​]",
+          "unicode": "ਅਮੁਲ​ਭਾਇ​ਅਮੁਲਾ​ਸਮਾਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless is Love for Him, Priceless is absorption into Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo mnu`K Akwl purK dy pRym ivc hn Aqy jo mnu`K aus Akwl purK ivc lIn hoey hoey hn, auh BI Amolk hn[",
+              "unicode": "ਜੋ ਮਨੁੱਖ ਅਕਾਲ ਪੁਰਖ ਦੇ ਪ੍ਰੇਮ ਵਿਚ ਹਨ ਅਤੇ ਜੋ ਮਨੁੱਖ ਉਸ ਅਕਾਲ ਪੁਰਖ ਵਿਚ ਲੀਨ ਹੋਏ ਹੋਏ ਹਨ, ਉਹ ਭੀ ਅਮੋਲਕ ਹਨ।"
+            }
+          },
+          "spanish": "Incalculable es Tu Amor y la Unión Contigo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul bhaae amulaa samaeh |",
+            "larivaar": "amul​bhaae​amulaa​samaeh​|"
+          },
+          "devanagari": {
+            "text": "अमुल भाइ अमुला समाहि ॥",
+            "larivaar": "अमुल​भाइ​अमुला​समाहि​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "ABAs",
+          "unicode": "ਅਭਅਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "0T04",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amulu Drmu Amulu dIbwxu ]",
+          "unicode": "ਅਮੁਲੁ ਧਰਮੁ ਅਮੁਲੁ ਦੀਬਾਣੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amulu​Drmu​Amulu​dIbwxu​]",
+          "unicode": "ਅਮੁਲੁ​ਧਰਮੁ​ਅਮੁਲੁ​ਦੀਬਾਣੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless is the Divine Law of Dharma, Priceless is the Divine Court of Justice."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK dy kƒn qy rwj-drbwr Amolk hn[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਦੇ ਕਨੂੰਨ ਤੇ ਰਾਜ-ਦਰਬਾਰ ਅਮੋਲਕ ਹਨ।"
+            }
+          },
+          "spanish": "Incalculables son Tus Favores y Tu Dote. Incalculable es Tu Ley y la Justicia Suprema;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul dharam amul deebaan |",
+            "larivaar": "amul​dharam​amul​deebaan​|"
+          },
+          "devanagari": {
+            "text": "अमुलु धरमु अमुलु दीबाणु ॥",
+            "larivaar": "अमुलु​धरमु​अमुलु​दीबाणु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "ADAd",
+          "unicode": "ਅਧਅਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YH93",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amulu qulu Amulu prvwxu ]",
+          "unicode": "ਅਮੁਲੁ ਤੁਲੁ ਅਮੁਲੁ ਪਰਵਾਣੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amulu​qulu​Amulu​prvwxu​]",
+          "unicode": "ਅਮੁਲੁ​ਤੁਲੁ​ਅਮੁਲੁ​ਪਰਵਾਣੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless are the scales, priceless are the weights."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh q`kV Amolk hn qy auh v`tw Amolk hY (ijs nwl jIvW dy cMgy-mMdy kMmW ƒ qoldw hY)[",
+              "unicode": "ਉਹ ਤੱਕੜ ਅਮੋਲਕ ਹਨ ਤੇ ਉਹ ਵੱਟਾ ਅਮੋਲਕ ਹੈ (ਜਿਸ ਨਾਲ ਜੀਵਾਂ ਦੇ ਚੰਗੇ-ਮੰਦੇ ਕੰਮਾਂ ਨੂੰ ਤੋਲਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "Incalculable es tu balanza y de incalculable valor tus pesos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul tul amul paravaan |",
+            "larivaar": "amul​tul​amul​paravaan​|"
+          },
+          "devanagari": {
+            "text": "अमुलु तुलु अमुलु परवाणु ॥",
+            "larivaar": "अमुलु​तुलु​अमुलु​परवाणु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "AqAp",
+          "unicode": "ਅਤਅਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7UZX",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amulu bKsIs Amulu nIswxu ]",
+          "unicode": "ਅਮੁਲੁ ਬਖਸੀਸ ਅਮੁਲੁ ਨੀਸਾਣੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amulu​bKsIs​Amulu​nIswxu​]",
+          "unicode": "ਅਮੁਲੁ​ਬਖਸੀਸ​ਅਮੁਲੁ​ਨੀਸਾਣੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless are His Blessings, Priceless is His Banner and Insignia."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "aus dI b^SS qy b^SS dy inSwn BI Amolk hn[",
+              "unicode": "ਉਸ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਤੇ ਬਖ਼ਸ਼ਸ਼ ਦੇ ਨਿਸ਼ਾਨ ਭੀ ਅਮੋਲਕ ਹਨ।"
+            }
+          },
+          "spanish": "incontables tus misericordias, e incalculable tu Escudo e Insignia."
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul bakhasees amul neesaan |",
+            "larivaar": "amul​bakhasees​amul​neesaan​|"
+          },
+          "devanagari": {
+            "text": "अमुलु बखसीस अमुलु नीसाणु ॥",
+            "larivaar": "अमुलु​बखसीस​अमुलु​नीसाणु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "AbAn",
+          "unicode": "ਅਬਅਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NKLS",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amulu krmu Amulu Purmwxu ]",
+          "unicode": "ਅਮੁਲੁ ਕਰਮੁ ਅਮੁਲੁ ਫੁਰਮਾਣੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amulu​krmu​Amulu​Purmwxu​]",
+          "unicode": "ਅਮੁਲੁ​ਕਰਮੁ​ਅਮੁਲੁ​ਫੁਰਮਾਣੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless is His Mercy, Priceless is His Royal Command."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK dI bKSS qy hukm BI mu`l qoN pry hn (iksy dw BI AMdwzw nhIN l`g skdw)[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਦੀ ਬਖਸ਼ਸ਼ ਤੇ ਹੁਕਮ ਭੀ ਮੁੱਲ ਤੋਂ ਪਰੇ ਹਨ (ਕਿਸੇ ਦਾ ਭੀ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਲੱਗ ਸਕਦਾ)।"
+            }
+          },
+          "spanish": "Perfecto es Tu Comando y Tu Bondad."
+        },
+        "transliteration": {
+          "english": {
+            "text": "amul karam amul furamaan |",
+            "larivaar": "amul​karam​amul​furamaan​|"
+          },
+          "devanagari": {
+            "text": "अमुलु करमु अमुलु फुरमाणु ॥",
+            "larivaar": "अमुलु​करमु​अमुलु​फुरमाणु​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "AkAP",
+          "unicode": "ਅਕਅਫ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ABFZ",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "Amulo Amulu AwiKAw n jwie ]",
+          "unicode": "ਅਮੁਲੋ ਅਮੁਲੁ ਆਖਿਆ ਨ ਜਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "Amulo​Amulu​AwiKAw​n​jwie​]",
+          "unicode": "ਅਮੁਲੋ​ਅਮੁਲੁ​ਆਖਿਆ​ਨ​ਜਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Priceless, O Priceless beyond expression!"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK sB AMdwizAW qoN pry hY, aus dw koeI AMdwzw nhIN l`g skdw[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਸਭ ਅੰਦਾਜ਼ਿਆਂ ਤੋਂ ਪਰੇ ਹੈ, ਉਸ ਦਾ ਕੋਈ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਲੱਗ ਸਕਦਾ।"
+            }
+          },
+          "spanish": "Incontable, Incalculable mas haya de lo que podemos expresar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "amulo amul aakhiaa na jaae |",
+            "larivaar": "amulo​amul​aakhiaa​na​jaae​|"
+          },
+          "devanagari": {
+            "text": "अमुलो अमुलु आखिआ न जाइ ॥",
+            "larivaar": "अमुलो​अमुलु​आखिआ​न​जाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "AAAnj",
+          "unicode": "ਅਅਅਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "D11C",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "AwiK AwiK rhy ilv lwie ]",
+          "unicode": "ਆਖਿ ਆਖਿ ਰਹੇ ਲਿਵ ਲਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "AwiK​AwiK​rhy​ilv​lwie​]",
+          "unicode": "ਆਖਿ​ਆਖਿ​ਰਹੇ​ਲਿਵ​ਲਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Speak of Him continually, and remain absorbed in His Love."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo mnu`K iDAwn joV joV ky Akwl purK dw AMdwzw lWdy hn, auh (AMq ƒ) rih jWdy hn[",
+              "unicode": "ਜੋ ਮਨੁੱਖ ਧਿਆਨ ਜੋੜ ਜੋੜ ਕੇ ਅਕਾਲ ਪੁਰਖ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਂਦੇ ਹਨ, ਉਹ (ਅੰਤ ਨੂੰ) ਰਹਿ ਜਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Muchos son los que alaban Tu Nombre."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aakh aakh rahe liv laae |",
+            "larivaar": "aakh​aakh​rahe​liv​laae​|"
+          },
+          "devanagari": {
+            "text": "आखि आखि रहे लिव लाइ ॥",
+            "larivaar": "आखि​आखि​रहे​लिव​लाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "AArll",
+          "unicode": "ਅਅਰਲਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "99JY",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "AwKih vyd pwT purwx ]",
+          "unicode": "ਆਖਹਿ ਵੇਦ ਪਾਠ ਪੁਰਾਣ ॥"
+        },
+        "larivaar": {
+          "akhar": "AwKih​vyd​pwT​purwx​]",
+          "unicode": "ਆਖਹਿ​ਵੇਦ​ਪਾਠ​ਪੁਰਾਣ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Vedas and the Puraanas speak."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "vydW dy mMqr qy purwx Akwl purK dw AMdwzw lWdy hn[",
+              "unicode": "ਵੇਦਾਂ ਦੇ ਮੰਤਰ ਤੇ ਪੁਰਾਣ ਅਕਾਲ ਪੁਰਖ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "En Alabanza del Nombre algunos recitan los Vedas, otros los Puranas,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aakheh ved paatth puraan |",
+            "larivaar": "aakheh​ved​paatth​puraan​|"
+          },
+          "devanagari": {
+            "text": "आखहि वेद पाठ पुराण ॥",
+            "larivaar": "आखहि​वेद​पाठ​पुराण​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "Avpp",
+          "unicode": "ਅਵਪਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ZEVZ",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "AwKih pVy krih viKAwx ]",
+          "unicode": "ਆਖਹਿ ਪੜੇ ਕਰਹਿ ਵਖਿਆਣ ॥"
+        },
+        "larivaar": {
+          "akhar": "AwKih​pVy​krih​viKAwx​]",
+          "unicode": "ਆਖਹਿ​ਪੜੇ​ਕਰਹਿ​ਵਖਿਆਣ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The scholars speak and lecture."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ivdvwn mnu`K BI, jo (hornW ƒ) aupdyS krdy hn, (Akwl purK dw) ibAwn krdy hn[",
+              "unicode": "ਵਿਦਵਾਨ ਮਨੁੱਖ ਭੀ, ਜੋ (ਹੋਰਨਾਂ ਨੂੰ) ਉਪਦੇਸ਼ ਕਰਦੇ ਹਨ, (ਅਕਾਲ ਪੁਰਖ ਦਾ) ਬਿਆਨ ਕਰਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "mientras que los escolares Lo proclaman en largos discursos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aakheh parre kareh vakhiaan |",
+            "larivaar": "aakheh​parre​kareh​vakhiaan​|"
+          },
+          "devanagari": {
+            "text": "आखहि पड़े करहि वखिआण ॥",
+            "larivaar": "आखहि​पड़े​करहि​वखिआण​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "Apkv",
+          "unicode": "ਅਪਕਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FDPH",
+        "type": 4,
+        "shabadid": "LCC",
+        "gurmukhi": {
+          "akhar": "AwKih brmy AwKih ieMd ]",
+          "unicode": "ਆਖਹਿ ਬਰਮੇ ਆਖਹਿ ਇੰਦ ॥"
+        },
+        "larivaar": {
+          "akhar": "AwKih​brmy​AwKih​ieMd​]",
+          "unicode": "ਆਖਹਿ​ਬਰਮੇ​ਆਖਹਿ​ਇੰਦ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Brahma speaks, Indra speaks."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "keI bRhmw, keI ieMdr Akwl purK dI vifAweI AwKdy hn[",
+              "unicode": "ਕਈ ਬ੍ਰਹਮਾ, ਕਈ ਇੰਦਰ ਅਕਾਲ ਪੁਰਖ ਦੀ ਵਡਿਆਈ ਆਖਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Tus Himnos son cantados por Indra y Brahma,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aakheh barame aakheh ind |",
+            "larivaar": "aakheh​barame​aakheh​ind​|"
+          },
+          "devanagari": {
+            "text": "आखहि बरमे आखहि इंद ॥",
+            "larivaar": "आखहि​बरमे​आखहि​इंद​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 1,
+          "akhar": "jpu",
+          "unicode": "ਜਪੁ",
+          "english": "Jap",
+          "startang": 1,
+          "endang": 8,
+          "raagwithpage": "Jap (1-8)"
+        },
+        "pageno": 5,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "AbAe",
+          "unicode": "ਅਬਅੲ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

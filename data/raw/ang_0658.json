@@ -1,0 +1,2107 @@
+{
+  "pageno": 658,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 36,
+  "page": [
+    {
+      "line": {
+        "id": "ZPQL",
+        "type": 4,
+        "shabadid": "MR0",
+        "gurmukhi": {
+          "akhar": "rwj BuieAMg pRsMg jYsy hih Ab kCu mrmu jnwieAw ]",
+          "unicode": "ਰਾਜ ਭੁਇਅੰਗ ਪ੍ਰਸੰਗ ਜੈਸੇ ਹਹਿ ਅਬ ਕਛੁ ਮਰਮੁ ਜਨਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "rwj​BuieAMg​pRsMg​jYsy​hih​Ab​kCu​mrmu​jnwieAw​]",
+          "unicode": "ਰਾਜ​ਭੁਇਅੰਗ​ਪ੍ਰਸੰਗ​ਜੈਸੇ​ਹਹਿ​ਅਬ​ਕਛੁ​ਮਰਮੁ​ਜਨਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Like the story of the rope mistaken for a snake, the mystery has now been explained to me."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijvyN r`sI qy s`p dw idRStWq hY, pr qUM mYƒ hux kuJ kuJ Byq jxw id`qw hY[",
+              "unicode": "ਜਿਵੇਂ ਰੱਸੀ ਤੇ ਸੱਪ ਦਾ ਦ੍ਰਿਸ਼ਟਾਂਤ ਹੈ, ਪਰ ਤੂੰ ਮੈਨੂੰ ਹੁਣ ਕੁਝ ਕੁਝ ਭੇਤ ਜਣਾ ਦਿੱਤਾ ਹੈ।"
+            }
+          },
+          "spanish": "En la oscuridad uno confunde la cuerda con la serpiente,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "raaj bhueiang prasang jaise heh ab kachh maram janaaeaa |",
+            "larivaar": "raaj​bhueiang​prasang​jaise​heh​ab​kachh​maram​janaaeaa​|"
+          },
+          "devanagari": {
+            "text": "राज भुइअंग प्रसंग जैसे हहि अब कछु मरमु जनाइआ ॥",
+            "larivaar": "राज​भुइअंग​प्रसंग​जैसे​हहि​अब​कछु​मरमु​जनाइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "rBpjhAkmj",
+          "unicode": "ਰਭਪਜਹਅਕਮਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VRKV",
+        "type": 4,
+        "shabadid": "MR0",
+        "gurmukhi": {
+          "akhar": "Aink ktk jYsy BUil pry Ab khqy khnu n AwieAw ]3]",
+          "unicode": "ਅਨਿਕ ਕਟਕ ਜੈਸੇ ਭੂਲਿ ਪਰੇ ਅਬ ਕਹਤੇ ਕਹਨੁ ਨ ਆਇਆ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "Aink​ktk​jYsy​BUil​pry​Ab​khqy​khnu​n​AwieAw​]3]",
+          "unicode": "ਅਨਿਕ​ਕਟਕ​ਜੈਸੇ​ਭੂਲਿ​ਪਰੇ​ਅਬ​ਕਹਤੇ​ਕਹਨੁ​ਨ​ਆਇਆ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Like the many bracelets, which I mistakenly thought were gold; now, I do not say what I said then. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijvyN (sony qoN bxy hoey) AnykW kVy vyK ky BulyKw pY jwey (ik sonw hI keI iksm dw huMdw hY, iqvyN Aswƒ BulyKw bixAw ipAw hY ik ieh jgq qYQoN v`Krw hY)[ hux auh purwxI ivqkry vwlI g`l mYQoN AwKI nhIN jWdI (Bwv, hux mYN ieh nhIN AwKdw ik jgq qYQoN v`KrI hsqI hY) ]3]",
+              "unicode": "ਜਿਵੇਂ (ਸੋਨੇ ਤੋਂ ਬਣੇ ਹੋਏ) ਅਨੇਕਾਂ ਕੜੇ ਵੇਖ ਕੇ ਭੁਲੇਖਾ ਪੈ ਜਾਏ (ਕਿ ਸੋਨਾ ਹੀ ਕਈ ਕਿਸਮ ਦਾ ਹੁੰਦਾ ਹੈ, ਤਿਵੇਂ ਅਸਾਨੂੰ ਭੁਲੇਖਾ ਬਣਿਆ ਪਿਆ ਹੈ ਕਿ ਇਹ ਜਗਤ ਤੈਥੋਂ ਵੱਖਰਾ ਹੈ)। ਹੁਣ ਉਹ ਪੁਰਾਣੀ ਵਿਤਕਰੇ ਵਾਲੀ ਗੱਲ ਮੈਥੋਂ ਆਖੀ ਨਹੀਂ ਜਾਂਦੀ (ਭਾਵ, ਹੁਣ ਮੈਂ ਇਹ ਨਹੀਂ ਆਖਦਾ ਕਿ ਜਗਤ ਤੈਥੋਂ ਵੱਖਰੀ ਹਸਤੀ ਹੈ) ॥੩॥"
+            }
+          },
+          "spanish": "pero he despertado y aprendido un poco de este misterio, como los muchos brazaletes que pensaba que eran de oro, ahora no pienso lo de antes. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "anik kattak jaise bhool pare ab kahate kehan na aaeaa |3|",
+            "larivaar": "anik​kattak​jaise​bhool​pare​ab​kahate​kehan​na​aaeaa​|3|"
+          },
+          "devanagari": {
+            "text": "अनिक कटक जैसे भूलि परे अब कहते कहनु न आइआ ॥३॥",
+            "larivaar": "अनिक​कटक​जैसे​भूलि​परे​अब​कहते​कहनु​न​आइआ​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "AkjBpAkknA",
+          "unicode": "ਅਕਜਭਪਅਕਕਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9E2S",
+        "type": 4,
+        "shabadid": "MR0",
+        "gurmukhi": {
+          "akhar": "srby eyku AnykY suAwmI sB Gt BuogvY soeI ]",
+          "unicode": "ਸਰਬੇ ਏਕੁ ਅਨੇਕੈ ਸੁਆਮੀ ਸਭ ਘਟ ਭੋੁਗਵੈ ਸੋਈ ॥"
+        },
+        "larivaar": {
+          "akhar": "srby​eyku​AnykY​suAwmI​sB​Gt​BuogvY​soeI​]",
+          "unicode": "ਸਰਬੇ​ਏਕੁ​ਅਨੇਕੈ​ਸੁਆਮੀ​ਸਭ​ਘਟ​ਭੋੁਗਵੈ​ਸੋਈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The One Lord is pervading the many forms; He enjoys Himself in all hearts."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh pRBU-Ksm AnykW rUp bxw ky swirAW ivc ie`k Awp hI hY, sB GtW ivc Awp hI bYTw jgq dy rMg mwx irhw hY[",
+              "unicode": "ਉਹ ਪ੍ਰਭੂ-ਖਸਮ ਅਨੇਕਾਂ ਰੂਪ ਬਣਾ ਕੇ ਸਾਰਿਆਂ ਵਿਚ ਇੱਕ ਆਪ ਹੀ ਹੈ, ਸਭ ਘਟਾਂ ਵਿਚ ਆਪ ਹੀ ਬੈਠਾ ਜਗਤ ਦੇ ਰੰਗ ਮਾਣ ਰਿਹਾ ਹੈ।"
+            }
+          },
+          "spanish": "Aunque de formas diferentes, Dios prevalece en todos los corazones"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sarabe ek anekai suaamee sabh ghatt bhuogavai soee |",
+            "larivaar": "sarabe​ek​anekai​suaamee​sabh​ghatt​bhuogavai​soee​|"
+          },
+          "devanagari": {
+            "text": "सरबे एकु अनेकै सुआमी सभ घट भुोगवै सोई ॥",
+            "larivaar": "सरबे​एकु​अनेकै​सुआमी​सभ​घट​भुोगवै​सोई​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "seAssGBs",
+          "unicode": "ਸੲਅਸਸਘਭਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ES4U",
+        "type": 4,
+        "shabadid": "MR0",
+        "gurmukhi": {
+          "akhar": "kih rivdws hwQ pY nyrY shjy hoie su hoeI ]4]1]",
+          "unicode": "ਕਹਿ ਰਵਿਦਾਸ ਹਾਥ ਪੈ ਨੇਰੈ ਸਹਜੇ ਹੋਇ ਸੁ ਹੋਈ ॥੪॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "kih​rivdws​hwQ​pY​nyrY​shjy​hoie​su​hoeI​]4]1]",
+          "unicode": "ਕਹਿ​ਰਵਿਦਾਸ​ਹਾਥ​ਪੈ​ਨੇਰੈ​ਸਹਜੇ​ਹੋਇ​ਸੁ​ਹੋਈ​॥੪॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Ravi Daas, the Lord is nearer than our own hands and feet. Whatever will be, will be. ||4||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hux qW) rivdws AwKdw hY ik (dUr nhIN) myry h`Q qoN BI nyVy hY, jo kuJ (jgq ivc) vrq irhw hY, ausy dI rzw ivc ho irhw hY ]4]1]",
+              "unicode": "(ਹੁਣ ਤਾਂ) ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ ਕਿ (ਦੂਰ ਨਹੀਂ) ਮੇਰੇ ਹੱਥ ਤੋਂ ਭੀ ਨੇੜੇ ਹੈ, ਜੋ ਕੁਝ (ਜਗਤ ਵਿਚ) ਵਰਤ ਰਿਹਾ ਹੈ, ਉਸੇ ਦੀ ਰਜ਼ਾ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ ॥੪॥੧॥"
+            }
+          },
+          "spanish": "y disfruta de todos los estados, dice Ravi Das, aunque Dios está a la mano, Él te encuentra a Su tiempo. (4‑1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "keh ravidaas haath pai nerai sahaje hoe su hoee |4|1|",
+            "larivaar": "keh​ravidaas​haath​pai​nerai​sahaje​hoe​su​hoee​|4|1|"
+          },
+          "devanagari": {
+            "text": "कहि रविदास हाथ पै नेरै सहजे होइ सु होई ॥४॥१॥",
+            "larivaar": "कहि​रविदास​हाथ​पै​नेरै​सहजे​होइ​सु​होई​॥४॥१॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "krhpnshsh",
+          "unicode": "ਕਰਹਪਨਸਹਸਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CJL0",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "jau hm bWDy moh Pws hm pRym bDin qum bwDy ]",
+          "unicode": "ਜਉ ਹਮ ਬਾਂਧੇ ਮੋਹ ਫਾਸ ਹਮ ਪ੍ਰੇਮ ਬਧਨਿ ਤੁਮ ਬਾਧੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "jau​hm​bWDy​moh​Pws​hm​pRym​bDin​qum​bwDy​]",
+          "unicode": "ਜਉ​ਹਮ​ਬਾਂਧੇ​ਮੋਹ​ਫਾਸ​ਹਮ​ਪ੍ਰੇਮ​ਬਧਨਿ​ਤੁਮ​ਬਾਧੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If I am bound by the noose of emotional attachment, then I shall bind You, Lord, with the bonds of love."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(so, hy mwDo!) jy AsIN moh dI PwhI ivc b`Jy hoey sW, qW AsW qYƒ Awpxy ipAwr dI r`sI nwl bMnH ilAw hY[",
+              "unicode": "(ਸੋ, ਹੇ ਮਾਧੋ!) ਜੇ ਅਸੀਂ ਮੋਹ ਦੀ ਫਾਹੀ ਵਿਚ ਬੱਝੇ ਹੋਏ ਸਾਂ, ਤਾਂ ਅਸਾਂ ਤੈਨੂੰ ਆਪਣੇ ਪਿਆਰ ਦੀ ਰੱਸੀ ਨਾਲ ਬੰਨ੍ਹ ਲਿਆ ਹੈ।"
+            }
+          },
+          "spanish": "Si estoy atado por Amor a Ti, oh Dios, también lo estás Tú a mí, pero ve y trata de escapar,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jau ham baandhe moh faas ham prem badhan tum baadhe |",
+            "larivaar": "jau​ham​baandhe​moh​faas​ham​prem​badhan​tum​baadhe​|"
+          },
+          "devanagari": {
+            "text": "जउ हम बांधे मोह फास हम प्रेम बधनि तुम बाधे ॥",
+            "larivaar": "जउ​हम​बांधे​मोह​फास​हम​प्रेम​बधनि​तुम​बाधे​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "jhbmPhpbqb",
+          "unicode": "ਜਹਬਮਫਹਪਬਤਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ET8T",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "Apny CUtn ko jqnu krhu hm CUty qum AwrwDy ]1]",
+          "unicode": "ਅਪਨੇ ਛੂਟਨ ਕੋ ਜਤਨੁ ਕਰਹੁ ਹਮ ਛੂਟੇ ਤੁਮ ਆਰਾਧੇ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "Apny​CUtn​ko​jqnu​krhu​hm​CUty​qum​AwrwDy​]1]",
+          "unicode": "ਅਪਨੇ​ਛੂਟਨ​ਕੋ​ਜਤਨੁ​ਕਰਹੁ​ਹਮ​ਛੂਟੇ​ਤੁਮ​ਆਰਾਧੇ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Go ahead and try to escape, Lord; I have escaped by worshipping and adoring You. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AsIN qW (aus moh dI PwhI ivcoN) qYƒ ismr ky inkl Awey hW, qUM Aswfy ipAwr dy jkV ivcoN ikvyN inklyNgw? ]1]",
+              "unicode": "ਅਸੀਂ ਤਾਂ (ਉਸ ਮੋਹ ਦੀ ਫਾਹੀ ਵਿਚੋਂ) ਤੈਨੂੰ ਸਿਮਰ ਕੇ ਨਿਕਲ ਆਏ ਹਾਂ, ਤੂੰ ਅਸਾਡੇ ਪਿਆਰ ਦੇ ਜਕੜ ਵਿਚੋਂ ਕਿਵੇਂ ਨਿਕਲੇਂਗਾ? ॥੧॥"
+            }
+          },
+          "spanish": "oh Señor, yo escapé meditando en Ti y Alabándote. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "apane chhoottan ko jatan karahu ham chhootte tum aaraadhe |1|",
+            "larivaar": "apane​chhoottan​ko​jatan​karahu​ham​chhootte​tum​aaraadhe​|1|"
+          },
+          "devanagari": {
+            "text": "अपने छूटन को जतनु करहु हम छूटे तुम आराधे ॥१॥",
+            "larivaar": "अपने​छूटन​को​जतनु​करहु​हम​छूटे​तुम​आराधे​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "ACkjkhCqA",
+          "unicode": "ਅਛਕਜਕਹਛਤਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "J7L9",
+        "type": 3,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "mwDvy jwnq hhu jYsI qYsI ]",
+          "unicode": "ਮਾਧਵੇ ਜਾਨਤ ਹਹੁ ਜੈਸੀ ਤੈਸੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwDvy​jwnq​hhu​jYsI​qYsI​]",
+          "unicode": "ਮਾਧਵੇ​ਜਾਨਤ​ਹਹੁ​ਜੈਸੀ​ਤੈਸੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Lord, You know my love for You."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy mwDo! qyry Bgq ijho ijhw ipAwr qyry nwl krdy hn auh qYQoN luikAw nhIN rih skdw (qUM auh cMgI qrHW jwxdw hYN)[",
+              "unicode": "ਹੇ ਮਾਧੋ! ਤੇਰੇ ਭਗਤ ਜਿਹੋ ਜਿਹਾ ਪਿਆਰ ਤੇਰੇ ਨਾਲ ਕਰਦੇ ਹਨ ਉਹ ਤੈਥੋਂ ਲੁਕਿਆ ਨਹੀਂ ਰਹਿ ਸਕਦਾ (ਤੂੰ ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹੈਂ)।"
+            }
+          },
+          "spanish": "Oh Señor, Tú conoces la intensidad de mi Amor por Ti"
+        },
+        "transliteration": {
+          "english": {
+            "text": "maadhave jaanat hahu jaisee taisee |",
+            "larivaar": "maadhave​jaanat​hahu​jaisee​taisee​|"
+          },
+          "devanagari": {
+            "text": "माधवे जानत हहु जैसी तैसी ॥",
+            "larivaar": "माधवे​जानत​हहु​जैसी​तैसी​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "mjhjq",
+          "unicode": "ਮਜਹਜਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RHBC",
+        "type": 3,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "Ab khw krhugy AYsI ]1] rhwau ]",
+          "unicode": "ਅਬ ਕਹਾ ਕਰਹੁਗੇ ਐਸੀ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "Ab​khw​krhugy​AYsI​]1]​rhwau​]",
+          "unicode": "ਅਬ​ਕਹਾ​ਕਰਹੁਗੇ​ਐਸੀ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Now, what will You do? ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AijhI pRIiq dy huMidAW qUM zrUr auhnW ƒ moh qoN bcweI r`Kdw hYN ]1] rhwau ]",
+              "unicode": "ਅਜਿਹੀ ਪ੍ਰੀਤਿ ਦੇ ਹੁੰਦਿਆਂ ਤੂੰ ਜ਼ਰੂਰ ਉਹਨਾਂ ਨੂੰ ਮੋਹ ਤੋਂ ਬਚਾਈ ਰੱਖਦਾ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "y ahora ¿qué Puedes hacer? (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ab kahaa karahuge aisee |1| rahaau |",
+            "larivaar": "ab​kahaa​karahuge​aisee​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "अब कहा करहुगे ऐसी ॥१॥ रहाउ ॥",
+            "larivaar": "अब​कहा​करहुगे​ऐसी​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "AkkA",
+          "unicode": "ਅਕਕਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HF5U",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "mInu pkir PWikE Aru kwitE rWiD kIE bhu bwnI ]",
+          "unicode": "ਮੀਨੁ ਪਕਰਿ ਫਾਂਕਿਓ ਅਰੁ ਕਾਟਿਓ ਰਾਂਧਿ ਕੀਓ ਬਹੁ ਬਾਨੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "mInu​pkir​PWikE​Aru​kwitE​rWiD​kIE​bhu​bwnI​]",
+          "unicode": "ਮੀਨੁ​ਪਕਰਿ​ਫਾਂਕਿਓ​ਅਰੁ​ਕਾਟਿਓ​ਰਾਂਧਿ​ਕੀਓ​ਬਹੁ​ਬਾਨੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "A fish is caught, cut up, and cooked it in many different ways."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(Aswfw qyry nwl ipAwr BI auh hY jo m`CI ƒ pwxI nwl huMdw hY, AsW mr ky BI qyrI Xwd nhIN C`fxI) m`CI (pwxI ivcoN) PV ky PWkW kr dyeIey, toty kr dyeIey qy keI qrHW irMnH leIey,",
+              "unicode": "(ਅਸਾਡਾ ਤੇਰੇ ਨਾਲ ਪਿਆਰ ਭੀ ਉਹ ਹੈ ਜੋ ਮੱਛੀ ਨੂੰ ਪਾਣੀ ਨਾਲ ਹੁੰਦਾ ਹੈ, ਅਸਾਂ ਮਰ ਕੇ ਭੀ ਤੇਰੀ ਯਾਦ ਨਹੀਂ ਛੱਡਣੀ) ਮੱਛੀ (ਪਾਣੀ ਵਿਚੋਂ) ਫੜ ਕੇ ਫਾਂਕਾਂ ਕਰ ਦੇਈਏ, ਟੋਟੇ ਕਰ ਦੇਈਏ ਤੇ ਕਈ ਤਰ੍ਹਾਂ ਰਿੰਨ੍ਹ ਲਈਏ,"
+            }
+          },
+          "spanish": "Así como el pez es atrapado, cortado en pedazos y después cocinado y comido,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "meen pakar faankio ar kaattio raandh keeo bahu baanee |",
+            "larivaar": "meen​pakar​faankio​ar​kaattio​raandh​keeo​bahu​baanee​|"
+          },
+          "devanagari": {
+            "text": "मीनु पकरि फांकिओ अरु काटिओ रांधि कीओ बहु बानी ॥",
+            "larivaar": "मीनु​पकरि​फांकिओ​अरु​काटिओ​रांधि​कीओ​बहु​बानी​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "mpPAkrkbb",
+          "unicode": "ਮਪਫਅਕਰਕਬਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LU9W",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "KMf KMf kir Bojnu kIno qaU n ibsirE pwnI ]2]",
+          "unicode": "ਖੰਡ ਖੰਡ ਕਰਿ ਭੋਜਨੁ ਕੀਨੋ ਤਊ ਨ ਬਿਸਰਿਓ ਪਾਨੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "KMf​KMf​kir​Bojnu​kIno​qaU​n​ibsirE​pwnI​]2]",
+          "unicode": "ਖੰਡ​ਖੰਡ​ਕਰਿ​ਭੋਜਨੁ​ਕੀਨੋ​ਤਊ​ਨ​ਬਿਸਰਿਓ​ਪਾਨੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Bit by bit, it is eaten, but still, it does not forget the water. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "iPr rqw rqw kr ky Kw leIey, iPr BI aus m`CI ƒ pwxI nhIN Bu`ldw (ijs Kwx vwly dy pyt ivc jWdI hY aus ƒ BI pwxI dI ipAws lgw dyNdI hY) ]2]",
+              "unicode": "ਫਿਰ ਰਤਾ ਰਤਾ ਕਰ ਕੇ ਖਾ ਲਈਏ, ਫਿਰ ਭੀ ਉਸ ਮੱਛੀ ਨੂੰ ਪਾਣੀ ਨਹੀਂ ਭੁੱਲਦਾ (ਜਿਸ ਖਾਣ ਵਾਲੇ ਦੇ ਪੇਟ ਵਿਚ ਜਾਂਦੀ ਹੈ ਉਸ ਨੂੰ ਭੀ ਪਾਣੀ ਦੀ ਪਿਆਸ ਲਗਾ ਦੇਂਦੀ ਹੈ) ॥੨॥"
+            }
+          },
+          "spanish": "y aún en la mera esencia de sus moléculas añora regresar al agua, así de fuerte es mi añoranza por Ti. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "khandd khandd kar bhojan keeno taoo na bisario paanee |2|",
+            "larivaar": "khandd​khandd​kar​bhojan​keeno​taoo​na​bisario​paanee​|2|"
+          },
+          "devanagari": {
+            "text": "खंड खंड करि भोजनु कीनो तऊ न बिसरिओ पानी ॥२॥",
+            "larivaar": "खंड​खंड​करि​भोजनु​कीनो​तऊ​न​बिसरिओ​पानी​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "KKkBkqnbp",
+          "unicode": "ਖਖਕਭਕਤਨਬਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VX4B",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "Awpn bwpY nwhI iksI ko Bwvn ko hir rwjw ]",
+          "unicode": "ਆਪਨ ਬਾਪੈ ਨਾਹੀ ਕਿਸੀ ਕੋ ਭਾਵਨ ਕੋ ਹਰਿ ਰਾਜਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awpn​bwpY​nwhI​iksI​ko​Bwvn​ko​hir​rwjw​]",
+          "unicode": "ਆਪਨ​ਬਾਪੈ​ਨਾਹੀ​ਕਿਸੀ​ਕੋ​ਭਾਵਨ​ਕੋ​ਹਰਿ​ਰਾਜਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord, our King, is father to no one, except those who love Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jgq dw mwlk hrI iksy dy ipau dI (j`dI mlkIAq) nhIN hY, auh qW pRym dw b`Jw hoieAw hY[",
+              "unicode": "ਜਗਤ ਦਾ ਮਾਲਕ ਹਰੀ ਕਿਸੇ ਦੇ ਪਿਉ ਦੀ (ਜੱਦੀ ਮਲਕੀਅਤ) ਨਹੀਂ ਹੈ, ਉਹ ਤਾਂ ਪ੍ਰੇਮ ਦਾ ਬੱਝਾ ਹੋਇਆ ਹੈ।"
+            }
+          },
+          "spanish": "El Señor no es el Padre de nadie más que de aquéllos que están enamorados de Él."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aapan baapai naahee kisee ko bhaavan ko har raajaa |",
+            "larivaar": "aapan​baapai​naahee​kisee​ko​bhaavan​ko​har​raajaa​|"
+          },
+          "devanagari": {
+            "text": "आपन बापै नाही किसी को भावन को हरि राजा ॥",
+            "larivaar": "आपन​बापै​नाही​किसी​को​भावन​को​हरि​राजा​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "AbnkkBkhr",
+          "unicode": "ਅਬਨਕਕਭਕਹਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7Z3J",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "moh ptl sBu jgqu ibAwipE Bgq nhI sMqwpw ]3]",
+          "unicode": "ਮੋਹ ਪਟਲ ਸਭੁ ਜਗਤੁ ਬਿਆਪਿਓ ਭਗਤ ਨਹੀ ਸੰਤਾਪਾ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "moh​ptl​sBu​jgqu​ibAwipE​Bgq​nhI​sMqwpw​]3]",
+          "unicode": "ਮੋਹ​ਪਟਲ​ਸਭੁ​ਜਗਤੁ​ਬਿਆਪਿਓ​ਭਗਤ​ਨਹੀ​ਸੰਤਾਪਾ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The veil of emotional attachment has been cast over the entire world, but it does not bother the Lord's devotee. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ies pRym qoN vWijAw hoieAw swrw jgq) moh dy prdy ivc PisAw ipAw hY, pr (pRBU nwl pRym krn vwly) BgqW ƒ (ies moh dw) koeI klyS nhIN huMdw ]3]",
+              "unicode": "(ਇਸ ਪ੍ਰੇਮ ਤੋਂ ਵਾਂਜਿਆ ਹੋਇਆ ਸਾਰਾ ਜਗਤ) ਮੋਹ ਦੇ ਪਰਦੇ ਵਿਚ ਫਸਿਆ ਪਿਆ ਹੈ, ਪਰ (ਪ੍ਰਭੂ ਨਾਲ ਪ੍ਰੇਮ ਕਰਨ ਵਾਲੇ) ਭਗਤਾਂ ਨੂੰ (ਇਸ ਮੋਹ ਦਾ) ਕੋਈ ਕਲੇਸ਼ ਨਹੀਂ ਹੁੰਦਾ ॥੩॥"
+            }
+          },
+          "spanish": "El mundo entero está encadenado por el apego; sólo el Devoto del Señor es preservado. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "moh pattal sabh jagat biaapio bhagat nahee santaapaa |3|",
+            "larivaar": "moh​pattal​sabh​jagat​biaapio​bhagat​nahee​santaapaa​|3|"
+          },
+          "devanagari": {
+            "text": "मोह पटल सभु जगतु बिआपिओ भगत नही संतापा ॥३॥",
+            "larivaar": "मोह​पटल​सभु​जगतु​बिआपिओ​भगत​नही​संतापा​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "mpsjbBns",
+          "unicode": "ਮਪਸਜਬਭਨਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1CBC",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "kih rivdws Bgiq iek bwFI Ab ieh kw isau khIAY ]",
+          "unicode": "ਕਹਿ ਰਵਿਦਾਸ ਭਗਤਿ ਇਕ ਬਾਢੀ ਅਬ ਇਹ ਕਾ ਸਿਉ ਕਹੀਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "kih​rivdws​Bgiq​iek​bwFI​Ab​ieh​kw​isau​khIAY​]",
+          "unicode": "ਕਹਿ​ਰਵਿਦਾਸ​ਭਗਤਿ​ਇਕ​ਬਾਢੀ​ਅਬ​ਇਹ​ਕਾ​ਸਿਉ​ਕਹੀਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Ravi Daas, my devotion to the One Lord is increasing; now, who can I tell this to?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rivdws AwKdw hY-(hy mwDo!) mYN iek qyrI BgqI (Awpxy ihrdy ivc) ieqnI idRVH kIqI hY ik mYƒ hux iksy nwl ieh iglw krn dI loV hI nhIN rih geI,",
+              "unicode": "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-(ਹੇ ਮਾਧੋ!) ਮੈਂ ਇਕ ਤੇਰੀ ਭਗਤੀ (ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ) ਇਤਨੀ ਦ੍ਰਿੜ੍ਹ ਕੀਤੀ ਹੈ ਕਿ ਮੈਨੂੰ ਹੁਣ ਕਿਸੇ ਨਾਲ ਇਹ ਗਿਲਾ ਕਰਨ ਦੀ ਲੋੜ ਹੀ ਨਹੀਂ ਰਹਿ ਗਈ,"
+            }
+          },
+          "spanish": "Dice Ravi Das, la Veneración que Te tengo crece dentro de mí, pero ¿a quién podré contar de mi Estado?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "keh ravidaas bhagat ik baadtee ab ih kaa siau kaheeai |",
+            "larivaar": "keh​ravidaas​bhagat​ik​baadtee​ab​ih​kaa​siau​kaheeai​|"
+          },
+          "devanagari": {
+            "text": "कहि रविदास भगति इक बाढी अब इह का सिउ कहीऐ ॥",
+            "larivaar": "कहि​रविदास​भगति​इक​बाढी​अब​इह​का​सिउ​कहीऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "krBebAeksk",
+          "unicode": "ਕਰਭੲਬਅੲਕਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RKQN",
+        "type": 4,
+        "shabadid": "KP3",
+        "gurmukhi": {
+          "akhar": "jw kwrin hm qum AwrwDy so duKu AjhU shIAY ]4]2]",
+          "unicode": "ਜਾ ਕਾਰਨਿ ਹਮ ਤੁਮ ਆਰਾਧੇ ਸੋ ਦੁਖੁ ਅਜਹੂ ਸਹੀਐ ॥੪॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "jw​kwrin​hm​qum​AwrwDy​so​duKu​AjhU​shIAY​]4]2]",
+          "unicode": "ਜਾ​ਕਾਰਨਿ​ਹਮ​ਤੁਮ​ਆਰਾਧੇ​ਸੋ​ਦੁਖੁ​ਅਜਹੂ​ਸਹੀਐ​॥੪॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "That which brought me to worship and adore You - I am still suffering that pain. ||4||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ju ijs moh qoN bcx leI mYN qyrw ismrn kr irhw sW, aus moh dw du`K mYƒ hux qk shwrnw pY irhw hY (Bwv, aus moh dw qW hux myry AMdr nwm inSwn hI nhIN rih igAw) ]4]2]",
+              "unicode": "ਜੁ ਜਿਸ ਮੋਹ ਤੋਂ ਬਚਣ ਲਈ ਮੈਂ ਤੇਰਾ ਸਿਮਰਨ ਕਰ ਰਿਹਾ ਸਾਂ, ਉਸ ਮੋਹ ਦਾ ਦੁੱਖ ਮੈਨੂੰ ਹੁਣ ਤਕ ਸਹਾਰਨਾ ਪੈ ਰਿਹਾ ਹੈ (ਭਾਵ, ਉਸ ਮੋਹ ਦਾ ਤਾਂ ਹੁਣ ਮੇਰੇ ਅੰਦਰ ਨਾਮ ਨਿਸ਼ਾਨ ਹੀ ਨਹੀਂ ਰਹਿ ਗਿਆ) ॥੪॥੨॥"
+            }
+          },
+          "spanish": "Te contemplé para deshacerme de este dolor, pero este dolor de Amor todavía lo tengo. (4‑2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaa kaaran ham tum aaraadhe so dukh ajahoo saheeai |4|2|",
+            "larivaar": "jaa​kaaran​ham​tum​aaraadhe​so​dukh​ajahoo​saheeai​|4|2|"
+          },
+          "devanagari": {
+            "text": "जा कारनि हम तुम आराधे सो दुखु अजहू सहीऐ ॥४॥२॥",
+            "larivaar": "जा​कारनि​हम​तुम​आराधे​सो​दुखु​अजहू​सहीऐ​॥४॥२॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "jkhqAsdAs",
+          "unicode": "ਜਕਹਤਅਸਦਅਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LKP8",
+        "type": 4,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "dulB jnmu puMn Pl pwieE ibrQw jwq AibbykY ]",
+          "unicode": "ਦੁਲਭ ਜਨਮੁ ਪੁੰਨ ਫਲ ਪਾਇਓ ਬਿਰਥਾ ਜਾਤ ਅਬਿਬੇਕੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "dulB​jnmu​puMn​Pl​pwieE​ibrQw​jwq​AibbykY​]",
+          "unicode": "ਦੁਲਭ​ਜਨਮੁ​ਪੁੰਨ​ਫਲ​ਪਾਇਓ​ਬਿਰਥਾ​ਜਾਤ​ਅਬਿਬੇਕੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I obtained this precious human life as a reward for my past actions, but without discriminating wisdom, it is wasted in vain."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ieh mnu`Kw jnm bVI muSikl nwl imldw hY, (ipCly kIqy) Bly kMmW dy Pl vjoN Aswƒ iml igAw, pr Aswfy AM\\wxpuxy ivc ieh ivArQ hI jw irhw hY[",
+              "unicode": "ਇਹ ਮਨੁੱਖਾ ਜਨਮ ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਦਾ ਹੈ, (ਪਿਛਲੇ ਕੀਤੇ) ਭਲੇ ਕੰਮਾਂ ਦੇ ਫਲ ਵਜੋਂ ਅਸਾਨੂੰ ਮਿਲ ਗਿਆ, ਪਰ ਅਸਾਡੇ ਅੰਞਾਣਪੁਣੇ ਵਿਚ ਇਹ ਵਿਅਰਥ ਹੀ ਜਾ ਰਿਹਾ ਹੈ।"
+            }
+          },
+          "spanish": "Por un virtuoso pasado, tomé el nacimiento humano, pero sin Sabiduría, se va a desperdiciar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "dulabh janam pun fal paaeo birathaa jaat abibekai |",
+            "larivaar": "dulabh​janam​pun​fal​paaeo​birathaa​jaat​abibekai​|"
+          },
+          "devanagari": {
+            "text": "दुलभ जनमु पुंन फल पाइओ बिरथा जात अबिबेकै ॥",
+            "larivaar": "दुलभ​जनमु​पुंन​फल​पाइओ​बिरथा​जात​अबिबेकै​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "djpPpbjA",
+          "unicode": "ਦਜਪਫਪਬਜਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9KDX",
+        "type": 4,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "rwjy ieMdR smsir igRh Awsn ibnu hir Bgiq khhu ikh lyKY ]1]",
+          "unicode": "ਰਾਜੇ ਇੰਦ੍ਰ ਸਮਸਰਿ ਗ੍ਰਿਹ ਆਸਨ ਬਿਨੁ ਹਰਿ ਭਗਤਿ ਕਹਹੁ ਕਿਹ ਲੇਖੈ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "rwjy​ieMdR​smsir​igRh​Awsn​ibnu​hir​Bgiq​khhu​ikh​lyKY​]1]",
+          "unicode": "ਰਾਜੇ​ਇੰਦ੍ਰ​ਸਮਸਰਿ​ਗ੍ਰਿਹ​ਆਸਨ​ਬਿਨੁ​ਹਰਿ​ਭਗਤਿ​ਕਹਹੁ​ਕਿਹ​ਲੇਖੈ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Tell me, without devotional worship of the Lord, of what use are mansions and thrones like those of King Indra? ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(AsW kdy soicAw hI nhIN ik) jy pRBU dI bMdgI qoN vWjy rhy qW (dyviqAW dy) rwjy ieMdr dy surg vrgy BI mihl mwVIAW iksy kMm nhIN hn ]1]",
+              "unicode": "(ਅਸਾਂ ਕਦੇ ਸੋਚਿਆ ਹੀ ਨਹੀਂ ਕਿ) ਜੇ ਪ੍ਰਭੂ ਦੀ ਬੰਦਗੀ ਤੋਂ ਵਾਂਜੇ ਰਹੇ ਤਾਂ (ਦੇਵਤਿਆਂ ਦੇ) ਰਾਜੇ ਇੰਦਰ ਦੇ ਸੁਰਗ ਵਰਗੇ ਭੀ ਮਹਿਲ ਮਾੜੀਆਂ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਹਨ ॥੧॥"
+            }
+          },
+          "spanish": "Aún si uno tiene el trono de Indra, sin Devoción al Señor, no sirve de nada. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "raaje indr samasar grih aasan bin har bhagat kahahu kih lekhai |1|",
+            "larivaar": "raaje​indr​samasar​grih​aasan​bin​har​bhagat​kahahu​kih​lekhai​|1|"
+          },
+          "devanagari": {
+            "text": "राजे इंद्र समसरि ग्रिह आसन बिनु हरि भगति कहहु किह लेखै ॥१॥",
+            "larivaar": "राजे​इंद्र​समसरि​ग्रिह​आसन​बिनु​हरि​भगति​कहहु​किह​लेखै​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "resgAbhBkkl",
+          "unicode": "ਰੲਸਗਅਬਹਭਕਕਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DLR5",
+        "type": 3,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "n bIcwirE rwjw rwm ko rsu ]",
+          "unicode": "ਨ ਬੀਚਾਰਿਓ ਰਾਜਾ ਰਾਮ ਕੋ ਰਸੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "n​bIcwirE​rwjw​rwm​ko​rsu​]",
+          "unicode": "ਨ​ਬੀਚਾਰਿਓ​ਰਾਜਾ​ਰਾਮ​ਕੋ​ਰਸੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You have not considered the sublime essence of the Name of the Lord, our King;"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(AsW mwieAw-DwrI jIvW ny) jgq-pRBU prmwqmw dy nwm dy aus Awnµd ƒ nhIN kdy ivcwirAw,",
+              "unicode": "(ਅਸਾਂ ਮਾਇਆ-ਧਾਰੀ ਜੀਵਾਂ ਨੇ) ਜਗਤ-ਪ੍ਰਭੂ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੇ ਉਸ ਆਨੰਦ ਨੂੰ ਨਹੀਂ ਕਦੇ ਵਿਚਾਰਿਆ,"
+            }
+          },
+          "spanish": "No he meditado en la Esencia del Señor, habitando en ella,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "n beechaario raajaa raam ko ras |",
+            "larivaar": "n​beechaario​raajaa​raam​ko​ras​|"
+          },
+          "devanagari": {
+            "text": "न बीचारिओ राजा राम को रसु ॥",
+            "larivaar": "न​बीचारिओ​राजा​राम​को​रसु​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "nbrrkr",
+          "unicode": "ਨਬਰਰਕਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ELAL",
+        "type": 3,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "ijh rs An rs bIsir jwhI ]1] rhwau ]",
+          "unicode": "ਜਿਹ ਰਸ ਅਨ ਰਸ ਬੀਸਰਿ ਜਾਹੀ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijh​rs​An​rs​bIsir​jwhI​]1]​rhwau​]",
+          "unicode": "ਜਿਹ​ਰਸ​ਅਨ​ਰਸ​ਬੀਸਰਿ​ਜਾਹੀ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "this sublime essence shall cause you to forget all other essences. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs Awnµd dI brkiq nwl (mwieAw dy) hor swry csky dUr ho jWdy hn ]1] rhwau ]",
+              "unicode": "ਜਿਸ ਆਨੰਦ ਦੀ ਬਰਕਤਿ ਨਾਲ (ਮਾਇਆ ਦੇ) ਹੋਰ ਸਾਰੇ ਚਸਕੇ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "uno acaba por abandonar todos los demás sabores. (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jih ras an ras beesar jaahee |1| rahaau |",
+            "larivaar": "jih​ras​an​ras​beesar​jaahee​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "जिह रस अन रस बीसरि जाही ॥१॥ रहाउ ॥",
+            "larivaar": "जिह​रस​अन​रस​बीसरि​जाही​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "jrArbj",
+          "unicode": "ਜਰਅਰਬਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UZZD",
+        "type": 4,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "jwin Ajwn Bey hm bwvr soc Asoc idvs jwhI ]",
+          "unicode": "ਜਾਨਿ ਅਜਾਨ ਭਏ ਹਮ ਬਾਵਰ ਸੋਚ ਅਸੋਚ ਦਿਵਸ ਜਾਹੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "jwin​Ajwn​Bey​hm​bwvr​soc​Asoc​idvs​jwhI​]",
+          "unicode": "ਜਾਨਿ​ਅਜਾਨ​ਭਏ​ਹਮ​ਬਾਵਰ​ਸੋਚ​ਅਸੋਚ​ਦਿਵਸ​ਜਾਹੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "We do not know what we need to know, and we have become insane. We do not consider what we should consider; our days are passing away."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) jwxdy bu`Jdy hoey BI AsIN kmly qy mUrK bxy hoey hW, AswfI aumr dy idhwVy (mwieAw dIAW hI) cMgIAW mMdIAW ivcwrW ivc guzr rhy hn[",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਜਾਣਦੇ ਬੁੱਝਦੇ ਹੋਏ ਭੀ ਅਸੀਂ ਕਮਲੇ ਤੇ ਮੂਰਖ ਬਣੇ ਹੋਏ ਹਾਂ, ਅਸਾਡੀ ਉਮਰ ਦੇ ਦਿਹਾੜੇ (ਮਾਇਆ ਦੀਆਂ ਹੀ) ਚੰਗੀਆਂ ਮੰਦੀਆਂ ਵਿਚਾਰਾਂ ਵਿਚ ਗੁਜ਼ਰ ਰਹੇ ਹਨ।"
+            }
+          },
+          "spanish": "La Sabiduría se me ha escapado, y mis días pasan en la incertidumbre y en la ignorancia."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaan ajaan bhe ham baavar soch asoch divas jaahee |",
+            "larivaar": "jaan​ajaan​bhe​ham​baavar​soch​asoch​divas​jaahee​|"
+          },
+          "devanagari": {
+            "text": "जानि अजान भए हम बावर सोच असोच दिवस जाही ॥",
+            "larivaar": "जानि​अजान​भए​हम​बावर​सोच​असोच​दिवस​जाही​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "jABhbsAdj",
+          "unicode": "ਜਅਭਹਬਸਅਦਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EW10",
+        "type": 4,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "ieMdRI sbl inbl ibbyk buiD prmwrQ prvys nhI ]2]",
+          "unicode": "ਇੰਦ੍ਰੀ ਸਬਲ ਨਿਬਲ ਬਿਬੇਕ ਬੁਧਿ ਪਰਮਾਰਥ ਪਰਵੇਸ ਨਹੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "ieMdRI​sbl​inbl​ibbyk​buiD​prmwrQ​prvys​nhI​]2]",
+          "unicode": "ਇੰਦ੍ਰੀ​ਸਬਲ​ਨਿਬਲ​ਬਿਬੇਕ​ਬੁਧਿ​ਪਰਮਾਰਥ​ਪਰਵੇਸ​ਨਹੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Our passions are strong, and our discriminating intellect is weak; we have no access to the supreme objective. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AswfI kwm-vwSnw vD rhI hY, ivcwr-SkqI Gt rhI hY, ies g`l dI Aswƒ kdy soc hI nhIN PurI ik AswfI sB qoN v`fI loV kIh hY ]2]",
+              "unicode": "ਅਸਾਡੀ ਕਾਮ-ਵਾਸ਼ਨਾ ਵਧ ਰਹੀ ਹੈ, ਵਿਚਾਰ-ਸ਼ਕਤੀ ਘਟ ਰਹੀ ਹੈ, ਇਸ ਗੱਲ ਦੀ ਅਸਾਨੂੰ ਕਦੇ ਸੋਚ ਹੀ ਨਹੀਂ ਫੁਰੀ ਕਿ ਅਸਾਡੀ ਸਭ ਤੋਂ ਵੱਡੀ ਲੋੜ ਕੀਹ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "Controlado por los deseos de los sentidos, encuentro débil mi poder de discriminar, y no puedo penetrar en Dios. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "eindree sabal nibal bibek budh paramaarath paraves nahee |2|",
+            "larivaar": "eindree​sabal​nibal​bibek​budh​paramaarath​paraves​nahee​|2|"
+          },
+          "devanagari": {
+            "text": "इंद्री सबल निबल बिबेक बुधि परमारथ परवेस नही ॥२॥",
+            "larivaar": "इंद्री​सबल​निबल​बिबेक​बुधि​परमारथ​परवेस​नही​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "esnbbppn",
+          "unicode": "ੲਸਨਬਬਪਪਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JE0T",
+        "type": 4,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "khIAq Awn AcrIAq An kCu smJ n prY Apr mwieAw ]",
+          "unicode": "ਕਹੀਅਤ ਆਨ ਅਚਰੀਅਤ ਅਨ ਕਛੁ ਸਮਝ ਨ ਪਰੈ ਅਪਰ ਮਾਇਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "khIAq​Awn​AcrIAq​An​kCu​smJ​n​prY​Apr​mwieAw​]",
+          "unicode": "ਕਹੀਅਤ​ਆਨ​ਅਚਰੀਅਤ​ਅਨ​ਕਛੁ​ਸਮਝ​ਨ​ਪਰੈ​ਅਪਰ​ਮਾਇਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "We say one thing, and do something else; entangled in endless Maya, we do not understand anything."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AsIN AwKdy hor hW qy krdy kuJ hor hW, mwieAw ieqnI blvwn ho rhI hY ik Aswƒ (AwpxI mUrKqw dI) smJ hI nhIN pYNdI[",
+              "unicode": "ਅਸੀਂ ਆਖਦੇ ਹੋਰ ਹਾਂ ਤੇ ਕਰਦੇ ਕੁਝ ਹੋਰ ਹਾਂ, ਮਾਇਆ ਇਤਨੀ ਬਲਵਾਨ ਹੋ ਰਹੀ ਹੈ ਕਿ ਅਸਾਨੂੰ (ਆਪਣੀ ਮੂਰਖਤਾ ਦੀ) ਸਮਝ ਹੀ ਨਹੀਂ ਪੈਂਦੀ।"
+            }
+          },
+          "spanish": "Digo una cosa y hago otra; sin saber nada, estoy siendo engañado por la infinita Maya."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kaheeat aan achareeat an kachh samajh na parai apar maaeaa |",
+            "larivaar": "kaheeat​aan​achareeat​an​kachh​samajh​na​parai​apar​maaeaa​|"
+          },
+          "devanagari": {
+            "text": "कहीअत आन अचरीअत अन कछु समझ न परै अपर माइआ ॥",
+            "larivaar": "कहीअत​आन​अचरीअत​अन​कछु​समझ​न​परै​अपर​माइआ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kAAAksnpAm",
+          "unicode": "ਕਅਅਅਕਸਨਪਅਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "T78B",
+        "type": 4,
+        "shabadid": "E8U",
+        "gurmukhi": {
+          "akhar": "kih rivdws audws dws miq prhir kopu krhu jIA dieAw ]3]3]",
+          "unicode": "ਕਹਿ ਰਵਿਦਾਸ ਉਦਾਸ ਦਾਸ ਮਤਿ ਪਰਹਰਿ ਕੋਪੁ ਕਰਹੁ ਜੀਅ ਦਇਆ ॥੩॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "kih​rivdws​audws​dws​miq​prhir​kopu​krhu​jIA​dieAw​]3]3]",
+          "unicode": "ਕਹਿ​ਰਵਿਦਾਸ​ਉਦਾਸ​ਦਾਸ​ਮਤਿ​ਪਰਹਰਿ​ਕੋਪੁ​ਕਰਹੁ​ਜੀਅ​ਦਇਆ​॥੩॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Ravi Daas, Your slave, O Lord, I am disillusioned and detached; please, spare me Your anger, and have mercy on my soul. ||3||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qyrw dws rivdws AwKdw hY-mYN hux ies (mUrK-puxy) qoN auprwm ho igAw hW, (myry AM\\wxpuxy qy) gu`sw nwh krnw qy myrI Awqmw auqy imhr krnI ]3]3]",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਦਾਸ ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-ਮੈਂ ਹੁਣ ਇਸ (ਮੂਰਖ-ਪੁਣੇ) ਤੋਂ ਉਪਰਾਮ ਹੋ ਗਿਆ ਹਾਂ, (ਮੇਰੇ ਅੰਞਾਣਪੁਣੇ ਤੇ) ਗੁੱਸਾ ਨਾਹ ਕਰਨਾ ਤੇ ਮੇਰੀ ਆਤਮਾ ਉਤੇ ਮਿਹਰ ਕਰਨੀ ॥੩॥੩॥"
+            }
+          },
+          "spanish": "Dice Ravi Das, esto mantiene mi corazón triste, oh Dios, pero no Te enojes conmigo, ten Compasión de mí. (3‑3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "keh ravidaas udaas daas mat parahar kop karahu jeea deaa |3|3|",
+            "larivaar": "keh​ravidaas​udaas​daas​mat​parahar​kop​karahu​jeea​deaa​|3|3|"
+          },
+          "devanagari": {
+            "text": "कहि रविदास उदास दास मति परहरि कोपु करहु जीअ दइआ ॥३॥३॥",
+            "larivaar": "कहि​रविदास​उदास​दास​मति​परहरि​कोपु​करहु​जीअ​दइआ​॥३॥३॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kradmpkkjd",
+          "unicode": "ਕਰੳਦਮਪਕਕਜਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8D4E",
+        "type": 4,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "suK swgru surqr icMqwmin kwmDynu bis jw ky ]",
+          "unicode": "ਸੁਖ ਸਾਗਰੁ ਸੁਰਤਰ ਚਿੰਤਾਮਨਿ ਕਾਮਧੇਨੁ ਬਸਿ ਜਾ ਕੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "suK​swgru​surqr​icMqwmin​kwmDynu​bis​jw​ky​]",
+          "unicode": "ਸੁਖ​ਸਾਗਰੁ​ਸੁਰਤਰ​ਚਿੰਤਾਮਨਿ​ਕਾਮਧੇਨੁ​ਬਸਿ​ਜਾ​ਕੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He is the ocean of peace; the miraculous tree of life, the wish-fulfilling jewel, and the Kaamadhayna, the cow which fulfills all desires, all are in His power."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pMifq!) jo pRBU suKW dw smuMdr hY, ijs pRBU dy v`s ivc surg dy pMjy ru`K, icMqwmix qy kwmDyn hn,",
+              "unicode": "(ਹੇ ਪੰਡਿਤ!) ਜੋ ਪ੍ਰਭੂ ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ ਹੈ, ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਵੱਸ ਵਿਚ ਸੁਰਗ ਦੇ ਪੰਜੇ ਰੁੱਖ, ਚਿੰਤਾਮਣਿ ਤੇ ਕਾਮਧੇਨ ਹਨ,"
+            }
+          },
+          "spanish": "Quien es el Océano de Paz, el Árbol que da todas las frutas, la Joya que confiere todos los deseos,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sukh saagar suratar chintaaman kaamadhen bas jaa ke |",
+            "larivaar": "sukh​saagar​suratar​chintaaman​kaamadhen​bas​jaa​ke​|"
+          },
+          "devanagari": {
+            "text": "सुख सागरु सुरतर चिंतामनि कामधेनु बसि जा के ॥",
+            "larivaar": "सुख​सागरु​सुरतर​चिंतामनि​कामधेनु​बसि​जा​के​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "sssckbjk",
+          "unicode": "ਸਸਸਚਕਬਜਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TUYU",
+        "type": 4,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "cwir pdwrQ Ast dsw isiD nv iniD kr ql qw ky ]1]",
+          "unicode": "ਚਾਰਿ ਪਦਾਰਥ ਅਸਟ ਦਸਾ ਸਿਧਿ ਨਵ ਨਿਧਿ ਕਰ ਤਲ ਤਾ ਕੇ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "cwir​pdwrQ​Ast​dsw​isiD​nv​iniD​kr​ql​qw​ky​]1]",
+          "unicode": "ਚਾਰਿ​ਪਦਾਰਥ​ਅਸਟ​ਦਸਾ​ਸਿਧਿ​ਨਵ​ਨਿਧਿ​ਕਰ​ਤਲ​ਤਾ​ਕੇ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The four great blessings, the eighteen supernatural spiritual powers of the Siddhas, and the nine treasures, are all in the palm of His hand. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Drm ArQ kwm moK cwry pdwrQ, ATwrW is`DIAW qy nO inDIAW ieh sB ausy dy h`QW dIAW qlIAW au`qy hn ]1]",
+              "unicode": "ਧਰਮ ਅਰਥ ਕਾਮ ਮੋਖ ਚਾਰੇ ਪਦਾਰਥ, ਅਠਾਰਾਂ ਸਿੱਧੀਆਂ ਤੇ ਨੌ ਨਿਧੀਆਂ ਇਹ ਸਭ ਉਸੇ ਦੇ ਹੱਥਾਂ ਦੀਆਂ ਤਲੀਆਂ ਉੱਤੇ ਹਨ ॥੧॥"
+            }
+          },
+          "spanish": "el Maestro del Kamadhenu, en las Manos de Quien están los Cuatro Objetos de la Vida, los Dieciocho Poderes Psíquicos y los Nueve Tesoros, (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "chaar padaarath asatt dasaa sidh nav nidh kar tal taa ke |1|",
+            "larivaar": "chaar​padaarath​asatt​dasaa​sidh​nav​nidh​kar​tal​taa​ke​|1|"
+          },
+          "devanagari": {
+            "text": "चारि पदारथ असट दसा सिधि नव निधि कर तल ता के ॥१॥",
+            "larivaar": "चारि​पदारथ​असट​दसा​सिधि​नव​निधि​कर​तल​ता​के​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "cpAdsnnkqqk",
+          "unicode": "ਚਪਅਦਸਨਨਕਤਤਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6WW6",
+        "type": 3,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "hir hir hir n jpih rsnw ]",
+          "unicode": "ਹਰਿ ਹਰਿ ਹਰਿ ਨ ਜਪਹਿ ਰਸਨਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​hir​hir​n​jpih​rsnw​]",
+          "unicode": "ਹਰਿ​ਹਰਿ​ਹਰਿ​ਨ​ਜਪਹਿ​ਰਸਨਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You do not chant with your tongue the Name of the Lord, Har, Har, Har."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pMifq!) qUM iek prmwqmw dw nwm ismrdw nhIN[",
+              "unicode": "(ਹੇ ਪੰਡਿਤ!) ਤੂੰ ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਨਹੀਂ।"
+            }
+          },
+          "spanish": "De ese Señor no cantas el Nombre con tu lengua,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har har har na japeh rasanaa |",
+            "larivaar": "har​har​har​na​japeh​rasanaa​|"
+          },
+          "devanagari": {
+            "text": "हरि हरि हरि न जपहि रसना ॥",
+            "larivaar": "हरि​हरि​हरि​न​जपहि​रसना​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "hhhnjr",
+          "unicode": "ਹਹਹਨਜਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Z0DQ",
+        "type": 3,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "Avr sB iqAwig bcn rcnw ]1] rhwau ]",
+          "unicode": "ਅਵਰ ਸਭ ਤਿਆਗਿ ਬਚਨ ਰਚਨਾ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "Avr​sB​iqAwig​bcn​rcnw​]1]​rhwau​]",
+          "unicode": "ਅਵਰ​ਸਭ​ਤਿਆਗਿ​ਬਚਨ​ਰਚਨਾ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Abandon your involvement in all other words. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qUM hor swrIAW PokIAW g`lW C`f dyh ]1] rhwau ]",
+              "unicode": "ਤੂੰ ਹੋਰ ਸਾਰੀਆਂ ਫੋਕੀਆਂ ਗੱਲਾਂ ਛੱਡ ਦੇਹ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "y abandonándolo, tus palabras se tornan huecas. (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "avar sabh tiaag bachan rachanaa |1| rahaau |",
+            "larivaar": "avar​sabh​tiaag​bachan​rachanaa​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "अवर सभ तिआगि बचन रचना ॥१॥ रहाउ ॥",
+            "larivaar": "अवर​सभ​तिआगि​बचन​रचना​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "Asqbr",
+          "unicode": "ਅਸਤਬਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2X4S",
+        "type": 4,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "nwnw iKAwn purwn byd ibiD cauqIs AKr mWhI ]",
+          "unicode": "ਨਾਨਾ ਖਿਆਨ ਪੁਰਾਨ ਬੇਦ ਬਿਧਿ ਚਉਤੀਸ ਅਖਰ ਮਾਂਹੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwnw​iKAwn​purwn​byd​ibiD​cauqIs​AKr​mWhI​]",
+          "unicode": "ਨਾਨਾ​ਖਿਆਨ​ਪੁਰਾਨ​ਬੇਦ​ਬਿਧਿ​ਚਉਤੀਸ​ਅਖਰ​ਮਾਂਹੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The various Shaastras, Puranaas, and the Vedas of Brahma, are made up of thirty-four letters."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pMifq!) purwxW dy Anyk iksmW dy pRsMg, vydW dIAW d`sIAW hoeIAW ivDIAW, ieh sB vwk-rcnw hI hn (AnuBvI igAwn nhIN jo pRBU dy crnW ivc juiVAW ihrdy ivc pYdw huMdw hY)[",
+              "unicode": "(ਹੇ ਪੰਡਿਤ!) ਪੁਰਾਣਾਂ ਦੇ ਅਨੇਕ ਕਿਸਮਾਂ ਦੇ ਪ੍ਰਸੰਗ, ਵੇਦਾਂ ਦੀਆਂ ਦੱਸੀਆਂ ਹੋਈਆਂ ਵਿਧੀਆਂ, ਇਹ ਸਭ ਵਾਕ-ਰਚਨਾ ਹੀ ਹਨ (ਅਨੁਭਵੀ ਗਿਆਨ ਨਹੀਂ ਜੋ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆਂ ਹਿਰਦੇ ਵਿਚ ਪੈਦਾ ਹੁੰਦਾ ਹੈ)।"
+            }
+          },
+          "spanish": "Los libros épicos, los Puranas y los Shastras son puras palabras."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanaa khiaan puraan bed bidh chautees akhar maanhee |",
+            "larivaar": "naanaa​khiaan​puraan​bed​bidh​chautees​akhar​maanhee​|"
+          },
+          "devanagari": {
+            "text": "नाना खिआन पुरान बेद बिधि चउतीस अखर मांही ॥",
+            "larivaar": "नाना​खिआन​पुरान​बेद​बिधि​चउतीस​अखर​मांही​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "nKpbbcAm",
+          "unicode": "ਨਖਪਬਬਚਅਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KDEM",
+        "type": 4,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "ibAws ibcwir kihE prmwrQu rwm nwm sir nwhI ]2]",
+          "unicode": "ਬਿਆਸ ਬਿਚਾਰਿ ਕਹਿਓ ਪਰਮਾਰਥੁ ਰਾਮ ਨਾਮ ਸਰਿ ਨਾਹੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "ibAws​ibcwir​kihE​prmwrQu​rwm​nwm​sir​nwhI​]2]",
+          "unicode": "ਬਿਆਸ​ਬਿਚਾਰਿ​ਕਹਿਓ​ਪਰਮਾਰਥੁ​ਰਾਮ​ਨਾਮ​ਸਰਿ​ਨਾਹੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "After deep contemplation, Vyaas spoke of the supreme objective; there is nothing equal to the Lord's Name. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pMifq! vydW dy KojI) ivAws (irSI) ny soc ivcwr ky iehI Drm-q`q d`isAw hY ik (iehnW pusqkW dy pwT Awidk) prmwqmw dy nwm dw ismrn krn dI brwbrI nhIN kr skdy[ (iPr, qUM ikauN nwm nhIN ismrdw?) ]2]",
+              "unicode": "(ਹੇ ਪੰਡਿਤ! ਵੇਦਾਂ ਦੇ ਖੋਜੀ) ਵਿਆਸ (ਰਿਸ਼ੀ) ਨੇ ਸੋਚ ਵਿਚਾਰ ਕੇ ਇਹੀ ਧਰਮ-ਤੱਤ ਦੱਸਿਆ ਹੈ ਕਿ (ਇਹਨਾਂ ਪੁਸਤਕਾਂ ਦੇ ਪਾਠ ਆਦਿਕ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸਿਮਰਨ ਕਰਨ ਦੀ ਬਰਾਬਰੀ ਨਹੀਂ ਕਰ ਸਕਦੇ। (ਫਿਰ, ਤੂੰ ਕਿਉਂ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦਾ?) ॥੨॥"
+            }
+          },
+          "spanish": "Vias, el vidente, después de su meditación profunda concluyó: nada iguala al Nombre de Dios. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "biaas bichaar kahio paramaarath raam naam sar naahee |2|",
+            "larivaar": "biaas​bichaar​kahio​paramaarath​raam​naam​sar​naahee​|2|"
+          },
+          "devanagari": {
+            "text": "बिआस बिचारि कहिओ परमारथु राम नाम सरि नाही ॥२॥",
+            "larivaar": "बिआस​बिचारि​कहिओ​परमारथु​राम​नाम​सरि​नाही​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "bbkprnsn",
+          "unicode": "ਬਬਕਪਰਨਸਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PVMW",
+        "type": 4,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "shj smwiD aupwiD rhq Puin bfY Bwig ilv lwgI ]",
+          "unicode": "ਸਹਜ ਸਮਾਧਿ ਉਪਾਧਿ ਰਹਤ ਫੁਨਿ ਬਡੈ ਭਾਗਿ ਲਿਵ ਲਾਗੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "shj​smwiD​aupwiD​rhq​Puin​bfY​Bwig​ilv​lwgI​]",
+          "unicode": "ਸਹਜ​ਸਮਾਧਿ​ਉਪਾਧਿ​ਰਹਤ​ਫੁਨਿ​ਬਡੈ​ਭਾਗਿ​ਲਿਵ​ਲਾਗੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Very fortunate are those who are absorbed in celestial bliss, and released from their entanglements; they are lovingly attached to the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "v`fI iksmq nwl ijs mnu`K dI suriq pRBU-crnW ivc juVdI hY aus dw mn Awqmk Afolqw ivc itikAw rihMdw hY[",
+              "unicode": "ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਜਿਸ ਮਨੁੱਖ ਦੀ ਸੁਰਤਿ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜਦੀ ਹੈ ਉਸ ਦਾ ਮਨ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Aquéllos que por buena fortuna están entonados en el Nombre del Señor"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sehaj samaadh upaadh rehat fun baddai bhaag liv laagee |",
+            "larivaar": "sehaj​samaadh​upaadh​rehat​fun​baddai​bhaag​liv​laagee​|"
+          },
+          "devanagari": {
+            "text": "सहज समाधि उपाधि रहत फुनि बडै भागि लिव लागी ॥",
+            "larivaar": "सहज​समाधि​उपाधि​रहत​फुनि​बडै​भागि​लिव​लागी​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "ssarPbBll",
+          "unicode": "ਸਸੳਰਫਬਭਲਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UDLA",
+        "type": 4,
+        "shabadid": "DNE",
+        "gurmukhi": {
+          "akhar": "kih rivdws pRgwsu irdY Dir jnm mrn BY BwgI ]3]4]",
+          "unicode": "ਕਹਿ ਰਵਿਦਾਸ ਪ੍ਰਗਾਸੁ ਰਿਦੈ ਧਰਿ ਜਨਮ ਮਰਨ ਭੈ ਭਾਗੀ ॥੩॥੪॥"
+        },
+        "larivaar": {
+          "akhar": "kih​rivdws​pRgwsu​irdY​Dir​jnm​mrn​BY​BwgI​]3]4]",
+          "unicode": "ਕਹਿ​ਰਵਿਦਾਸ​ਪ੍ਰਗਾਸੁ​ਰਿਦੈ​ਧਰਿ​ਜਨਮ​ਮਰਨ​ਭੈ​ਭਾਗੀ​॥੩॥੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Ravi Daas, enshrine the Lord's Light within your heart, and your fear of birth and death shall run away from you. ||3||4||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rivdws AwKdw hY-koeI ivkwr aus ivc nhIN au`Tdw, auh mnu`K Awpxy ihrdy ivc cwnx pRwpq krdw hY, qy, jnm mrn (Bwv, swrI aumr) dy aus dy fr nws ho jWdy hn ]3]4]",
+              "unicode": "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-ਕੋਈ ਵਿਕਾਰ ਉਸ ਵਿਚ ਨਹੀਂ ਉੱਠਦਾ, ਉਹ ਮਨੁੱਖ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਚਾਨਣ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ, ਤੇ, ਜਨਮ ਮਰਨ (ਭਾਵ, ਸਾਰੀ ਉਮਰ) ਦੇ ਉਸ ਦੇ ਡਰ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ ॥੩॥੪॥"
+            }
+          },
+          "spanish": "y sumergidos en el Trance de Paz, están iluminados en su interior, el miedo de nacer y morir desaparece para siempre. (3‑4)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "keh ravidaas pragaas ridai dhar janam maran bhai bhaagee |3|4|",
+            "larivaar": "keh​ravidaas​pragaas​ridai​dhar​janam​maran​bhai​bhaagee​|3|4|"
+          },
+          "devanagari": {
+            "text": "कहि रविदास प्रगासु रिदै धरि जनम मरन भै भागी ॥३॥४॥",
+            "larivaar": "कहि​रविदास​प्रगासु​रिदै​धरि​जनम​मरन​भै​भागी​॥३॥४॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "krprDjmBB",
+          "unicode": "ਕਰਪਰਧਜਮਭਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "S0S6",
+        "type": 4,
+        "shabadid": "KHN",
+        "gurmukhi": {
+          "akhar": "jau qum igirvr qau hm morw ]",
+          "unicode": "ਜਉ ਤੁਮ ਗਿਰਿਵਰ ਤਉ ਹਮ ਮੋਰਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "jau​qum​igirvr​qau​hm​morw​]",
+          "unicode": "ਜਉ​ਤੁਮ​ਗਿਰਿਵਰ​ਤਉ​ਹਮ​ਮੋਰਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If You are the mountain, Lord, then I am the peacock."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry mwDo! jy qUM sohxw ijhw phwV bxyN, qW mYN (qyrw) mor bxWgw (qYƒ vyK vyK ky pYlW pwvWgw)[",
+              "unicode": "ਹੇ ਮੇਰੇ ਮਾਧੋ! ਜੇ ਤੂੰ ਸੋਹਣਾ ਜਿਹਾ ਪਹਾੜ ਬਣੇਂ, ਤਾਂ ਮੈਂ (ਤੇਰਾ) ਮੋਰ ਬਣਾਂਗਾ (ਤੈਨੂੰ ਵੇਖ ਵੇਖ ਕੇ ਪੈਲਾਂ ਪਾਵਾਂਗਾ)।"
+            }
+          },
+          "spanish": "Oh Dios, si Tú eres la montaña, yo soy tu pavo real;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jau tum girivar tau ham moraa |",
+            "larivaar": "jau​tum​girivar​tau​ham​moraa​|"
+          },
+          "devanagari": {
+            "text": "जउ तुम गिरिवर तउ हम मोरा ॥",
+            "larivaar": "जउ​तुम​गिरिवर​तउ​हम​मोरा​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "jqgqhm",
+          "unicode": "ਜਤਗਤਹਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XCA2",
+        "type": 4,
+        "shabadid": "KHN",
+        "gurmukhi": {
+          "akhar": "jau qum cMd qau hm Bey hY ckorw ]1]",
+          "unicode": "ਜਉ ਤੁਮ ਚੰਦ ਤਉ ਹਮ ਭਏ ਹੈ ਚਕੋਰਾ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "jau​qum​cMd​qau​hm​Bey​hY​ckorw​]1]",
+          "unicode": "ਜਉ​ਤੁਮ​ਚੰਦ​ਤਉ​ਹਮ​ਭਏ​ਹੈ​ਚਕੋਰਾ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If You are the moon, then I am the partridge in love with it. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy qUM cMd bxyN qW mYN qyrI ckor bxWgw (qy qYƒ vyK ky ^uS ho ho ky bolWgI) ]1]",
+              "unicode": "ਜੇ ਤੂੰ ਚੰਦ ਬਣੇਂ ਤਾਂ ਮੈਂ ਤੇਰੀ ਚਕੋਰ ਬਣਾਂਗਾ (ਤੇ ਤੈਨੂੰ ਵੇਖ ਕੇ ਖ਼ੁਸ਼ ਹੋ ਹੋ ਕੇ ਬੋਲਾਂਗੀ) ॥੧॥"
+            }
+          },
+          "spanish": "si eres la luna, yo soy Tu Chakori devoto. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jau tum chand tau ham bhe hai chakoraa |1|",
+            "larivaar": "jau​tum​chand​tau​ham​bhe​hai​chakoraa​|1|"
+          },
+          "devanagari": {
+            "text": "जउ तुम चंद तउ हम भए है चकोरा ॥१॥",
+            "larivaar": "जउ​तुम​चंद​तउ​हम​भए​है​चकोरा​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "jqcqhBhc",
+          "unicode": "ਜਤਚਤਹਭਹਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VCBG",
+        "type": 3,
+        "shabadid": "KHN",
+        "gurmukhi": {
+          "akhar": "mwDvy qum n qorhu qau hm nhI qorih ]",
+          "unicode": "ਮਾਧਵੇ ਤੁਮ ਨ ਤੋਰਹੁ ਤਉ ਹਮ ਨਹੀ ਤੋਰਹਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwDvy​qum​n​qorhu​qau​hm​nhI​qorih​]",
+          "unicode": "ਮਾਧਵੇ​ਤੁਮ​ਨ​ਤੋਰਹੁ​ਤਉ​ਹਮ​ਨਹੀ​ਤੋਰਹਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Lord, if You will not break with me, then I will not break with You."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy mwDo! jy qUM (myry nwloN) ipAwr nwh qoVyN, qW mYN BI nhIN qoVWgw;",
+              "unicode": "ਹੇ ਮਾਧੋ! ਜੇ ਤੂੰ (ਮੇਰੇ ਨਾਲੋਂ) ਪਿਆਰ ਨਾਹ ਤੋੜੇਂ, ਤਾਂ ਮੈਂ ਭੀ ਨਹੀਂ ਤੋੜਾਂਗਾ;"
+            }
+          },
+          "spanish": "Oh Dios, si no me abandonas, yo tampoco a Ti,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "maadhave tum na torahu tau ham nahee toreh |",
+            "larivaar": "maadhave​tum​na​torahu​tau​ham​nahee​toreh​|"
+          },
+          "devanagari": {
+            "text": "माधवे तुम न तोरहु तउ हम नही तोरहि ॥",
+            "larivaar": "माधवे​तुम​न​तोरहु​तउ​हम​नही​तोरहि​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "mqnqqhnq",
+          "unicode": "ਮਤਨਤਤਹਨਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B1UM",
+        "type": 3,
+        "shabadid": "KHN",
+        "gurmukhi": {
+          "akhar": "qum isau qoir kvn isau jorih ]1] rhwau ]",
+          "unicode": "ਤੁਮ ਸਿਉ ਤੋਰਿ ਕਵਨ ਸਿਉ ਜੋਰਹਿ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "qum​isau​qoir​kvn​isau​jorih​]1]​rhwau​]",
+          "unicode": "ਤੁਮ​ਸਿਉ​ਤੋਰਿ​ਕਵਨ​ਸਿਉ​ਜੋਰਹਿ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "For, if I were to break with You, with whom would I then join? ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ikauNik qyry nwloN qoV ky mYN hor iks nwl joV skdw hW? (hor koeI, hy mwDo! qyry vrgw hY hI nhIN) ]1] rhwau ]",
+              "unicode": "ਕਿਉਂਕਿ ਤੇਰੇ ਨਾਲੋਂ ਤੋੜ ਕੇ ਮੈਂ ਹੋਰ ਕਿਸ ਨਾਲ ਜੋੜ ਸਕਦਾ ਹਾਂ? (ਹੋਰ ਕੋਈ, ਹੇ ਮਾਧੋ! ਤੇਰੇ ਵਰਗਾ ਹੈ ਹੀ ਨਹੀਂ) ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "pues si rompo Contigo, ¿con quién me voy a unir? (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "tum siau tor kavan siau joreh |1| rahaau |",
+            "larivaar": "tum​siau​tor​kavan​siau​joreh​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "तुम सिउ तोरि कवन सिउ जोरहि ॥१॥ रहाउ ॥",
+            "larivaar": "तुम​सिउ​तोरि​कवन​सिउ​जोरहि​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "qsqksj",
+          "unicode": "ਤਸਤਕਸਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RQU8",
+        "type": 4,
+        "shabadid": "KHN",
+        "gurmukhi": {
+          "akhar": "jau qum dIvrw qau hm bwqI ]",
+          "unicode": "ਜਉ ਤੁਮ ਦੀਵਰਾ ਤਉ ਹਮ ਬਾਤੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "jau​qum​dIvrw​qau​hm​bwqI​]",
+          "unicode": "ਜਉ​ਤੁਮ​ਦੀਵਰਾ​ਤਉ​ਹਮ​ਬਾਤੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If You are the lamp, then I am the wick."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy mwDo! jy qUM sohxw dIvw bxyN, mYN (qyrI) v`tI bx jwvW[",
+              "unicode": "ਹੇ ਮਾਧੋ! ਜੇ ਤੂੰ ਸੋਹਣਾ ਦੀਵਾ ਬਣੇਂ, ਮੈਂ (ਤੇਰੀ) ਵੱਟੀ ਬਣ ਜਾਵਾਂ।"
+            }
+          },
+          "spanish": "Si Eres la Lámpara, yo soy Tu mecha;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jau tum deevaraa tau ham baatee |",
+            "larivaar": "jau​tum​deevaraa​tau​ham​baatee​|"
+          },
+          "devanagari": {
+            "text": "जउ तुम दीवरा तउ हम बाती ॥",
+            "larivaar": "जउ​तुम​दीवरा​तउ​हम​बाती​॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "jqdqhb",
+          "unicode": "ਜਤਦਤਹਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "N341",
+        "type": 4,
+        "shabadid": "KHN",
+        "gurmukhi": {
+          "akhar": "jau qum qIrQ qau hm jwqI ]2]",
+          "unicode": "ਜਉ ਤੁਮ ਤੀਰਥ ਤਉ ਹਮ ਜਾਤੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "jau​qum​qIrQ​qau​hm​jwqI​]2]",
+          "unicode": "ਜਉ​ਤੁਮ​ਤੀਰਥ​ਤਉ​ਹਮ​ਜਾਤੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If You are the sacred place of pilgrimage, then I am the pilgrim. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy qUM qIrQ bx jweyN qW mYN (qyrw dIdwr krn leI) jwqR¨ bx jwvWgw ]2]",
+              "unicode": "ਜੇ ਤੂੰ ਤੀਰਥ ਬਣ ਜਾਏਂ ਤਾਂ ਮੈਂ (ਤੇਰਾ ਦੀਦਾਰ ਕਰਨ ਲਈ) ਜਾਤ੍ਰੂ ਬਣ ਜਾਵਾਂਗਾ ॥੨॥"
+            }
+          },
+          "spanish": "si eres el Lugar Sagrado de Peregrinaje, entonces yo soy Tu peregrino. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jau tum teerath tau ham jaatee |2|",
+            "larivaar": "jau​tum​teerath​tau​ham​jaatee​|2|"
+          },
+          "devanagari": {
+            "text": "जउ तुम तीरथ तउ हम जाती ॥२॥",
+            "larivaar": "जउ​तुम​तीरथ​तउ​हम​जाती​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 18,
+          "akhar": "Bgq rivdws jI",
+          "unicode": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+          "english": "Bhagat Ravidas Ji"
+        },
+        "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+        },
+        "pageno": 658,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "jqqqhj",
+          "unicode": "ਜਤਤਤਹਜ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

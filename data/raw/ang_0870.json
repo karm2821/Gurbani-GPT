@@ -1,0 +1,2745 @@
+{
+  "pageno": 870,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 47,
+  "page": [
+    {
+      "line": {
+        "id": "MRU2",
+        "type": 2,
+        "shabadid": "FF5",
+        "gurmukhi": {
+          "akhar": "rwgu goNf bwxI Bgqw kI ] kbIr jI Gru 1 ]",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ ਬਾਣੀ ਭਗਤਾ ਕੀ ॥ ਕਬੀਰ ਜੀ ਘਰੁ ੧ ॥"
+        },
+        "larivaar": {
+          "akhar": "rwgu​goNf​bwxI​Bgqw​kI​]​kbIr​jI​Gru​1​]",
+          "unicode": "ਰਾਗੁ​ਗੋਂਡ​ਬਾਣੀ​ਭਗਤਾ​ਕੀ​॥​ਕਬੀਰ​ਜੀ​ਘਰੁ​੧​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Raag Gond, The Word Of The Devotees. Kabeer Jee, First House:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rwg goNf iv`c BgqW dI bwxI[(rwg goNf) Gr 1 iv`c Bgq kbIr jI dI bwxI[",
+              "unicode": "ਰਾਗ ਗੋਂਡ ਵਿੱਚ ਭਗਤਾਂ ਦੀ ਬਾਣੀ।(ਰਾਗ ਗੋਂਡ) ਘਰ ੧ ਵਿੱਚ ਭਗਤ ਕਬੀਰ ਜੀ ਦੀ ਬਾਣੀ।"
+            }
+          },
+          "spanish": "Rag Gond, palabras de los Bjaktas, Kabir yi."
+        },
+        "transliteration": {
+          "english": {
+            "text": "raag gondd baanee bhagataa kee | kabeer jee ghar 1 |",
+            "larivaar": "raag​gondd​baanee​bhagataa​kee​|​kabeer​jee​ghar​1​|"
+          },
+          "devanagari": {
+            "text": "रागु गोंड बाणी भगता की ॥ कबीर जी घरु १ ॥",
+            "larivaar": "रागु​गोंड​बाणी​भगता​की​॥​कबीर​जी​घरु​१​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "rgbBk]kjG1]",
+          "unicode": "ਰਗਬਭਕ॥ਕਜਘ੧॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KY1C",
+        "type": 1,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "<> siqgur pRswid ]",
+          "unicode": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "<>​siqgur​pRswid​]",
+          "unicode": "ੴ​ਸਤਿਗੁਰ​ਪ੍ਰਸਾਦਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One Universal Creator God. By The Grace Of The True Guru:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK ie`k hY Aqy siqgurU dI ikrpw nwl imldw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ik oankaar satigur prasaad |",
+            "larivaar": "ik​oankaar​satigur​prasaad​|"
+          },
+          "devanagari": {
+            "text": "ੴ सतिगुर प्रसादि ॥",
+            "larivaar": "ੴ​सतिगुर​प्रसादि​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "<>sp",
+          "unicode": "ੴਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "F5ZP",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "sMqu imlY ikCu sunIAY khIAY ]",
+          "unicode": "ਸੰਤੁ ਮਿਲੈ ਕਿਛੁ ਸੁਨੀਐ ਕਹੀਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "sMqu​imlY​ikCu​sunIAY​khIAY​]",
+          "unicode": "ਸੰਤੁ​ਮਿਲੈ​ਕਿਛੁ​ਸੁਨੀਐ​ਕਹੀਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "When you meet a Saint, talk to him and listen."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy koeI Blw mnu`K iml pey qW (aus dI is`iKAw) suxnI cwhIdI hY, qy (jIvn dy rwh dIAW guMJlW) pu`CxIAW cwhIdIAW hn[",
+              "unicode": "ਜੇ ਕੋਈ ਭਲਾ ਮਨੁੱਖ ਮਿਲ ਪਏ ਤਾਂ (ਉਸ ਦੀ ਸਿੱਖਿਆ) ਸੁਣਨੀ ਚਾਹੀਦੀ ਹੈ, ਤੇ (ਜੀਵਨ ਦੇ ਰਾਹ ਦੀਆਂ ਗੁੰਝਲਾਂ) ਪੁੱਛਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।"
+            }
+          },
+          "spanish": "Al encontrar a un Santo, platica con él y escucha,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sant milai kichh suneeai kaheeai |",
+            "larivaar": "sant​milai​kichh​suneeai​kaheeai​|"
+          },
+          "devanagari": {
+            "text": "संतु मिलै किछु सुनीऐ कहीऐ ॥",
+            "larivaar": "संतु​मिलै​किछु​सुनीऐ​कहीऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "smksk",
+          "unicode": "ਸਮਕਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "G4F4",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "imlY AsMqu msit kir rhIAY ]1]",
+          "unicode": "ਮਿਲੈ ਅਸੰਤੁ ਮਸਟਿ ਕਰਿ ਰਹੀਐ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "imlY​AsMqu​msit​kir​rhIAY​]1]",
+          "unicode": "ਮਿਲੈ​ਅਸੰਤੁ​ਮਸਟਿ​ਕਰਿ​ਰਹੀਐ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Meeting with an unsaintly person, just remain silent. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr jy koeI BYVw bMdw iml pey, qW au`Qy cu`p rihxw hI TIk hY ]1]",
+              "unicode": "ਪਰ ਜੇ ਕੋਈ ਭੈੜਾ ਬੰਦਾ ਮਿਲ ਪਏ, ਤਾਂ ਉੱਥੇ ਚੁੱਪ ਰਹਿਣਾ ਹੀ ਠੀਕ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "pero cuando encuentres una mente malvada, consérvate en silencio. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "milai asant masatt kar raheeai |1|",
+            "larivaar": "milai​asant​masatt​kar​raheeai​|1|"
+          },
+          "devanagari": {
+            "text": "मिलै असंतु मसटि करि रहीऐ ॥१॥",
+            "larivaar": "मिलै​असंतु​मसटि​करि​रहीऐ​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "mAmkr",
+          "unicode": "ਮਅਮਕਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VZUY",
+        "type": 3,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "bwbw bolnw ikAw khIAY ]",
+          "unicode": "ਬਾਬਾ ਬੋਲਨਾ ਕਿਆ ਕਹੀਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "bwbw​bolnw​ikAw​khIAY​]",
+          "unicode": "ਬਾਬਾ​ਬੋਲਨਾ​ਕਿਆ​ਕਹੀਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O father, if I speak, what words should I utter?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! (jgq ivc rihMidAW) ikho ijhy bol bolIey,",
+              "unicode": "ਹੇ ਭਾਈ! (ਜਗਤ ਵਿਚ ਰਹਿੰਦਿਆਂ) ਕਿਹੋ ਜਿਹੇ ਬੋਲ ਬੋਲੀਏ,"
+            }
+          },
+          "spanish": "Oh padre, ¿qué podría uno platicarle al Santo?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "baabaa bolanaa kiaa kaheeai |",
+            "larivaar": "baabaa​bolanaa​kiaa​kaheeai​|"
+          },
+          "devanagari": {
+            "text": "बाबा बोलना किआ कहीऐ ॥",
+            "larivaar": "बाबा​बोलना​किआ​कहीऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "bbkk",
+          "unicode": "ਬਬਕਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "N982",
+        "type": 3,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "jYsy rwm nwm riv rhIAY ]1] rhwau ]",
+          "unicode": "ਜੈਸੇ ਰਾਮ ਨਾਮ ਰਵਿ ਰਹੀਐ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "jYsy​rwm​nwm​riv​rhIAY​]1]​rhwau​]",
+          "unicode": "ਜੈਸੇ​ਰਾਮ​ਨਾਮ​ਰਵਿ​ਰਹੀਐ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Speak such words, by which you may remain absorbed in the Name of the Lord. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijnHW dI brkiq nwl prmwqmw dy nwm ivc surq itkI rhy? (not: bwkI dy swry Sbd ivc ies pRSn dw au`qr hY) ]1] rhwau ]",
+              "unicode": "ਜਿਨ੍ਹਾਂ ਦੀ ਬਰਕਤਿ ਨਾਲ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਸੁਰਤ ਟਿਕੀ ਰਹੇ? (ਨੋਟ: ਬਾਕੀ ਦੇ ਸਾਰੇ ਸ਼ਬਦ ਵਿਚ ਇਸ ਪ੍ਰਸ਼ਨ ਦਾ ਉੱਤਰ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "Sólo aquéllas palabras que nos hacen permanecer en el Nombre del Señor. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaise raam naam rav raheeai |1| rahaau |",
+            "larivaar": "jaise​raam​naam​rav​raheeai​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "जैसे राम नाम रवि रहीऐ ॥१॥ रहाउ ॥",
+            "larivaar": "जैसे​राम​नाम​रवि​रहीऐ​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "jrnrr",
+          "unicode": "ਜਰਨਰਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "SNU2",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "sMqn isau boly aupkwrI ]",
+          "unicode": "ਸੰਤਨ ਸਿਉ ਬੋਲੇ ਉਪਕਾਰੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "sMqn​isau​boly​aupkwrI​]",
+          "unicode": "ਸੰਤਨ​ਸਿਉ​ਬੋਲੇ​ਉਪਕਾਰੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Speaking with the Saints, one becomes generous."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ikauNik) BilAW nwl g`l kIiqAW koeI BlweI dI g`l inklygI,",
+              "unicode": "(ਕਿਉਂਕਿ) ਭਲਿਆਂ ਨਾਲ ਗੱਲ ਕੀਤਿਆਂ ਕੋਈ ਭਲਾਈ ਦੀ ਗੱਲ ਨਿਕਲੇਗੀ,"
+            }
+          },
+          "spanish": "Si uno conversa con los Santos, uno se vuelve generoso,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "santan siau bole upakaaree |",
+            "larivaar": "santan​siau​bole​upakaaree​|"
+          },
+          "devanagari": {
+            "text": "संतन सिउ बोले उपकारी ॥",
+            "larivaar": "संतन​सिउ​बोले​उपकारी​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "ssba",
+          "unicode": "ਸਸਬੳ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QUMF",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "mUrK isau boly JK mwrI ]2]",
+          "unicode": "ਮੂਰਖ ਸਿਉ ਬੋਲੇ ਝਖ ਮਾਰੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "mUrK​isau​boly​JK​mwrI​]2]",
+          "unicode": "ਮੂਰਖ​ਸਿਉ​ਬੋਲੇ​ਝਖ​ਮਾਰੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "To speak with a fool is to babble uselessly. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy mUrK nwl boilAW ivArQ Kp-Kpw hI hovygw ]2]",
+              "unicode": "ਤੇ ਮੂਰਖ ਨਾਲ ਬੋਲਿਆਂ ਵਿਅਰਥ ਖਪ-ਖਪਾ ਹੀ ਹੋਵੇਗਾ ॥੨॥"
+            }
+          },
+          "spanish": "pero si uno habla con los malvados, uno desperdicia su aliento. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "moorakh siau bole jhakh maaree |2|",
+            "larivaar": "moorakh​siau​bole​jhakh​maaree​|2|"
+          },
+          "devanagari": {
+            "text": "मूरख सिउ बोले झख मारी ॥२॥",
+            "larivaar": "मूरख​सिउ​बोले​झख​मारी​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "msbJm",
+          "unicode": "ਮਸਬਝਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "L84F",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "bolq bolq bFih ibkwrw ]",
+          "unicode": "ਬੋਲਤ ਬੋਲਤ ਬਢਹਿ ਬਿਕਾਰਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "bolq​bolq​bFih​ibkwrw​]",
+          "unicode": "ਬੋਲਤ​ਬੋਲਤ​ਬਢਹਿ​ਬਿਕਾਰਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By speaking and only speaking, corruption only increases."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(iPr) ijauN ijauN (mUrK nwl) g`lW krIey (aus dy kusMg ivc) ivkwr hI ivkwr vDdy hn; (pr ies dw Bwv ieh nhIN ik iksy nwl BI bihxw-Kloxw nhIN cwhIdw)[",
+              "unicode": "(ਫਿਰ) ਜਿਉਂ ਜਿਉਂ (ਮੂਰਖ ਨਾਲ) ਗੱਲਾਂ ਕਰੀਏ (ਉਸ ਦੇ ਕੁਸੰਗ ਵਿਚ) ਵਿਕਾਰ ਹੀ ਵਿਕਾਰ ਵਧਦੇ ਹਨ; (ਪਰ ਇਸ ਦਾ ਭਾਵ ਇਹ ਨਹੀਂ ਕਿ ਕਿਸੇ ਨਾਲ ਭੀ ਬਹਿਣਾ-ਖਲੋਣਾ ਨਹੀਂ ਚਾਹੀਦਾ)।"
+            }
+          },
+          "spanish": "Mientras más hable uno con el ególatra, la maldad en uno se incrementa,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "bolat bolat badteh bikaaraa |",
+            "larivaar": "bolat​bolat​badteh​bikaaraa​|"
+          },
+          "devanagari": {
+            "text": "बोलत बोलत बढहि बिकारा ॥",
+            "larivaar": "बोलत​बोलत​बढहि​बिकारा​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "bbbb",
+          "unicode": "ਬਬਬਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VJMD",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "ibnu boly ikAw krih bIcwrw ]3]",
+          "unicode": "ਬਿਨੁ ਬੋਲੇ ਕਿਆ ਕਰਹਿ ਬੀਚਾਰਾ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "ibnu​boly​ikAw​krih​bIcwrw​]3]",
+          "unicode": "ਬਿਨੁ​ਬੋਲੇ​ਕਿਆ​ਕਰਹਿ​ਬੀਚਾਰਾ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "If I do not speak, what can the poor wretch do? ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jy Bly mnu`KW nwl BI nhIN bolWgy, (Bwv, jy BilAW pws BI nhIN bYTWgy) qW ivcwr dIAW g`lW ikvyN kr skdy hW? ]3]",
+              "unicode": "ਜੇ ਭਲੇ ਮਨੁੱਖਾਂ ਨਾਲ ਭੀ ਨਹੀਂ ਬੋਲਾਂਗੇ, (ਭਾਵ, ਜੇ ਭਲਿਆਂ ਪਾਸ ਭੀ ਨਹੀਂ ਬੈਠਾਂਗੇ) ਤਾਂ ਵਿਚਾਰ ਦੀਆਂ ਗੱਲਾਂ ਕਿਵੇਂ ਕਰ ਸਕਦੇ ਹਾਂ? ॥੩॥"
+            }
+          },
+          "spanish": "pues, ¿qué puede el tonto hacer?, (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "bin bole kiaa kareh beechaaraa |3|",
+            "larivaar": "bin​bole​kiaa​kareh​beechaaraa​|3|"
+          },
+          "devanagari": {
+            "text": "बिनु बोले किआ करहि बीचारा ॥३॥",
+            "larivaar": "बिनु​बोले​किआ​करहि​बीचारा​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "bbkkb",
+          "unicode": "ਬਬਕਕਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "C6JE",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "khu kbIr CUCw Gtu bolY ]",
+          "unicode": "ਕਹੁ ਕਬੀਰ ਛੂਛਾ ਘਟੁ ਬੋਲੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "khu​kbIr​CUCw​Gtu​bolY​]",
+          "unicode": "ਕਹੁ​ਕਬੀਰ​ਛੂਛਾ​ਘਟੁ​ਬੋਲੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Kabeer, the empty pitcher makes noise,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "kbIr AwKdw hY- s`cI g`l ieh hY ik (ijvyN) ^wlI GVw boldw hY, jy auh (pwxI nwl) BirAw hoieAw hovy qW auh kdy foldw nhIN (iesy qrHW bhuqIAW &wlqU g`lW gux-hIn mnu`K hI krdw hY[",
+              "unicode": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਸੱਚੀ ਗੱਲ ਇਹ ਹੈ ਕਿ (ਜਿਵੇਂ) ਖ਼ਾਲੀ ਘੜਾ ਬੋਲਦਾ ਹੈ, ਜੇ ਉਹ (ਪਾਣੀ ਨਾਲ) ਭਰਿਆ ਹੋਇਆ ਹੋਵੇ ਤਾਂ ਉਹ ਕਦੇ ਡੋਲਦਾ ਨਹੀਂ (ਇਸੇ ਤਰ੍ਹਾਂ ਬਹੁਤੀਆਂ ਫ਼ਾਲਤੂ ਗੱਲਾਂ ਗੁਣ-ਹੀਨ ਮਨੁੱਖ ਹੀ ਕਰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "dice Kabir, las vasijas vacías hacen ruido,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahu kabeer chhoochhaa ghatt bolai |",
+            "larivaar": "kahu​kabeer​chhoochhaa​ghatt​bolai​|"
+          },
+          "devanagari": {
+            "text": "कहु कबीर छूछा घटु बोलै ॥",
+            "larivaar": "कहु​कबीर​छूछा​घटु​बोलै​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "kkCGb",
+          "unicode": "ਕਕਛਘਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Q97K",
+        "type": 4,
+        "shabadid": "18L",
+        "gurmukhi": {
+          "akhar": "BirAw hoie su kbhu n folY ]4]1]",
+          "unicode": "ਭਰਿਆ ਹੋਇ ਸੁ ਕਬਹੁ ਨ ਡੋਲੈ ॥੪॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "BirAw​hoie​su​kbhu​n​folY​]4]1]",
+          "unicode": "ਭਰਿਆ​ਹੋਇ​ਸੁ​ਕਬਹੁ​ਨ​ਡੋਲੈ​॥੪॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "but that which is full makes no sound. ||4||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo guxvwn hY auh Afol rihMdw hY[ so, jgq ivc koeI AYsw au`dm krIey, ijs nwl gux gRihx kr skIey, qy ieh gux iml skdy hn BilAW pwsoN hI) ]4]1]",
+              "unicode": "ਜੋ ਗੁਣਵਾਨ ਹੈ ਉਹ ਅਡੋਲ ਰਹਿੰਦਾ ਹੈ। ਸੋ, ਜਗਤ ਵਿਚ ਕੋਈ ਐਸਾ ਉੱਦਮ ਕਰੀਏ, ਜਿਸ ਨਾਲ ਗੁਣ ਗ੍ਰਹਿਣ ਕਰ ਸਕੀਏ, ਤੇ ਇਹ ਗੁਣ ਮਿਲ ਸਕਦੇ ਹਨ ਭਲਿਆਂ ਪਾਸੋਂ ਹੀ) ॥੪॥੧॥"
+            }
+          },
+          "spanish": "las llenas se conservan en Silencio.(4-1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhariaa hoe su kabahu na ddolai |4|1|",
+            "larivaar": "bhariaa​hoe​su​kabahu​na​ddolai​|4|1|"
+          },
+          "devanagari": {
+            "text": "भरिआ होइ सु कबहु न डोलै ॥४॥१॥",
+            "larivaar": "भरिआ​होइ​सु​कबहु​न​डोलै​॥४॥१॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "Bhsknf",
+          "unicode": "ਭਹਸਕਨਡ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NE4Z",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "goNf ]",
+          "unicode": "ਗੋਂਡ ॥"
+        },
+        "larivaar": {
+          "akhar": "goNf​]",
+          "unicode": "ਗੋਂਡ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Gond:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Gond"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gondd |",
+            "larivaar": "gondd​|"
+          },
+          "devanagari": {
+            "text": "गोंड ॥",
+            "larivaar": "गोंड​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "g",
+          "unicode": "ਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KFVD",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "nrU mrY nru kwim n AwvY ]",
+          "unicode": "ਨਰੂ ਮਰੈ ਨਰੁ ਕਾਮਿ ਨ ਆਵੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "nrU​mrY​nru​kwim​n​AwvY​]",
+          "unicode": "ਨਰੂ​ਮਰੈ​ਨਰੁ​ਕਾਮਿ​ਨ​ਆਵੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "When a man dies, he is of no use to anyone."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(mYƒ kdy soc hI nhIN PurdI ik mYN iks srIr qy mwx kr ky mMdy kMm krdw rihMdw hW, myrw Aslw qW iehI hY nw ik) jdoN mnu`K mr jWdw hY qW mnu`K (dw srIr) iksy kMm nhIN AwauNdw,",
+              "unicode": "(ਮੈਨੂੰ ਕਦੇ ਸੋਚ ਹੀ ਨਹੀਂ ਫੁਰਦੀ ਕਿ ਮੈਂ ਕਿਸ ਸਰੀਰ ਤੇ ਮਾਣ ਕਰ ਕੇ ਮੰਦੇ ਕੰਮ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਮੇਰਾ ਅਸਲਾ ਤਾਂ ਇਹੀ ਹੈ ਨਾ ਕਿ) ਜਦੋਂ ਮਨੁੱਖ ਮਰ ਜਾਂਦਾ ਹੈ ਤਾਂ ਮਨੁੱਖ (ਦਾ ਸਰੀਰ) ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦਾ,"
+            }
+          },
+          "spanish": "Si uno hombre muere, de nada le sirve a sus parientes,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naroo marai nar kaam na aavai |",
+            "larivaar": "naroo​marai​nar​kaam​na​aavai​|"
+          },
+          "devanagari": {
+            "text": "नरू मरै नरु कामि न आवै ॥",
+            "larivaar": "नरू​मरै​नरु​कामि​न​आवै​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "nmnknA",
+          "unicode": "ਨਮਨਕਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XUT4",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "psU mrY ds kwj svwrY ]1]",
+          "unicode": "ਪਸੂ ਮਰੈ ਦਸ ਕਾਜ ਸਵਾਰੈ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "psU​mrY​ds​kwj​svwrY​]1]",
+          "unicode": "ਪਸੂ​ਮਰੈ​ਦਸ​ਕਾਜ​ਸਵਾਰੈ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "But when an animal dies, it is used in ten ways. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr pSU mrdw hY qW (iPr BI aus dw srIr mnu`K dy) keI kMm svwrdw hY ]1]",
+              "unicode": "ਪਰ ਪਸ਼ੂ ਮਰਦਾ ਹੈ ਤਾਂ (ਫਿਰ ਭੀ ਉਸ ਦਾ ਸਰੀਰ ਮਨੁੱਖ ਦੇ) ਕਈ ਕੰਮ ਸਵਾਰਦਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "pero si un animal muere, el uso que se le puede dar es de diez tipos. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "pasoo marai das kaaj savaarai |1|",
+            "larivaar": "pasoo​marai​das​kaaj​savaarai​|1|"
+          },
+          "devanagari": {
+            "text": "पसू मरै दस काज सवारै ॥१॥",
+            "larivaar": "पसू​मरै​दस​काज​सवारै​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "pmdks",
+          "unicode": "ਪਮਦਕਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UK4Q",
+        "type": 3,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "Apny krm kI giq mY ikAw jwnau ]",
+          "unicode": "ਅਪਨੇ ਕਰਮ ਕੀ ਗਤਿ ਮੈ ਕਿਆ ਜਾਨਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "Apny​krm​kI​giq​mY​ikAw​jwnau​]",
+          "unicode": "ਅਪਨੇ​ਕਰਮ​ਕੀ​ਗਤਿ​ਮੈ​ਕਿਆ​ਜਾਨਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "What do I know, about the state of my karma?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy bwbw! mYN kdy socdw hI nhIN ik mYN ikho ijhy in`q-krm krI jw irhw hW, (mYN mMdy pwsy hI l`gw rihMdw hW, qy)",
+              "unicode": "ਹੇ ਬਾਬਾ! ਮੈਂ ਕਦੇ ਸੋਚਦਾ ਹੀ ਨਹੀਂ ਕਿ ਮੈਂ ਕਿਹੋ ਜਿਹੇ ਨਿੱਤ-ਕਰਮ ਕਰੀ ਜਾ ਰਿਹਾ ਹਾਂ, (ਮੈਂ ਮੰਦੇ ਪਾਸੇ ਹੀ ਲੱਗਾ ਰਹਿੰਦਾ ਹਾਂ, ਤੇ)"
+            }
+          },
+          "spanish": "Oh amigo, ¿cómo podría saber qué será de mí?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "apane karam kee gat mai kiaa jaanau |",
+            "larivaar": "apane​karam​kee​gat​mai​kiaa​jaanau​|"
+          },
+          "devanagari": {
+            "text": "अपने करम की गति मै किआ जानउ ॥",
+            "larivaar": "अपने​करम​की​गति​मै​किआ​जानउ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "Akkgmkj",
+          "unicode": "ਅਕਕਗਮਕਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "AWXZ",
+        "type": 3,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "mY ikAw jwnau bwbw ry ]1] rhwau ]",
+          "unicode": "ਮੈ ਕਿਆ ਜਾਨਉ ਬਾਬਾ ਰੇ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "mY​ikAw​jwnau​bwbw​ry​]1]​rhwau​]",
+          "unicode": "ਮੈ​ਕਿਆ​ਜਾਨਉ​ਬਾਬਾ​ਰੇ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "What do I know, O Baba? ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYƒ i^Awl hI nhIN AwauNdw ]1] rhwau ]",
+              "unicode": "ਮੈਨੂੰ ਖ਼ਿਆਲ ਹੀ ਨਹੀਂ ਆਉਂਦਾ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "No lo puedo saber, pues, ¿quién puede ver y conocer su destino?(1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "mai kiaa jaanau baabaa re |1| rahaau |",
+            "larivaar": "mai​kiaa​jaanau​baabaa​re​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "मै किआ जानउ बाबा रे ॥१॥ रहाउ ॥",
+            "larivaar": "मै​किआ​जानउ​बाबा​रे​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "mkjbr",
+          "unicode": "ਮਕਜਬਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R5TL",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "hwf jly jYsy lkrI kw qUlw ]",
+          "unicode": "ਹਾਡ ਜਲੇ ਜੈਸੇ ਲਕਰੀ ਕਾ ਤੂਲਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "hwf​jly​jYsy​lkrI​kw​qUlw​]",
+          "unicode": "ਹਾਡ​ਜਲੇ​ਜੈਸੇ​ਲਕਰੀ​ਕਾ​ਤੂਲਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "His bones burn, like a bundle of logs;"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy bwbw! mYN kdy soicAw hI nhIN ik mOq AwieAW ies srIr dIAW) h`fIAW l`kVW dy Fyr vWg sV jWdIAW hn,",
+              "unicode": "(ਹੇ ਬਾਬਾ! ਮੈਂ ਕਦੇ ਸੋਚਿਆ ਹੀ ਨਹੀਂ ਕਿ ਮੌਤ ਆਇਆਂ ਇਸ ਸਰੀਰ ਦੀਆਂ) ਹੱਡੀਆਂ ਲੱਕੜਾਂ ਦੇ ਢੇਰ ਵਾਂਗ ਸੜ ਜਾਂਦੀਆਂ ਹਨ,"
+            }
+          },
+          "spanish": "Mis huesos serán quemados como una vara de madera y"
+        },
+        "transliteration": {
+          "english": {
+            "text": "haadd jale jaise lakaree kaa toolaa |",
+            "larivaar": "haadd​jale​jaise​lakaree​kaa​toolaa​|"
+          },
+          "devanagari": {
+            "text": "हाड जले जैसे लकरी का तूला ॥",
+            "larivaar": "हाड​जले​जैसे​लकरी​का​तूला​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "hjjlkq",
+          "unicode": "ਹਜਜਲਕਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "X7LY",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "kys jly jYsy Gws kw pUlw ]2]",
+          "unicode": "ਕੇਸ ਜਲੇ ਜੈਸੇ ਘਾਸ ਕਾ ਪੂਲਾ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "kys​jly​jYsy​Gws​kw​pUlw​]2]",
+          "unicode": "ਕੇਸ​ਜਲੇ​ਜੈਸੇ​ਘਾਸ​ਕਾ​ਪੂਲਾ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "his hair burns like a bale of hay. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy (ies dy) kys Gwh dy pUly vWG sV jWdy hn (qy ijs srIr dw mgroN ieh hwl huMdw hY, ausy au`qy mYN swrI aumr mwx krdw rihMdw hW) ]2]",
+              "unicode": "ਤੇ (ਇਸ ਦੇ) ਕੇਸ ਘਾਹ ਦੇ ਪੂਲੇ ਵਾਂਘ ਸੜ ਜਾਂਦੇ ਹਨ (ਤੇ ਜਿਸ ਸਰੀਰ ਦਾ ਮਗਰੋਂ ਇਹ ਹਾਲ ਹੁੰਦਾ ਹੈ, ਉਸੇ ਉੱਤੇ ਮੈਂ ਸਾਰੀ ਉਮਰ ਮਾਣ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ) ॥੨॥"
+            }
+          },
+          "spanish": "mi cabello se quemará también como el pasto. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kes jale jaise ghaas kaa poolaa |2|",
+            "larivaar": "kes​jale​jaise​ghaas​kaa​poolaa​|2|"
+          },
+          "devanagari": {
+            "text": "केस जले जैसे घास का पूला ॥२॥",
+            "larivaar": "केस​जले​जैसे​घास​का​पूला​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "kjjGkp",
+          "unicode": "ਕਜਜਘਕਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "V6B5",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "khu kbIr qb hI nru jwgY ]",
+          "unicode": "ਕਹੁ ਕਬੀਰ ਤਬ ਹੀ ਨਰੁ ਜਾਗੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "khu​kbIr​qb​hI​nru​jwgY​]",
+          "unicode": "ਕਹੁ​ਕਬੀਰ​ਤਬ​ਹੀ​ਨਰੁ​ਜਾਗੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Kabeer, the man wakes up,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(pr) kbIr AwKdw hY- s`c ieh hY ik mnu`K ies mUrKqw vloN qdoN hI jwgdw hY (qdoN hI pCqwauNdw hY)",
+              "unicode": "(ਪਰ) ਕਬੀਰ ਆਖਦਾ ਹੈ- ਸੱਚ ਇਹ ਹੈ ਕਿ ਮਨੁੱਖ ਇਸ ਮੂਰਖਤਾ ਵਲੋਂ ਤਦੋਂ ਹੀ ਜਾਗਦਾ ਹੈ (ਤਦੋਂ ਹੀ ਪਛਤਾਉਂਦਾ ਹੈ)"
+            }
+          },
+          "spanish": "Dice Kabir, es entonces cuando el hombre podrá despertar,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kahu kabeer tab hee nar jaagai |",
+            "larivaar": "kahu​kabeer​tab​hee​nar​jaagai​|"
+          },
+          "devanagari": {
+            "text": "कहु कबीर तब ही नरु जागै ॥",
+            "larivaar": "कहु​कबीर​तब​ही​नरु​जागै​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "kkqhnj",
+          "unicode": "ਕਕਤਹਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "50FC",
+        "type": 4,
+        "shabadid": "Z7G",
+        "gurmukhi": {
+          "akhar": "jm kw fMfu mUMf mih lwgY ]3]2]",
+          "unicode": "ਜਮ ਕਾ ਡੰਡੁ ਮੂੰਡ ਮਹਿ ਲਾਗੈ ॥੩॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "jm​kw​fMfu​mUMf​mih​lwgY​]3]2]",
+          "unicode": "ਜਮ​ਕਾ​ਡੰਡੁ​ਮੂੰਡ​ਮਹਿ​ਲਾਗੈ​॥੩॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "only when the Messenger of Death hits him over the head with his club. ||3||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN mOq dw fMfw ies dy isr au`qy Aw v`jdw hY ]3]2]",
+              "unicode": "ਜਦੋਂ ਮੌਤ ਦਾ ਡੰਡਾ ਇਸ ਦੇ ਸਿਰ ਉੱਤੇ ਆ ਵੱਜਦਾ ਹੈ ॥੩॥੨॥"
+            }
+          },
+          "spanish": "cuando el fuete de la muerte caiga sobre su cabeza. (3-2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jam kaa ddandd moondd meh laagai |3|2|",
+            "larivaar": "jam​kaa​ddandd​moondd​meh​laagai​|3|2|"
+          },
+          "devanagari": {
+            "text": "जम का डंडु मूंड महि लागै ॥३॥२॥",
+            "larivaar": "जम​का​डंडु​मूंड​महि​लागै​॥३॥२॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "jkfmml",
+          "unicode": "ਜਕਡਮਮਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1VBV",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "goNf ]",
+          "unicode": "ਗੋਂਡ ॥"
+        },
+        "larivaar": {
+          "akhar": "goNf​]",
+          "unicode": "ਗੋਂਡ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Gond:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Gond"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gondd |",
+            "larivaar": "gondd​|"
+          },
+          "devanagari": {
+            "text": "गोंड ॥",
+            "larivaar": "गोंड​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "g",
+          "unicode": "ਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QLDX",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "Awkwis ggnu pwqwil ggnu hY chu idis ggnu rhwiely ]",
+          "unicode": "ਆਕਾਸਿ ਗਗਨੁ ਪਾਤਾਲਿ ਗਗਨੁ ਹੈ ਚਹੁ ਦਿਸਿ ਗਗਨੁ ਰਹਾਇਲੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awkwis​ggnu​pwqwil​ggnu​hY​chu​idis​ggnu​rhwiely​]",
+          "unicode": "ਆਕਾਸਿ​ਗਗਨੁ​ਪਾਤਾਲਿ​ਗਗਨੁ​ਹੈ​ਚਹੁ​ਦਿਸਿ​ਗਗਨੁ​ਰਹਾਇਲੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Celestial Lord is in the Akaashic ethers of the skies, the Celestial Lord is in the nether regions of the underworld; in the four directions, the Celestial Lord is pervading."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ieh ijMd ijs dw AMS hY auh) cyqn-s`qw AkwS qoN pqwl q`k hr pwsy mOjUd hY[",
+              "unicode": "(ਇਹ ਜਿੰਦ ਜਿਸ ਦਾ ਅੰਸ਼ ਹੈ ਉਹ) ਚੇਤਨ-ਸੱਤਾ ਅਕਾਸ਼ ਤੋਂ ਪਤਾਲ ਤੱਕ ਹਰ ਪਾਸੇ ਮੌਜੂਦ ਹੈ।"
+            }
+          },
+          "spanish": "El Señor Todo Prevaleciente está en los cielos y en los mundos inferiores; sí, está en todas partes. Él es la Fuente de Éxtasis,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aakaas gagan paataal gagan hai chahu dis gagan rahaaeile |",
+            "larivaar": "aakaas​gagan​paataal​gagan​hai​chahu​dis​gagan​rahaaeile​|"
+          },
+          "devanagari": {
+            "text": "आकासि गगनु पातालि गगनु है चहु दिसि गगनु रहाइले ॥",
+            "larivaar": "आकासि​गगनु​पातालि​गगनु​है​चहु​दिसि​गगनु​रहाइले​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "Agpghcdgr",
+          "unicode": "ਅਗਪਗਹਚਦਗਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "X1TS",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "Awnd mUlu sdw purKoqmu Gtu ibnsY ggnu n jwiely ]1]",
+          "unicode": "ਆਨਦ ਮੂਲੁ ਸਦਾ ਪੁਰਖੋਤਮੁ ਘਟੁ ਬਿਨਸੈ ਗਗਨੁ ਨ ਜਾਇਲੇ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "Awnd​mUlu​sdw​purKoqmu​Gtu​ibnsY​ggnu​n​jwiely​]1]",
+          "unicode": "ਆਨਦ​ਮੂਲੁ​ਸਦਾ​ਪੁਰਖੋਤਮੁ​ਘਟੁ​ਬਿਨਸੈ​ਗਗਨੁ​ਨ​ਜਾਇਲੇ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Supreme Lord God is forever the source of bliss. When the vessel of the body perishes, the Celestial Lord does not perish. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auhI (jIvW dy) suK dw mUl-kwrn hY[ auh sdw kwiem rihx vwlw hY, auh hI (hY ijs ƒ) au`qm purK (prmwqmw khIdw) hY[ (jIvW dw) srIr nws ho jWdw hY, pr (srIr ivc v`sdI ijMd dw somw) cyqn-s`qw nws nhIN huMdI ]1]",
+              "unicode": "ਉਹੀ (ਜੀਵਾਂ ਦੇ) ਸੁਖ ਦਾ ਮੂਲ-ਕਾਰਨ ਹੈ। ਉਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਉਹ ਹੀ (ਹੈ ਜਿਸ ਨੂੰ) ਉੱਤਮ ਪੁਰਖ (ਪਰਮਾਤਮਾ ਕਹੀਦਾ) ਹੈ। (ਜੀਵਾਂ ਦਾ) ਸਰੀਰ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ, ਪਰ (ਸਰੀਰ ਵਿਚ ਵੱਸਦੀ ਜਿੰਦ ਦਾ ਸੋਮਾ) ਚੇਤਨ-ਸੱਤਾ ਨਾਸ ਨਹੀਂ ਹੁੰਦੀ ॥੧॥"
+            }
+          },
+          "spanish": "siempre Inmutable y Supremo, el Espíritu Divino, y aunque la vasija del cuerpo se rompa, Él no desaparece. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aanad mool sadaa purakhotam ghatt binasai gagan na jaaeile |1|",
+            "larivaar": "aanad​mool​sadaa​purakhotam​ghatt​binasai​gagan​na​jaaeile​|1|"
+          },
+          "devanagari": {
+            "text": "आनद मूलु सदा पुरखोतमु घटु बिनसै गगनु न जाइले ॥१॥",
+            "larivaar": "आनद​मूलु​सदा​पुरखोतमु​घटु​बिनसै​गगनु​न​जाइले​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "AmspGbgnj",
+          "unicode": "ਅਮਸਪਘਬਗਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ASW2",
+        "type": 3,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "moih bYrwgu BieE ]",
+          "unicode": "ਮੋਹਿ ਬੈਰਾਗੁ ਭਇਓ ॥"
+        },
+        "larivaar": {
+          "akhar": "moih​bYrwgu​BieE​]",
+          "unicode": "ਮੋਹਿ​ਬੈਰਾਗੁ​ਭਇਓ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I have become sad,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "myry mn iv`c (hornW g`lW vloN) auprwmqw ho rhI hY, (mYƒ hor g`lW ZYr-zrUrI jwpdIAW hn[)",
+              "unicode": "ਮੇਰੇ ਮਨ ਵਿੱਚ (ਹੋਰਨਾਂ ਗੱਲਾਂ ਵਲੋਂ) ਉਪਰਾਮਤਾ ਹੋ ਰਹੀ ਹੈ, (ਮੈਨੂੰ ਹੋਰ ਗੱਲਾਂ ਗ਼ੈਰ-ਜ਼ਰੂਰੀ ਜਾਪਦੀਆਂ ਹਨ।)"
+            }
+          },
+          "spanish": "Me entristece pensar"
+        },
+        "transliteration": {
+          "english": {
+            "text": "mohi bairaag bheo |",
+            "larivaar": "mohi​bairaag​bheo​|"
+          },
+          "devanagari": {
+            "text": "मोहि बैरागु भइओ ॥",
+            "larivaar": "मोहि​बैरागु​भइओ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "mbB",
+          "unicode": "ਮਬਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5V81",
+        "type": 3,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "iehu jIau Awie khw gieE ]1] rhwau ]",
+          "unicode": "ਇਹੁ ਜੀਉ ਆਇ ਕਹਾ ਗਇਓ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "iehu​jIau​Awie​khw​gieE​]1]​rhwau​]",
+          "unicode": "ਇਹੁ​ਜੀਉ​ਆਇ​ਕਹਾ​ਗਇਓ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "wondering where the soul comes from, and where it goes. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "myrw inScw hux ies g`l au`qy itk igAw hY ik ieh ijMd kdy mrdI nhIN (ikauNik ieh ijMd aus srb-ivAwpk sdw-iQr cyqn-s`qw dw AMS hY) ]1] rhwau ]",
+              "unicode": "ਮੇਰਾ ਨਿਸ਼ਚਾ ਹੁਣ ਇਸ ਗੱਲ ਉੱਤੇ ਟਿਕ ਗਿਆ ਹੈ ਕਿ ਇਹ ਜਿੰਦ ਕਦੇ ਮਰਦੀ ਨਹੀਂ (ਕਿਉਂਕਿ ਇਹ ਜਿੰਦ ਉਸ ਸਰਬ-ਵਿਆਪਕ ਸਦਾ-ਥਿਰ ਚੇਤਨ-ਸੱਤਾ ਦਾ ਅੰਸ਼ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "que el Alma que está aquí y ahora también vuela y se va y nadie sabe a dónde. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "eihu jeeo aae kahaa geo |1| rahaau |",
+            "larivaar": "eihu​jeeo​aae​kahaa​geo​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "इहु जीउ आइ कहा गइओ ॥१॥ रहाउ ॥",
+            "larivaar": "इहु​जीउ​आइ​कहा​गइओ​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "ejAkg",
+          "unicode": "ੲਜਅਕਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WFQ8",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "pMc qqu imil kwieAw kIn@I qqu khw qy kInu ry ]",
+          "unicode": "ਪੰਚ ਤਤੁ ਮਿਲਿ ਕਾਇਆ ਕੀਨੑੀ ਤਤੁ ਕਹਾ ਤੇ ਕੀਨੁ ਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "pMc​qqu​imil​kwieAw​kIn@I​qqu​khw​qy​kInu​ry​]",
+          "unicode": "ਪੰਚ​ਤਤੁ​ਮਿਲਿ​ਕਾਇਆ​ਕੀਨੑੀ​ਤਤੁ​ਕਹਾ​ਤੇ​ਕੀਨੁ​ਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The body is formed from the union of the five tatvas; but where were the five tatvas created?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pMjW q`qW ny iml ky ieh srIr bxwieAw hY (pr iehnW q`qW dI BI koeI v`KrI hsqI nhIN hY), ieh q`q BI hor ik`QoN bxny sn? (ieh BI cyqn-s`qw qoN hI bxy hn)[",
+              "unicode": "ਪੰਜਾਂ ਤੱਤਾਂ ਨੇ ਮਿਲ ਕੇ ਇਹ ਸਰੀਰ ਬਣਾਇਆ ਹੈ (ਪਰ ਇਹਨਾਂ ਤੱਤਾਂ ਦੀ ਭੀ ਕੋਈ ਵੱਖਰੀ ਹਸਤੀ ਨਹੀਂ ਹੈ), ਇਹ ਤੱਤ ਭੀ ਹੋਰ ਕਿੱਥੋਂ ਬਣਨੇ ਸਨ? (ਇਹ ਭੀ ਚੇਤਨ-ਸੱਤਾ ਤੋਂ ਹੀ ਬਣੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Si nuestro cuerpo está hecho de cinco elementos, ¿cómo fueron creados esos elementos?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "panch tat mil kaaeaa keenaee tat kahaa te keen re |",
+            "larivaar": "panch​tat​mil​kaaeaa​keenaee​tat​kahaa​te​keen​re​|"
+          },
+          "devanagari": {
+            "text": "पंच ततु मिलि काइआ कीनी ततु कहा ते कीनु रे ॥",
+            "larivaar": "पंच​ततु​मिलि​काइआ​कीनी​ततु​कहा​ते​कीनु​रे​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "pqmkkqkqkr",
+          "unicode": "ਪਤਮਕਕਤਕਤਕਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RMLH",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "krm bD qum jIau khq hO krmih ikin jIau dInu ry ]2]",
+          "unicode": "ਕਰਮ ਬਧ ਤੁਮ ਜੀਉ ਕਹਤ ਹੌ ਕਰਮਹਿ ਕਿਨਿ ਜੀਉ ਦੀਨੁ ਰੇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "krm​bD​qum​jIau​khq​hO​krmih​ikin​jIau​dInu​ry​]2]",
+          "unicode": "ਕਰਮ​ਬਧ​ਤੁਮ​ਜੀਉ​ਕਹਤ​ਹੌ​ਕਰਮਹਿ​ਕਿਨਿ​ਜੀਉ​ਦੀਨੁ​ਰੇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You say that the soul is tied to its karma, but who gave karma to the body? ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qusI lok ieh AwKdy ho ik jIvwqmw kIqy krmW krmW dw b`Jw hoieAw hY, (pr Asl g`l ieh hY ik) krmW ƒ BI pihlW cyqn-s`qw qoN ibnw hor iks ny vjUd ivc ilAwauxw sI? (Bwv, krmW ƒ BI pihlW ieh cyqn-s`qw hI vjUd ivc ilAwauNdI hY) ]2]",
+              "unicode": "ਤੁਸੀ ਲੋਕ ਇਹ ਆਖਦੇ ਹੋ ਕਿ ਜੀਵਾਤਮਾ ਕੀਤੇ ਕਰਮਾਂ ਕਰਮਾਂ ਦਾ ਬੱਝਾ ਹੋਇਆ ਹੈ, (ਪਰ ਅਸਲ ਗੱਲ ਇਹ ਹੈ ਕਿ) ਕਰਮਾਂ ਨੂੰ ਭੀ ਪਹਿਲਾਂ ਚੇਤਨ-ਸੱਤਾ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸ ਨੇ ਵਜੂਦ ਵਿਚ ਲਿਆਉਣਾ ਸੀ? (ਭਾਵ, ਕਰਮਾਂ ਨੂੰ ਭੀ ਪਹਿਲਾਂ ਇਹ ਚੇਤਨ-ਸੱਤਾ ਹੀ ਵਜੂਦ ਵਿਚ ਲਿਆਉਂਦੀ ਹੈ) ॥੨॥"
+            }
+          },
+          "spanish": "Si uno dice que el Alma está atada a sus propias acciones, entonces, ¿quién es el que realiza la atadura?(2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "karam badh tum jeeo kehat hau karameh kin jeeo deen re |2|",
+            "larivaar": "karam​badh​tum​jeeo​kehat​hau​karameh​kin​jeeo​deen​re​|2|"
+          },
+          "devanagari": {
+            "text": "करम बध तुम जीउ कहत हौ करमहि किनि जीउ दीनु रे ॥२॥",
+            "larivaar": "करम​बध​तुम​जीउ​कहत​हौ​करमहि​किनि​जीउ​दीनु​रे​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "kbqjkhkkjdr",
+          "unicode": "ਕਬਤਜਕਹਕਕਜਦਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "H24K",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "hir mih qnu hY qn mih hir hY srb inrMqir soie ry ]",
+          "unicode": "ਹਰਿ ਮਹਿ ਤਨੁ ਹੈ ਤਨ ਮਹਿ ਹਰਿ ਹੈ ਸਰਬ ਨਿਰੰਤਰਿ ਸੋਇ ਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​mih​qnu​hY​qn​mih​hir​hY​srb​inrMqir​soie​ry​]",
+          "unicode": "ਹਰਿ​ਮਹਿ​ਤਨੁ​ਹੈ​ਤਨ​ਮਹਿ​ਹਰਿ​ਹੈ​ਸਰਬ​ਨਿਰੰਤਰਿ​ਸੋਇ​ਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The body is contained in the Lord, and the Lord is contained in the body. He is permeating within all."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy BweI! aus cyqn-s`qw pRBU dy AMdr ieh (jIvW dw) srIr vjUd ivc AwauNdw hY, qy srIrW ivc auh pRBU v`sdw hY[ sBnW dy AMdr auhI hY, ikqy iv`Q nhIN hY[",
+              "unicode": "ਹੇ ਭਾਈ! ਉਸ ਚੇਤਨ-ਸੱਤਾ ਪ੍ਰਭੂ ਦੇ ਅੰਦਰ ਇਹ (ਜੀਵਾਂ ਦਾ) ਸਰੀਰ ਵਜੂਦ ਵਿਚ ਆਉਂਦਾ ਹੈ, ਤੇ ਸਰੀਰਾਂ ਵਿਚ ਉਹ ਪ੍ਰਭੂ ਵੱਸਦਾ ਹੈ। ਸਭਨਾਂ ਦੇ ਅੰਦਰ ਉਹੀ ਹੈ, ਕਿਤੇ ਵਿੱਥ ਨਹੀਂ ਹੈ।"
+            }
+          },
+          "spanish": "Nuestro cuerpo vive en Dios y Dios vive en nuestro cuerpo; sí, Él vive en todo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har meh tan hai tan meh har hai sarab nirantar soe re |",
+            "larivaar": "har​meh​tan​hai​tan​meh​har​hai​sarab​nirantar​soe​re​|"
+          },
+          "devanagari": {
+            "text": "हरि महि तनु है तन महि हरि है सरब निरंतरि सोइ रे ॥",
+            "larivaar": "हरि​महि​तनु​है​तन​महि​हरि​है​सरब​निरंतरि​सोइ​रे​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "hmqhqmhhsnsr",
+          "unicode": "ਹਮਤਹਤਮਹਹਸਨਸਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QK1F",
+        "type": 4,
+        "shabadid": "CL3",
+        "gurmukhi": {
+          "akhar": "kih kbIr rwm nwmu n Cofau shjy hoie su hoie ry ]3]3]",
+          "unicode": "ਕਹਿ ਕਬੀਰ ਰਾਮ ਨਾਮੁ ਨ ਛੋਡਉ ਸਹਜੇ ਹੋਇ ਸੁ ਹੋਇ ਰੇ ॥੩॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "kih​kbIr​rwm​nwmu​n​Cofau​shjy​hoie​su​hoie​ry​]3]3]",
+          "unicode": "ਕਹਿ​ਕਬੀਰ​ਰਾਮ​ਨਾਮੁ​ਨ​ਛੋਡਉ​ਸਹਜੇ​ਹੋਇ​ਸੁ​ਹੋਇ​ਰੇ​॥੩॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Says Kabeer, I shall not renounce the Lord's Name. I shall accept whatever happens. ||3||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "so, kbIr AwKdw hY-AYsy cyqn-s`qw prmwqmw dw nwm mYN kdy nhIN BulwvWgw, (nwm ismrn dI brkiq nwl hI ieh smJ AwauNdI hY ik) jo kuJ jgq ivc ho irhw hY suqy hI (aus cyqn-s`qw pRBU dI rzw ivc) ho irhw hY ]3]3]",
+              "unicode": "ਸੋ, ਕਬੀਰ ਆਖਦਾ ਹੈ-ਐਸੇ ਚੇਤਨ-ਸੱਤਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੈਂ ਕਦੇ ਨਹੀਂ ਭੁਲਾਵਾਂਗਾ, (ਨਾਮ ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਹੀ ਇਹ ਸਮਝ ਆਉਂਦੀ ਹੈ ਕਿ) ਜੋ ਕੁਝ ਜਗਤ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ ਸੁਤੇ ਹੀ (ਉਸ ਚੇਤਨ-ਸੱਤਾ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿਚ) ਹੋ ਰਿਹਾ ਹੈ ॥੩॥੩॥"
+            }
+          },
+          "spanish": "Dice Kabir, no quiero olvidarme del Nombre del Señor, pues todo lo que sucede, sucede por Su Voluntad y a ella estoy sometido. (3-3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "keh kabeer raam naam na chhoddau sahaje hoe su hoe re |3|3|",
+            "larivaar": "keh​kabeer​raam​naam​na​chhoddau​sahaje​hoe​su​hoe​re​|3|3|"
+          },
+          "devanagari": {
+            "text": "कहि कबीर राम नामु न छोडउ सहजे होइ सु होइ रे ॥३॥३॥",
+            "larivaar": "कहि​कबीर​राम​नामु​न​छोडउ​सहजे​होइ​सु​होइ​रे​॥३॥३॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kkrnnCshshr",
+          "unicode": "ਕਕਰਨਨਛਸਹਸਹਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LBDK",
+        "type": 2,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "rwgu goNf bwxI kbIr jIau kI Gru 2 ]",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ ਬਾਣੀ ਕਬੀਰ ਜੀਉ ਕੀ ਘਰੁ ੨ ॥"
+        },
+        "larivaar": {
+          "akhar": "rwgu​goNf​bwxI​kbIr​jIau​kI​Gru​2​]",
+          "unicode": "ਰਾਗੁ​ਗੋਂਡ​ਬਾਣੀ​ਕਬੀਰ​ਜੀਉ​ਕੀ​ਘਰੁ​੨​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Raag Gond, The Word Of Kabeer Jee, Second House:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "rwg goNf, Gr 2 iv`c Bgq kbIr jI dI bwxI[",
+              "unicode": "ਰਾਗ ਗੋਂਡ, ਘਰ ੨ ਵਿੱਚ ਭਗਤ ਕਬੀਰ ਜੀ ਦੀ ਬਾਣੀ।"
+            }
+          },
+          "spanish": "Rag Gond, palabras de Reverendo Kabir yi."
+        },
+        "transliteration": {
+          "english": {
+            "text": "raag gondd baanee kabeer jeeo kee ghar 2 |",
+            "larivaar": "raag​gondd​baanee​kabeer​jeeo​kee​ghar​2​|"
+          },
+          "devanagari": {
+            "text": "रागु गोंड बाणी कबीर जीउ की घरु २ ॥",
+            "larivaar": "रागु​गोंड​बाणी​कबीर​जीउ​की​घरु​२​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "rgbkjkG2]",
+          "unicode": "ਰਗਬਕਜਕਘ੨॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "P1MG",
+        "type": 1,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "<> siqgur pRswid ]",
+          "unicode": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "<>​siqgur​pRswid​]",
+          "unicode": "ੴ​ਸਤਿਗੁਰ​ਪ੍ਰਸਾਦਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One Universal Creator God. By The Grace Of The True Guru:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Akwl purK ie`k hY Aqy siqgurU dI ikrpw nwl imldw hY[",
+              "unicode": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ik oankaar satigur prasaad |",
+            "larivaar": "ik​oankaar​satigur​prasaad​|"
+          },
+          "devanagari": {
+            "text": "ੴ सतिगुर प्रसादि ॥",
+            "larivaar": "ੴ​सतिगुर​प्रसादि​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "<>sp",
+          "unicode": "ੴਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NB3M",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "Bujw bWiD iBlw kir fwirE ]",
+          "unicode": "ਭੁਜਾ ਬਾਂਧਿ ਭਿਲਾ ਕਰਿ ਡਾਰਿਓ ॥"
+        },
+        "larivaar": {
+          "akhar": "Bujw​bWiD​iBlw​kir​fwirE​]",
+          "unicode": "ਭੁਜਾ​ਬਾਂਧਿ​ਭਿਲਾ​ਕਰਿ​ਡਾਰਿਓ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They tied my arms, bundled me up, and threw me before an elephant."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "myrIAW bwhW bMnH ky Fym vWg (mYƒ iehnW lokW hwQI A`gy) su`t id`qw hY,",
+              "unicode": "ਮੇਰੀਆਂ ਬਾਹਾਂ ਬੰਨ੍ਹ ਕੇ ਢੇਮ ਵਾਂਗ (ਮੈਨੂੰ ਇਹਨਾਂ ਲੋਕਾਂ ਹਾਥੀ ਅੱਗੇ) ਸੁੱਟ ਦਿੱਤਾ ਹੈ,"
+            }
+          },
+          "spanish": "Me amarran las manos y echan el saco de mi cuerpo ante el elefante."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhujaa baandh bhilaa kar ddaario |",
+            "larivaar": "bhujaa​baandh​bhilaa​kar​ddaario​|"
+          },
+          "devanagari": {
+            "text": "भुजा बांधि भिला करि डारिओ ॥",
+            "larivaar": "भुजा​बांधि​भिला​करि​डारिओ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "BbBkf",
+          "unicode": "ਭਬਭਕਡ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4TJL",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "hsqI k®oip mUMf mih mwirE ]",
+          "unicode": "ਹਸਤੀ ਕ੍ਰੋਪਿ ਮੂੰਡ ਮਹਿ ਮਾਰਿਓ ॥"
+        },
+        "larivaar": {
+          "akhar": "hsqI​k®oip​mUMf​mih​mwirE​]",
+          "unicode": "ਹਸਤੀ​ਕ੍ਰੋਪਿ​ਮੂੰਡ​ਮਹਿ​ਮਾਰਿਓ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The elephant driver struck him on the head, and infuriated him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(mhwvq ny) gu`sy ivc Aw ky hwQI dy isr au`qy (s`t) mwrI hY[",
+              "unicode": "(ਮਹਾਵਤ ਨੇ) ਗੁੱਸੇ ਵਿਚ ਆ ਕੇ ਹਾਥੀ ਦੇ ਸਿਰ ਉੱਤੇ (ਸੱਟ) ਮਾਰੀ ਹੈ।"
+            }
+          },
+          "spanish": "Su jinete en cólera le pega en la cabeza;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hasatee krop moondd meh maario |",
+            "larivaar": "hasatee​krop​moondd​meh​maario​|"
+          },
+          "devanagari": {
+            "text": "हसती क्रोपि मूंड महि मारिओ ॥",
+            "larivaar": "हसती​क्रोपि​मूंड​महि​मारिओ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "hkmmm",
+          "unicode": "ਹਕਮਮਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5L8Q",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "hsiq Bwig kY cIsw mwrY ]",
+          "unicode": "ਹਸਤਿ ਭਾਗਿ ਕੈ ਚੀਸਾ ਮਾਰੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "hsiq​Bwig​kY​cIsw​mwrY​]",
+          "unicode": "ਹਸਤਿ​ਭਾਗਿ​ਕੈ​ਚੀਸਾ​ਮਾਰੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "But the elephant ran away, trumpeting,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr hwQI (mYƒ pYrW hyT ilqwVn dy QW) cIkW mwr ky (hor pwsy) B`jdw hY,",
+              "unicode": "ਪਰ ਹਾਥੀ (ਮੈਨੂੰ ਪੈਰਾਂ ਹੇਠ ਲਿਤਾੜਨ ਦੇ ਥਾਂ) ਚੀਕਾਂ ਮਾਰ ਕੇ (ਹੋਰ ਪਾਸੇ) ਭੱਜਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "el elefante berrea y se hecha a correr como diciendo,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hasat bhaag kai cheesaa maarai |",
+            "larivaar": "hasat​bhaag​kai​cheesaa​maarai​|"
+          },
+          "devanagari": {
+            "text": "हसति भागि कै चीसा मारै ॥",
+            "larivaar": "हसति​भागि​कै​चीसा​मारै​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "hBkcm",
+          "unicode": "ਹਭਕਚਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NFAV",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "ieAw mUriq kY hau bilhwrY ]1]",
+          "unicode": "ਇਆ ਮੂਰਤਿ ਕੈ ਹਉ ਬਲਿਹਾਰੈ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "ieAw​mUriq​kY​hau​bilhwrY​]1]",
+          "unicode": "ਇਆ​ਮੂਰਤਿ​ਕੈ​ਹਉ​ਬਲਿਹਾਰੈ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "\"I am a sacrifice to this image of the Lord.\" ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ijvyN AwKdw hY-) mYN sdky hW ies sohxy bMdy qoN ]1]",
+              "unicode": "(ਜਿਵੇਂ ਆਖਦਾ ਹੈ-) ਮੈਂ ਸਦਕੇ ਹਾਂ ਇਸ ਸੋਹਣੇ ਬੰਦੇ ਤੋਂ ॥੧॥"
+            }
+          },
+          "spanish": "me entrego en sacrificio a la imagen de mi Dios. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "eaa moorat kai hau balihaarai |1|",
+            "larivaar": "eaa​moorat​kai​hau​balihaarai​|1|"
+          },
+          "devanagari": {
+            "text": "इआ मूरति कै हउ बलिहारै ॥१॥",
+            "larivaar": "इआ​मूरति​कै​हउ​बलिहारै​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "emkhb",
+          "unicode": "ੲਮਕਹਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GDQ8",
+        "type": 3,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "Awih myry Twkur qumrw joru ]",
+          "unicode": "ਆਹਿ ਮੇਰੇ ਠਾਕੁਰ ਤੁਮਰਾ ਜੋਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awih​myry​Twkur​qumrw​joru​]",
+          "unicode": "ਆਹਿ​ਮੇਰੇ​ਠਾਕੁਰ​ਤੁਮਰਾ​ਜੋਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O my Lord and Master, You are my strength."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry pRBU! mYƒ qyrw qwx hY (so, qyrI brkiq nwl mYƒ koeI i&kr nhIN hY)[",
+              "unicode": "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰਾ ਤਾਣ ਹੈ (ਸੋ, ਤੇਰੀ ਬਰਕਤਿ ਨਾਲ ਮੈਨੂੰ ਕੋਈ ਫ਼ਿਕਰ ਨਹੀਂ ਹੈ)।"
+            }
+          },
+          "spanish": "Y le rezo a mi Maestro, Tú eres mi única esperanza,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aaeh mere tthaakur tumaraa jor |",
+            "larivaar": "aaeh​mere​tthaakur​tumaraa​jor​|"
+          },
+          "devanagari": {
+            "text": "आहि मेरे ठाकुर तुमरा जोरु ॥",
+            "larivaar": "आहि​मेरे​ठाकुर​तुमरा​जोरु​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "AmTqj",
+          "unicode": "ਅਮਠਤਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QGAQ",
+        "type": 3,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "kwjI bikbo hsqI qoru ]1] rhwau ]",
+          "unicode": "ਕਾਜੀ ਬਕਿਬੋ ਹਸਤੀ ਤੋਰੁ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "kwjI​bikbo​hsqI​qoru​]1]​rhwau​]",
+          "unicode": "ਕਾਜੀ​ਬਕਿਬੋ​ਹਸਤੀ​ਤੋਰੁ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Qazi shouted at the driver to drive the elephant on. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "kwzI qW kih irhw hY ik (ies kbIr au`qy) hwQI cwVH dyh ]1] rhwau ]",
+              "unicode": "ਕਾਜ਼ੀ ਤਾਂ ਕਹਿ ਰਿਹਾ ਹੈ ਕਿ (ਇਸ ਕਬੀਰ ਉੱਤੇ) ਹਾਥੀ ਚਾੜ੍ਹ ਦੇਹ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "mientras que el Quazi le grita al jinete: (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kaajee bakibo hasatee tor |1| rahaau |",
+            "larivaar": "kaajee​bakibo​hasatee​tor​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "काजी बकिबो हसती तोरु ॥१॥ रहाउ ॥",
+            "larivaar": "काजी​बकिबो​हसती​तोरु​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "kbhq",
+          "unicode": "ਕਬਹਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5RGM",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "ry mhwvq quJu fwrau kwit ]",
+          "unicode": "ਰੇ ਮਹਾਵਤ ਤੁਝੁ ਡਾਰਉ ਕਾਟਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "ry​mhwvq​quJu​fwrau​kwit​]",
+          "unicode": "ਰੇ​ਮਹਾਵਤ​ਤੁਝੁ​ਡਾਰਉ​ਕਾਟਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He yelled out, \"O driver, I shall cut you into pieces."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(kwzI AwKdw hY-) nhIN qW mYN qyrw isr auqrw idAWgw,",
+              "unicode": "(ਕਾਜ਼ੀ ਆਖਦਾ ਹੈ-) ਨਹੀਂ ਤਾਂ ਮੈਂ ਤੇਰਾ ਸਿਰ ਉਤਰਾ ਦਿਆਂਗਾ,"
+            }
+          },
+          "spanish": "sigue llevando al elefante"
+        },
+        "transliteration": {
+          "english": {
+            "text": "re mahaavat tujh ddaarau kaatt |",
+            "larivaar": "re​mahaavat​tujh​ddaarau​kaatt​|"
+          },
+          "devanagari": {
+            "text": "रे महावत तुझु डारउ काटि ॥",
+            "larivaar": "रे​महावत​तुझु​डारउ​काटि​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "rmqfk",
+          "unicode": "ਰਮਤਡਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "E6HH",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "iesih qurwvhu Gwlhu swit ]",
+          "unicode": "ਇਸਹਿ ਤੁਰਾਵਹੁ ਘਾਲਹੁ ਸਾਟਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "iesih​qurwvhu​Gwlhu​swit​]",
+          "unicode": "ਇਸਹਿ​ਤੁਰਾਵਹੁ​ਘਾਲਹੁ​ਸਾਟਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Hit him, and drive him on!\""
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies hwQI ƒ s`t mwr qy (kbIr vl) qor[",
+              "unicode": "ਇਸ ਹਾਥੀ ਨੂੰ ਸੱਟ ਮਾਰ ਤੇ (ਕਬੀਰ ਵਲ) ਤੋਰ।"
+            }
+          },
+          "spanish": "y si no le pegas al animal y haces que avance, te voy a cortar en pedazos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "eiseh turaavahu ghaalahu saatt |",
+            "larivaar": "eiseh​turaavahu​ghaalahu​saatt​|"
+          },
+          "devanagari": {
+            "text": "इसहि तुरावहु घालहु साटि ॥",
+            "larivaar": "इसहि​तुरावहु​घालहु​साटि​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "eqGs",
+          "unicode": "ੲਤਘਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XXHA",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "hsiq n qorY DrY iDAwnu ]",
+          "unicode": "ਹਸਤਿ ਨ ਤੋਰੈ ਧਰੈ ਧਿਆਨੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "hsiq​n​qorY​DrY​iDAwnu​]",
+          "unicode": "ਹਸਤਿ​ਨ​ਤੋਰੈ​ਧਰੈ​ਧਿਆਨੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "But the elephant did not move; instead, he began to meditate."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr hwQI qurdw nhIN (auh qW ieauN id`sdw hY ijvyN) pRBU-crnW ivc msq hY,",
+              "unicode": "ਪਰ ਹਾਥੀ ਤੁਰਦਾ ਨਹੀਂ (ਉਹ ਤਾਂ ਇਉਂ ਦਿੱਸਦਾ ਹੈ ਜਿਵੇਂ) ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਮਸਤ ਹੈ,"
+            }
+          },
+          "spanish": "Pero perdido en su contemplación, él no sigue la orden,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hasat na torai dharai dhiaan |",
+            "larivaar": "hasat​na​torai​dharai​dhiaan​|"
+          },
+          "devanagari": {
+            "text": "हसति न तोरै धरै धिआनु ॥",
+            "larivaar": "हसति​न​तोरै​धरै​धिआनु​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "hnqDD",
+          "unicode": "ਹਨਤਧਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FN6N",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "vw kY irdY bsY Bgvwnu ]2]",
+          "unicode": "ਵਾ ਕੈ ਰਿਦੈ ਬਸੈ ਭਗਵਾਨੁ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "vw​kY​irdY​bsY​Bgvwnu​]2]",
+          "unicode": "ਵਾ​ਕੈ​ਰਿਦੈ​ਬਸੈ​ਭਗਵਾਨੁ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord God abides within his mind. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ijvyN) aus dy ihrdy ivc prmwqmw (prgt ho ky) v`s irhw hY ]2]",
+              "unicode": "(ਜਿਵੇਂ) ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ (ਪਰਗਟ ਹੋ ਕੇ) ਵੱਸ ਰਿਹਾ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "pues en su corazón habita sólo su Señor, el Dios. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaa kai ridai basai bhagavaan |2|",
+            "larivaar": "vaa​kai​ridai​basai​bhagavaan​|2|"
+          },
+          "devanagari": {
+            "text": "वा कै रिदै बसै भगवानु ॥२॥",
+            "larivaar": "वा​कै​रिदै​बसै​भगवानु​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "vkrbB",
+          "unicode": "ਵਕਰਬਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5QNZ",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "ikAw AprwDu sMq hY kIn@w ]",
+          "unicode": "ਕਿਆ ਅਪਰਾਧੁ ਸੰਤ ਹੈ ਕੀਨੑਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "ikAw​AprwDu​sMq​hY​kIn@w​]",
+          "unicode": "ਕਿਆ​ਅਪਰਾਧੁ​ਸੰਤ​ਹੈ​ਕੀਨੑਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "What sin has this Saint committed,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "Blw mYN Awpxy pRBU dy syvk ny iehnW dw kIh ivgwV kIqw sI?",
+              "unicode": "ਭਲਾ ਮੈਂ ਆਪਣੇ ਪ੍ਰਭੂ ਦੇ ਸੇਵਕ ਨੇ ਇਹਨਾਂ ਦਾ ਕੀਹ ਵਿਗਾੜ ਕੀਤਾ ਸੀ?"
+            }
+          },
+          "spanish": "¿Qué falta ha cometido el Santo, él"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kiaa aparaadh sant hai keenaa |",
+            "larivaar": "kiaa​aparaadh​sant​hai​keenaa​|"
+          },
+          "devanagari": {
+            "text": "किआ अपराधु संत है कीना ॥",
+            "larivaar": "किआ​अपराधु​संत​है​कीना​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "kAshk",
+          "unicode": "ਕਅਸਹਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KH2W",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "bWiD pot kuMcr kau dIn@w ]",
+          "unicode": "ਬਾਂਧਿ ਪੋਟ ਕੁੰਚਰ ਕਉ ਦੀਨੑਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "bWiD​pot​kuMcr​kau​dIn@w​]",
+          "unicode": "ਬਾਂਧਿ​ਪੋਟ​ਕੁੰਚਰ​ਕਉ​ਦੀਨੑਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "that you have made him into a bundle and thrown him before the elephant?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jo myrI potlI bMnH ky (iehnW mYƒ) hwQI A`gy su`t id`qw[",
+              "unicode": "ਜੋ ਮੇਰੀ ਪੋਟਲੀ ਬੰਨ੍ਹ ਕੇ (ਇਹਨਾਂ ਮੈਨੂੰ) ਹਾਥੀ ਅੱਗੇ ਸੁੱਟ ਦਿੱਤਾ।"
+            }
+          },
+          "spanish": "él pregunta, para ser amarrado y echado a los pies del elefante?"
+        },
+        "transliteration": {
+          "english": {
+            "text": "baandh pott kunchar kau deenaa |",
+            "larivaar": "baandh​pott​kunchar​kau​deenaa​|"
+          },
+          "devanagari": {
+            "text": "बांधि पोट कुंचर कउ दीना ॥",
+            "larivaar": "बांधि​पोट​कुंचर​कउ​दीना​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "bpkkd",
+          "unicode": "ਬਪਕਕਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "R8SQ",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "kuMcru pot lY lY nmskwrY ]",
+          "unicode": "ਕੁੰਚਰੁ ਪੋਟ ਲੈ ਲੈ ਨਮਸਕਾਰੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "kuMcru​pot​lY​lY​nmskwrY​]",
+          "unicode": "ਕੁੰਚਰੁ​ਪੋਟ​ਲੈ​ਲੈ​ਨਮਸਕਾਰੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Lifting up the bundle, the elephant bows down before it."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(BwvyN ik) hwQI (myry srIr dI bxI) potlI ƒ muV muV isr invw irhw hY,",
+              "unicode": "(ਭਾਵੇਂ ਕਿ) ਹਾਥੀ (ਮੇਰੇ ਸਰੀਰ ਦੀ ਬਣੀ) ਪੋਟਲੀ ਨੂੰ ਮੁੜ ਮੁੜ ਸਿਰ ਨਿਵਾ ਰਿਹਾ ਹੈ,"
+            }
+          },
+          "spanish": "El elefante se postra ante mi saco de huesos una y otra vez,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kunchar pott lai lai namasakaarai |",
+            "larivaar": "kunchar​pott​lai​lai​namasakaarai​|"
+          },
+          "devanagari": {
+            "text": "कुंचरु पोट लै लै नमसकारै ॥",
+            "larivaar": "कुंचरु​पोट​लै​लै​नमसकारै​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "kplln",
+          "unicode": "ਕਪਲਲਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YJYS",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "bUJI nhI kwjI AMiDAwrY ]3]",
+          "unicode": "ਬੂਝੀ ਨਹੀ ਕਾਜੀ ਅੰਧਿਆਰੈ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "bUJI​nhI​kwjI​AMiDAwrY​]3]",
+          "unicode": "ਬੂਝੀ​ਨਹੀ​ਕਾਜੀ​ਅੰਧਿਆਰੈ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Qazi could not understand it; he was blind. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr kwzI ƒ (quA`sb dy) hnyry ivc ieh smJ hI nhIN AweI ]3]",
+              "unicode": "ਪਰ ਕਾਜ਼ੀ ਨੂੰ (ਤੁਅੱਸਬ ਦੇ) ਹਨੇਰੇ ਵਿਚ ਇਹ ਸਮਝ ਹੀ ਨਹੀਂ ਆਈ ॥੩॥"
+            }
+          },
+          "spanish": "pero el Quazi, en su ceguera, no puede entender, pues está ciego. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "boojhee nahee kaajee andhiaarai |3|",
+            "larivaar": "boojhee​nahee​kaajee​andhiaarai​|3|"
+          },
+          "devanagari": {
+            "text": "बूझी नही काजी अंधिआरै ॥३॥",
+            "larivaar": "बूझी​नही​काजी​अंधिआरै​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "bnkA",
+          "unicode": "ਬਨਕਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "55XU",
+        "type": 4,
+        "shabadid": "EAN",
+        "gurmukhi": {
+          "akhar": "qIin bwr pqIAw Bir lInw ]",
+          "unicode": "ਤੀਨਿ ਬਾਰ ਪਤੀਆ ਭਰਿ ਲੀਨਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "qIin​bwr​pqIAw​Bir​lInw​]",
+          "unicode": "ਤੀਨਿ​ਬਾਰ​ਪਤੀਆ​ਭਰਿ​ਲੀਨਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Three times, he tried to do it."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(kwzI ny hwQI ƒ myry aupr cwVH cwVH ky) iqMn vwrI prqwvw ilAw,",
+              "unicode": "(ਕਾਜ਼ੀ ਨੇ ਹਾਥੀ ਨੂੰ ਮੇਰੇ ਉਪਰ ਚਾੜ੍ਹ ਚਾੜ੍ਹ ਕੇ) ਤਿੰਨ ਵਾਰੀ ਪਰਤਾਵਾ ਲਿਆ,"
+            }
+          },
+          "spanish": "Tres veces trató de acabarme."
+        },
+        "transliteration": {
+          "english": {
+            "text": "teen baar pateea bhar leenaa |",
+            "larivaar": "teen​baar​pateea​bhar​leenaa​|"
+          },
+          "devanagari": {
+            "text": "तीनि बार पतीआ भरि लीना ॥",
+            "larivaar": "तीनि​बार​पतीआ​भरि​लीना​॥"
+          }
+        },
+        "writer": {
+          "id": 13,
+          "akhar": "Bgq kbIr jI",
+          "unicode": "ਭਗਤ ਕਬੀਰ ਜੀ",
+          "english": "Bhagat Kabir Ji"
+        },
+        "raag": {
+          "id": 21,
+          "akhar": "rwgu goNf",
+          "unicode": "ਰਾਗੁ ਗੋਂਡ",
+          "english": "Raag Gond",
+          "startang": 859,
+          "endang": 875,
+          "raagwithpage": "Raag Gond (859-875)"
+        },
+        "pageno": 870,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "qbpBl",
+          "unicode": "ਤਬਪਭਲ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

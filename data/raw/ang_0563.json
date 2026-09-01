@@ -1,0 +1,3209 @@
+{
+  "pageno": 563,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 55,
+  "page": [
+    {
+      "line": {
+        "id": "YSY1",
+        "type": 3,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "jip jIvw pRB crx qumwry ]1] rhwau ]",
+          "unicode": "ਜਪਿ ਜੀਵਾ ਪ੍ਰਭ ਚਰਣ ਤੁਮਾਰੇ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "jip​jIvw​pRB​crx​qumwry​]1]​rhwau​]",
+          "unicode": "ਜਪਿ​ਜੀਵਾ​ਪ੍ਰਭ​ਚਰਣ​ਤੁਮਾਰੇ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I live by meditating on Your Feet, God. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ik mYN qyry crn ihrdy ivc vs ky Awqmk jIvn pRwpq krW ]1] rhwau ]",
+              "unicode": "ਕਿ ਮੈਂ ਤੇਰੇ ਚਰਨ ਹਿਰਦੇ ਵਿਚ ਵਸ ਕੇ ਆਤਮਕ ਜੀਵਨ ਪ੍ਰਾਪਤ ਕਰਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "es que pueda vivir habitando en Tus Pies. (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jap jeevaa prabh charan tumaare |1| rahaau |",
+            "larivaar": "jap​jeevaa​prabh​charan​tumaare​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "जपि जीवा प्रभ चरण तुमारे ॥१॥ रहाउ ॥",
+            "larivaar": "जपि​जीवा​प्रभ​चरण​तुमारे​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "jjpcq",
+          "unicode": "ਜਜਪਚਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KH3R",
+        "type": 4,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "dieAwl purK myry pRB dwqy ]",
+          "unicode": "ਦਇਆਲ ਪੁਰਖ ਮੇਰੇ ਪ੍ਰਭ ਦਾਤੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "dieAwl​purK​myry​pRB​dwqy​]",
+          "unicode": "ਦਇਆਲ​ਪੁਰਖ​ਮੇਰੇ​ਪ੍ਰਭ​ਦਾਤੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O my Merciful and Almighty God, O Great Giver,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry dwqy pRBU! hy dieAw dy Gr Akwl purK!",
+              "unicode": "ਹੇ ਮੇਰੇ ਦਾਤੇ ਪ੍ਰਭੂ! ਹੇ ਦਇਆ ਦੇ ਘਰ ਅਕਾਲ ਪੁਰਖ!"
+            }
+          },
+          "spanish": "Oh Señor Compasivo y Todopoderoso, oh Gran Dador,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "deaal purakh mere prabh daate |",
+            "larivaar": "deaal​purakh​mere​prabh​daate​|"
+          },
+          "devanagari": {
+            "text": "दइआल पुरख मेरे प्रभ दाते ॥",
+            "larivaar": "दइआल​पुरख​मेरे​प्रभ​दाते​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "dpmpd",
+          "unicode": "ਦਪਮਪਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "AWWW",
+        "type": 4,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "ijsih jnwvhu iqnih qum jwqy ]2]",
+          "unicode": "ਜਿਸਹਿ ਜਨਾਵਹੁ ਤਿਨਹਿ ਤੁਮ ਜਾਤੇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "ijsih​jnwvhu​iqnih​qum​jwqy​]2]",
+          "unicode": "ਜਿਸਹਿ​ਜਨਾਵਹੁ​ਤਿਨਹਿ​ਤੁਮ​ਜਾਤੇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "he alone knows You, whom You so bless. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs mnu`K ƒ qUM Awp sUJ b^Sdw hYN, ausy ny hI qyry nwl sWJ pweI hY ]2]",
+              "unicode": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਆਪ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ, ਉਸੇ ਨੇ ਹੀ ਤੇਰੇ ਨਾਲ ਸਾਂਝ ਪਾਈ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "sólo a quien bendices con Tu Gracia, Te conoce en verdad. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jiseh janaavahu tineh tum jaate |2|",
+            "larivaar": "jiseh​janaavahu​tineh​tum​jaate​|2|"
+          },
+          "devanagari": {
+            "text": "जिसहि जनावहु तिनहि तुम जाते ॥२॥",
+            "larivaar": "जिसहि​जनावहु​तिनहि​तुम​जाते​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "jjqqj",
+          "unicode": "ਜਜਤਤਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "75DZ",
+        "type": 4,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "sdw sdw jweI bilhwrI ]",
+          "unicode": "ਸਦਾ ਸਦਾ ਜਾਈ ਬਲਿਹਾਰੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "sdw​sdw​jweI​bilhwrI​]",
+          "unicode": "ਸਦਾ​ਸਦਾ​ਜਾਈ​ਬਲਿਹਾਰੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Forever and ever, I am a sacrifice to You."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) mYN sdw hI sdw hI qYQoN sdky jWdw hW[",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਸਦਾ ਹੀ ਸਦਾ ਹੀ ਤੈਥੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
+            }
+          },
+          "spanish": "Por siempre y para siempre ofrezco mi ser en sacrificio a Ti,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sadaa sadaa jaaee balihaaree |",
+            "larivaar": "sadaa​sadaa​jaaee​balihaaree​|"
+          },
+          "devanagari": {
+            "text": "सदा सदा जाई बलिहारी ॥",
+            "larivaar": "सदा​सदा​जाई​बलिहारी​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "ssjb",
+          "unicode": "ਸਸਜਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "1NKW",
+        "type": 4,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "ieq auq dyKau Et qumwrI ]3]",
+          "unicode": "ਇਤ ਉਤ ਦੇਖਉ ਓਟ ਤੁਮਾਰੀ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "ieq​auq​dyKau​Et​qumwrI​]3]",
+          "unicode": "ਇਤ​ਉਤ​ਦੇਖਉ​ਓਟ​ਤੁਮਾਰੀ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Here and hereafter, I seek Your Protection. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies lok ivc qy prlok ivc mYN qyrw hI Awsrw q`kdw hW ]3]",
+              "unicode": "ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਪਰਲੋਕ ਵਿਚ ਮੈਂ ਤੇਰਾ ਹੀ ਆਸਰਾ ਤੱਕਦਾ ਹਾਂ ॥੩॥"
+            }
+          },
+          "spanish": "busco Tu Protección aquí y en el más allá. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "eit ut dekhau ott tumaaree |3|",
+            "larivaar": "eit​ut​dekhau​ott​tumaaree​|3|"
+          },
+          "devanagari": {
+            "text": "इत उत देखउ ओट तुमारी ॥३॥",
+            "larivaar": "इत​उत​देखउ​ओट​तुमारी​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "eadaq",
+          "unicode": "ੲੳਦੳਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "D136",
+        "type": 4,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "moih inrgux guxu ikCU n jwqw ]",
+          "unicode": "ਮੋਹਿ ਨਿਰਗੁਣ ਗੁਣੁ ਕਿਛੂ ਨ ਜਾਤਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "moih​inrgux​guxu​ikCU​n​jwqw​]",
+          "unicode": "ਮੋਹਿ​ਨਿਰਗੁਣ​ਗੁਣੁ​ਕਿਛੂ​ਨ​ਜਾਤਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I am without virtue; I know none of Your Glorious Virtues."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) mYN gux-hIx hW, mYN qyry gux (aupkwr) kuJ BI nhIN sI smJ sikAw[",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਗੁਣ-ਹੀਣ ਹਾਂ, ਮੈਂ ਤੇਰੇ ਗੁਣ (ਉਪਕਾਰ) ਕੁਝ ਭੀ ਨਹੀਂ ਸੀ ਸਮਝ ਸਕਿਆ।"
+            }
+          },
+          "spanish": "No tengo mérito, oh Señor; no conozco Tu Gloria,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "mohi niragun gun kichhoo na jaataa |",
+            "larivaar": "mohi​niragun​gun​kichhoo​na​jaataa​|"
+          },
+          "devanagari": {
+            "text": "मोहि निरगुण गुणु किछू न जाता ॥",
+            "larivaar": "मोहि​निरगुण​गुणु​किछू​न​जाता​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "mngknj",
+          "unicode": "ਮਨਗਕਨਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "75KU",
+        "type": 4,
+        "shabadid": "5BN",
+        "gurmukhi": {
+          "akhar": "nwnk swDU dyiK mnu rwqw ]4]3]",
+          "unicode": "ਨਾਨਕ ਸਾਧੂ ਦੇਖਿ ਮਨੁ ਰਾਤਾ ॥੪॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​swDU​dyiK​mnu​rwqw​]4]3]",
+          "unicode": "ਨਾਨਕ​ਸਾਧੂ​ਦੇਖਿ​ਮਨੁ​ਰਾਤਾ​॥੪॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, seeing the Holy Saint, my mind is imbued with You. ||4||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! gurU dw drsn kr ky myrw mn (qyry pRym ivc) rMigAw igAw hY ]4]3]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦਾ ਦਰਸਨ ਕਰ ਕੇ ਮੇਰਾ ਮਨ (ਤੇਰੇ ਪ੍ਰੇਮ ਵਿਚ) ਰੰਗਿਆ ਗਿਆ ਹੈ ॥੪॥੩॥"
+            }
+          },
+          "spanish": "pero conociendo a Tus Santos, mi mente se embulle en Ti. (4‑3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak saadhoo dekh man raataa |4|3|",
+            "larivaar": "naanak​saadhoo​dekh​man​raataa​|4|3|"
+          },
+          "devanagari": {
+            "text": "नानक साधू देखि मनु राता ॥४॥३॥",
+            "larivaar": "नानक​साधू​देखि​मनु​राता​॥४॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "nsdmr",
+          "unicode": "ਨਸਦਮਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CZQK",
+        "type": 2,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "vfhMsu mÚ 5 ]",
+          "unicode": "ਵਡਹੰਸੁ ਮਃ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfhMsu​mÚ​5​]",
+          "unicode": "ਵਡਹੰਸੁ​ਮਃ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wadahans, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Wadajans, Mejl Guru Aryan, Quinto Canal Divino, Chant."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddahans mahalaa 5 |",
+            "larivaar": "vaddahans​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "वडहंसु मः ५ ॥",
+            "larivaar": "वडहंसु​मः​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "vm5]",
+          "unicode": "ਵਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JL2J",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "AMqrjwmI so pRBu pUrw ]",
+          "unicode": "ਅੰਤਰਜਾਮੀ ਸੋ ਪ੍ਰਭੁ ਪੂਰਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "AMqrjwmI​so​pRBu​pUrw​]",
+          "unicode": "ਅੰਤਰਜਾਮੀ​ਸੋ​ਪ੍ਰਭੁ​ਪੂਰਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "God is perfect - He is the Inner-knower, the Searcher of hearts."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh pRBU sB dy idl dI jwxn vwlw hY, swry guxW nwl BrpUr hY[",
+              "unicode": "ਉਹ ਪ੍ਰਭੂ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ, ਸਾਰੇ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਹੈ।"
+            }
+          },
+          "spanish": "Nuestro Señor, el Conocedor de lo íntimo, es nuestro Perfecto Maestro,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "antarajaamee so prabh pooraa |",
+            "larivaar": "antarajaamee​so​prabh​pooraa​|"
+          },
+          "devanagari": {
+            "text": "अंतरजामी सो प्रभु पूरा ॥",
+            "larivaar": "अंतरजामी​सो​प्रभु​पूरा​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "Aspp",
+          "unicode": "ਅਸਪਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "D0YF",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "dwnu dyie swDU kI DUrw ]1]",
+          "unicode": "ਦਾਨੁ ਦੇਇ ਸਾਧੂ ਕੀ ਧੂਰਾ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "dwnu​dyie​swDU​kI​DUrw​]1]",
+          "unicode": "ਦਾਨੁ​ਦੇਇ​ਸਾਧੂ​ਕੀ​ਧੂਰਾ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He blesses us with the gift of the dust of the feet of the Saints. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(jdoN pRBU myhr krdw hY qW) gurU dy crnW dI DUV b^SIS (vjoN) dyNdw hY ]1]",
+              "unicode": "(ਜਦੋਂ ਪ੍ਰਭੂ ਮੇਹਰ ਕਰਦਾ ਹੈ ਤਾਂ) ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਖ਼ਸ਼ੀਸ਼ (ਵਜੋਂ) ਦੇਂਦਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "y nos bendice con el Polvo de los Pies de los Santos. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "daan dee saadhoo kee dhooraa |1|",
+            "larivaar": "daan​dee​saadhoo​kee​dhooraa​|1|"
+          },
+          "devanagari": {
+            "text": "दानु देइ साधू की धूरा ॥१॥",
+            "larivaar": "दानु​देइ​साधू​की​धूरा​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "ddskD",
+          "unicode": "ਦਦਸਕਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "S64A",
+        "type": 3,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "kir ikrpw pRB dIn dieAwlw ]",
+          "unicode": "ਕਰਿ ਕਿਰਪਾ ਪ੍ਰਭ ਦੀਨ ਦਇਆਲਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "kir​ikrpw​pRB​dIn​dieAwlw​]",
+          "unicode": "ਕਰਿ​ਕਿਰਪਾ​ਪ੍ਰਭ​ਦੀਨ​ਦਇਆਲਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Bless me with Your Grace, God, O Merciful to the meek."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy dInW au`qy dieAw krn vwly pRBU! (myry au`qy) ikrpw kr[",
+              "unicode": "ਹੇ ਦੀਨਾਂ ਉੱਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! (ਮੇਰੇ ਉੱਤੇ) ਕਿਰਪਾ ਕਰ।"
+            }
+          },
+          "spanish": "Oh Señor Benévolo con el humilde, bendíceme con Tu Gracia;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kar kirapaa prabh deen deaalaa |",
+            "larivaar": "kar​kirapaa​prabh​deen​deaalaa​|"
+          },
+          "devanagari": {
+            "text": "करि किरपा प्रभ दीन दइआला ॥",
+            "larivaar": "करि​किरपा​प्रभ​दीन​दइआला​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "kkpdd",
+          "unicode": "ਕਕਪਦਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8UMB",
+        "type": 3,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "qyrI Et pUrn gopwlw ]1] rhwau ]",
+          "unicode": "ਤੇਰੀ ਓਟ ਪੂਰਨ ਗੋਪਾਲਾ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "qyrI​Et​pUrn​gopwlw​]1]​rhwau​]",
+          "unicode": "ਤੇਰੀ​ਓਟ​ਪੂਰਨ​ਗੋਪਾਲਾ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I seek Your Protection, O Perfect Lord, Sustainer of the World. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy srb-ivAwpk! hy isRStI-pwlk! mYƒ qyrw hI Awsrw hY ]1] rhwau ]",
+              "unicode": "ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਸ੍ਰਿਸ਼ਟੀ-ਪਾਲਕ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "busco Tu Santuario, oh Señor Perfecto, Sostenedor de la Tierra. (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "teree ott pooran gopaalaa |1| rahaau |",
+            "larivaar": "teree​ott​pooran​gopaalaa​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "तेरी ओट पूरन गोपाला ॥१॥ रहाउ ॥",
+            "larivaar": "तेरी​ओट​पूरन​गोपाला​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "qapg",
+          "unicode": "ਤੳਪਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7A1G",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "jil Qil mhIAil rihAw BrpUry ]",
+          "unicode": "ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਰਹਿਆ ਭਰਪੂਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "jil​Qil​mhIAil​rihAw​BrpUry​]",
+          "unicode": "ਜਲਿ​ਥਲਿ​ਮਹੀਅਲਿ​ਰਹਿਆ​ਭਰਪੂਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He is totally pervading and permeating the water, the land and the sky."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pRBU pwxI ivc, DrqI ivc, AwkwS ivc, hr QW z`ry z`ry ivc mOjUd hY,",
+              "unicode": "ਪ੍ਰਭੂ ਪਾਣੀ ਵਿਚ, ਧਰਤੀ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ, ਹਰ ਥਾਂ ਜ਼ੱਰੇ ਜ਼ੱਰੇ ਵਿਚ ਮੌਜੂਦ ਹੈ,"
+            }
+          },
+          "spanish": "Tú llenas todo, la tierra, las aguas, los espacios siderales;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jal thal maheeal rahiaa bharapoore |",
+            "larivaar": "jal​thal​maheeal​rahiaa​bharapoore​|"
+          },
+          "devanagari": {
+            "text": "जलि थलि महीअलि रहिआ भरपूरे ॥",
+            "larivaar": "जलि​थलि​महीअलि​रहिआ​भरपूरे​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "jQmrB",
+          "unicode": "ਜਥਮਰਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DMJD",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "inkit vsY nwhI pRBu dUry ]2]",
+          "unicode": "ਨਿਕਟਿ ਵਸੈ ਨਾਹੀ ਪ੍ਰਭੁ ਦੂਰੇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "inkit​vsY​nwhI​pRBu​dUry​]2]",
+          "unicode": "ਨਿਕਟਿ​ਵਸੈ​ਨਾਹੀ​ਪ੍ਰਭੁ​ਦੂਰੇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "God is near at hand, not far away. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh (hryk jIv dy) nyVy v`sdw hY, iksy qoN dUr nhIN hY ]2]",
+              "unicode": "ਉਹ (ਹਰੇਕ ਜੀਵ ਦੇ) ਨੇੜੇ ਵੱਸਦਾ ਹੈ, ਕਿਸੇ ਤੋਂ ਦੂਰ ਨਹੀਂ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "Estás tan cerca de mí y nunca lejos.(2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "nikatt vasai naahee prabh doore |2|",
+            "larivaar": "nikatt​vasai​naahee​prabh​doore​|2|"
+          },
+          "devanagari": {
+            "text": "निकटि वसै नाही प्रभु दूरे ॥२॥",
+            "larivaar": "निकटि​वसै​नाही​प्रभु​दूरे​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "nvnpd",
+          "unicode": "ਨਵਨਪਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FBJU",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "ijs no ndir kry so iDAwey ]",
+          "unicode": "ਜਿਸ ਨੋ ਨਦਰਿ ਕਰੇ ਸੋ ਧਿਆਏ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijs​no​ndir​kry​so​iDAwey​]",
+          "unicode": "ਜਿਸ​ਨੋ​ਨਦਰਿ​ਕਰੇ​ਸੋ​ਧਿਆਏ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One whom He blesses with His Grace, meditates on Him."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs mnu`K auqy pRBU myhr dI ingwh krdw hY auh mnu`K aus dw ismrn krdw rihMdw hY,",
+              "unicode": "ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪ੍ਰਭੂ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਕਰਦਾ ਹੈ ਉਹ ਮਨੁੱਖ ਉਸ ਦਾ ਸਿਮਰਨ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Aquél en quien reside Tu Gracia,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jis no nadar kare so dhiaae |",
+            "larivaar": "jis​no​nadar​kare​so​dhiaae​|"
+          },
+          "devanagari": {
+            "text": "जिस नो नदरि करे सो धिआए ॥",
+            "larivaar": "जिस​नो​नदरि​करे​सो​धिआए​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "jnnksD",
+          "unicode": "ਜਨਨਕਸਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FKDZ",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "AwT phr hir ky gux gwey ]3]",
+          "unicode": "ਆਠ ਪਹਰ ਹਰਿ ਕੇ ਗੁਣ ਗਾਏ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "AwT​phr​hir​ky​gux​gwey​]3]",
+          "unicode": "ਆਠ​ਪਹਰ​ਹਰਿ​ਕੇ​ਗੁਣ​ਗਾਏ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Twenty-four hours a day, he sings the Glorious Praises of the Lord. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy auh mnu`K A`Ty pihr (hr vyly) prmwqmw dy gux gWdw rihMdw hY ]3]",
+              "unicode": "ਤੇ ਉਹ ਮਨੁੱਖ ਅੱਠੇ ਪਹਿਰ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "sólo él habita en Ti y canta Tu Alabanza noche y día. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aatth pehar har ke gun gaae |3|",
+            "larivaar": "aatth​pehar​har​ke​gun​gaae​|3|"
+          },
+          "devanagari": {
+            "text": "आठ पहर हरि के गुण गाए ॥३॥",
+            "larivaar": "आठ​पहर​हरि​के​गुण​गाए​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "Aphkgg",
+          "unicode": "ਅਪਹਕਗਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5BLW",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "jIA jMq sgly pRiqpwry ]",
+          "unicode": "ਜੀਅ ਜੰਤ ਸਗਲੇ ਪ੍ਰਤਿਪਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "jIA​jMq​sgly​pRiqpwry​]",
+          "unicode": "ਜੀਅ​ਜੰਤ​ਸਗਲੇ​ਪ੍ਰਤਿਪਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He cherishes and sustains all beings and creatures."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw swry hI jIvW dI pwlxw krdw hY[",
+              "unicode": "ਪਰਮਾਤਮਾ ਸਾਰੇ ਹੀ ਜੀਵਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Das sustento a todas tus criaturas;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jeea jant sagale pratipaare |",
+            "larivaar": "jeea​jant​sagale​pratipaare​|"
+          },
+          "devanagari": {
+            "text": "जीअ जंत सगले प्रतिपारे ॥",
+            "larivaar": "जीअ​जंत​सगले​प्रतिपारे​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "jjsp",
+          "unicode": "ਜਜਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BFSF",
+        "type": 4,
+        "shabadid": "BMK",
+        "gurmukhi": {
+          "akhar": "srin pirE nwnk hir duAwry ]4]4]",
+          "unicode": "ਸਰਨਿ ਪਰਿਓ ਨਾਨਕ ਹਰਿ ਦੁਆਰੇ ॥੪॥੪॥"
+        },
+        "larivaar": {
+          "akhar": "srin​pirE​nwnk​hir​duAwry​]4]4]",
+          "unicode": "ਸਰਨਿ​ਪਰਿਓ​ਨਾਨਕ​ਹਰਿ​ਦੁਆਰੇ​॥੪॥੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Nanak seeks the Sanctuary of the Lord's Door. ||4||4||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk pRBU dy dr qy Aw ky qyrI (pRBU dI) srn ipAw hY ]4]4]",
+              "unicode": "ਨਾਨਕ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਆ ਕੇ ਤੇਰੀ (ਪ੍ਰਭੂ ਦੀ) ਸਰਨ ਪਿਆ ਹੈ ॥੪॥੪॥"
+            }
+          },
+          "spanish": "Nanak busca refugio a Tu Puerta. (4‑4)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "saran pario naanak har duaare |4|4|",
+            "larivaar": "saran​pario​naanak​har​duaare​|4|4|"
+          },
+          "devanagari": {
+            "text": "सरनि परिओ नानक हरि दुआरे ॥४॥४॥",
+            "larivaar": "सरनि​परिओ​नानक​हरि​दुआरे​॥४॥४॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "spnhd",
+          "unicode": "ਸਪਨਹਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KU6J",
+        "type": 2,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "vfhMsu mhlw 5 ]",
+          "unicode": "ਵਡਹੰਸੁ ਮਹਲਾ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfhMsu​mhlw​5​]",
+          "unicode": "ਵਡਹੰਸੁ​ਮਹਲਾ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wadahans, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Wadajans, Mejl Guru Aryan, Quinto Canal Divino, Chant."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddahans mahalaa 5 |",
+            "larivaar": "vaddahans​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "वडहंसु महला ५ ॥",
+            "larivaar": "वडहंसु​महला​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "vm5]",
+          "unicode": "ਵਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "C423",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "qU vf dwqw AMqrjwmI ]",
+          "unicode": "ਤੂ ਵਡ ਦਾਤਾ ਅੰਤਰਜਾਮੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "qU​vf​dwqw​AMqrjwmI​]",
+          "unicode": "ਤੂ​ਵਡ​ਦਾਤਾ​ਅੰਤਰਜਾਮੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You are the Great Giver, the Inner-knower, the Searcher of hearts."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qUM sB qoN v`fw dwqw hYN, qUM (jIvW dy) idl dI jwxn vwlw hYN,",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਦਾਤਾ ਹੈਂ, ਤੂੰ (ਜੀਵਾਂ ਦੇ) ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈਂ,"
+            }
+          },
+          "spanish": "Eres nuestro Gran Dador, el Conocedor Íntimo;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "too vadd daataa antarajaamee |",
+            "larivaar": "too​vadd​daataa​antarajaamee​|"
+          },
+          "devanagari": {
+            "text": "तू वड दाता अंतरजामी ॥",
+            "larivaar": "तू​वड​दाता​अंतरजामी​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "qvdA",
+          "unicode": "ਤਵਦਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Y4ZP",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "sB mih rivAw pUrn pRB suAwmI ]1]",
+          "unicode": "ਸਭ ਮਹਿ ਰਵਿਆ ਪੂਰਨ ਪ੍ਰਭ ਸੁਆਮੀ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "sB​mih​rivAw​pUrn​pRB​suAwmI​]1]",
+          "unicode": "ਸਭ​ਮਹਿ​ਰਵਿਆ​ਪੂਰਨ​ਪ੍ਰਭ​ਸੁਆਮੀ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "God, the Perfect Lord and Master, is permeating and pervading in all. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry suAwmI! hy srb-ivAwpk! qUM sB dy AMdr mOjUd hYN ]1]",
+              "unicode": "ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਤੂੰ ਸਭ ਦੇ ਅੰਦਰ ਮੌਜੂਦ ਹੈਂ ॥੧॥"
+            }
+          },
+          "spanish": "nuestro Maestro Perfecto y prevaleces en todo. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sabh meh raviaa pooran prabh suaamee |1|",
+            "larivaar": "sabh​meh​raviaa​pooran​prabh​suaamee​|1|"
+          },
+          "devanagari": {
+            "text": "सभ महि रविआ पूरन प्रभ सुआमी ॥१॥",
+            "larivaar": "सभ​महि​रविआ​पूरन​प्रभ​सुआमी​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "smrpps",
+          "unicode": "ਸਮਰਪਪਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6HKG",
+        "type": 3,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "myry pRB pRIqm nwmu ADwrw ]",
+          "unicode": "ਮੇਰੇ ਪ੍ਰਭ ਪ੍ਰੀਤਮ ਨਾਮੁ ਅਧਾਰਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "myry​pRB​pRIqm​nwmu​ADwrw​]",
+          "unicode": "ਮੇਰੇ​ਪ੍ਰਭ​ਪ੍ਰੀਤਮ​ਨਾਮੁ​ਅਧਾਰਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Name of my Beloved God is my only support."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry pRIqm pRBU! qyrw nwm (myrI izMdgI dw) Awsrw hY[",
+              "unicode": "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ (ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਦਾ) ਆਸਰਾ ਹੈ।"
+            }
+          },
+          "spanish": "Tu Nombre es mi Único Soporte, oh Señor;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "mere prabh preetam naam adhaaraa |",
+            "larivaar": "mere​prabh​preetam​naam​adhaaraa​|"
+          },
+          "devanagari": {
+            "text": "मेरे प्रभ प्रीतम नामु अधारा ॥",
+            "larivaar": "मेरे​प्रभ​प्रीतम​नामु​अधारा​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "mppnA",
+          "unicode": "ਮਪਪਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XPPY",
+        "type": 3,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "hau suix suix jIvw nwmu qumwrw ]1] rhwau ]",
+          "unicode": "ਹਉ ਸੁਣਿ ਸੁਣਿ ਜੀਵਾ ਨਾਮੁ ਤੁਮਾਰਾ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "hau​suix​suix​jIvw​nwmu​qumwrw​]1]​rhwau​]",
+          "unicode": "ਹਉ​ਸੁਣਿ​ਸੁਣਿ​ਜੀਵਾ​ਨਾਮੁ​ਤੁਮਾਰਾ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I live by hearing, continually hearing Your Name. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qyrw nwm sux sux ky mYN Awqmk jIvn hwsl krdw hW ]1] rhwau ]",
+              "unicode": "ਤੇਰਾ ਨਾਮ ਸੁਣ ਸੁਣ ਕੇ ਮੈਂ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "vivo sólo cuando escucho Tu Nombre. (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "hau sun sun jeevaa naam tumaaraa |1| rahaau |",
+            "larivaar": "hau​sun​sun​jeevaa​naam​tumaaraa​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "हउ सुणि सुणि जीवा नामु तुमारा ॥१॥ रहाउ ॥",
+            "larivaar": "हउ​सुणि​सुणि​जीवा​नामु​तुमारा​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "hssjnq",
+          "unicode": "ਹਸਸਜਨਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8ZT2",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "qyrI srix siqgur myry pUry ]",
+          "unicode": "ਤੇਰੀ ਸਰਣਿ ਸਤਿਗੁਰ ਮੇਰੇ ਪੂਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "qyrI​srix​siqgur​myry​pUry​]",
+          "unicode": "ਤੇਰੀ​ਸਰਣਿ​ਸਤਿਗੁਰ​ਮੇਰੇ​ਪੂਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I seek Your Sanctuary, O my Perfect True Guru."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry pUry siqgurU! mYN qyrI srn AwieAw hW,",
+              "unicode": "ਹੇ ਮੇਰੇ ਪੂਰੇ ਸਤਿਗੁਰੂ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ,"
+            }
+          },
+          "spanish": "Busco Tu Refugio, oh mi Guru Perfecto;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "teree saran satigur mere poore |",
+            "larivaar": "teree​saran​satigur​mere​poore​|"
+          },
+          "devanagari": {
+            "text": "तेरी सरणि सतिगुर मेरे पूरे ॥",
+            "larivaar": "तेरी​सरणि​सतिगुर​मेरे​पूरे​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "qssmp",
+          "unicode": "ਤਸਸਮਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "T73X",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "mnu inrmlu hoie sMqw DUry ]2]",
+          "unicode": "ਮਨੁ ਨਿਰਮਲੁ ਹੋਇ ਸੰਤਾ ਧੂਰੇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "mnu​inrmlu​hoie​sMqw​DUry​]2]",
+          "unicode": "ਮਨੁ​ਨਿਰਮਲੁ​ਹੋਇ​ਸੰਤਾ​ਧੂਰੇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "My mind is purified by the dust of the Saints. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ikauN ik qyry sMq jnW dy crnW dI DUV nwl mn pivqR ho jWdw hY ]2]",
+              "unicode": "ਕਿਉਂ ਕਿ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਨਾਲ ਮਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "mi mente se vuelve pura untada del Polvo de los Pies de los Santos. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "man niramal hoe santaa dhoore |2|",
+            "larivaar": "man​niramal​hoe​santaa​dhoore​|2|"
+          },
+          "devanagari": {
+            "text": "मनु निरमलु होइ संता धूरे ॥२॥",
+            "larivaar": "मनु​निरमलु​होइ​संता​धूरे​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "mnhsD",
+          "unicode": "ਮਨਹਸਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5AKW",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "crn kml ihrdY auir Dwry ]",
+          "unicode": "ਚਰਨ ਕਮਲ ਹਿਰਦੈ ਉਰਿ ਧਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "crn​kml​ihrdY​auir​Dwry​]",
+          "unicode": "ਚਰਨ​ਕਮਲ​ਹਿਰਦੈ​ਉਰਿ​ਧਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I have enshrined His Lotus Feet within my heart."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qyry sohxy koml crn mYN Awpxy ihrdy ivc itkwey hoey hn,",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਸੋਹਣੇ ਕੋਮਲ ਚਰਨ ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਏ ਹੋਏ ਹਨ,"
+            }
+          },
+          "spanish": "Alabo Tus Pies de Loto en mi corazón,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "charan kamal hiradai ur dhaare |",
+            "larivaar": "charan​kamal​hiradai​ur​dhaare​|"
+          },
+          "devanagari": {
+            "text": "चरन कमल हिरदै उरि धारे ॥",
+            "larivaar": "चरन​कमल​हिरदै​उरि​धारे​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "ckhaD",
+          "unicode": "ਚਕਹੳਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9712",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "qyry drsn kau jweI bilhwry ]3]",
+          "unicode": "ਤੇਰੇ ਦਰਸਨ ਕਉ ਜਾਈ ਬਲਿਹਾਰੇ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "qyry​drsn​kau​jweI​bilhwry​]3]",
+          "unicode": "ਤੇਰੇ​ਦਰਸਨ​ਕਉ​ਜਾਈ​ਬਲਿਹਾਰੇ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I am a sacrifice to the Blessed Vision of Your Darshan. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy mYN qyry drSn qoN kurbwn jWdw hW ]3]",
+              "unicode": "ਤੇ ਮੈਂ ਤੇਰੇ ਦਰਸ਼ਨ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ॥੩॥"
+            }
+          },
+          "spanish": "oh Señor, y ofrezco siempre mi ser en sacrificio a Tu Visión. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "tere darasan kau jaaee balihaare |3|",
+            "larivaar": "tere​darasan​kau​jaaee​balihaare​|3|"
+          },
+          "devanagari": {
+            "text": "तेरे दरसन कउ जाई बलिहारे ॥३॥",
+            "larivaar": "तेरे​दरसन​कउ​जाई​बलिहारे​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "qdkjb",
+          "unicode": "ਤਦਕਜਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B6XH",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "kir ikrpw qyry gux gwvw ]",
+          "unicode": "ਕਰਿ ਕਿਰਪਾ ਤੇਰੇ ਗੁਣ ਗਾਵਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "kir​ikrpw​qyry​gux​gwvw​]",
+          "unicode": "ਕਰਿ​ਕਿਰਪਾ​ਤੇਰੇ​ਗੁਣ​ਗਾਵਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Show mercy unto me, that I may sing Your Glorious Praises."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) myhr kr, mYN qyry gux gWdw rhW,",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਮੇਹਰ ਕਰ, ਮੈਂ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ,"
+            }
+          },
+          "spanish": "Tenme Compasión para que pueda cantar siempre Tu Alabanza."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kar kirapaa tere gun gaavaa |",
+            "larivaar": "kar​kirapaa​tere​gun​gaavaa​|"
+          },
+          "devanagari": {
+            "text": "करि किरपा तेरे गुण गावा ॥",
+            "larivaar": "करि​किरपा​तेरे​गुण​गावा​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "kkqgg",
+          "unicode": "ਕਕਤਗਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5U1R",
+        "type": 4,
+        "shabadid": "R0K",
+        "gurmukhi": {
+          "akhar": "nwnk nwmu jpq suKu pwvw ]4]5]",
+          "unicode": "ਨਾਨਕ ਨਾਮੁ ਜਪਤ ਸੁਖੁ ਪਾਵਾ ॥੪॥੫॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​nwmu​jpq​suKu​pwvw​]4]5]",
+          "unicode": "ਨਾਨਕ​ਨਾਮੁ​ਜਪਤ​ਸੁਖੁ​ਪਾਵਾ​॥੪॥੫॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, chanting the Naam, the Name of the Lord, I obtain peace. ||4||5||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy qyrw nwm jpidAW Awqmk Awnµd mwxdw rhW, hy nwnk! ]4]5]",
+              "unicode": "ਤੇ ਤੇਰਾ ਨਾਮ ਜਪਦਿਆਂ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦਾ ਰਹਾਂ, ਹੇ ਨਾਨਕ! ॥੪॥੫॥"
+            }
+          },
+          "spanish": "Nanak ha sido bendecido con Éxtasis contemplando Tu Nombre. (4‑5)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak naam japat sukh paavaa |4|5|",
+            "larivaar": "naanak​naam​japat​sukh​paavaa​|4|5|"
+          },
+          "devanagari": {
+            "text": "नानक नामु जपत सुखु पावा ॥४॥५॥",
+            "larivaar": "नानक​नामु​जपत​सुखु​पावा​॥४॥५॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "nnjsp",
+          "unicode": "ਨਨਜਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "YTZC",
+        "type": 2,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "vfhMsu mhlw 5 ]",
+          "unicode": "ਵਡਹੰਸੁ ਮਹਲਾ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfhMsu​mhlw​5​]",
+          "unicode": "ਵਡਹੰਸੁ​ਮਹਲਾ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wadahans, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Wadajans, Mejl Guru Aryan, Quinto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddahans mahalaa 5 |",
+            "larivaar": "vaddahans​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "वडहंसु महला ५ ॥",
+            "larivaar": "वडहंसु​महला​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "vm5]",
+          "unicode": "ਵਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3YLN",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "swDsMig hir AMimRqu pIjY ]",
+          "unicode": "ਸਾਧਸੰਗਿ ਹਰਿ ਅੰਮ੍ਰਿਤੁ ਪੀਜੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "swDsMig​hir​AMimRqu​pIjY​]",
+          "unicode": "ਸਾਧਸੰਗਿ​ਹਰਿ​ਅੰਮ੍ਰਿਤੁ​ਪੀਜੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "In the Saadh Sangat, the Company of the Holy, drink in the Ambrosial Nectar of the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "gurU dI sMgq ivc hI Awqmk jIvn dyx vwlw hir-nwm jl pIxw cwhIdw hY,",
+              "unicode": "ਗੁਰੂ ਦੀ ਸੰਗਤ ਵਿਚ ਹੀ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਜਲ ਪੀਣਾ ਚਾਹੀਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Bebo el Néctar del Señor en la Sociedad de los Santos"
+        },
+        "transliteration": {
+          "english": {
+            "text": "saadhasang har amrit peejai |",
+            "larivaar": "saadhasang​har​amrit​peejai​|"
+          },
+          "devanagari": {
+            "text": "साधसंगि हरि अंम्रितु पीजै ॥",
+            "larivaar": "साधसंगि​हरि​अंम्रितु​पीजै​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "shAp",
+          "unicode": "ਸਹਅਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5HU1",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "nw jIau mrY n kbhU CIjY ]1]",
+          "unicode": "ਨਾ ਜੀਉ ਮਰੈ ਨ ਕਬਹੂ ਛੀਜੈ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "nw​jIau​mrY​n​kbhU​CIjY​]1]",
+          "unicode": "ਨਾ​ਜੀਉ​ਮਰੈ​ਨ​ਕਬਹੂ​ਛੀਜੈ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The soul does not die, nor does it ever waste away. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs nwl ijMd nW Awqmk mOqy mrdI hY qy nW kdy Awqmk jIvn iv`c kmzorI huMdI hY ]1]",
+              "unicode": "ਜਿਸ ਨਾਲ ਜਿੰਦ ਨਾਂ ਆਤਮਕ ਮੌਤੇ ਮਰਦੀ ਹੈ ਤੇ ਨਾਂ ਕਦੇ ਆਤਮਕ ਜੀਵਨ ਵਿੱਚ ਕਮਜ਼ੋਰੀ ਹੁੰਦੀ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "y entonces ni muero ni soy destruido. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naa jeeo marai na kabahoo chheejai |1|",
+            "larivaar": "naa​jeeo​marai​na​kabahoo​chheejai​|1|"
+          },
+          "devanagari": {
+            "text": "ना जीउ मरै न कबहू छीजै ॥१॥",
+            "larivaar": "ना​जीउ​मरै​न​कबहू​छीजै​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "njmnkC",
+          "unicode": "ਨਜਮਨਕਛ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3WBR",
+        "type": 3,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "vfBwgI guru pUrw pweIAY ]",
+          "unicode": "ਵਡਭਾਗੀ ਗੁਰੁ ਪੂਰਾ ਪਾਈਐ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfBwgI​guru​pUrw​pweIAY​]",
+          "unicode": "ਵਡਭਾਗੀ​ਗੁਰੁ​ਪੂਰਾ​ਪਾਈਐ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By great good fortune, one meets the Perfect Guru."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pUrw gurU v`fI iksmq nwl imldw hY,",
+              "unicode": "ਪੂਰਾ ਗੁਰੂ ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਮਿਲਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Con gran fortuna, uno recibe al Guru Perfecto,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddabhaagee gur pooraa paaeeai |",
+            "larivaar": "vaddabhaagee​gur​pooraa​paaeeai​|"
+          },
+          "devanagari": {
+            "text": "वडभागी गुरु पूरा पाईऐ ॥",
+            "larivaar": "वडभागी​गुरु​पूरा​पाईऐ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "vgpp",
+          "unicode": "ਵਗਪਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6KGR",
+        "type": 3,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "gur ikrpw qy pRBU iDAweIAY ]1] rhwau ]",
+          "unicode": "ਗੁਰ ਕਿਰਪਾ ਤੇ ਪ੍ਰਭੂ ਧਿਆਈਐ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​ikrpw​qy​pRBU​iDAweIAY​]1]​rhwau​]",
+          "unicode": "ਗੁਰ​ਕਿਰਪਾ​ਤੇ​ਪ੍ਰਭੂ​ਧਿਆਈਐ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By Guru's Grace, one meditates on God. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy gurU dI ikrpw nwl prmwqmw dw ismrn kIqw jw skdw hY ]1] rhwau ]",
+              "unicode": "ਤੇ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "y por Su Gracia uno habita en el Señor. (1‑Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur kirapaa te prabhoo dhiaaeeai |1| rahaau |",
+            "larivaar": "gur​kirapaa​te​prabhoo​dhiaaeeai​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "गुर किरपा ते प्रभू धिआईऐ ॥१॥ रहाउ ॥",
+            "larivaar": "गुर​किरपा​ते​प्रभू​धिआईऐ​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "gkqpD",
+          "unicode": "ਗਕਤਪਧ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UWMR",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "rqn jvwhr hir mwxk lwlw ]",
+          "unicode": "ਰਤਨ ਜਵਾਹਰ ਹਰਿ ਮਾਣਕ ਲਾਲਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "rqn​jvwhr​hir​mwxk​lwlw​]",
+          "unicode": "ਰਤਨ​ਜਵਾਹਰ​ਹਰਿ​ਮਾਣਕ​ਲਾਲਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord is the jewel, the pearl, the gem, the diamond."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw dI is&q-swlwh dy bcn (mwno) rqn hn, jvwhr hn, moqI hn, lwl hn[",
+              "unicode": "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਬਚਨ (ਮਾਨੋ) ਰਤਨ ਹਨ, ਜਵਾਹਰ ਹਨ, ਮੋਤੀ ਹਨ, ਲਾਲ ਹਨ।"
+            }
+          },
+          "spanish": "El Señor es la Joya, el rubí, la perla;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ratan javaahar har maanak laalaa |",
+            "larivaar": "ratan​javaahar​har​maanak​laalaa​|"
+          },
+          "devanagari": {
+            "text": "रतन जवाहर हरि माणक लाला ॥",
+            "larivaar": "रतन​जवाहर​हरि​माणक​लाला​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "rjhml",
+          "unicode": "ਰਜਹਮਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RNYL",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "ismir ismir pRB Bey inhwlw ]2]",
+          "unicode": "ਸਿਮਰਿ ਸਿਮਰਿ ਪ੍ਰਭ ਭਏ ਨਿਹਾਲਾ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "ismir​ismir​pRB​Bey​inhwlw​]2]",
+          "unicode": "ਸਿਮਰਿ​ਸਿਮਰਿ​ਪ੍ਰਭ​ਭਏ​ਨਿਹਾਲਾ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Meditating, meditating in remembrance on God, I am in ecstasy. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pRBU jI dw nwm ismr ismr ky sdw iKVy rhIdw hY ]2]",
+              "unicode": "ਪ੍ਰਭੂ ਜੀ ਦਾ ਨਾਮ ਸਿਮਰ ਸਿਮਰ ਕੇ ਸਦਾ ਖਿੜੇ ਰਹੀਦਾ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "aquél que la contempla es redimido. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "simar simar prabh bhe nihaalaa |2|",
+            "larivaar": "simar​simar​prabh​bhe​nihaalaa​|2|"
+          },
+          "devanagari": {
+            "text": "सिमरि सिमरि प्रभ भए निहाला ॥२॥",
+            "larivaar": "सिमरि​सिमरि​प्रभ​भए​निहाला​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "sspBn",
+          "unicode": "ਸਸਪਭਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "84SH",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "jq kq pyKau swDU srxw ]",
+          "unicode": "ਜਤ ਕਤ ਪੇਖਉ ਸਾਧੂ ਸਰਣਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "jq​kq​pyKau​swDU​srxw​]",
+          "unicode": "ਜਤ​ਕਤ​ਪੇਖਉ​ਸਾਧੂ​ਸਰਣਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wherever I look, I see the Sanctuary of the Holy."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYN ijDr ikDr vyKdw hW, kyvl gurU dI srn dI rwhIN hI,",
+              "unicode": "ਮੈਂ ਜਿਧਰ ਕਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਕੇਵਲ ਗੁਰੂ ਦੀ ਸਰਨ ਦੀ ਰਾਹੀਂ ਹੀ,"
+            }
+          },
+          "spanish": "Donde sea que veo, veo nada más que el Refugio de los Santos."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jat kat pekhau saadhoo saranaa |",
+            "larivaar": "jat​kat​pekhau​saadhoo​saranaa​|"
+          },
+          "devanagari": {
+            "text": "जत कत पेखउ साधू सरणा ॥",
+            "larivaar": "जत​कत​पेखउ​साधू​सरणा​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "jkpss",
+          "unicode": "ਜਕਪਸਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Y9BY",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "hir gux gwie inrml mnu krxw ]3]",
+          "unicode": "ਹਰਿ ਗੁਣ ਗਾਇ ਨਿਰਮਲ ਮਨੁ ਕਰਣਾ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "hir​gux​gwie​inrml​mnu​krxw​]3]",
+          "unicode": "ਹਰਿ​ਗੁਣ​ਗਾਇ​ਨਿਰਮਲ​ਮਨੁ​ਕਰਣਾ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Singing the Glorious Praises of the Lord, my soul becomes immaculately pure. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "prmwqmw dI is&q-swlwh dy gIq gw gw ky mn ƒ pivqR kIqw jw skdw hY ]3]",
+              "unicode": "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾ ਗਾ ਕੇ ਮਨ ਨੂੰ ਪਵਿਤ੍ਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "Aquél que canta la Alabanza del Señor, borra su mente de toda mancha. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har gun gaae niramal man karanaa |3|",
+            "larivaar": "har​gun​gaae​niramal​man​karanaa​|3|"
+          },
+          "devanagari": {
+            "text": "हरि गुण गाइ निरमल मनु करणा ॥३॥",
+            "larivaar": "हरि​गुण​गाइ​निरमल​मनु​करणा​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "hggnmk",
+          "unicode": "ਹਗਗਨਮਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ESHW",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "Gt Gt AMqir myrw suAwmI vUTw ]",
+          "unicode": "ਘਟ ਘਟ ਅੰਤਰਿ ਮੇਰਾ ਸੁਆਮੀ ਵੂਠਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "Gt​Gt​AMqir​myrw​suAwmI​vUTw​]",
+          "unicode": "ਘਟ​ਘਟ​ਅੰਤਰਿ​ਮੇਰਾ​ਸੁਆਮੀ​ਵੂਠਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Within each and every heart, dwells my Lord and Master."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "myrw mwlk-pRBU hryk srIr ivc v`sdw hY[",
+              "unicode": "ਮੇਰਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵੱਸਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "En todos los corazones habita el Señor, mi Único Maestro,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "ghatt ghatt antar meraa suaamee vootthaa |",
+            "larivaar": "ghatt​ghatt​antar​meraa​suaamee​vootthaa​|"
+          },
+          "devanagari": {
+            "text": "घट घट अंतरि मेरा सुआमी वूठा ॥",
+            "larivaar": "घट​घट​अंतरि​मेरा​सुआमी​वूठा​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "GGAmsv",
+          "unicode": "ਘਘਅਮਸਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3DQS",
+        "type": 4,
+        "shabadid": "4SL",
+        "gurmukhi": {
+          "akhar": "nwnk nwmu pwieAw pRBu qUTw ]4]6]",
+          "unicode": "ਨਾਨਕ ਨਾਮੁ ਪਾਇਆ ਪ੍ਰਭੁ ਤੂਠਾ ॥੪॥੬॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​nwmu​pwieAw​pRBu​qUTw​]4]6]",
+          "unicode": "ਨਾਨਕ​ਨਾਮੁ​ਪਾਇਆ​ਪ੍ਰਭੁ​ਤੂਠਾ​॥੪॥੬॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, one obtains the Naam, the Name of the Lord, when God bestows His Mercy. ||4||6||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jd pRBU pRsMn huMdw hY qW aus dw nwm (-ismrn) pRwpq huMdw hY, hy nwnk! ]4]6]",
+              "unicode": "ਜਦ ਪ੍ਰਭੂ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ ਤਾਂ ਉਸ ਦਾ ਨਾਮ (-ਸਿਮਰਨ) ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ, ਹੇ ਨਾਨਕ! ॥੪॥੬॥"
+            }
+          },
+          "spanish": "y cuando tiene Compasión de Nanak, él también es bendecido con Su Nombre. (4‑6)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak naam paaeaa prabh tootthaa |4|6|",
+            "larivaar": "naanak​naam​paaeaa​prabh​tootthaa​|4|6|"
+          },
+          "devanagari": {
+            "text": "नानक नामु पाइआ प्रभु तूठा ॥४॥६॥",
+            "larivaar": "नानक​नामु​पाइआ​प्रभु​तूठा​॥४॥६॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "nnppq",
+          "unicode": "ਨਨਪਪਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "V0M3",
+        "type": 2,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "vfhMsu mhlw 5 ]",
+          "unicode": "ਵਡਹੰਸੁ ਮਹਲਾ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfhMsu​mhlw​5​]",
+          "unicode": "ਵਡਹੰਸੁ​ਮਹਲਾ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wadahans, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Wadajans, Mejl Guru Aryan, Quinto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddahans mahalaa 5 |",
+            "larivaar": "vaddahans​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "वडहंसु महला ५ ॥",
+            "larivaar": "वडहंसु​महला​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "vm5]",
+          "unicode": "ਵਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9NL8",
+        "type": 3,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "ivsru nwhI pRB dIn dieAwlw ]",
+          "unicode": "ਵਿਸਰੁ ਨਾਹੀ ਪ੍ਰਭ ਦੀਨ ਦਇਆਲਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "ivsru​nwhI​pRB​dIn​dieAwlw​]",
+          "unicode": "ਵਿਸਰੁ​ਨਾਹੀ​ਪ੍ਰਭ​ਦੀਨ​ਦਇਆਲਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Do not forget me, O God, Merciful to the meek."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy dInW auqy dieAw krn vwly pRBU! myry qoN kdy nw Bul!",
+              "unicode": "ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਤੋਂ ਕਦੇ ਨਾ ਭੁਲ!"
+            }
+          },
+          "spanish": "No me abandones, oh Señor de los humildes,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "visar naahee prabh deen deaalaa |",
+            "larivaar": "visar​naahee​prabh​deen​deaalaa​|"
+          },
+          "devanagari": {
+            "text": "विसरु नाही प्रभ दीन दइआला ॥",
+            "larivaar": "विसरु​नाही​प्रभ​दीन​दइआला​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "vnpdd",
+          "unicode": "ਵਨਪਦਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PP8L",
+        "type": 3,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "qyrI srix pUrn ikrpwlw ]1] rhwau ]",
+          "unicode": "ਤੇਰੀ ਸਰਣਿ ਪੂਰਨ ਕਿਰਪਾਲਾ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "qyrI​srix​pUrn​ikrpwlw​]1]​rhwau​]",
+          "unicode": "ਤੇਰੀ​ਸਰਣਿ​ਪੂਰਨ​ਕਿਰਪਾਲਾ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "I seek Your Sanctuary, O Perfect, Compassionate Lord. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYN qyrI srn AwieAw hW, hy srb-ivAwpk! hy ikrpw dy Gr! ]1] rhwau ]",
+              "unicode": "ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਕਿਰਪਾ ਦੇ ਘਰ! ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "pues busco Tu Refugio, oh Ser Perfecto y Compasivo. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "teree saran pooran kirapaalaa |1| rahaau |",
+            "larivaar": "teree​saran​pooran​kirapaalaa​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "तेरी सरणि पूरन किरपाला ॥१॥ रहाउ ॥",
+            "larivaar": "तेरी​सरणि​पूरन​किरपाला​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "qspk",
+          "unicode": "ਤਸਪਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2PP9",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "jh iciq Awvih so Qwnu suhwvw ]",
+          "unicode": "ਜਹ ਚਿਤਿ ਆਵਹਿ ਸੋ ਥਾਨੁ ਸੁਹਾਵਾ ॥"
+        },
+        "larivaar": {
+          "akhar": "jh​iciq​Awvih​so​Qwnu​suhwvw​]",
+          "unicode": "ਜਹ​ਚਿਤਿ​ਆਵਹਿ​ਸੋ​ਥਾਨੁ​ਸੁਹਾਵਾ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wherever You come to mind, that place is blessed."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs ihrdy ivc qUM Aw v`sdw hYN auh ihrdw-QW sohxw bx jWdw hY[",
+              "unicode": "ਜਿਸ ਹਿਰਦੇ ਵਿਚ ਤੂੰ ਆ ਵੱਸਦਾ ਹੈਂ ਉਹ ਹਿਰਦਾ-ਥਾਂ ਸੋਹਣਾ ਬਣ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Donde sea que Te alabo, ese lugar es bendecido"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jeh chit aaveh so thaan suhaavaa |",
+            "larivaar": "jeh​chit​aaveh​so​thaan​suhaavaa​|"
+          },
+          "devanagari": {
+            "text": "जह चिति आवहि सो थानु सुहावा ॥",
+            "larivaar": "जह​चिति​आवहि​सो​थानु​सुहावा​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "jcAsQs",
+          "unicode": "ਜਚਅਸਥਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "Y93Q",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "ijqu vylw ivsrih qw lwgY hwvw ]1]",
+          "unicode": "ਜਿਤੁ ਵੇਲਾ ਵਿਸਰਹਿ ਤਾ ਲਾਗੈ ਹਾਵਾ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "ijqu​vylw​ivsrih​qw​lwgY​hwvw​]1]",
+          "unicode": "ਜਿਤੁ​ਵੇਲਾ​ਵਿਸਰਹਿ​ਤਾ​ਲਾਗੈ​ਹਾਵਾ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The moment I forget You, I am stricken with regret. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs vyly qUM (mYƒ) Bu`l jWdw hY qdoN (mYƒ) haukw l`gdw hY ]1]",
+              "unicode": "ਜਿਸ ਵੇਲੇ ਤੂੰ (ਮੈਨੂੰ) ਭੁੱਲ ਜਾਂਦਾ ਹੈ ਤਦੋਂ (ਮੈਨੂੰ) ਹਉਕਾ ਲੱਗਦਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "y donde sea que Te olvido, la tristeza me envuelve. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jit velaa visareh taa laagai haavaa |1|",
+            "larivaar": "jit​velaa​visareh​taa​laagai​haavaa​|1|"
+          },
+          "devanagari": {
+            "text": "जितु वेला विसरहि ता लागै हावा ॥१॥",
+            "larivaar": "जितु​वेला​विसरहि​ता​लागै​हावा​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "jvvqlh",
+          "unicode": "ਜਵਵਤਲਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9RYX",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "qyry jIA qU sd hI swQI ]",
+          "unicode": "ਤੇਰੇ ਜੀਅ ਤੂ ਸਦ ਹੀ ਸਾਥੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "qyry​jIA​qU​sd​hI​swQI​]",
+          "unicode": "ਤੇਰੇ​ਜੀਅ​ਤੂ​ਸਦ​ਹੀ​ਸਾਥੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "All beings are Yours; You are their constant companion."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) jIv qyry (pYdw kIqy hoey) hn, qUM sdw hI ienHW dw mddgwr hYN[",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਜੀਵ ਤੇਰੇ (ਪੈਦਾ ਕੀਤੇ ਹੋਏ) ਹਨ, ਤੂੰ ਸਦਾ ਹੀ ਇਨ੍ਹਾਂ ਦਾ ਮਦਦਗਾਰ ਹੈਂ।"
+            }
+          },
+          "spanish": "Todas las criaturas son Tuyas; Tú eres nuestro Amigo Incondicional."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tere jeea too sad hee saathee |",
+            "larivaar": "tere​jeea​too​sad​hee​saathee​|"
+          },
+          "devanagari": {
+            "text": "तेरे जीअ तू सद ही साथी ॥",
+            "larivaar": "तेरे​जीअ​तू​सद​ही​साथी​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "qjqshs",
+          "unicode": "ਤਜਤਸਹਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "6P0Y",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "sMswr swgr qy kFu dy hwQI ]2]",
+          "unicode": "ਸੰਸਾਰ ਸਾਗਰ ਤੇ ਕਢੁ ਦੇ ਹਾਥੀ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "sMswr​swgr​qy​kFu​dy​hwQI​]2]",
+          "unicode": "ਸੰਸਾਰ​ਸਾਗਰ​ਤੇ​ਕਢੁ​ਦੇ​ਹਾਥੀ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Please, give me Your hand, and pull me up out of this world-ocean. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU! Awpxw) h`Q dy ky (jIvW ƒ) sMswr-smuMdr ivcoN k`F lY ]2]",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ! ਆਪਣਾ) ਹੱਥ ਦੇ ਕੇ (ਜੀਵਾਂ ਨੂੰ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ ਕੱਢ ਲੈ ॥੨॥"
+            }
+          },
+          "spanish": "Por favor, dame Tu Mano y sácame de este Océano del Mundo. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sansaar saagar te kadt de haathee |2|",
+            "larivaar": "sansaar​saagar​te​kadt​de​haathee​|2|"
+          },
+          "devanagari": {
+            "text": "संसार सागर ते कढु दे हाथी ॥२॥",
+            "larivaar": "संसार​सागर​ते​कढु​दे​हाथी​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "ssqkdh",
+          "unicode": "ਸਸਤਕਦਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B7WG",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "Awvxu jwxw qum hI kIAw ]",
+          "unicode": "ਆਵਣੁ ਜਾਣਾ ਤੁਮ ਹੀ ਕੀਆ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awvxu​jwxw​qum​hI​kIAw​]",
+          "unicode": "ਆਵਣੁ​ਜਾਣਾ​ਤੁਮ​ਹੀ​ਕੀਆ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Coming and going are by Your Will."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) jnm mrn dw gyV qUM hI bxwieAw hoieAw hY,",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਤੂੰ ਹੀ ਬਣਾਇਆ ਹੋਇਆ ਹੈ,"
+            }
+          },
+          "spanish": "El ir y venir está sólo en Tu Voluntad,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "aavan jaanaa tum hee keea |",
+            "larivaar": "aavan​jaanaa​tum​hee​keea​|"
+          },
+          "devanagari": {
+            "text": "आवणु जाणा तुम ही कीआ ॥",
+            "larivaar": "आवणु​जाणा​तुम​ही​कीआ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "Ajqhk",
+          "unicode": "ਅਜਤਹਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WBCZ",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "ijsu qU rwKih iqsu dUKu n QIAw ]3]",
+          "unicode": "ਜਿਸੁ ਤੂ ਰਾਖਹਿ ਤਿਸੁ ਦੂਖੁ ਨ ਥੀਆ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "ijsu​qU​rwKih​iqsu​dUKu​n​QIAw​]3]",
+          "unicode": "ਜਿਸੁ​ਤੂ​ਰਾਖਹਿ​ਤਿਸੁ​ਦੂਖੁ​ਨ​ਥੀਆ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One whom You save is not afflicted by suffering. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs jIv ƒ qUM (ies gyV ivcoN) bcw lYNdw hYN, aus ƒ koeI duK poh nhIN skdw ]3]",
+              "unicode": "ਜਿਸ ਜੀਵ ਨੂੰ ਤੂੰ (ਇਸ ਗੇੜ ਵਿਚੋਂ) ਬਚਾ ਲੈਂਦਾ ਹੈਂ, ਉਸ ਨੂੰ ਕੋਈ ਦੁਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ ॥੩॥"
+            }
+          },
+          "spanish": "a quien salvas no le afecta el sufrimiento. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jis too raakheh tis dookh na theea |3|",
+            "larivaar": "jis​too​raakheh​tis​dookh​na​theea​|3|"
+          },
+          "devanagari": {
+            "text": "जिसु तू राखहि तिसु दूखु न थीआ ॥३॥",
+            "larivaar": "जिसु​तू​राखहि​तिसु​दूखु​न​थीआ​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "jqrqdnQ",
+          "unicode": "ਜਤਰਤਦਨਥ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WNWY",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "qU eyko swihbu Avru n hoir ]",
+          "unicode": "ਤੂ ਏਕੋ ਸਾਹਿਬੁ ਅਵਰੁ ਨ ਹੋਰਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "qU​eyko​swihbu​Avru​n​hoir​]",
+          "unicode": "ਤੂ​ਏਕੋ​ਸਾਹਿਬੁ​ਅਵਰੁ​ਨ​ਹੋਰਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You are the One and only Lord and Master; there is no other."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qUM hI iek mwlk hYN AYsw koeI hor nhIN[",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਹੀ ਇਕ ਮਾਲਕ ਹੈਂ ਐਸਾ ਕੋਈ ਹੋਰ ਨਹੀਂ।"
+            }
+          },
+          "spanish": "Eres nuestro Único Señor y Maestro; no existe ningún otro,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "too eko saahib avar na hor |",
+            "larivaar": "too​eko​saahib​avar​na​hor​|"
+          },
+          "devanagari": {
+            "text": "तू एको साहिबु अवरु न होरि ॥",
+            "larivaar": "तू​एको​साहिबु​अवरु​न​होरि​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "qesAnh",
+          "unicode": "ਤੲਸਅਨਹ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JVEG",
+        "type": 4,
+        "shabadid": "1EZ",
+        "gurmukhi": {
+          "akhar": "ibnau krY nwnku kr joir ]4]7]",
+          "unicode": "ਬਿਨਉ ਕਰੈ ਨਾਨਕੁ ਕਰ ਜੋਰਿ ॥੪॥੭॥"
+        },
+        "larivaar": {
+          "akhar": "ibnau​krY​nwnku​kr​joir​]4]7]",
+          "unicode": "ਬਿਨਉ​ਕਰੈ​ਨਾਨਕੁ​ਕਰ​ਜੋਰਿ​॥੪॥੭॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Nanak offers this prayer with his palms pressed together. ||4||7||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "nwnk (qyry A`gy) h`Q joV ky bynqI krdw hY ]4]7]",
+              "unicode": "ਨਾਨਕ (ਤੇਰੇ ਅੱਗੇ) ਹੱਥ ਜੋੜ ਕੇ ਬੇਨਤੀ ਕਰਦਾ ਹੈ ॥੪॥੭॥"
+            }
+          },
+          "spanish": "y en total humildad, Nanak Te ofrece su Oración. (4-7)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "binau karai naanak kar jor |4|7|",
+            "larivaar": "binau​karai​naanak​kar​jor​|4|7|"
+          },
+          "devanagari": {
+            "text": "बिनउ करै नानकु कर जोरि ॥४॥७॥",
+            "larivaar": "बिनउ​करै​नानकु​कर​जोरि​॥४॥७॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "bknkj",
+          "unicode": "ਬਕਨਕਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "SNVG",
+        "type": 2,
+        "shabadid": "FJW",
+        "gurmukhi": {
+          "akhar": "vfhMsu mÚ 5 ]",
+          "unicode": "ਵਡਹੰਸੁ ਮਃ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfhMsu​mÚ​5​]",
+          "unicode": "ਵਡਹੰਸੁ​ਮਃ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wadahans, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Wadajans, Mejl Guru Aryan, Quinto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddahans mahalaa 5 |",
+            "larivaar": "vaddahans​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "वडहंसु मः ५ ॥",
+            "larivaar": "वडहंसु​मः​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "vm5]",
+          "unicode": "ਵਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "L1S2",
+        "type": 4,
+        "shabadid": "FJW",
+        "gurmukhi": {
+          "akhar": "qU jwxwieih qw koeI jwxY ]",
+          "unicode": "ਤੂ ਜਾਣਾਇਹਿ ਤਾ ਕੋਈ ਜਾਣੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "qU​jwxwieih​qw​koeI​jwxY​]",
+          "unicode": "ਤੂ​ਜਾਣਾਇਹਿ​ਤਾ​ਕੋਈ​ਜਾਣੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "When You allow Yourself to be known, then we know You."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) jdoN iksy mnu`K ƒ qUM sUJ b^Sdw hYN, qdoN hI koeI qyry nwl fUMGI sWJ pWdw hY,",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਜਦੋਂ ਕਿਸੇ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ, ਤਦੋਂ ਹੀ ਕੋਈ ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਂਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Aquél a quien Tú le revelas Tu Ser, sólo él Te conoce, y entonces recita Tu Nombre."
+        },
+        "transliteration": {
+          "english": {
+            "text": "too jaanaaeihi taa koee jaanai |",
+            "larivaar": "too​jaanaaeihi​taa​koee​jaanai​|"
+          },
+          "devanagari": {
+            "text": "तू जाणाइहि ता कोई जाणै ॥",
+            "larivaar": "तू​जाणाइहि​ता​कोई​जाणै​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "qjqkj",
+          "unicode": "ਤਜਤਕਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UYTU",
+        "type": 4,
+        "shabadid": "FJW",
+        "gurmukhi": {
+          "akhar": "qyrw dIAw nwmu vKwxY ]1]",
+          "unicode": "ਤੇਰਾ ਦੀਆ ਨਾਮੁ ਵਖਾਣੈ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "qyrw​dIAw​nwmu​vKwxY​]1]",
+          "unicode": "ਤੇਰਾ​ਦੀਆ​ਨਾਮੁ​ਵਖਾਣੈ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "We chant Your Name, which You have given to us. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qy qyrw b^iSAw hoieAw qyrw nwm aucwrdw hY ]1]",
+              "unicode": "ਤੇ ਤੇਰਾ ਬਖ਼ਸ਼ਿਆ ਹੋਇਆ ਤੇਰਾ ਨਾਮ ਉਚਾਰਦਾ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "Así cantamos Tu Nombre, el que nos has dado. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "teraa deea naam vakhaanai |1|",
+            "larivaar": "teraa​deea​naam​vakhaanai​|1|"
+          },
+          "devanagari": {
+            "text": "तेरा दीआ नामु वखाणै ॥१॥",
+            "larivaar": "तेरा​दीआ​नामु​वखाणै​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "qdnv",
+          "unicode": "ਤਦਨਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JTPG",
+        "type": 3,
+        "shabadid": "FJW",
+        "gurmukhi": {
+          "akhar": "qU Acrju kudriq qyrI ibsmw ]1] rhwau ]",
+          "unicode": "ਤੂ ਅਚਰਜੁ ਕੁਦਰਤਿ ਤੇਰੀ ਬਿਸਮਾ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "qU​Acrju​kudriq​qyrI​ibsmw​]1]​rhwau​]",
+          "unicode": "ਤੂ​ਅਚਰਜੁ​ਕੁਦਰਤਿ​ਤੇਰੀ​ਬਿਸਮਾ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You are wonderful! Your creative potency is amazing! ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qUM hYrwn kr dyx vwlI hsqI vwlw hYN qy qyrI rcI rcnw BI hYrwngI pYdw krn vwlI hY ]1] rhwau ]",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਹੈਰਾਨ ਕਰ ਦੇਣ ਵਾਲੀ ਹਸਤੀ ਵਾਲਾ ਹੈਂ ਤੇ ਤੇਰੀ ਰਚੀ ਰਚਨਾ ਭੀ ਹੈਰਾਨਗੀ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "Eres Maravilloso, Tu Poder Creativo es Asombroso. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "too acharaj kudarat teree bisamaa |1| rahaau |",
+            "larivaar": "too​acharaj​kudarat​teree​bisamaa​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "तू अचरजु कुदरति तेरी बिसमा ॥१॥ रहाउ ॥",
+            "larivaar": "तू​अचरजु​कुदरति​तेरी​बिसमा​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 563,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "qAkqb",
+          "unicode": "ਤਅਕਤਬ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

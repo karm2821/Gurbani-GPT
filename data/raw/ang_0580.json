@@ -1,0 +1,2223 @@
+{
+  "pageno": 580,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 38,
+  "page": [
+    {
+      "line": {
+        "id": "SWX6",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "sUry syeI AwgY AwKIAih drgh pwvih swcI mwxo ]",
+          "unicode": "ਸੂਰੇ ਸੇਈ ਆਗੈ ਆਖੀਅਹਿ ਦਰਗਹ ਪਾਵਹਿ ਸਾਚੀ ਮਾਣੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "sUry​syeI​AwgY​AwKIAih​drgh​pwvih​swcI​mwxo​]",
+          "unicode": "ਸੂਰੇ​ਸੇਈ​ਆਗੈ​ਆਖੀਅਹਿ​ਦਰਗਹ​ਪਾਵਹਿ​ਸਾਚੀ​ਮਾਣੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They alone are acclaimed as brave warriors in the world hereafter, who receive true honor in the Court of the Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pRBU dI hzUrI ivc auhI bMdy sUrmy AwKy jWdy hn, auh bMdy sdw-iQr pRBU dI drgwh ivc Awdr pWdy hn[",
+              "unicode": "ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਉਹੀ ਬੰਦੇ ਸੂਰਮੇ ਆਖੇ ਜਾਂਦੇ ਹਨ, ਉਹ ਬੰਦੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ ਆਦਰ ਪਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "Sólo son aclamados como verdaderos Guerreros en el más allá, quienes reciben Verdadero Honor en la Corte del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "soore seee aagai aakheeeh daragah paaveh saachee maano |",
+            "larivaar": "soore​seee​aagai​aakheeeh​daragah​paaveh​saachee​maano​|"
+          },
+          "devanagari": {
+            "text": "सूरे सेई आगै आखीअहि दरगह पावहि साची माणो ॥",
+            "larivaar": "सूरे​सेई​आगै​आखीअहि​दरगह​पावहि​साची​माणो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "ssAAdpsm",
+          "unicode": "ਸਸਅਅਦਪਸਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CSNJ",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "drgh mwxu pwvih piq isau jwvih AwgY dUKu n lwgY ]",
+          "unicode": "ਦਰਗਹ ਮਾਣੁ ਪਾਵਹਿ ਪਤਿ ਸਿਉ ਜਾਵਹਿ ਆਗੈ ਦੂਖੁ ਨ ਲਾਗੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "drgh​mwxu​pwvih​piq​isau​jwvih​AwgY​dUKu​n​lwgY​]",
+          "unicode": "ਦਰਗਹ​ਮਾਣੁ​ਪਾਵਹਿ​ਪਤਿ​ਸਿਉ​ਜਾਵਹਿ​ਆਗੈ​ਦੂਖੁ​ਨ​ਲਾਗੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They are honored in the Court of the Lord; they depart with honor, and they do not suffer pain in the world hereafter."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh drgwh ivc ie`zq pWdy hn, ie`zq nwl (ieQoN) jWdy hn qy AgWh prlok ivc auhnW ƒ koeI du`K nhIN ivAwpdw[",
+              "unicode": "ਉਹ ਦਰਗਾਹ ਵਿਚ ਇੱਜ਼ਤ ਪਾਂਦੇ ਹਨ, ਇੱਜ਼ਤ ਨਾਲ (ਇਥੋਂ) ਜਾਂਦੇ ਹਨ ਤੇ ਅਗਾਂਹ ਪਰਲੋਕ ਵਿਚ ਉਹਨਾਂ ਨੂੰ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਵਿਆਪਦਾ।"
+            }
+          },
+          "spanish": "Ellos parten con Honor y no sufren en el más allá. Meditan en el Señor y obtienen los Frutos de su Recompensa."
+        },
+        "transliteration": {
+          "english": {
+            "text": "daragah maan paaveh pat siau jaaveh aagai dookh na laagai |",
+            "larivaar": "daragah​maan​paaveh​pat​siau​jaaveh​aagai​dookh​na​laagai​|"
+          },
+          "devanagari": {
+            "text": "दरगह माणु पावहि पति सिउ जावहि आगै दूखु न लागै ॥",
+            "larivaar": "दरगह​माणु​पावहि​पति​सिउ​जावहि​आगै​दूखु​न​लागै​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "dmppsjAdnl",
+          "unicode": "ਦਮਪਪਸਜਅਦਨਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "CCJD",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "kir eyku iDAwvih qW Plu pwvih ijqu syivAY Bau BwgY ]",
+          "unicode": "ਕਰਿ ਏਕੁ ਧਿਆਵਹਿ ਤਾਂ ਫਲੁ ਪਾਵਹਿ ਜਿਤੁ ਸੇਵਿਐ ਭਉ ਭਾਗੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "kir​eyku​iDAwvih​qW​Plu​pwvih​ijqu​syivAY​Bau​BwgY​]",
+          "unicode": "ਕਰਿ​ਏਕੁ​ਧਿਆਵਹਿ​ਤਾਂ​ਫਲੁ​ਪਾਵਹਿ​ਜਿਤੁ​ਸੇਵਿਐ​ਭਉ​ਭਾਗੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They meditate on the One Lord, and obtain the fruits of their rewards. Serving the Lord, their fear is dispelled."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "auh bMdy prmwqmw ƒ (hr QW) ivAwpk jwx ky ismrdy hn, aus pRBU dy dr qoN Pl pRwpq krdy hn ijs dw ismrn kIiqAW (hryk iksm dw) fr dUr ho jWdw hY[",
+              "unicode": "ਉਹ ਬੰਦੇ ਪਰਮਾਤਮਾ ਨੂੰ (ਹਰ ਥਾਂ) ਵਿਆਪਕ ਜਾਣ ਕੇ ਸਿਮਰਦੇ ਹਨ, ਉਸ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੋਂ ਫਲ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹਨ ਜਿਸ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ (ਹਰੇਕ ਕਿਸਮ ਦਾ) ਡਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Sirviendo al Señor los miedos desaparecen, no vivas más en tu ego."
+        },
+        "transliteration": {
+          "english": {
+            "text": "kar ek dhiaaveh taan fal paaveh jit seviai bhau bhaagai |",
+            "larivaar": "kar​ek​dhiaaveh​taan​fal​paaveh​jit​seviai​bhau​bhaagai​|"
+          },
+          "devanagari": {
+            "text": "करि एकु धिआवहि तां फलु पावहि जितु सेविऐ भउ भागै ॥",
+            "larivaar": "करि​एकु​धिआवहि​तां​फलु​पावहि​जितु​सेविऐ​भउ​भागै​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "keDqPpjsBB",
+          "unicode": "ਕੲਧਤਫਪਜਸਭਭ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JN55",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "aUcw nhI khxw mn mih rhxw Awpy jwxY jwxo ]",
+          "unicode": "ਊਚਾ ਨਹੀ ਕਹਣਾ ਮਨ ਮਹਿ ਰਹਣਾ ਆਪੇ ਜਾਣੈ ਜਾਣੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "aUcw​nhI​khxw​mn​mih​rhxw​Awpy​jwxY​jwxo​]",
+          "unicode": "ਊਚਾ​ਨਹੀ​ਕਹਣਾ​ਮਨ​ਮਹਿ​ਰਹਣਾ​ਆਪੇ​ਜਾਣੈ​ਜਾਣੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Do not indulge in egotism, and dwell within your own mind; the Knower Himself knows everything."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "AhMkwr dw bol nhIN bolxw cwhIdw, Awpxy Awp ƒ kwbU ivc r`Kxw cwhIdw hY, auh AMqrjwmI pRBU hryk dy idl dI Awp hI jwxdw hY[",
+              "unicode": "ਅਹੰਕਾਰ ਦਾ ਬੋਲ ਨਹੀਂ ਬੋਲਣਾ ਚਾਹੀਦਾ, ਆਪਣੇ ਆਪ ਨੂੰ ਕਾਬੂ ਵਿਚ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ, ਉਹ ਅੰਤਰਜਾਮੀ ਪ੍ਰਭੂ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "El Conocedor habita en tu ser, Él Mismo lo conoce todo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aoochaa nahee kahanaa man meh rahanaa aape jaanai jaano |",
+            "larivaar": "aoochaa​nahee​kahanaa​man​meh​rahanaa​aape​jaanai​jaano​|"
+          },
+          "devanagari": {
+            "text": "ऊचा नही कहणा मन महि रहणा आपे जाणै जाणो ॥",
+            "larivaar": "ऊचा​नही​कहणा​मन​महि​रहणा​आपे​जाणै​जाणो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "ankmmrAjj",
+          "unicode": "ੳਨਕਮਮਰਅਜਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TW1Y",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "mrxu muxsW sUirAw hku hY jo hoie mrih prvwxo ]3]",
+          "unicode": "ਮਰਣੁ ਮੁਣਸਾਂ ਸੂਰਿਆ ਹਕੁ ਹੈ ਜੋ ਹੋਇ ਮਰਹਿ ਪਰਵਾਣੋ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "mrxu​muxsW​sUirAw​hku​hY​jo​hoie​mrih​prvwxo​]3]",
+          "unicode": "ਮਰਣੁ​ਮੁਣਸਾਂ​ਸੂਰਿਆ​ਹਕੁ​ਹੈ​ਜੋ​ਹੋਇ​ਮਰਹਿ​ਪਰਵਾਣੋ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The death of brave heroes is blessed, if it is approved by God. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jyhVy mnu`K (jIaUNidAW hI pRBU dIAW nzrW ivc) kbUl ho ky mrdy hn auh sUrmy hn, auhnW dw mrnw (lok prlok ivc) slwihAw jWdw hY ]3]",
+              "unicode": "ਜੇਹੜੇ ਮਨੁੱਖ (ਜੀਊਂਦਿਆਂ ਹੀ ਪ੍ਰਭੂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ) ਕਬੂਲ ਹੋ ਕੇ ਮਰਦੇ ਹਨ ਉਹ ਸੂਰਮੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਮਰਨਾ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਸਲਾਹਿਆ ਜਾਂਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "Sí, la muerte de los Verdaderos Héroes es aprobada, si es aprobada por el Señor. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "maran munasaan sooriaa hak hai jo hoe mareh paravaano |3|",
+            "larivaar": "maran​munasaan​sooriaa​hak​hai​jo​hoe​mareh​paravaano​|3|"
+          },
+          "devanagari": {
+            "text": "मरणु मुणसां सूरिआ हकु है जो होइ मरहि परवाणो ॥३॥",
+            "larivaar": "मरणु​मुणसां​सूरिआ​हकु​है​जो​होइ​मरहि​परवाणो​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "mmshhjhmp",
+          "unicode": "ਮਮਸਹਹਜਹਮਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9SD3",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "nwnk iks no bwbw roeIAY bwjI hY iehu sMswro ]",
+          "unicode": "ਨਾਨਕ ਕਿਸ ਨੋ ਬਾਬਾ ਰੋਈਐ ਬਾਜੀ ਹੈ ਇਹੁ ਸੰਸਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​iks​no​bwbw​roeIAY​bwjI​hY​iehu​sMswro​]",
+          "unicode": "ਨਾਨਕ​ਕਿਸ​ਨੋ​ਬਾਬਾ​ਰੋਈਐ​ਬਾਜੀ​ਹੈ​ਇਹੁ​ਸੰਸਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Nanak: for whom should we mourn, O Baba? This world is merely a play."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! ieh jgq iek Kyf hY (Kyf bxdI FihMdI hI rihMdI hY) iksy dy mrn qy roxw ivArQ hY[",
+              "unicode": "ਹੇ ਨਾਨਕ! ਇਹ ਜਗਤ ਇਕ ਖੇਡ ਹੈ (ਖੇਡ ਬਣਦੀ ਢਹਿੰਦੀ ਹੀ ਰਹਿੰਦੀ ਹੈ) ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ ਰੋਣਾ ਵਿਅਰਥ ਹੈ।"
+            }
+          },
+          "spanish": "Dice Nanak, por quien llorar, oh Baba, este mundo es sólo una obra de teatro,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak kis no baabaa roeeai baajee hai ihu sansaaro |",
+            "larivaar": "naanak​kis​no​baabaa​roeeai​baajee​hai​ihu​sansaaro​|"
+          },
+          "devanagari": {
+            "text": "नानक किस नो बाबा रोईऐ बाजी है इहु संसारो ॥",
+            "larivaar": "नानक​किस​नो​बाबा​रोईऐ​बाजी​है​इहु​संसारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "nknbrbhes",
+          "unicode": "ਨਕਨਬਰਬਹੲਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HHBZ",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "kIqw vyKY swihbu Awpxw kudriq kry bIcwro ]",
+          "unicode": "ਕੀਤਾ ਵੇਖੈ ਸਾਹਿਬੁ ਆਪਣਾ ਕੁਦਰਤਿ ਕਰੇ ਬੀਚਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "kIqw​vyKY​swihbu​Awpxw​kudriq​kry​bIcwro​]",
+          "unicode": "ਕੀਤਾ​ਵੇਖੈ​ਸਾਹਿਬੁ​ਆਪਣਾ​ਕੁਦਰਤਿ​ਕਰੇ​ਬੀਚਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The Lord Master beholds His work, and contemplates His creative potency."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mwlk-pRBU Awpxy pYdw kIqy jgq dI Awp sMBwl krdw hY, AwpxI rcI rcnw dw Awp iDAwn r`Kdw hY[",
+              "unicode": "ਮਾਲਕ-ਪ੍ਰਭੂ ਆਪਣੇ ਪੈਦਾ ਕੀਤੇ ਜਗਤ ਦੀ ਆਪ ਸੰਭਾਲ ਕਰਦਾ ਹੈ, ਆਪਣੀ ਰਚੀ ਰਚਨਾ ਦਾ ਆਪ ਧਿਆਨ ਰੱਖਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "el Señor Maestro observa Su Trabajo y contempla Su Poder Creativo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "keetaa vekhai saahib aapanaa kudarat kare beechaaro |",
+            "larivaar": "keetaa​vekhai​saahib​aapanaa​kudarat​kare​beechaaro​|"
+          },
+          "devanagari": {
+            "text": "कीता वेखै साहिबु आपणा कुदरति करे बीचारो ॥",
+            "larivaar": "कीता​वेखै​साहिबु​आपणा​कुदरति​करे​बीचारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "kvsAkkb",
+          "unicode": "ਕਵਸਅਕਕਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3M59",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "kudriq bIcwry Dwrx Dwry ijin kIAw so jwxY ]",
+          "unicode": "ਕੁਦਰਤਿ ਬੀਚਾਰੇ ਧਾਰਣ ਧਾਰੇ ਜਿਨਿ ਕੀਆ ਸੋ ਜਾਣੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "kudriq​bIcwry​Dwrx​Dwry​ijin​kIAw​so​jwxY​]",
+          "unicode": "ਕੁਦਰਤਿ​ਬੀਚਾਰੇ​ਧਾਰਣ​ਧਾਰੇ​ਜਿਨਿ​ਕੀਆ​ਸੋ​ਜਾਣੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He contemplates His creative potency, having established the Universe. He who created it, He alone knows."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pRBU AwpxI rcI rcnw dw i^Awl r`Kdw hY, ies ƒ Awsrw-shwrw dyNdw hY, ijs ny jgq ricAw hY auhI ies dIAW loVW BI jwxdw hY[",
+              "unicode": "ਪ੍ਰਭੂ ਆਪਣੀ ਰਚੀ ਰਚਨਾ ਦਾ ਖ਼ਿਆਲ ਰੱਖਦਾ ਹੈ, ਇਸ ਨੂੰ ਆਸਰਾ-ਸਹਾਰਾ ਦੇਂਦਾ ਹੈ, ਜਿਸ ਨੇ ਜਗਤ ਰਚਿਆ ਹੈ ਉਹੀ ਇਸ ਦੀਆਂ ਲੋੜਾਂ ਭੀ ਜਾਣਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "El Señor crea todo, lo observa todo, y medita en Su Creación;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kudarat beechaare dhaaran dhaare jin keea so jaanai |",
+            "larivaar": "kudarat​beechaare​dhaaran​dhaare​jin​keea​so​jaanai​|"
+          },
+          "devanagari": {
+            "text": "कुदरति बीचारे धारण धारे जिनि कीआ सो जाणै ॥",
+            "larivaar": "कुदरति​बीचारे​धारण​धारे​जिनि​कीआ​सो​जाणै​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "kbDDjksj",
+          "unicode": "ਕਬਧਧਜਕਸਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BY7J",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "Awpy vyKY Awpy bUJY Awpy hukmu pCwxY ]",
+          "unicode": "ਆਪੇ ਵੇਖੈ ਆਪੇ ਬੂਝੈ ਆਪੇ ਹੁਕਮੁ ਪਛਾਣੈ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awpy​vyKY​Awpy​bUJY​Awpy​hukmu​pCwxY​]",
+          "unicode": "ਆਪੇ​ਵੇਖੈ​ਆਪੇ​ਬੂਝੈ​ਆਪੇ​ਹੁਕਮੁ​ਪਛਾਣੈ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He Himself beholds it, and He Himself understands it. He Himself realizes the Hukam of His Command."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pRBU Awp hI sB dy kIqy krmW ƒ vyKdw hY, Awp hI sB dy idlW dI smJdw hY, Awp hI Awpxy hukm ƒ pCwxdw hY (ik ikvyN ieh hukm jgq ivc vriqAw jwxw hY)[",
+              "unicode": "ਪ੍ਰਭੂ ਆਪ ਹੀ ਸਭ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਨੂੰ ਵੇਖਦਾ ਹੈ, ਆਪ ਹੀ ਸਭ ਦੇ ਦਿਲਾਂ ਦੀ ਸਮਝਦਾ ਹੈ, ਆਪ ਹੀ ਆਪਣੇ ਹੁਕਮ ਨੂੰ ਪਛਾਣਦਾ ਹੈ (ਕਿ ਕਿਵੇਂ ਇਹ ਹੁਕਮ ਜਗਤ ਵਿਚ ਵਰਤਿਆ ਜਾਣਾ ਹੈ)।"
+            }
+          },
+          "spanish": "sí, medita en Su Creación y Él Mismo pronuncia el Jukam de Su Comando."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aape vekhai aape boojhai aape hukam pachhaanai |",
+            "larivaar": "aape​vekhai​aape​boojhai​aape​hukam​pachhaanai​|"
+          },
+          "devanagari": {
+            "text": "आपे वेखै आपे बूझै आपे हुकमु पछाणै ॥",
+            "larivaar": "आपे​वेखै​आपे​बूझै​आपे​हुकमु​पछाणै​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "AvAbAhp",
+          "unicode": "ਅਵਅਬਅਹਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B6YE",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "ijin ikCu kIAw soeI jwxY qw kw rUpu Apwro ]",
+          "unicode": "ਜਿਨਿ ਕਿਛੁ ਕੀਆ ਸੋਈ ਜਾਣੈ ਤਾ ਕਾ ਰੂਪੁ ਅਪਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijin​ikCu​kIAw​soeI​jwxY​qw​kw​rUpu​Apwro​]",
+          "unicode": "ਜਿਨਿ​ਕਿਛੁ​ਕੀਆ​ਸੋਈ​ਜਾਣੈ​ਤਾ​ਕਾ​ਰੂਪੁ​ਅਪਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He who created these things, He alone knows. His subtle form is infinite."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs pRBU ny ieh jgq-rcnw kIqI hoeI hY auhI ies dIAW loVW jwxdw hY[ aus pRBU dw srUp byAMq hY[",
+              "unicode": "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਇਹ ਜਗਤ-ਰਚਨਾ ਕੀਤੀ ਹੋਈ ਹੈ ਉਹੀ ਇਸ ਦੀਆਂ ਲੋੜਾਂ ਜਾਣਦਾ ਹੈ। ਉਸ ਪ੍ਰਭੂ ਦਾ ਸਰੂਪ ਬੇਅੰਤ ਹੈ।"
+            }
+          },
+          "spanish": "Aquél que lo hizo todo, lo sabe todo; Su Sutil Forma es Infinita."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jin kichh keea soee jaanai taa kaa roop apaaro |",
+            "larivaar": "jin​kichh​keea​soee​jaanai​taa​kaa​roop​apaaro​|"
+          },
+          "devanagari": {
+            "text": "जिनि किछु कीआ सोई जाणै ता का रूपु अपारो ॥",
+            "larivaar": "जिनि​किछु​कीआ​सोई​जाणै​ता​का​रूपु​अपारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "jkksjqkrA",
+          "unicode": "ਜਕਕਸਜਤਕਰਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LFKN",
+        "type": 4,
+        "shabadid": "K5U",
+        "gurmukhi": {
+          "akhar": "nwnk iks no bwbw roeIAY bwjI hY iehu sMswro ]4]2]",
+          "unicode": "ਨਾਨਕ ਕਿਸ ਨੋ ਬਾਬਾ ਰੋਈਐ ਬਾਜੀ ਹੈ ਇਹੁ ਸੰਸਾਰੋ ॥੪॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​iks​no​bwbw​roeIAY​bwjI​hY​iehu​sMswro​]4]2]",
+          "unicode": "ਨਾਨਕ​ਕਿਸ​ਨੋ​ਬਾਬਾ​ਰੋਈਐ​ਬਾਜੀ​ਹੈ​ਇਹੁ​ਸੰਸਾਰੋ​॥੪॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Nanak: for whom should we mourn, O Baba? This world is merely a play. ||4||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! ieh jgq iek Kyf hY (ieQy jo GiVAw hY aus ny B`jxw hY) iksy dy mrn qy roxw ivArQ hY ]4]2]",
+              "unicode": "ਹੇ ਨਾਨਕ! ਇਹ ਜਗਤ ਇਕ ਖੇਡ ਹੈ (ਇਥੇ ਜੋ ਘੜਿਆ ਹੈ ਉਸ ਨੇ ਭੱਜਣਾ ਹੈ) ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ ਰੋਣਾ ਵਿਅਰਥ ਹੈ ॥੪॥੨॥"
+            }
+          },
+          "spanish": "Dice Nanak, ¿Quién es uno para afligirse cuando el mundo no es más que un teatro? (4-2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak kis no baabaa roeeai baajee hai ihu sansaaro |4|2|",
+            "larivaar": "naanak​kis​no​baabaa​roeeai​baajee​hai​ihu​sansaaro​|4|2|"
+          },
+          "devanagari": {
+            "text": "नानक किस नो बाबा रोईऐ बाजी है इहु संसारो ॥४॥२॥",
+            "larivaar": "नानक​किस​नो​बाबा​रोईऐ​बाजी​है​इहु​संसारो​॥४॥२॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "nknbrbhes",
+          "unicode": "ਨਕਨਬਰਬਹੲਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VH1L",
+        "type": 2,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "vfhMsu mhlw 1 dKxI ]",
+          "unicode": "ਵਡਹੰਸੁ ਮਹਲਾ ੧ ਦਖਣੀ ॥"
+        },
+        "larivaar": {
+          "akhar": "vfhMsu​mhlw​1​dKxI​]",
+          "unicode": "ਵਡਹੰਸੁ​ਮਹਲਾ​੧​ਦਖਣੀ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Wadahans, First Mehl, Dakhanee:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Wadajans, Mejl Guru Nanak, Primer Canal Divino, Dakhni."
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaddahans mahalaa 1 dakhanee |",
+            "larivaar": "vaddahans​mahalaa​1​dakhanee​|"
+          },
+          "devanagari": {
+            "text": "वडहंसु महला १ दखणी ॥",
+            "larivaar": "वडहंसु​महला​१​दखणी​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "vm1d]",
+          "unicode": "ਵਮ੧ਦ॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8SS9",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "scu isrMdw scw jwxIAY scVw prvdgwro ]",
+          "unicode": "ਸਚੁ ਸਿਰੰਦਾ ਸਚਾ ਜਾਣੀਐ ਸਚੜਾ ਪਰਵਦਗਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "scu​isrMdw​scw​jwxIAY​scVw​prvdgwro​]",
+          "unicode": "ਸਚੁ​ਸਿਰੰਦਾ​ਸਚਾ​ਜਾਣੀਐ​ਸਚੜਾ​ਪਰਵਦਗਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The True Creator Lord is True - know this well; He is the True Sustainer."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "inScw kro ik jgq ƒ pYdw krn vwlw prmwqmw hI sdw-iQr rihx vwlw hY, auh sdw-iQr pRBU (jIvW dI) pwlxw krn vwlw hY,",
+              "unicode": "ਨਿਸ਼ਚਾ ਕਰੋ ਕਿ ਜਗਤ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਪਰਮਾਤਮਾ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ (ਜੀਵਾਂ ਦੀ) ਪਾਲਣਾ ਕਰਨ ਵਾਲਾ ਹੈ,"
+            }
+          },
+          "spanish": "Verdad es nuestro Señor Creador, el Verdadero Uno, Quien sostiene todo. Él, el Autoexistente, Verdadero, Inefable e Infinito,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sach sirandaa sachaa jaaneeai sacharraa paravadagaaro |",
+            "larivaar": "sach​sirandaa​sachaa​jaaneeai​sacharraa​paravadagaaro​|"
+          },
+          "devanagari": {
+            "text": "सचु सिरंदा सचा जाणीऐ सचड़ा परवदगारो ॥",
+            "larivaar": "सचु​सिरंदा​सचा​जाणीऐ​सचड़ा​परवदगारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "sssjsp",
+          "unicode": "ਸਸਸਜਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "W3Z3",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "ijin AwpInY Awpu swijAw scVw AlK Apwro ]",
+          "unicode": "ਜਿਨਿ ਆਪੀਨੈ ਆਪੁ ਸਾਜਿਆ ਸਚੜਾ ਅਲਖ ਅਪਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijin​AwpInY​Awpu​swijAw​scVw​AlK​Apwro​]",
+          "unicode": "ਜਿਨਿ​ਆਪੀਨੈ​ਆਪੁ​ਸਾਜਿਆ​ਸਚੜਾ​ਅਲਖ​ਅਪਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He Himself fashioned His Own Self; the True Lord is invisible and infinite."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs sdw-iQr ny Awp hI Awpxy Awp ƒ (jgq dy rUp ivc) prgt kIqw hoieAw hY, auh AidRSt hY qy byAMq hY[",
+              "unicode": "ਜਿਸ ਸਦਾ-ਥਿਰ ਨੇ ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ (ਜਗਤ ਦੇ ਰੂਪ ਵਿਚ) ਪਰਗਟ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਉਹ ਅਦ੍ਰਿਸ਼ਟ ਹੈ ਤੇ ਬੇਅੰਤ ਹੈ।"
+            }
+          },
+          "spanish": "ha unido y separado las dos piedras del molino que son la tierra y el cielo,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jin aapeenai aap saajiaa sacharraa alakh apaaro |",
+            "larivaar": "jin​aapeenai​aap​saajiaa​sacharraa​alakh​apaaro​|"
+          },
+          "devanagari": {
+            "text": "जिनि आपीनै आपु साजिआ सचड़ा अलख अपारो ॥",
+            "larivaar": "जिनि​आपीनै​आपु​साजिआ​सचड़ा​अलख​अपारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "jAAssAA",
+          "unicode": "ਜਅਅਸਸਅਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BZG5",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "duie puV joiV ivCoiVAnu gur ibnu Goru AMDwro ]",
+          "unicode": "ਦੁਇ ਪੁੜ ਜੋੜਿ ਵਿਛੋੜਿਅਨੁ ਗੁਰ ਬਿਨੁ ਘੋਰੁ ਅੰਧਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "duie​puV​joiV​ivCoiVAnu​gur​ibnu​Goru​AMDwro​]",
+          "unicode": "ਦੁਇ​ਪੁੜ​ਜੋੜਿ​ਵਿਛੋੜਿਅਨੁ​ਗੁਰ​ਬਿਨੁ​ਘੋਰੁ​ਅੰਧਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He brought together, and then separated, the two grinding stones of the earth and the sky; without the Guru, there is only pitch darkness."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "dovyN puV (DrqI qy AwkwS) joV ky (Bwv, jgq-rcnw kr ky) aus pRBU ny jIvW ƒ mwieAw dy moh ivc Psw ky Awpxy nwloN ivCoV id`qw hY[ gurU qoN ibnw (jgq ivc mwieAw dy moh dw) Gu`p hnyrw hY[",
+              "unicode": "ਦੋਵੇਂ ਪੁੜ (ਧਰਤੀ ਤੇ ਆਕਾਸ਼) ਜੋੜ ਕੇ (ਭਾਵ, ਜਗਤ-ਰਚਨਾ ਕਰ ਕੇ) ਉਸ ਪ੍ਰਭੂ ਨੇ ਜੀਵਾਂ ਨੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਾ ਕੇ ਆਪਣੇ ਨਾਲੋਂ ਵਿਛੋੜ ਦਿੱਤਾ ਹੈ। ਗੁਰੂ ਤੋਂ ਬਿਨਾ (ਜਗਤ ਵਿਚ ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਘੁੱਪ ਹਨੇਰਾ ਹੈ।"
+            }
+          },
+          "spanish": "pero sin el Guru nadie puede traer hacia sí mismo la Luz de la Sabiduría."
+        },
+        "transliteration": {
+          "english": {
+            "text": "due purr jorr vichhorrian gur bin ghor andhaaro |",
+            "larivaar": "due​purr​jorr​vichhorrian​gur​bin​ghor​andhaaro​|"
+          },
+          "devanagari": {
+            "text": "दुइ पुड़ जोड़ि विछोड़िअनु गुर बिनु घोरु अंधारो ॥",
+            "larivaar": "दुइ​पुड़​जोड़ि​विछोड़िअनु​गुर​बिनु​घोरु​अंधारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "dpjvgbGA",
+          "unicode": "ਦਪਜਵਗਬਘਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RBZW",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "sUrju cMdu isrijAnu Aihinis clqu vIcwro ]1]",
+          "unicode": "ਸੂਰਜੁ ਚੰਦੁ ਸਿਰਜਿਅਨੁ ਅਹਿਨਿਸਿ ਚਲਤੁ ਵੀਚਾਰੋ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "sUrju​cMdu​isrijAnu​Aihinis​clqu​vIcwro​]1]",
+          "unicode": "ਸੂਰਜੁ​ਚੰਦੁ​ਸਿਰਜਿਅਨੁ​ਅਹਿਨਿਸਿ​ਚਲਤੁ​ਵੀਚਾਰੋ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He created the sun and the moon; night and day, they move according to His Thought. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "aus prmwqmw ny hI sUrj qy cMdRmw bxw ky ieh idn qy rwq dw jgq-qmwSw bxwieAw hY ]1]",
+              "unicode": "ਉਸ ਪਰਮਾਤਮਾ ਨੇ ਹੀ ਸੂਰਜ ਤੇ ਚੰਦ੍ਰਮਾ ਬਣਾ ਕੇ ਇਹ ਦਿਨ ਤੇ ਰਾਤ ਦਾ ਜਗਤ-ਤਮਾਸ਼ਾ ਬਣਾਇਆ ਹੈ ॥੧॥"
+            }
+          },
+          "spanish": "Nuestro Dios creó el sol y la luna y el flujo e influjo constante de los dos. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sooraj chand sirajian ahinis chalat veechaaro |1|",
+            "larivaar": "sooraj​chand​sirajian​ahinis​chalat​veechaaro​|1|"
+          },
+          "devanagari": {
+            "text": "सूरजु चंदु सिरजिअनु अहिनिसि चलतु वीचारो ॥१॥",
+            "larivaar": "सूरजु​चंदु​सिरजिअनु​अहिनिसि​चलतु​वीचारो​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "scsAcv",
+          "unicode": "ਸਚਸਅਚਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VJSG",
+        "type": 3,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "scVw swihbu scu qU scVw dyih ipAwro ] rhwau ]",
+          "unicode": "ਸਚੜਾ ਸਾਹਿਬੁ ਸਚੁ ਤੂ ਸਚੜਾ ਦੇਹਿ ਪਿਆਰੋ ॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "scVw​swihbu​scu​qU​scVw​dyih​ipAwro​]​rhwau​]",
+          "unicode": "ਸਚੜਾ​ਸਾਹਿਬੁ​ਸਚੁ​ਤੂ​ਸਚੜਾ​ਦੇਹਿ​ਪਿਆਰੋ​॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O True Lord and Master, You are True. O True Lord, bless me with Your Love. ||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qUM sdw hI iQr rihx vwlw mwlk hYN[ qUM Awp hI sB jIvW ƒ sdw-iQr rihx vwly ipAwr dI dwq dyNdw hYN[ rhwau]",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਦਾ ਹੀ ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਮਾਲਕ ਹੈਂ। ਤੂੰ ਆਪ ਹੀ ਸਭ ਜੀਵਾਂ ਨੂੰ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਿਆਰ ਦੀ ਦਾਤ ਦੇਂਦਾ ਹੈਂ। ਰਹਾਉ॥"
+            }
+          },
+          "spanish": "Verdadero eres, oh Maestro; bendícenos con Tu Amor. (Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sacharraa saahib sach too sacharraa dehi piaaro | rahaau |",
+            "larivaar": "sacharraa​saahib​sach​too​sacharraa​dehi​piaaro​|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "सचड़ा साहिबु सचु तू सचड़ा देहि पिआरो ॥ रहाउ ॥",
+            "larivaar": "सचड़ा​साहिबु​सचु​तू​सचड़ा​देहि​पिआरो​॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "sssqsdp",
+          "unicode": "ਸਸਸਤਸਦਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MMFL",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "quDu isrjI mydnI duKu suKu dyvxhwro ]",
+          "unicode": "ਤੁਧੁ ਸਿਰਜੀ ਮੇਦਨੀ ਦੁਖੁ ਸੁਖੁ ਦੇਵਣਹਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "quDu​isrjI​mydnI​duKu​suKu​dyvxhwro​]",
+          "unicode": "ਤੁਧੁ​ਸਿਰਜੀ​ਮੇਦਨੀ​ਦੁਖੁ​ਸੁਖੁ​ਦੇਵਣਹਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You created the Universe; You are the Giver of pain and pleasure."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) qUM hI isRStI pYdw kIqI hY, (jIvW ƒ) du`K qy suK dyx vwlw BI qUM hI hYN[",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਹੀ ਸ੍ਰਿਸ਼ਟੀ ਪੈਦਾ ਕੀਤੀ ਹੈ, (ਜੀਵਾਂ ਨੂੰ) ਦੁੱਖ ਤੇ ਸੁਖ ਦੇਣ ਵਾਲਾ ਭੀ ਤੂੰ ਹੀ ਹੈਂ।"
+            }
+          },
+          "spanish": "Eres Tú Quien ha creado la tierra y nos traes el placer y el dolor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tudh sirajee medanee dukh sukh devanahaaro |",
+            "larivaar": "tudh​sirajee​medanee​dukh​sukh​devanahaaro​|"
+          },
+          "devanagari": {
+            "text": "तुधु सिरजी मेदनी दुखु सुखु देवणहारो ॥",
+            "larivaar": "तुधु​सिरजी​मेदनी​दुखु​सुखु​देवणहारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "qsmdsd",
+          "unicode": "ਤਸਮਦਸਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UDN7",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "nwrI purK isrijAY ibKu mwieAw mohu ipAwro ]",
+          "unicode": "ਨਾਰੀ ਪੁਰਖ ਸਿਰਜਿਐ ਬਿਖੁ ਮਾਇਆ ਮੋਹੁ ਪਿਆਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwrI​purK​isrijAY​ibKu​mwieAw​mohu​ipAwro​]",
+          "unicode": "ਨਾਰੀ​ਪੁਰਖ​ਸਿਰਜਿਐ​ਬਿਖੁ​ਮਾਇਆ​ਮੋਹੁ​ਪਿਆਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You created woman and man, the love of poison, and emotional attachment to Maya."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "iesqRIAW qy mrd BI qUM pYdw kIqy hn, mwieAw zihr dw moh qy ipAwr BI qUM hI bxwieAw hY[",
+              "unicode": "ਇਸਤ੍ਰੀਆਂ ਤੇ ਮਰਦ ਭੀ ਤੂੰ ਪੈਦਾ ਕੀਤੇ ਹਨ, ਮਾਇਆ ਜ਼ਹਿਰ ਦਾ ਮੋਹ ਤੇ ਪਿਆਰ ਭੀ ਤੂੰ ਹੀ ਬਣਾਇਆ ਹੈ।"
+            }
+          },
+          "spanish": "Has creado al hombre, a la mujer, al veneno que es la Maya y nuestra relación con ella."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naaree purakh sirajiai bikh maaeaa mohu piaaro |",
+            "larivaar": "naaree​purakh​sirajiai​bikh​maaeaa​mohu​piaaro​|"
+          },
+          "devanagari": {
+            "text": "नारी पुरख सिरजिऐ बिखु माइआ मोहु पिआरो ॥",
+            "larivaar": "नारी​पुरख​सिरजिऐ​बिखु​माइआ​मोहु​पिआरो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "npsbmmp",
+          "unicode": "ਨਪਸਬਮਮਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GHYA",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "KwxI bwxI qyrIAw dyih jIAw AwDwro ]",
+          "unicode": "ਖਾਣੀ ਬਾਣੀ ਤੇਰੀਆ ਦੇਹਿ ਜੀਆ ਆਧਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "KwxI​bwxI​qyrIAw​dyih​jIAw​AwDwro​]",
+          "unicode": "ਖਾਣੀ​ਬਾਣੀ​ਤੇਰੀਆ​ਦੇਹਿ​ਜੀਆ​ਆਧਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The four sources of creation, and the power of the Word, are also of Your making. You give Support to all beings."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jIv-auqp`qI dIAW cwr KwxIAW qy jIvW dIAW bolIAW BI qyrIAW hI rcIAW hoeIAW hn[",
+              "unicode": "ਜੀਵ-ਉਤਪੱਤੀ ਦੀਆਂ ਚਾਰ ਖਾਣੀਆਂ ਤੇ ਜੀਵਾਂ ਦੀਆਂ ਬੋਲੀਆਂ ਭੀ ਤੇਰੀਆਂ ਹੀ ਰਚੀਆਂ ਹੋਈਆਂ ਹਨ।"
+            }
+          },
+          "spanish": "También el poder de hablar, las cuatro fuentes de la creación y su sustento."
+        },
+        "transliteration": {
+          "english": {
+            "text": "khaanee baanee tereea dehi jeea aadhaaro |",
+            "larivaar": "khaanee​baanee​tereea​dehi​jeea​aadhaaro​|"
+          },
+          "devanagari": {
+            "text": "खाणी बाणी तेरीआ देहि जीआ आधारो ॥",
+            "larivaar": "खाणी​बाणी​तेरीआ​देहि​जीआ​आधारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "KbqdjA",
+          "unicode": "ਖਬਤਦਜਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "B7UY",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "kudriq qKqu rcwieAw sic inbyVxhwro ]2]",
+          "unicode": "ਕੁਦਰਤਿ ਤਖਤੁ ਰਚਾਇਆ ਸਚਿ ਨਿਬੇੜਣਹਾਰੋ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "kudriq​qKqu​rcwieAw​sic​inbyVxhwro​]2]",
+          "unicode": "ਕੁਦਰਤਿ​ਤਖਤੁ​ਰਚਾਇਆ​ਸਚਿ​ਨਿਬੇੜਣਹਾਰੋ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You have made the Creation as Your Throne; You are the True Judge. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy pRBU!) sB jIvW ƒ qUM hI Awsrw dyNdw hYN[ ieh swrI rcnw (-rUp) q^q qUM hI (Awpxy bYTx vwsqy) bxwieAw hY, qUM Awp hI krmW dy lyK BI mukwx vwlw hYN ]2]",
+              "unicode": "(ਹੇ ਪ੍ਰਭੂ!) ਸਭ ਜੀਵਾਂ ਨੂੰ ਤੂੰ ਹੀ ਆਸਰਾ ਦੇਂਦਾ ਹੈਂ। ਇਹ ਸਾਰੀ ਰਚਨਾ (-ਰੂਪ) ਤਖ਼ਤ ਤੂੰ ਹੀ (ਆਪਣੇ ਬੈਠਣ ਵਾਸਤੇ) ਬਣਾਇਆ ਹੈ, ਤੂੰ ਆਪ ਹੀ ਕਰਮਾਂ ਦੇ ਲੇਖ ਭੀ ਮੁਕਾਣ ਵਾਲਾ ਹੈਂ ॥੨॥"
+            }
+          },
+          "spanish": "La naturaleza entera es Tu Trono en donde impartes Tu Verdad. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kudarat takhat rachaaeaa sach niberranahaaro |2|",
+            "larivaar": "kudarat​takhat​rachaaeaa​sach​niberranahaaro​|2|"
+          },
+          "devanagari": {
+            "text": "कुदरति तखतु रचाइआ सचि निबेड़णहारो ॥२॥",
+            "larivaar": "कुदरति​तखतु​रचाइआ​सचि​निबेड़णहारो​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "kqrsn",
+          "unicode": "ਕਤਰਸਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MMW9",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "Awvw gvxu isrijAw qU iQru krxYhwro ]",
+          "unicode": "ਆਵਾ ਗਵਣੁ ਸਿਰਜਿਆ ਤੂ ਥਿਰੁ ਕਰਣੈਹਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "Awvw​gvxu​isrijAw​qU​iQru​krxYhwro​]",
+          "unicode": "ਆਵਾ​ਗਵਣੁ​ਸਿਰਜਿਆ​ਤੂ​ਥਿਰੁ​ਕਰਣੈਹਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "You created comings and goings, but You are ever-stable, O Creator Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy krxhwr krqwr! (jIvW vwsqy) jnm mrn dw gyV qUM hI pYdw kIqw hY, pr qUM Awp sdw kwiem rihx vwlw hYN[",
+              "unicode": "ਹੇ ਕਰਣਹਾਰ ਕਰਤਾਰ! (ਜੀਵਾਂ ਵਾਸਤੇ) ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਪਰ ਤੂੰ ਆਪ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ।"
+            }
+          },
+          "spanish": "Nos has dado las idas y venidas, pero Tú eres Eterno, oh Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "aavaa gavan sirajiaa too thir karanaihaaro |",
+            "larivaar": "aavaa​gavan​sirajiaa​too​thir​karanaihaaro​|"
+          },
+          "devanagari": {
+            "text": "आवा गवणु सिरजिआ तू थिरु करणैहारो ॥",
+            "larivaar": "आवा​गवणु​सिरजिआ​तू​थिरु​करणैहारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "AgsqQk",
+          "unicode": "ਅਗਸਤਥਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "55F9",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "jMmxu mrxw Awie gieAw biDku jIau ibkwro ]",
+          "unicode": "ਜੰਮਣੁ ਮਰਣਾ ਆਇ ਗਇਆ ਬਧਿਕੁ ਜੀਉ ਬਿਕਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "jMmxu​mrxw​Awie​gieAw​biDku​jIau​ibkwro​]",
+          "unicode": "ਜੰਮਣੁ​ਮਰਣਾ​ਆਇ​ਗਇਆ​ਬਧਿਕੁ​ਜੀਉ​ਬਿਕਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "In birth and death, in coming and going, this soul is held in bondage by corruption."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(mwieAw dy moh dy kwrn) ivkwrW ivc b`Jw hoieAw jIv in`q jMmdw hY qy mrdw hY, ies ƒ jnm mrn dw c`kr ipAw hI rihMdw hY[",
+              "unicode": "(ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ) ਵਿਕਾਰਾਂ ਵਿਚ ਬੱਝਾ ਹੋਇਆ ਜੀਵ ਨਿੱਤ ਜੰਮਦਾ ਹੈ ਤੇ ਮਰਦਾ ਹੈ, ਇਸ ਨੂੰ ਜਨਮ ਮਰਨ ਦਾ ਚੱਕਰ ਪਿਆ ਹੀ ਰਹਿੰਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Viniendo una y otra vez, nuestra Alma permanece siempre incompleta"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaman maranaa aae geaa badhik jeeo bikaaro |",
+            "larivaar": "jaman​maranaa​aae​geaa​badhik​jeeo​bikaaro​|"
+          },
+          "devanagari": {
+            "text": "जंमणु मरणा आइ गइआ बधिकु जीउ बिकारो ॥",
+            "larivaar": "जंमणु​मरणा​आइ​गइआ​बधिकु​जीउ​बिकारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "jmAgbjb",
+          "unicode": "ਜਮਅਗਬਜਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4HFE",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "BUfVY nwmu ivswirAw bUfVY ikAw iqsu cwro ]",
+          "unicode": "ਭੂਡੜੈ ਨਾਮੁ ਵਿਸਾਰਿਆ ਬੂਡੜੈ ਕਿਆ ਤਿਸੁ ਚਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "BUfVY​nwmu​ivswirAw​bUfVY​ikAw​iqsu​cwro​]",
+          "unicode": "ਭੂਡੜੈ​ਨਾਮੁ​ਵਿਸਾਰਿਆ​ਬੂਡੜੈ​ਕਿਆ​ਤਿਸੁ​ਚਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The evil person has forgotten the Naam; he has drowned - what can he do now?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(mwieAw dy moh ivc Psy) BYVy jIv ny (qyrw) nwm Bulw id`qw hY, moh ivc fu`by hoey dI koeI pyS nhIN jWdI[",
+              "unicode": "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸੇ) ਭੈੜੇ ਜੀਵ ਨੇ (ਤੇਰਾ) ਨਾਮ ਭੁਲਾ ਦਿੱਤਾ ਹੈ, ਮੋਹ ਵਿਚ ਡੁੱਬੇ ਹੋਏ ਦੀ ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
+            }
+          },
+          "spanish": "y se ahoga en el olvido de Tu Nombre."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhooddarrai naam visaariaa booddarrai kiaa tis chaaro |",
+            "larivaar": "bhooddarrai​naam​visaariaa​booddarrai​kiaa​tis​chaaro​|"
+          },
+          "devanagari": {
+            "text": "भूडड़ै नामु विसारिआ बूडड़ै किआ तिसु चारो ॥",
+            "larivaar": "भूडड़ै​नामु​विसारिआ​बूडड़ै​किआ​तिसु​चारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "Bnvbkqc",
+          "unicode": "ਭਨਵਬਕਤਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DTPU",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "gux Coif ibKu lidAw Avgux kw vxjwro ]3]",
+          "unicode": "ਗੁਣ ਛੋਡਿ ਬਿਖੁ ਲਦਿਆ ਅਵਗੁਣ ਕਾ ਵਣਜਾਰੋ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "gux​Coif​ibKu​lidAw​Avgux​kw​vxjwro​]3]",
+          "unicode": "ਗੁਣ​ਛੋਡਿ​ਬਿਖੁ​ਲਦਿਆ​ਅਵਗੁਣ​ਕਾ​ਵਣਜਾਰੋ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Forsaking merit, he has loaded the poisonous cargo of demerits; he is a trader of sins. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "guxW ƒ C`f ky (ivkwrW dw) zihr ies jIv ny iek`Tw kr ilAw hY (jgq ivc Aw ky swrI aumr) AOguxW dw hI vxj krdw rihMdw hY ]3]",
+              "unicode": "ਗੁਣਾਂ ਨੂੰ ਛੱਡ ਕੇ (ਵਿਕਾਰਾਂ ਦਾ) ਜ਼ਹਿਰ ਇਸ ਜੀਵ ਨੇ ਇਕੱਠਾ ਕਰ ਲਿਆ ਹੈ (ਜਗਤ ਵਿਚ ਆ ਕੇ ਸਾਰੀ ਉਮਰ) ਔਗੁਣਾਂ ਦਾ ਹੀ ਵਣਜ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "Abandonando el mérito, carga el peso de la maldad y comercia con las pasiones. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gun chhodd bikh ladiaa avagun kaa vanajaaro |3|",
+            "larivaar": "gun​chhodd​bikh​ladiaa​avagun​kaa​vanajaaro​|3|"
+          },
+          "devanagari": {
+            "text": "गुण छोडि बिखु लदिआ अवगुण का वणजारो ॥३॥",
+            "larivaar": "गुण​छोडि​बिखु​लदिआ​अवगुण​का​वणजारो​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "gCblAkv",
+          "unicode": "ਗਛਬਲਅਕਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7BU3",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "sdVy Awey iqnw jwnIAw hukim scy krqwro ]",
+          "unicode": "ਸਦੜੇ ਆਏ ਤਿਨਾ ਜਾਨੀਆ ਹੁਕਮਿ ਸਚੇ ਕਰਤਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "sdVy​Awey​iqnw​jwnIAw​hukim​scy​krqwro​]",
+          "unicode": "ਸਦੜੇ​ਆਏ​ਤਿਨਾ​ਜਾਨੀਆ​ਹੁਕਮਿ​ਸਚੇ​ਕਰਤਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The beloved soul has received the Call, the Command of the True Creator Lord."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN sdw-iQr rihx vwly krqwr dy hukm ivc rUh ƒ ieQoN jwx dy s`dy AwauNdy hn,",
+              "unicode": "ਜਦੋਂ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਕਰਤਾਰ ਦੇ ਹੁਕਮ ਵਿਚ ਰੂਹ ਨੂੰ ਇਥੋਂ ਜਾਣ ਦੇ ਸੱਦੇ ਆਉਂਦੇ ਹਨ,"
+            }
+          },
+          "spanish": "Conforme a la Voluntad del Señor"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sadarre aae tinaa jaaneea hukam sache karataaro |",
+            "larivaar": "sadarre​aae​tinaa​jaaneea​hukam​sache​karataaro​|"
+          },
+          "devanagari": {
+            "text": "सदड़े आए तिना जानीआ हुकमि सचे करतारो ॥",
+            "larivaar": "सदड़े​आए​तिना​जानीआ​हुकमि​सचे​करतारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "sAqjhsk",
+          "unicode": "ਸਅਤਜਹਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "VTRA",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "nwrI purK ivCuMinAw ivCuiVAw mylxhwro ]",
+          "unicode": "ਨਾਰੀ ਪੁਰਖ ਵਿਛੁੰਨਿਆ ਵਿਛੁੜਿਆ ਮੇਲਣਹਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "nwrI​purK​ivCuMinAw​ivCuiVAw​mylxhwro​]",
+          "unicode": "ਨਾਰੀ​ਪੁਰਖ​ਵਿਛੁੰਨਿਆ​ਵਿਛੁੜਿਆ​ਮੇਲਣਹਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The soul, the husband, has become separated from the body, the bride. The Lord is the Re-uniter of the separated ones."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qW (mrn vyly) iesqRI mrdW dy ivCoVy ho jWdy hn qy ivCuiVAW ƒ qW prmwqmw Awp hI mylx dy smrQ hY[",
+              "unicode": "ਤਾਂ (ਮਰਨ ਵੇਲੇ) ਇਸਤ੍ਰੀ ਮਰਦਾਂ ਦੇ ਵਿਛੋੜੇ ਹੋ ਜਾਂਦੇ ਹਨ ਤੇ ਵਿਛੁੜਿਆਂ ਨੂੰ ਤਾਂ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਮੇਲਣ ਦੇ ਸਮਰਥ ਹੈ।"
+            }
+          },
+          "spanish": "el Alma asume diferentes formas, y así como viene a la vida, también se va."
+        },
+        "transliteration": {
+          "english": {
+            "text": "naaree purakh vichhuniaa vichhurriaa melanahaaro |",
+            "larivaar": "naaree​purakh​vichhuniaa​vichhurriaa​melanahaaro​|"
+          },
+          "devanagari": {
+            "text": "नारी पुरख विछुंनिआ विछुड़िआ मेलणहारो ॥",
+            "larivaar": "नारी​पुरख​विछुंनिआ​विछुड़िआ​मेलणहारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "npvvm",
+          "unicode": "ਨਪਵਵਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2P4P",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "rUpu n jwxY sohxIAY hukim bDI isir kwro ]",
+          "unicode": "ਰੂਪੁ ਨ ਜਾਣੈ ਸੋਹਣੀਐ ਹੁਕਮਿ ਬਧੀ ਸਿਰਿ ਕਾਰੋ ॥"
+        },
+        "larivaar": {
+          "akhar": "rUpu​n​jwxY​sohxIAY​hukim​bDI​isir​kwro​]",
+          "unicode": "ਰੂਪੁ​ਨ​ਜਾਣੈ​ਸੋਹਣੀਐ​ਹੁਕਮਿ​ਬਧੀ​ਸਿਰਿ​ਕਾਰੋ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "No one cares for your beauty, O beautiful bride.; the Messenger of Death is bound only by the Lord Commander's Command."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jm iksy suMdrI dy rUp dI prvwh nhIN kr skdw (mOq qoN iKmw nhIN dydw) ikauN ik auh vI prmwqmw dy hukm ivc bDw hoieAw hY[",
+              "unicode": "ਜਮ ਕਿਸੇ ਸੁੰਦਰੀ ਦੇ ਰੂਪ ਦੀ ਪਰਵਾਹ ਨਹੀਂ ਕਰ ਸਕਦਾ (ਮੌਤ ਤੋਂ ਖਿਮਾ ਨਹੀਂ ਦੇਦਾ) ਕਿਉਂ ਕਿ ਉਹ ਵੀ ਪਰਮਾਤਮਾ ਦੇ ਹੁਕਮ ਵਿਚ ਬਧਾ ਹੋਇਆ ਹੈ।"
+            }
+          },
+          "spanish": "Oh ser de forma bella, a nadie le importa tu belleza, pues los mensajeros de la muerte actúan conforme a la Voluntad del Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "roop na jaanai sohaneeai hukam badhee sir kaaro |",
+            "larivaar": "roop​na​jaanai​sohaneeai​hukam​badhee​sir​kaaro​|"
+          },
+          "devanagari": {
+            "text": "रूपु न जाणै सोहणीऐ हुकमि बधी सिरि कारो ॥",
+            "larivaar": "रूपु​न​जाणै​सोहणीऐ​हुकमि​बधी​सिरि​कारो​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "rnjshbsk",
+          "unicode": "ਰਨਜਸਹਬਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "QND9",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "bwlk ibriD n jwxnI qoVin hyqu ipAwro ]4]",
+          "unicode": "ਬਾਲਕ ਬਿਰਧਿ ਨ ਜਾਣਨੀ ਤੋੜਨਿ ਹੇਤੁ ਪਿਆਰੋ ॥੪॥"
+        },
+        "larivaar": {
+          "akhar": "bwlk​ibriD​n​jwxnI​qoVin​hyqu​ipAwro​]4]",
+          "unicode": "ਬਾਲਕ​ਬਿਰਧਿ​ਨ​ਜਾਣਨੀ​ਤੋੜਨਿ​ਹੇਤੁ​ਪਿਆਰੋ​॥੪॥"
+        },
+        "translation": {
+          "english": {
+            "default": "He does not distinguish between young children and old people; he tears apart love and affection. ||4||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jm b`icAW qy bu`iFAW dI BI prvwh nhIN krdy, ieMj sB dw (Awpo ivc dw) moh ipAwr t`t jWdw hY ]4]",
+              "unicode": "ਜਮ ਬੱਚਿਆਂ ਤੇ ਬੁੱਢਿਆਂ ਦੀ ਭੀ ਪਰਵਾਹ ਨਹੀਂ ਕਰਦੇ, ਇੰਜ ਸਭ ਦਾ (ਆਪੋ ਵਿਚ ਦਾ) ਮੋਹ ਪਿਆਰ ਟੱਟ ਜਾਂਦਾ ਹੈ ॥੪॥"
+            }
+          },
+          "spanish": "Ellos no distinguen al niño del anciano, y quitan el amor del uno por el otro. (4)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "baalak biradh na jaananee torran het piaaro |4|",
+            "larivaar": "baalak​biradh​na​jaananee​torran​het​piaaro​|4|"
+          },
+          "devanagari": {
+            "text": "बालक बिरधि न जाणनी तोड़नि हेतु पिआरो ॥४॥",
+            "larivaar": "बालक​बिरधि​न​जाणनी​तोड़नि​हेतु​पिआरो​॥४॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "bbnjqhp",
+          "unicode": "ਬਬਨਜਤਹਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "7EQF",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "nau dr Twky hukim scY hMsu gieAw gYxwry ]",
+          "unicode": "ਨਉ ਦਰ ਠਾਕੇ ਹੁਕਮਿ ਸਚੈ ਹੰਸੁ ਗਇਆ ਗੈਣਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "nau​dr​Twky​hukim​scY​hMsu​gieAw​gYxwry​]",
+          "unicode": "ਨਉ​ਦਰ​ਠਾਕੇ​ਹੁਕਮਿ​ਸਚੈ​ਹੰਸੁ​ਗਇਆ​ਗੈਣਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The nine doors are closed by the True Lord's Command, and the swan-soul takes flight into the skies."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN sdw-iQr rihx vwly prmwqmw dy hukm ivc rUh dy jwx dw sdw AwauNdw hY qW (srIr dy) nO drvwzy bMd ho jWdy hn qy jIvwqmw (ikqy) AwkwS ivc clI jWdI hY[",
+              "unicode": "ਜਦੋਂ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੇ ਹੁਕਮ ਵਿਚ ਰੂਹ ਦੇ ਜਾਣ ਦਾ ਸਦਾ ਆਉਂਦਾ ਹੈ ਤਾਂ (ਸਰੀਰ ਦੇ) ਨੌ ਦਰਵਾਜ਼ੇ ਬੰਦ ਹੋ ਜਾਂਦੇ ਹਨ ਤੇ ਜੀਵਾਤਮਾ (ਕਿਤੇ) ਆਕਾਸ਼ ਵਿਚ ਚਲੀ ਜਾਂਦੀ ਹੈ।"
+            }
+          },
+          "spanish": "Las nueve puertas del cuerpo se cierran, y el Alma cisne se aventura en los éteres."
+        },
+        "transliteration": {
+          "english": {
+            "text": "nau dar tthaake hukam sachai hans geaa gainaare |",
+            "larivaar": "nau​dar​tthaake​hukam​sachai​hans​geaa​gainaare​|"
+          },
+          "devanagari": {
+            "text": "नउ दर ठाके हुकमि सचै हंसु गइआ गैणारे ॥",
+            "larivaar": "नउ​दर​ठाके​हुकमि​सचै​हंसु​गइआ​गैणारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "ndThshgg",
+          "unicode": "ਨਦਠਹਸਹਗਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HUD2",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "sw Dn CutI muTI JUiT ivDxIAw imrqkVw AM|nVy bwry ]",
+          "unicode": "ਸਾ ਧਨ ਛੁਟੀ ਮੁਠੀ ਝੂਠਿ ਵਿਧਣੀਆ ਮਿਰਤਕੜਾ ਅੰਙਨੜੇ ਬਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "sw​Dn​CutI​muTI​JUiT​ivDxIAw​imrqkVw​AM|nVy​bwry​]",
+          "unicode": "ਸਾ​ਧਨ​ਛੁਟੀ​ਮੁਠੀ​ਝੂਠਿ​ਵਿਧਣੀਆ​ਮਿਰਤਕੜਾ​ਅੰਙਨੜੇ​ਬਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The body-bride is separated, and defrauded by falsehood; she is now a widow - her husband's body lies dead in the courtyard."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(jd pqI dI jIvwqmw clI jWdI hY qW) inKsmI iesqRI iek`lI rih jWdI hY, auh mwieAw dy moh ivc lu`t ky ivDvw ho geI hY qy loQ Gr dy vyhVy ivc peI huMdI hY[",
+              "unicode": "(ਜਦ ਪਤੀ ਦੀ ਜੀਵਾਤਮਾ ਚਲੀ ਜਾਂਦੀ ਹੈ ਤਾਂ) ਨਿਖਸਮੀ ਇਸਤ੍ਰੀ ਇਕੱਲੀ ਰਹਿ ਜਾਂਦੀ ਹੈ, ਉਹ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਲੁੱਟ ਕੇ ਵਿਧਵਾ ਹੋ ਗਈ ਹੈ ਤੇ ਲੋਥ ਘਰ ਦੇ ਵੇਹੜੇ ਵਿਚ ਪਈ ਹੁੰਦੀ ਹੈ।"
+            }
+          },
+          "spanish": "La esposa es privada de su hombre; su cuerpo muerto yace sobre el suelo y eleva su lamento al cielo diciendo,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "saa dhan chhuttee mutthee jhootth vidhaneea miratakarraa anganarre baare |",
+            "larivaar": "saa​dhan​chhuttee​mutthee​jhootth​vidhaneea​miratakarraa​anganarre​baare​|"
+          },
+          "devanagari": {
+            "text": "सा धन छुटी मुठी झूठि विधणीआ मिरतकड़ा अंङनड़े बारे ॥",
+            "larivaar": "सा​धन​छुटी​मुठी​झूठि​विधणीआ​मिरतकड़ा​अंङनड़े​बारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "sDCmJvmAb",
+          "unicode": "ਸਧਛਮਝਵਮਅਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "50P6",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "suriq mueI mru mweIey mhl ruMnI dr bwry ]",
+          "unicode": "ਸੁਰਤਿ ਮੁਈ ਮਰੁ ਮਾਈਏ ਮਹਲ ਰੁੰਨੀ ਦਰ ਬਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "suriq​mueI​mru​mweIey​mhl​ruMnI​dr​bwry​]",
+          "unicode": "ਸੁਰਤਿ​ਮੁਈ​ਮਰੁ​ਮਾਈਏ​ਮਹਲ​ਰੁੰਨੀ​ਦਰ​ਬਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The widow cries out at the door, \"The light of my mind has gone out, O my mother, with his death.\""
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ijs ƒ vyK vyK ky) auh iesqRI dlIjW ivc bYTI roNdI hY (qy AwKdI hY-) hy mwey! ies mOq (ƒ vyK ky) myrI Akl itkwxy nhIN rih geI[",
+              "unicode": "(ਜਿਸ ਨੂੰ ਵੇਖ ਵੇਖ ਕੇ) ਉਹ ਇਸਤ੍ਰੀ ਦਲੀਜਾਂ ਵਿਚ ਬੈਠੀ ਰੋਂਦੀ ਹੈ (ਤੇ ਆਖਦੀ ਹੈ-) ਹੇ ਮਾਏ! ਇਸ ਮੌਤ (ਨੂੰ ਵੇਖ ਕੇ) ਮੇਰੀ ਅਕਲ ਟਿਕਾਣੇ ਨਹੀਂ ਰਹਿ ਗਈ।"
+            }
+          },
+          "spanish": "Oh Dios, con la muerte de mi cuerpo las facultades de mi mente se han acabado."
+        },
+        "transliteration": {
+          "english": {
+            "text": "surat muee mar maaeee mehal runee dar baare |",
+            "larivaar": "surat​muee​mar​maaeee​mehal​runee​dar​baare​|"
+          },
+          "devanagari": {
+            "text": "सुरति मुई मरु माईए महल रुंनी दर बारे ॥",
+            "larivaar": "सुरति​मुई​मरु​माईए​महल​रुंनी​दर​बारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "smmmmrdb",
+          "unicode": "ਸਮਮਮਮਰਦਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "M510",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "rovhu kMq mhylIho scy ky gux swry ]5]",
+          "unicode": "ਰੋਵਹੁ ਕੰਤ ਮਹੇਲੀਹੋ ਸਚੇ ਕੇ ਗੁਣ ਸਾਰੇ ॥੫॥"
+        },
+        "larivaar": {
+          "akhar": "rovhu​kMq​mhylIho​scy​ky​gux​swry​]5]",
+          "unicode": "ਰੋਵਹੁ​ਕੰਤ​ਮਹੇਲੀਹੋ​ਸਚੇ​ਕੇ​ਗੁਣ​ਸਾਰੇ​॥੫॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So cry out, O soul-brides of the Husband Lord, and dwell on the Glorious Praises of the True Lord. ||5||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy pRBU-kMq dI jIv-iesqRIE! qusIN scy pRBU dI is&q-swlwh kro (qy ieMj jIvn sPl kro)! ]5]",
+              "unicode": "ਹੇ ਪ੍ਰਭੂ-ਕੰਤ ਦੀ ਜੀਵ-ਇਸਤ੍ਰੀਓ! ਤੁਸੀਂ ਸਚੇ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰੋ (ਤੇ ਇੰਜ ਜੀਵਨ ਸਫਲ ਕਰੋ)! ॥੫॥"
+            }
+          },
+          "spanish": "Oh novias Almas del Señor, ¡que sus lágrimas sean de Amor y no de lamentos, en la Alabanza del Señor! (5)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "rovahu kant maheleeho sache ke gun saare |5|",
+            "larivaar": "rovahu​kant​maheleeho​sache​ke​gun​saare​|5|"
+          },
+          "devanagari": {
+            "text": "रोवहु कंत महेलीहो सचे के गुण सारे ॥५॥",
+            "larivaar": "रोवहु​कंत​महेलीहो​सचे​के​गुण​सारे​॥५॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "rkmskgs",
+          "unicode": "ਰਕਮਸਕਗਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MQ76",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "jil mil jwnI nwvwilAw kpiV pit AMbwry ]",
+          "unicode": "ਜਲਿ ਮਲਿ ਜਾਨੀ ਨਾਵਾਲਿਆ ਕਪੜਿ ਪਟਿ ਅੰਬਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "jil​mil​jwnI​nwvwilAw​kpiV​pit​AMbwry​]",
+          "unicode": "ਜਲਿ​ਮਲਿ​ਜਾਨੀ​ਨਾਵਾਲਿਆ​ਕਪੜਿ​ਪਟਿ​ਅੰਬਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Her loved one is cleansed, bathed in water, and dressed in silken robes."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "swk-sMbMDI (mry pRwxI dI loQ ƒ) pwxI nwl ml ky ieSnwn krWdy hn, qy rySm (Awidk) k`pVy nwl (lpytdy hn)[",
+              "unicode": "ਸਾਕ-ਸੰਬੰਧੀ (ਮਰੇ ਪ੍ਰਾਣੀ ਦੀ ਲੋਥ ਨੂੰ) ਪਾਣੀ ਨਾਲ ਮਲ ਕੇ ਇਸ਼ਨਾਨ ਕਰਾਂਦੇ ਹਨ, ਤੇ ਰੇਸ਼ਮ (ਆਦਿਕ) ਕੱਪੜੇ ਨਾਲ (ਲਪੇਟਦੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Los familiares del muerto lo lavan, y lo visten de seda;"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jal mal jaanee naavaaliaa kaparr patt anbaare |",
+            "larivaar": "jal​mal​jaanee​naavaaliaa​kaparr​patt​anbaare​|"
+          },
+          "devanagari": {
+            "text": "जलि मलि जानी नावालिआ कपड़ि पटि अंबारे ॥",
+            "larivaar": "जलि​मलि​जानी​नावालिआ​कपड़ि​पटि​अंबारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "jmjnkpA",
+          "unicode": "ਜਮਜਨਕਪਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "53CA",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "vwjy vjy scI bwxIAw pMc muey mnu mwry ]",
+          "unicode": "ਵਾਜੇ ਵਜੇ ਸਚੀ ਬਾਣੀਆ ਪੰਚ ਮੁਏ ਮਨੁ ਮਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "vwjy​vjy​scI​bwxIAw​pMc​muey​mnu​mwry​]",
+          "unicode": "ਵਾਜੇ​ਵਜੇ​ਸਚੀ​ਬਾਣੀਆ​ਪੰਚ​ਮੁਏ​ਮਨੁ​ਮਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The musicians play, and the Bani of the True Lord's Words are sung; the five relatives feel as if they too are dead, so deadened are their minds."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(aus ƒ mswxW ivc lY jwx vwsqy) \"rwm nwm siq hY\" dy bol SurU ho jWdy hn qy inkt dy sMbMDI Zm nwl muieAW vrgy ho jWdy hn[",
+              "unicode": "(ਉਸ ਨੂੰ ਮਸਾਣਾਂ ਵਿਚ ਲੈ ਜਾਣ ਵਾਸਤੇ) \"ਰਾਮ ਨਾਮ ਸਤਿ ਹੈ\" ਦੇ ਬੋਲ ਸ਼ੁਰੂ ਹੋ ਜਾਂਦੇ ਹਨ ਤੇ ਨਿਕਟ ਦੇ ਸੰਬੰਧੀ ਗ਼ਮ ਨਾਲ ਮੁਇਆਂ ਵਰਗੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
+            }
+          },
+          "spanish": "están muy adormecidos en su mente y se afligen. La separación de mi bienamado es la muerte para mí,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "vaaje vaje sachee baaneea panch mue man maare |",
+            "larivaar": "vaaje​vaje​sachee​baaneea​panch​mue​man​maare​|"
+          },
+          "devanagari": {
+            "text": "वाजे वजे सची बाणीआ पंच मुए मनु मारे ॥",
+            "larivaar": "वाजे​वजे​सची​बाणीआ​पंच​मुए​मनु​मारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "vvsbpmmm",
+          "unicode": "ਵਵਸਬਪਮਮਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "BZPD",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "jwnI ivCuMnVy myrw mrxu BieAw iDRgu jIvxu sMswry ]",
+          "unicode": "ਜਾਨੀ ਵਿਛੁੰਨੜੇ ਮੇਰਾ ਮਰਣੁ ਭਇਆ ਧ੍ਰਿਗੁ ਜੀਵਣੁ ਸੰਸਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "jwnI​ivCuMnVy​myrw​mrxu​BieAw​iDRgu​jIvxu​sMswry​]",
+          "unicode": "ਜਾਨੀ​ਵਿਛੁੰਨੜੇ​ਮੇਰਾ​ਮਰਣੁ​ਭਇਆ​ਧ੍ਰਿਗੁ​ਜੀਵਣੁ​ਸੰਸਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "\"Separation from my beloved is like death to me!\" cries the widow. \"My life in this world is cursed and worthless!\""
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(aus dI iesqRI roNdI hY qy AwKdI hY-) swQI dy mrn nwl mYN BI moieAw vrgI ho geI hW, hux sMswr ivc myry jIaUx ƒ iPtkwr hY[",
+              "unicode": "(ਉਸ ਦੀ ਇਸਤ੍ਰੀ ਰੋਂਦੀ ਹੈ ਤੇ ਆਖਦੀ ਹੈ-) ਸਾਥੀ ਦੇ ਮਰਨ ਨਾਲ ਮੈਂ ਭੀ ਮੋਇਆ ਵਰਗੀ ਹੋ ਗਈ ਹਾਂ, ਹੁਣ ਸੰਸਾਰ ਵਿਚ ਮੇਰੇ ਜੀਊਣ ਨੂੰ ਫਿਟਕਾਰ ਹੈ।"
+            }
+          },
+          "spanish": "grita la esposa, oh, ¡maldita sea la vida en el mundo! Sin embargo,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaanee vichhunarre meraa maran bheaa dhrig jeevan sansaare |",
+            "larivaar": "jaanee​vichhunarre​meraa​maran​bheaa​dhrig​jeevan​sansaare​|"
+          },
+          "devanagari": {
+            "text": "जानी विछुंनड़े मेरा मरणु भइआ ध्रिगु जीवणु संसारे ॥",
+            "larivaar": "जानी​विछुंनड़े​मेरा​मरणु​भइआ​ध्रिगु​जीवणु​संसारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "jvmmBDjs",
+          "unicode": "ਜਵਮਮਭਧਜਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "PHSW",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "jIvqu mrY su jwxIAY ipr scVY hyiq ipAwry ]6]",
+          "unicode": "ਜੀਵਤੁ ਮਰੈ ਸੁ ਜਾਣੀਐ ਪਿਰ ਸਚੜੈ ਹੇਤਿ ਪਿਆਰੇ ॥੬॥"
+        },
+        "larivaar": {
+          "akhar": "jIvqu​mrY​su​jwxIAY​ipr​scVY​hyiq​ipAwry​]6]",
+          "unicode": "ਜੀਵਤੁ​ਮਰੈ​ਸੁ​ਜਾਣੀਐ​ਪਿਰ​ਸਚੜੈ​ਹੇਤਿ​ਪਿਆਰੇ​॥੬॥"
+        },
+        "translation": {
+          "english": {
+            "default": "But she alone is approved, who dies, while yet still alive; she lives for the sake of the Love of her Beloved. ||6||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr jyhVw jIauNidAW hoieAw mrdw hY, Bwv moh ƒ Cfdw hY, auh (prmwqmw dI hzUrI ivc) Awdr pWdw hY ]6]",
+              "unicode": "ਪਰ ਜੇਹੜਾ ਜੀਉਂਦਿਆਂ ਹੋਇਆ ਮਰਦਾ ਹੈ, ਭਾਵ ਮੋਹ ਨੂੰ ਛਡਦਾ ਹੈ, ਉਹ (ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਆਦਰ ਪਾਂਦਾ ਹੈ ॥੬॥"
+            }
+          },
+          "spanish": "sólo es aprobado, quien en vida muere para su ego al entonarse en el Amor de su Señor Verdadero. (6)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jeevat marai su jaaneeai pir sacharrai het piaare |6|",
+            "larivaar": "jeevat​marai​su​jaaneeai​pir​sacharrai​het​piaare​|6|"
+          },
+          "devanagari": {
+            "text": "जीवतु मरै सु जाणीऐ पिर सचड़ै हेति पिआरे ॥६॥",
+            "larivaar": "जीवतु​मरै​सु​जाणीऐ​पिर​सचड़ै​हेति​पिआरे​॥६॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "jmsjpshp",
+          "unicode": "ਜਮਸਜਪਸਹਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4QHQ",
+        "type": 4,
+        "shabadid": "F5P",
+        "gurmukhi": {
+          "akhar": "qusI rovhu rovx AweIho JUiT muTI sMswry ]",
+          "unicode": "ਤੁਸੀ ਰੋਵਹੁ ਰੋਵਣ ਆਈਹੋ ਝੂਠਿ ਮੁਠੀ ਸੰਸਾਰੇ ॥"
+        },
+        "larivaar": {
+          "akhar": "qusI​rovhu​rovx​AweIho​JUiT​muTI​sMswry​]",
+          "unicode": "ਤੁਸੀ​ਰੋਵਹੁ​ਰੋਵਣ​ਆਈਹੋ​ਝੂਠਿ​ਮੁਠੀ​ਸੰਸਾਰੇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "So cry out in mourning, you who have come to mourn; this world is false and fraudulent."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy jIv-iesqRIE! qusIN du`KI hox vwsqy hI jgq ivc AweIAW ho ikauNik sMswr ivc quhwƒ mwieAw dy moh ny T`igAw hoieAw hY[",
+              "unicode": "ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀਓ! ਤੁਸੀਂ ਦੁੱਖੀ ਹੋਣ ਵਾਸਤੇ ਹੀ ਜਗਤ ਵਿਚ ਆਈਆਂ ਹੋ ਕਿਉਂਕਿ ਸੰਸਾਰ ਵਿਚ ਤੁਹਾਨੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਨੇ ਠੱਗਿਆ ਹੋਇਆ ਹੈ।"
+            }
+          },
+          "spanish": "Aflíjanse en duelo entonces, ustedes que han venido a lamentarse, porque este mundo es falso y fraudulento."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tusee rovahu rovan aaeeho jhootth mutthee sansaare |",
+            "larivaar": "tusee​rovahu​rovan​aaeeho​jhootth​mutthee​sansaare​|"
+          },
+          "devanagari": {
+            "text": "तुसी रोवहु रोवण आईहो झूठि मुठी संसारे ॥",
+            "larivaar": "तुसी​रोवहु​रोवण​आईहो​झूठि​मुठी​संसारे​॥"
+          }
+        },
+        "writer": {
+          "id": 1,
+          "akhar": "gurU nwnk dyv jI",
+          "unicode": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+          "english": "Guru Nanak Dev Ji"
+        },
+        "raag": {
+          "id": 12,
+          "akhar": "rwgu vfhMsu",
+          "unicode": "ਰਾਗੁ ਵਡਹੰਸੁ",
+          "english": "Raag Vadhans",
+          "startang": 557,
+          "endang": 594,
+          "raagwithpage": "Raag Vadhans (557-594)"
+        },
+        "pageno": 580,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "qrrAJms",
+          "unicode": "ਤਰਰਅਝਮਸ"
+        }
+      }
+    }
+  ],
+  "error": false
+}

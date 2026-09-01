@@ -1,0 +1,51 @@
+/* App.css — layout shell */
+
+.app-root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Ambient background ───────────────────────── */
+.ambient-bg {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.ambient-orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(120px);
+  opacity: 0.18;
+  animation: ambientFloat 12s ease-in-out infinite alternate;
+}
+
+.ambient-orb-1 {
+  width: 700px;
+  height: 700px;
+  background: radial-gradient(circle, #f97316 0%, #ea6800 50%, transparent 70%);
+  top: -200px;
+  right: -150px;
+  animation-delay: 0s;
+}
+
+.ambient-orb-2 {
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, #fbbf24 0%, #f97316 60%, transparent 80%);
+  bottom: -100px;
+  left: -100px;
+  opacity: 0.10;
+  animation-delay: -6s;
+}
+
+@keyframes ambientFloat {
+  from { transform: translate(0, 0) scale(1); }
+  to   { transform: translate(30px, 20px) scale(1.08); }
+}

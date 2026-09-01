@@ -1,0 +1,91 @@
+/* InputBar.css */
+
+.input-bar {
+  width: 100%;
+  padding: 0 20px 20px;
+  position: relative;
+  z-index: 10;
+}
+
+.input-bar__inner {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 20px;
+  padding: 12px 14px;
+  transition: border-color 300ms ease, box-shadow 300ms ease, background 300ms ease;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.input-bar__inner:focus-within {
+  border-color: rgba(249,115,22,0.50);
+  background: rgba(255,255,255,0.08);
+  box-shadow: 0 0 0 3px rgba(249,115,22,0.08), 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.input-bar__icon {
+  font-size: 18px;
+  opacity: 0.5;
+  flex-shrink: 0;
+  margin-bottom: 2px;
+  user-select: none;
+}
+
+.input-bar__textarea {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  resize: none;
+  overflow-y: auto;
+  max-height: 160px;
+  min-height: 24px;
+}
+
+.input-bar__textarea::placeholder {
+  color: var(--text-muted);
+}
+
+.input-bar__send {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.08);
+  color: var(--text-muted);
+  transition: all 200ms ease;
+  margin-bottom: 0;
+}
+
+.input-bar__send--active {
+  background: linear-gradient(135deg, #f97316, #ea6800);
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(249,115,22,0.4);
+  transform: scale(1.05);
+}
+
+.input-bar__send--active:hover {
+  box-shadow: 0 6px 24px rgba(249,115,22,0.55);
+  transform: scale(1.10);
+}
+
+.input-bar__send:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+.input-bar--disabled .input-bar__inner {
+  opacity: 0.6;
+}

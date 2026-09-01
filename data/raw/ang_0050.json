@@ -1,0 +1,2339 @@
+{
+  "pageno": 50,
+  "source": {
+    "id": 1,
+    "akhar": "SRI gurU gRMQ swihb jI",
+    "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+    "english": "Sri Guru Granth Sahib Ji",
+    "length": 1430,
+    "pageName": {
+      "akhar": "AMg",
+      "unicode": "ਅੰਗ",
+      "english": "Ang"
+    }
+  },
+  "count": 40,
+  "page": [
+    {
+      "line": {
+        "id": "K7NV",
+        "type": 4,
+        "shabadid": "FG3",
+        "gurmukhi": {
+          "akhar": "siqguru gihr gBIru hY suK swgru AGKMfu ]",
+          "unicode": "ਸਤਿਗੁਰੁ ਗਹਿਰ ਗਭੀਰੁ ਹੈ ਸੁਖ ਸਾਗਰੁ ਅਘਖੰਡੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "siqguru​gihr​gBIru​hY​suK​swgru​AGKMfu​]",
+          "unicode": "ਸਤਿਗੁਰੁ​ਗਹਿਰ​ਗਭੀਰੁ​ਹੈ​ਸੁਖ​ਸਾਗਰੁ​ਅਘਖੰਡੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The True Guru is the Deep and Profound Ocean of Peace, the Destroyer of sin."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "siqgurU (mwno, iek) fUMGw (smuMdr) hY, gurU v`fy ijgry vwlw hY, gurU swry suKW dw smuMdr hY, gurU pwpW dw nws krn vwlw hY[",
+              "unicode": "ਸਤਿਗੁਰੂ (ਮਾਨੋ, ਇਕ) ਡੂੰਘਾ (ਸਮੁੰਦਰ) ਹੈ, ਗੁਰੂ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲਾ ਹੈ, ਗੁਰੂ ਸਾਰੇ ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ ਹੈ, ਗੁਰੂ ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ।"
+            }
+          },
+          "spanish": "El Guru Verdadero es el Profundo y Vasto Océano de Paz y es el que borra los errores."
+        },
+        "transliteration": {
+          "english": {
+            "text": "satigur gahir gabheer hai sukh saagar aghakhandd |",
+            "larivaar": "satigur​gahir​gabheer​hai​sukh​saagar​aghakhandd​|"
+          },
+          "devanagari": {
+            "text": "सतिगुरु गहिर गभीरु है सुख सागरु अघखंडु ॥",
+            "larivaar": "सतिगुरु​गहिर​गभीरु​है​सुख​सागरु​अघखंडु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "sgghssA",
+          "unicode": "ਸਗਗਹਸਸਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "2EC9",
+        "type": 4,
+        "shabadid": "FG3",
+        "gurmukhi": {
+          "akhar": "ijin guru syivAw Awpxw jmdUq n lwgY fMfu ]",
+          "unicode": "ਜਿਨਿ ਗੁਰੁ ਸੇਵਿਆ ਆਪਣਾ ਜਮਦੂਤ ਨ ਲਾਗੈ ਡੰਡੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijin​guru​syivAw​Awpxw​jmdUq​n​lwgY​fMfu​]",
+          "unicode": "ਜਿਨਿ​ਗੁਰੁ​ਸੇਵਿਆ​ਆਪਣਾ​ਜਮਦੂਤ​ਨ​ਲਾਗੈ​ਡੰਡੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "For those who serve their Guru, there is no punishment at the hands of the Messenger of Death."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijs mnu`K ny Awpxy gurU dI syvw kIqI hY jmdUqW dw fMfw (aus dy isr au`qy) nhIN v`jdw[",
+              "unicode": "ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਪਣੇ ਗੁਰੂ ਦੀ ਸੇਵਾ ਕੀਤੀ ਹੈ ਜਮਦੂਤਾਂ ਦਾ ਡੰਡਾ (ਉਸ ਦੇ ਸਿਰ ਉੱਤੇ) ਨਹੀਂ ਵੱਜਦਾ।"
+            }
+          },
+          "spanish": "A aquél que sirve al Guru, la garra de Yama, el mensajero de la muerte, nunca lo tocará."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jin gur seviaa aapanaa jamadoot na laagai ddandd |",
+            "larivaar": "jin​gur​seviaa​aapanaa​jamadoot​na​laagai​ddandd​|"
+          },
+          "devanagari": {
+            "text": "जिनि गुरु सेविआ आपणा जमदूत न लागै डंडु ॥",
+            "larivaar": "जिनि​गुरु​सेविआ​आपणा​जमदूत​न​लागै​डंडु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 1,
+        "firstletters": {
+          "akhar": "jgsAjnlf",
+          "unicode": "ਜਗਸਅਜਨਲਡ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EAC0",
+        "type": 4,
+        "shabadid": "FG3",
+        "gurmukhi": {
+          "akhar": "gur nwil quil n lgeI Koij ifTw bRhmMfu ]",
+          "unicode": "ਗੁਰ ਨਾਲਿ ਤੁਲਿ ਨ ਲਗਈ ਖੋਜਿ ਡਿਠਾ ਬ੍ਰਹਮੰਡੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "gur​nwil​quil​n​lgeI​Koij​ifTw​bRhmMfu​]",
+          "unicode": "ਗੁਰ​ਨਾਲਿ​ਤੁਲਿ​ਨ​ਲਗਈ​ਖੋਜਿ​ਡਿਠਾ​ਬ੍ਰਹਮੰਡੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "There is none to compare with the Guru; I have searched and looked throughout the entire universe."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mYN swrw sMswr Bwl ky vyK ilAw hY, koeI BI gurU dy brwbr dw nhIN hY[",
+              "unicode": "ਮੈਂ ਸਾਰਾ ਸੰਸਾਰ ਭਾਲ ਕੇ ਵੇਖ ਲਿਆ ਹੈ, ਕੋਈ ਭੀ ਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ ਨਹੀਂ ਹੈ।"
+            }
+          },
+          "spanish": "He buscado por el mundo entero; nadie iguala al Guru."
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur naal tul na lagee khoj dditthaa brahamandd |",
+            "larivaar": "gur​naal​tul​na​lagee​khoj​dditthaa​brahamandd​|"
+          },
+          "devanagari": {
+            "text": "गुर नालि तुलि न लगई खोजि डिठा ब्रहमंडु ॥",
+            "larivaar": "गुर​नालि​तुलि​न​लगई​खोजि​डिठा​ब्रहमंडु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "gnqnlKfb",
+          "unicode": "ਗਨਤਨਲਖਡਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "W4PR",
+        "type": 4,
+        "shabadid": "FG3",
+        "gurmukhi": {
+          "akhar": "nwmu inDwnu siqguir dIAw suKu nwnk mn mih mMfu ]4]20]90]",
+          "unicode": "ਨਾਮੁ ਨਿਧਾਨੁ ਸਤਿਗੁਰਿ ਦੀਆ ਸੁਖੁ ਨਾਨਕ ਮਨ ਮਹਿ ਮੰਡੁ ॥੪॥੨੦॥੯੦॥"
+        },
+        "larivaar": {
+          "akhar": "nwmu​inDwnu​siqguir​dIAw​suKu​nwnk​mn​mih​mMfu​]4]20]90]",
+          "unicode": "ਨਾਮੁ​ਨਿਧਾਨੁ​ਸਤਿਗੁਰਿ​ਦੀਆ​ਸੁਖੁ​ਨਾਨਕ​ਮਨ​ਮਹਿ​ਮੰਡੁ​॥੪॥੨੦॥੯੦॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The True Guru has bestowed the Treasure of the Naam, the Name of the Lord. O Nanak, the mind is filled with peace. ||4||20||90||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! siqgurU ny ijs mnu`K ƒ prmwqmw dw nwm-Kzwnw id`qw hY, aus ny Awqmk Awnµd (sdw leI) Awpxy mn ivc pro ilAw hY ]4]20]90]{49-50}",
+              "unicode": "ਹੇ ਨਾਨਕ! ਸਤਿਗੁਰੂ ਨੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਖਜ਼ਾਨਾ ਦਿੱਤਾ ਹੈ, ਉਸ ਨੇ ਆਤਮਕ ਆਨੰਦ (ਸਦਾ ਲਈ) ਆਪਣੇ ਮਨ ਵਿਚ ਪਰੋ ਲਿਆ ਹੈ ॥੪॥੨੦॥੯੦॥{49-50}"
+            }
+          },
+          "spanish": "Dice Nanak, el Guru Verdadero me ha dado el Tesoro del Naam, el  Nombre del Señor, y mi mente se ha llenado de Felicidad. (4-20-90)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naam nidhaan satigur deea sukh naanak man meh mandd |4|20|90|",
+            "larivaar": "naam​nidhaan​satigur​deea​sukh​naanak​man​meh​mandd​|4|20|90|"
+          },
+          "devanagari": {
+            "text": "नामु निधानु सतिगुरि दीआ सुखु नानक मन महि मंडु ॥४॥२०॥९०॥",
+            "larivaar": "नामु​निधानु​सतिगुरि​दीआ​सुखु​नानक​मन​महि​मंडु​॥४॥२०॥९०॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 2,
+        "firstletters": {
+          "akhar": "nnsdsnmmm",
+          "unicode": "ਨਨਸਦਸਨਮਮਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "AAYK",
+        "type": 2,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "isrIrwgu mhlw 5 ]",
+          "unicode": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "isrIrwgu​mhlw​5​]",
+          "unicode": "ਸਿਰੀਰਾਗੁ​ਮਹਲਾ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Siree Raag, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Siri Rag, Mejl Guru Aryan, Quinto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sireeraag mahalaa 5 |",
+            "larivaar": "sireeraag​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "सिरीरागु महला ५ ॥",
+            "larivaar": "सिरीरागु​महला​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "sm5]",
+          "unicode": "ਸਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NJZX",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "imTw kir kY KwieAw kauVw aupijAw swdu ]",
+          "unicode": "ਮਿਠਾ ਕਰਿ ਕੈ ਖਾਇਆ ਕਉੜਾ ਉਪਜਿਆ ਸਾਦੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "imTw​kir​kY​KwieAw​kauVw​aupijAw​swdu​]",
+          "unicode": "ਮਿਠਾ​ਕਰਿ​ਕੈ​ਖਾਇਆ​ਕਉੜਾ​ਉਪਜਿਆ​ਸਾਦੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "People eat what they believe to be sweet, but it turns out to be bitter in taste."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jIv dunIAw dy pdwrQW ƒ suAwdly jwx ky KWdw vrqdw hY, pr iehnW (BogW) dw suAwd (AMq ivc) kOVw (duKdweI) swbq huMdw hY (ivkwr qy rog pYdw huMdy hn)[",
+              "unicode": "ਜੀਵ ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਨੂੰ ਸੁਆਦਲੇ ਜਾਣ ਕੇ ਖਾਂਦਾ ਵਰਤਦਾ ਹੈ, ਪਰ ਇਹਨਾਂ (ਭੋਗਾਂ) ਦਾ ਸੁਆਦ (ਅੰਤ ਵਿਚ) ਕੌੜਾ (ਦੁਖਦਾਈ) ਸਾਬਤ ਹੁੰਦਾ ਹੈ (ਵਿਕਾਰ ਤੇ ਰੋਗ ਪੈਦਾ ਹੁੰਦੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Eso que parecía dulce, se volvió amargo."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mitthaa kar kai khaaeaa kaurraa upajiaa saad |",
+            "larivaar": "mitthaa​kar​kai​khaaeaa​kaurraa​upajiaa​saad​|"
+          },
+          "devanagari": {
+            "text": "मिठा करि कै खाइआ कउड़ा उपजिआ सादु ॥",
+            "larivaar": "मिठा​करि​कै​खाइआ​कउड़ा​उपजिआ​सादु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 3,
+        "firstletters": {
+          "akhar": "mkkKkas",
+          "unicode": "ਮਕਕਖਕੳਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3KD3",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "BweI mIq suird kIey ibiKAw ricAw bwdu ]",
+          "unicode": "ਭਾਈ ਮੀਤ ਸੁਰਿਦ ਕੀਏ ਬਿਖਿਆ ਰਚਿਆ ਬਾਦੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "BweI​mIq​suird​kIey​ibiKAw​ricAw​bwdu​]",
+          "unicode": "ਭਾਈ​ਮੀਤ​ਸੁਰਿਦ​ਕੀਏ​ਬਿਖਿਆ​ਰਚਿਆ​ਬਾਦੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They attach their affections to brothers and friends, uselessly engrossed in corruption."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mnu`K (jgq ivc) Brw im`qr dosq (Awidk) bxWdw hY, qy (ieh) mwieAw dw JgVw KVw krI r`Kdw hY[",
+              "unicode": "ਮਨੁੱਖ (ਜਗਤ ਵਿਚ) ਭਰਾ ਮਿੱਤਰ ਦੋਸਤ (ਆਦਿਕ) ਬਣਾਂਦਾ ਹੈ, ਤੇ (ਇਹ) ਮਾਇਆ ਦਾ ਝਗੜਾ ਖੜਾ ਕਰੀ ਰੱਖਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "Los hermanos y los amigos cercanos se convirtieron en una ilusión al final."
+        },
+        "transliteration": {
+          "english": {
+            "text": "bhaaee meet surid kee bikhiaa rachiaa baad |",
+            "larivaar": "bhaaee​meet​surid​kee​bikhiaa​rachiaa​baad​|"
+          },
+          "devanagari": {
+            "text": "भाई मीत सुरिद कीए बिखिआ रचिआ बादु ॥",
+            "larivaar": "भाई​मीत​सुरिद​कीए​बिखिआ​रचिआ​बादु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "Bmskbrb",
+          "unicode": "ਭਮਸਕਬਰਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EPTG",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "jWdy iblm n hoveI ivxu nwvY ibsmwdu ]1]",
+          "unicode": "ਜਾਂਦੇ ਬਿਲਮ ਨ ਹੋਵਈ ਵਿਣੁ ਨਾਵੈ ਬਿਸਮਾਦੁ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "jWdy​iblm​n​hoveI​ivxu​nwvY​ibsmwdu​]1]",
+          "unicode": "ਜਾਂਦੇ​ਬਿਲਮ​ਨ​ਹੋਵਈ​ਵਿਣੁ​ਨਾਵੈ​ਬਿਸਮਾਦੁ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They vanish without a moment's delay; without God's Name, they are stunned and amazed. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr Ascrj g`l (ieh) ik prmwqmw dy nwm qoN ibnw iksy BI cIz ƒ nws huMidAW icr nhIN l`gdw ]1]",
+              "unicode": "ਪਰ ਅਸਚਰਜ ਗੱਲ (ਇਹ) ਕਿ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਭੀ ਚੀਜ਼ ਨੂੰ ਨਾਸ ਹੁੰਦਿਆਂ ਚਿਰ ਨਹੀਂ ਲੱਗਦਾ ॥੧॥"
+            }
+          },
+          "spanish": "Pues nada es permanente y sin el Néctar Maravilloso del Señor, lo irreal se parece a lo real.  (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaande bilam na hovee vin naavai bisamaad |1|",
+            "larivaar": "jaande​bilam​na​hovee​vin​naavai​bisamaad​|1|"
+          },
+          "devanagari": {
+            "text": "जांदे बिलम न होवई विणु नावै बिसमादु ॥१॥",
+            "larivaar": "जांदे​बिलम​न​होवई​विणु​नावै​बिसमादु​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 4,
+        "firstletters": {
+          "akhar": "jbnhvnb",
+          "unicode": "ਜਬਨਹਵਨਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5GN7",
+        "type": 3,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "myry mn sqgur kI syvw lwgu ]",
+          "unicode": "ਮੇਰੇ ਮਨ ਸਤਗੁਰ ਕੀ ਸੇਵਾ ਲਾਗੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "myry​mn​sqgur​kI​syvw​lwgu​]",
+          "unicode": "ਮੇਰੇ​ਮਨ​ਸਤਗੁਰ​ਕੀ​ਸੇਵਾ​ਲਾਗੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O my mind, attach yourself to the service of the True Guru."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry mn! gurU dI (d`sI hoeI) syvw ivc ru`Jw rhu[",
+              "unicode": "ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰੂ ਦੀ (ਦੱਸੀ ਹੋਈ) ਸੇਵਾ ਵਿਚ ਰੁੱਝਾ ਰਹੁ।"
+            }
+          },
+          "spanish": "Oh mi mente, aférrate al Servicio del Guru Verdadero."
+        },
+        "transliteration": {
+          "english": {
+            "text": "mere man satagur kee sevaa laag |",
+            "larivaar": "mere​man​satagur​kee​sevaa​laag​|"
+          },
+          "devanagari": {
+            "text": "मेरे मन सतगुर की सेवा लागु ॥",
+            "larivaar": "मेरे​मन​सतगुर​की​सेवा​लागु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "mmsksl",
+          "unicode": "ਮਮਸਕਸਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "SPLG",
+        "type": 3,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "jo dIsY so ivxsxw mn kI miq iqAwgu ]1] rhwau ]",
+          "unicode": "ਜੋ ਦੀਸੈ ਸੋ ਵਿਣਸਣਾ ਮਨ ਕੀ ਮਤਿ ਤਿਆਗੁ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "jo​dIsY​so​ivxsxw​mn​kI​miq​iqAwgu​]1]​rhwau​]",
+          "unicode": "ਜੋ​ਦੀਸੈ​ਸੋ​ਵਿਣਸਣਾ​ਮਨ​ਕੀ​ਮਤਿ​ਤਿਆਗੁ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Whatever is seen, shall pass away. Abandon the intellectualizations of your mind. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy BweI!) Awpxy mn dy ip`Cy qurnw C`f dy qy (dunIAw dy pdwrQW dw moh iqAwg, ikauNik) jo kuJ id`s irhw hY sB nwsvMq hY ]1] rhwau ]",
+              "unicode": "(ਹੇ ਭਾਈ!) ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨਾ ਛੱਡ ਦੇ ਤੇ (ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਦਾ ਮੋਹ ਤਿਆਗ, ਕਿਉਂਕਿ) ਜੋ ਕੁਝ ਦਿੱਸ ਰਿਹਾ ਹੈ ਸਭ ਨਾਸਵੰਤ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "Todo lo que parece va a fenecer, así que no sigas la guía de tu mente. (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jo deesai so vinasanaa man kee mat tiaag |1| rahaau |",
+            "larivaar": "jo​deesai​so​vinasanaa​man​kee​mat​tiaag​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "जो दीसै सो विणसणा मन की मति तिआगु ॥१॥ रहाउ ॥",
+            "larivaar": "जो​दीसै​सो​विणसणा​मन​की​मति​तिआगु​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 5,
+        "firstletters": {
+          "akhar": "jdsvmkmq",
+          "unicode": "ਜਦਸਵਮਕਮਤ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "MZS8",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "ijau kUkru hrkwieAw DwvY dh ids jwie ]",
+          "unicode": "ਜਿਉ ਕੂਕਰੁ ਹਰਕਾਇਆ ਧਾਵੈ ਦਹ ਦਿਸ ਜਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijau​kUkru​hrkwieAw​DwvY​dh​ids​jwie​]",
+          "unicode": "ਜਿਉ​ਕੂਕਰੁ​ਹਰਕਾਇਆ​ਧਾਵੈ​ਦਹ​ਦਿਸ​ਜਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Like the mad dog running around in all directions,"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijvyN hlkwieAw ku`qw dOVdw hY qy hr pwsy vl B`jdw hY,",
+              "unicode": "ਜਿਵੇਂ ਹਲਕਾਇਆ ਕੁੱਤਾ ਦੌੜਦਾ ਹੈ ਤੇ ਹਰ ਪਾਸੇ ਵਲ ਭੱਜਦਾ ਹੈ,"
+            }
+          },
+          "spanish": "Como un perro loco, tu mente vaga en todas direcciones."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jiau kookar harakaaeaa dhaavai deh dis jaae |",
+            "larivaar": "jiau​kookar​harakaaeaa​dhaavai​deh​dis​jaae​|"
+          },
+          "devanagari": {
+            "text": "जिउ कूकरु हरकाइआ धावै दह दिस जाइ ॥",
+            "larivaar": "जिउ​कूकरु​हरकाइआ​धावै​दह​दिस​जाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "jkhDddj",
+          "unicode": "ਜਕਹਧਦਦਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5RXV",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "loBI jMqu n jwxeI BKu ABKu sB Kwie ]",
+          "unicode": "ਲੋਭੀ ਜੰਤੁ ਨ ਜਾਣਈ ਭਖੁ ਅਭਖੁ ਸਭ ਖਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "loBI​jMqu​n​jwxeI​BKu​ABKu​sB​Kwie​]",
+          "unicode": "ਲੋਭੀ​ਜੰਤੁ​ਨ​ਜਾਣਈ​ਭਖੁ​ਅਭਖੁ​ਸਭ​ਖਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "the greedy person, unaware, consumes everything, edible and non-edible alike."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(iqvyN) loBI jIv ƒ BI kuJ nhIN su`Jdw, cMgI mMdI hryk cIz Kw lYNdw hY[",
+              "unicode": "(ਤਿਵੇਂ) ਲੋਭੀ ਜੀਵ ਨੂੰ ਭੀ ਕੁਝ ਨਹੀਂ ਸੁੱਝਦਾ, ਚੰਗੀ ਮੰਦੀ ਹਰੇਕ ਚੀਜ਼ ਖਾ ਲੈਂਦਾ ਹੈ।"
+            }
+          },
+          "spanish": "El enfermo de avaricia no se da cuenta de nada y se come hasta lo incomible."
+        },
+        "transliteration": {
+          "english": {
+            "text": "lobhee jant na jaanee bhakh abhakh sabh khaae |",
+            "larivaar": "lobhee​jant​na​jaanee​bhakh​abhakh​sabh​khaae​|"
+          },
+          "devanagari": {
+            "text": "लोभी जंतु न जाणई भखु अभखु सभ खाइ ॥",
+            "larivaar": "लोभी​जंतु​न​जाणई​भखु​अभखु​सभ​खाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 6,
+        "firstletters": {
+          "akhar": "ljnjBAsK",
+          "unicode": "ਲਜਨਜਭਅਸਖ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "ZZTC",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "kwm k®oD mid ibAwipAw iPir iPir jonI pwie ]2]",
+          "unicode": "ਕਾਮ ਕ੍ਰੋਧ ਮਦਿ ਬਿਆਪਿਆ ਫਿਰਿ ਫਿਰਿ ਜੋਨੀ ਪਾਇ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "kwm​k®oD​mid​ibAwipAw​iPir​iPir​jonI​pwie​]2]",
+          "unicode": "ਕਾਮ​ਕ੍ਰੋਧ​ਮਦਿ​ਬਿਆਪਿਆ​ਫਿਰਿ​ਫਿਰਿ​ਜੋਨੀ​ਪਾਇ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Engrossed in the intoxication of sexual desire and anger, people wander through reincarnation over and over again. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "kwm dy qy k®oD dy nSy ivc PisAw hoieAw mnu`K muV muV jUnW ivc pYNdw rihMdw hY ]2]",
+              "unicode": "ਕਾਮ ਦੇ ਤੇ ਕ੍ਰੋਧ ਦੇ ਨਸ਼ੇ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਮਨੁੱਖ ਮੁੜ ਮੁੜ ਜੂਨਾਂ ਵਿਚ ਪੈਂਦਾ ਰਹਿੰਦਾ ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "Ellos viven en las garras de la lujuria, el enojo, el ego y son hechos nacer de vientre en vientre una y otra vez. (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kaam krodh mad biaapiaa fir fir jonee paae |2|",
+            "larivaar": "kaam​krodh​mad​biaapiaa​fir​fir​jonee​paae​|2|"
+          },
+          "devanagari": {
+            "text": "काम क्रोध मदि बिआपिआ फिरि फिरि जोनी पाइ ॥२॥",
+            "larivaar": "काम​क्रोध​मदि​बिआपिआ​फिरि​फिरि​जोनी​पाइ​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "kkmbPPjp",
+          "unicode": "ਕਕਮਬਫਫਜਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EKPA",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "mwieAw jwlu pswirAw BIqir cog bxwie ]",
+          "unicode": "ਮਾਇਆ ਜਾਲੁ ਪਸਾਰਿਆ ਭੀਤਰਿ ਚੋਗ ਬਣਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "mwieAw​jwlu​pswirAw​BIqir​cog​bxwie​]",
+          "unicode": "ਮਾਇਆ​ਜਾਲੁ​ਪਸਾਰਿਆ​ਭੀਤਰਿ​ਚੋਗ​ਬਣਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Maya has spread out her net, and in it, she has placed the bait."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mwieAw ny iviSAW dw cogw jwl ivc iqAwr kr ky auh jwl iKlwirAw hoieAw hY,",
+              "unicode": "ਮਾਇਆ ਨੇ ਵਿਸ਼ਿਆਂ ਦਾ ਚੋਗਾ ਜਾਲ ਵਿਚ ਤਿਆਰ ਕਰ ਕੇ ਉਹ ਜਾਲ ਖਿਲਾਰਿਆ ਹੋਇਆ ਹੈ,"
+            }
+          },
+          "spanish": "Maya, la ilusión ha echado sus redes por todas partes y ahí está la carnada."
+        },
+        "transliteration": {
+          "english": {
+            "text": "maaeaa jaal pasaariaa bheetar chog banaae |",
+            "larivaar": "maaeaa​jaal​pasaariaa​bheetar​chog​banaae​|"
+          },
+          "devanagari": {
+            "text": "माइआ जालु पसारिआ भीतरि चोग बणाइ ॥",
+            "larivaar": "माइआ​जालु​पसारिआ​भीतरि​चोग​बणाइ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 7,
+        "firstletters": {
+          "akhar": "mjpBcb",
+          "unicode": "ਮਜਪਭਚਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "4TAF",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "iqRsnw pMKI PwisAw inksu n pwey mwie ]",
+          "unicode": "ਤ੍ਰਿਸਨਾ ਪੰਖੀ ਫਾਸਿਆ ਨਿਕਸੁ ਨ ਪਾਏ ਮਾਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "iqRsnw​pMKI​PwisAw​inksu​n​pwey​mwie​]",
+          "unicode": "ਤ੍ਰਿਸਨਾ​ਪੰਖੀ​ਫਾਸਿਆ​ਨਿਕਸੁ​ਨ​ਪਾਏ​ਮਾਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The bird of desire is caught, and cannot find any escape, O my mother."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "mwieAw dI iqRSnw ny jIv-pMKI ƒ (aus jwl ivc) PswieAw hoieAw hY[ hy (myrI) mW! (jIv aus jwl ivcoN) ^lwsI pRwpq nhIN kr skdw,",
+              "unicode": "ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਨੇ ਜੀਵ-ਪੰਖੀ ਨੂੰ (ਉਸ ਜਾਲ ਵਿਚ) ਫਸਾਇਆ ਹੋਇਆ ਹੈ। ਹੇ (ਮੇਰੀ) ਮਾਂ! (ਜੀਵ ਉਸ ਜਾਲ ਵਿਚੋਂ) ਖ਼ਲਾਸੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦਾ,"
+            }
+          },
+          "spanish": "El pájaro del deseo pasa por ahí, cae y ya no se puede zafar."
+        },
+        "transliteration": {
+          "english": {
+            "text": "trisanaa pankhee faasiaa nikas na paae maae |",
+            "larivaar": "trisanaa​pankhee​faasiaa​nikas​na​paae​maae​|"
+          },
+          "devanagari": {
+            "text": "त्रिसना पंखी फासिआ निकसु न पाए माइ ॥",
+            "larivaar": "त्रिसना​पंखी​फासिआ​निकसु​न​पाए​माइ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "qpPnnpm",
+          "unicode": "ਤਪਫਨਨਪਮ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GF51",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "ijin kIqw iqsih n jwxeI iPir iPir AwvY jwie ]3]",
+          "unicode": "ਜਿਨਿ ਕੀਤਾ ਤਿਸਹਿ ਨ ਜਾਣਈ ਫਿਰਿ ਫਿਰਿ ਆਵੈ ਜਾਇ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "ijin​kIqw​iqsih​n​jwxeI​iPir​iPir​AwvY​jwie​]3]",
+          "unicode": "ਜਿਨਿ​ਕੀਤਾ​ਤਿਸਹਿ​ਨ​ਜਾਣਈ​ਫਿਰਿ​ਫਿਰਿ​ਆਵੈ​ਜਾਇ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "One who does not know the Lord who created him, comes and goes in reincarnation over and over again. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(ikauNik) ijs krqwr ny (ieh sB kuJ) pYdw kIqw hY aus nwl sWJ nhIN pWdw, qy muV muV jMmdw mrdw rihMdw hY ]3]",
+              "unicode": "(ਕਿਉਂਕਿ) ਜਿਸ ਕਰਤਾਰ ਨੇ (ਇਹ ਸਭ ਕੁਝ) ਪੈਦਾ ਕੀਤਾ ਹੈ ਉਸ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ, ਤੇ ਮੁੜ ਮੁੜ ਜੰਮਦਾ ਮਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥"
+            }
+          },
+          "spanish": "Aquél que se olvida de su Creador, será llevado en la ronda de nacimientos y muertes. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jin keetaa tiseh na jaanee fir fir aavai jaae |3|",
+            "larivaar": "jin​keetaa​tiseh​na​jaanee​fir​fir​aavai​jaae​|3|"
+          },
+          "devanagari": {
+            "text": "जिनि कीता तिसहि न जाणई फिरि फिरि आवै जाइ ॥३॥",
+            "larivaar": "जिनि​कीता​तिसहि​न​जाणई​फिरि​फिरि​आवै​जाइ​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 8,
+        "firstletters": {
+          "akhar": "jkqnjPPAj",
+          "unicode": "ਜਕਤਨਜਫਫਅਜ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HEUU",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "Aink pRkwrI moihAw bhu ibiD iehu sMswru ]",
+          "unicode": "ਅਨਿਕ ਪ੍ਰਕਾਰੀ ਮੋਹਿਆ ਬਹੁ ਬਿਧਿ ਇਹੁ ਸੰਸਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "Aink​pRkwrI​moihAw​bhu​ibiD​iehu​sMswru​]",
+          "unicode": "ਅਨਿਕ​ਪ੍ਰਕਾਰੀ​ਮੋਹਿਆ​ਬਹੁ​ਬਿਧਿ​ਇਹੁ​ਸੰਸਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "By various devices, and in so many ways, this world is enticed."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies jgq ƒ (mwieAw ny) AnykW iksmW dy rUpW rMgW ivc keI qrIikAW nwl moh r`iKAw hY[",
+              "unicode": "ਇਸ ਜਗਤ ਨੂੰ (ਮਾਇਆ ਨੇ) ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਰੂਪਾਂ ਰੰਗਾਂ ਵਿਚ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਮੋਹ ਰੱਖਿਆ ਹੈ।"
+            }
+          },
+          "spanish": "El mundo vive engañado de mil formas por Maya."
+        },
+        "transliteration": {
+          "english": {
+            "text": "anik prakaaree mohiaa bahu bidh ihu sansaar |",
+            "larivaar": "anik​prakaaree​mohiaa​bahu​bidh​ihu​sansaar​|"
+          },
+          "devanagari": {
+            "text": "अनिक प्रकारी मोहिआ बहु बिधि इहु संसारु ॥",
+            "larivaar": "अनिक​प्रकारी​मोहिआ​बहु​बिधि​इहु​संसारु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "Apmbbes",
+          "unicode": "ਅਪਮਬਬੲਸ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "105A",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "ijs no rKY so rhY sMimRQu purKu Apwru ]",
+          "unicode": "ਜਿਸ ਨੋ ਰਖੈ ਸੋ ਰਹੈ ਸੰਮ੍ਰਿਥੁ ਪੁਰਖੁ ਅਪਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijs​no​rKY​so​rhY​sMimRQu​purKu​Apwru​]",
+          "unicode": "ਜਿਸ​ਨੋ​ਰਖੈ​ਸੋ​ਰਹੈ​ਸੰਮ੍ਰਿਥੁ​ਪੁਰਖੁ​ਅਪਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "They alone are saved, whom the All-powerful, Infinite Lord protects."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ies ivcoN auhI bc skdw hY, ijs ƒ sB smr`Qw vwlw byAMq Akwl purK Awp bcwey[",
+              "unicode": "ਇਸ ਵਿਚੋਂ ਉਹੀ ਬਚ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਸਭ ਸਮਰੱਥਾ ਵਾਲਾ ਬੇਅੰਤ ਅਕਾਲ ਪੁਰਖ ਆਪ ਬਚਾਏ।"
+            }
+          },
+          "spanish": "Sólo aquél ser que esté protegido por el Señor Todopoderoso será salvado."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jis no rakhai so rahai samrith purakh apaar |",
+            "larivaar": "jis​no​rakhai​so​rahai​samrith​purakh​apaar​|"
+          },
+          "devanagari": {
+            "text": "जिस नो रखै सो रहै संम्रिथु पुरखु अपारु ॥",
+            "larivaar": "जिस​नो​रखै​सो​रहै​संम्रिथु​पुरखु​अपारु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "jnrsrspA",
+          "unicode": "ਜਨਰਸਰਸਪਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "TTRY",
+        "type": 4,
+        "shabadid": "GP9",
+        "gurmukhi": {
+          "akhar": "hir jn hir ilv auDry nwnk sd bilhwru ]4]21]91]",
+          "unicode": "ਹਰਿ ਜਨ ਹਰਿ ਲਿਵ ਉਧਰੇ ਨਾਨਕ ਸਦ ਬਲਿਹਾਰੁ ॥੪॥੨੧॥੯੧॥"
+        },
+        "larivaar": {
+          "akhar": "hir​jn​hir​ilv​auDry​nwnk​sd​bilhwru​]4]21]91]",
+          "unicode": "ਹਰਿ​ਜਨ​ਹਰਿ​ਲਿਵ​ਉਧਰੇ​ਨਾਨਕ​ਸਦ​ਬਲਿਹਾਰੁ​॥੪॥੨੧॥੯੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The servants of the Lord are saved by the Love of the Lord. O Nanak, I am forever a sacrifice to them. ||4||21||91||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(prmwqmw dI imhr nwl) prmwqmw dy Bgq hI prmwqmw (dy crnW) ivc surq joV ky bcdy hn[ hy nwnk! qUM sdw aus prmwqmw qoN sdky hohu ]4]21]91]",
+              "unicode": "(ਪਰਮਾਤਮਾ ਦੀ ਮਿਹਰ ਨਾਲ) ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ ਹੀ ਪਰਮਾਤਮਾ (ਦੇ ਚਰਨਾਂ) ਵਿਚ ਸੁਰਤ ਜੋੜ ਕੇ ਬਚਦੇ ਹਨ। ਹੇ ਨਾਨਕ! ਤੂੰ ਸਦਾ ਉਸ ਪਰਮਾਤਮਾ ਤੋਂ ਸਦਕੇ ਹੋਹੁ ॥੪॥੨੧॥੯੧॥"
+            }
+          },
+          "spanish": "Los Sirvientes de Dios son salvados cuando meditan en su Señor, Nanak ofrece su vida en sacrificio a ellos. (4-2-91)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "har jan har liv udhare naanak sad balihaar |4|21|91|",
+            "larivaar": "har​jan​har​liv​udhare​naanak​sad​balihaar​|4|21|91|"
+          },
+          "devanagari": {
+            "text": "हरि जन हरि लिव उधरे नानक सद बलिहारु ॥४॥२१॥९१॥",
+            "larivaar": "हरि​जन​हरि​लिव​उधरे​नानक​सद​बलिहारु​॥४॥२१॥९१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 9,
+        "firstletters": {
+          "akhar": "hjhlansb",
+          "unicode": "ਹਜਹਲੳਨਸਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "KKS0",
+        "type": 2,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "isrIrwgu mhlw 5 Gru 2 ]",
+          "unicode": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੫ ਘਰੁ ੨ ॥"
+        },
+        "larivaar": {
+          "akhar": "isrIrwgu​mhlw​5​Gru​2​]",
+          "unicode": "ਸਿਰੀਰਾਗੁ​ਮਹਲਾ​੫​ਘਰੁ​੨​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Siree Raag, Fifth Mehl, Second House:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Siri Rag, Mejl Guru Aryan, Quinto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sireeraag mahalaa 5 ghar 2 |",
+            "larivaar": "sireeraag​mahalaa​5​ghar​2​|"
+          },
+          "devanagari": {
+            "text": "सिरीरागु महला ५ घरु २ ॥",
+            "larivaar": "सिरीरागु​महला​५​घरु​२​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "sm5G2]",
+          "unicode": "ਸਮ੫ਘ੨॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "0AYA",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "goieil AwieAw goielI ikAw iqsu fMPu pswru ]",
+          "unicode": "ਗੋਇਲਿ ਆਇਆ ਗੋਇਲੀ ਕਿਆ ਤਿਸੁ ਡੰਫੁ ਪਸਾਰੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "goieil​AwieAw​goielI​ikAw​iqsu​fMPu​pswru​]",
+          "unicode": "ਗੋਇਲਿ​ਆਇਆ​ਗੋਇਲੀ​ਕਿਆ​ਤਿਸੁ​ਡੰਫੁ​ਪਸਾਰੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "The herdsman comes to the pasture lands-what good are his ostentatious displays here?"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(AOV dy smyN QoVy idnW leI) gu`jr (Awpxw mwl-fMgr lY ky) iksy crn vwlI QW qy jWdw hY, au`Qy aus ƒ Awpxy iksy vf`px dw ivKwvw-iKlwrw soBdw nhIN[",
+              "unicode": "(ਔੜ ਦੇ ਸਮੇਂ ਥੋੜੇ ਦਿਨਾਂ ਲਈ) ਗੁੱਜਰ (ਆਪਣਾ ਮਾਲ-ਡੰਗਰ ਲੈ ਕੇ) ਕਿਸੇ ਚਰਨ ਵਾਲੀ ਥਾਂ ਤੇ ਜਾਂਦਾ ਹੈ, ਉੱਥੇ ਉਸ ਨੂੰ ਆਪਣੇ ਕਿਸੇ ਵਡੱਪਣ ਦਾ ਵਿਖਾਵਾ-ਖਿਲਾਰਾ ਸੋਭਦਾ ਨਹੀਂ।"
+            }
+          },
+          "spanish": "Así como el pastor que llega al pastizal, busca en vano un lugar para quedarse por mucho tiempo,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "goeil aaeaa goeilee kiaa tis ddanf pasaar |",
+            "larivaar": "goeil​aaeaa​goeilee​kiaa​tis​ddanf​pasaar​|"
+          },
+          "devanagari": {
+            "text": "गोइलि आइआ गोइली किआ तिसु डंफु पसारु ॥",
+            "larivaar": "गोइलि​आइआ​गोइली​किआ​तिसु​डंफु​पसारु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 10,
+        "firstletters": {
+          "akhar": "gAgkqfp",
+          "unicode": "ਗਅਗਕਤਡਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "JHK4",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "muhliq puMnI clxw qUM sMmlu Gr bwru ]1]",
+          "unicode": "ਮੁਹਲਤਿ ਪੁੰਨੀ ਚਲਣਾ ਤੂੰ ਸੰਮਲੁ ਘਰ ਬਾਰੁ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "muhliq​puMnI​clxw​qUM​sMmlu​Gr​bwru​]1]",
+          "unicode": "ਮੁਹਲਤਿ​ਪੁੰਨੀ​ਚਲਣਾ​ਤੂੰ​ਸੰਮਲੁ​ਘਰ​ਬਾਰੁ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "When your allotted time is up, you must go. Take care of your real hearth and home. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(iqvyN, hy jIv! jdoN qYƒ ie`Qy jgq ivc rihx leI) imilAw smw mu`k jwiegw, qUM (ieQoN) qur peyNgw[ (ies vwsqy Awpxw AslI) Gr Gwt sMBwl (cyqy r`K) ]1]",
+              "unicode": "(ਤਿਵੇਂ, ਹੇ ਜੀਵ! ਜਦੋਂ ਤੈਨੂੰ ਇੱਥੇ ਜਗਤ ਵਿਚ ਰਹਿਣ ਲਈ) ਮਿਲਿਆ ਸਮਾ ਮੁੱਕ ਜਾਇਗਾ, ਤੂੰ (ਇਥੋਂ) ਤੁਰ ਪਏਂਗਾ। (ਇਸ ਵਾਸਤੇ ਆਪਣਾ ਅਸਲੀ) ਘਰ ਘਾਟ ਸੰਭਾਲ (ਚੇਤੇ ਰੱਖ) ॥੧॥"
+            }
+          },
+          "spanish": "así, cuando el tiempo para ti termine, tendrás que partir, por eso ten juntas tus pertenencias mi querido amigo. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "muhalat punee chalanaa toon samal ghar baar |1|",
+            "larivaar": "muhalat​punee​chalanaa​toon​samal​ghar​baar​|1|"
+          },
+          "devanagari": {
+            "text": "मुहलति पुंनी चलणा तूं संमलु घर बारु ॥१॥",
+            "larivaar": "मुहलति​पुंनी​चलणा​तूं​संमलु​घर​बारु​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "mpcqsGb",
+          "unicode": "ਮਪਚਤਸਘਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "XD39",
+        "type": 3,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "hir gux gwau mnw siqguru syiv ipAwir ]",
+          "unicode": "ਹਰਿ ਗੁਣ ਗਾਉ ਮਨਾ ਸਤਿਗੁਰੁ ਸੇਵਿ ਪਿਆਰਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "hir​gux​gwau​mnw​siqguru​syiv​ipAwir​]",
+          "unicode": "ਹਰਿ​ਗੁਣ​ਗਾਉ​ਮਨਾ​ਸਤਿਗੁਰੁ​ਸੇਵਿ​ਪਿਆਰਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O mind, sing the Glorious Praises of the Lord, and serve the True Guru with love."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy myry mn! prmwqmw dy gux gwieAw kr[ ipAwr nwl gurU dI (d`sI) syvw kr[",
+              "unicode": "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ। ਪਿਆਰ ਨਾਲ ਗੁਰੂ ਦੀ (ਦੱਸੀ) ਸੇਵਾ ਕਰ।"
+            }
+          },
+          "spanish": "Canta las Alabanzas del Señor y sirve al Guru con Amor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "har gun gaau manaa satigur sev piaar |",
+            "larivaar": "har​gun​gaau​manaa​satigur​sev​piaar​|"
+          },
+          "devanagari": {
+            "text": "हरि गुण गाउ मना सतिगुरु सेवि पिआरि ॥",
+            "larivaar": "हरि​गुण​गाउ​मना​सतिगुरु​सेवि​पिआरि​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 11,
+        "firstletters": {
+          "akhar": "hggmssp",
+          "unicode": "ਹਗਗਮਸਸਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "8K97",
+        "type": 3,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "ikAw QoVVI bwq gumwnu ]1] rhwau ]",
+          "unicode": "ਕਿਆ ਥੋੜੜੀ ਬਾਤ ਗੁਮਾਨੁ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "ikAw​QoVVI​bwq​gumwnu​]1]​rhwau​]",
+          "unicode": "ਕਿਆ​ਥੋੜੜੀ​ਬਾਤ​ਗੁਮਾਨੁ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Why do you take pride in trivial matters? ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "QoVI ijqnI g`l ip`Cy (ies QoVy ijhy jIvn-smyN vwsqy) ikauN mwx krdw hYN? ]1] rhwau ]",
+              "unicode": "ਥੋੜੀ ਜਿਤਨੀ ਗੱਲ ਪਿੱਛੇ (ਇਸ ਥੋੜੇ ਜਿਹੇ ਜੀਵਨ-ਸਮੇਂ ਵਾਸਤੇ) ਕਿਉਂ ਮਾਣ ਕਰਦਾ ਹੈਂ? ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "¿Por qué tomas tanto orgullo en las pequeñas vanidades de la vida? (1-Pausa)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kiaa thorrarree baat gumaan |1| rahaau |",
+            "larivaar": "kiaa​thorrarree​baat​gumaan​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "किआ थोड़ड़ी बात गुमानु ॥१॥ रहाउ ॥",
+            "larivaar": "किआ​थोड़ड़ी​बात​गुमानु​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "kQbg",
+          "unicode": "ਕਥਬਗ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "3TJV",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "jYsy rYix prwhuxy auiT clsih prBwiq ]",
+          "unicode": "ਜੈਸੇ ਰੈਣਿ ਪਰਾਹੁਣੇ ਉਠਿ ਚਲਸਹਿ ਪਰਭਾਤਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "jYsy​rYix​prwhuxy​auiT​clsih​prBwiq​]",
+          "unicode": "ਜੈਸੇ​ਰੈਣਿ​ਪਰਾਹੁਣੇ​ਉਠਿ​ਚਲਸਹਿ​ਪਰਭਾਤਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Like an overnight guest, you shall arise and depart in the morning."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ijvyN rwq vyly (iksy Gr Awey hoey) prwhuxy idn cVHn qy (auQoN au`T ky c`l pYxgy (iqvyN, hy jIv! izMdgI dI rwq mu`kx qy qUM BI ies jgq qoN c`l peyNgw)[",
+              "unicode": "ਜਿਵੇਂ ਰਾਤ ਵੇਲੇ (ਕਿਸੇ ਘਰ ਆਏ ਹੋਏ) ਪਰਾਹੁਣੇ ਦਿਨ ਚੜ੍ਹਨ ਤੇ (ਉਥੋਂ ਉੱਠ ਕੇ ਚੱਲ ਪੈਣਗੇ (ਤਿਵੇਂ, ਹੇ ਜੀਵ! ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਮੁੱਕਣ ਤੇ ਤੂੰ ਭੀ ਇਸ ਜਗਤ ਤੋਂ ਚੱਲ ਪਏਂਗਾ)।"
+            }
+          },
+          "spanish": "Como el viajero nocturno, que tiene que partir en la mañana,"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaise rain paraahune utth chalaseh parabhaat |",
+            "larivaar": "jaise​rain​paraahune​utth​chalaseh​parabhaat​|"
+          },
+          "devanagari": {
+            "text": "जैसे रैणि पराहुणे उठि चलसहि परभाति ॥",
+            "larivaar": "जैसे​रैणि​पराहुणे​उठि​चलसहि​परभाति​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 12,
+        "firstletters": {
+          "akhar": "jrpacp",
+          "unicode": "ਜਰਪੳਚਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "GDFS",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "ikAw qUM rqw igrsq isau sB Pulw kI bwgwiq ]2]",
+          "unicode": "ਕਿਆ ਤੂੰ ਰਤਾ ਗਿਰਸਤ ਸਿਉ ਸਭ ਫੁਲਾ ਕੀ ਬਾਗਾਤਿ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "ikAw​qUM​rqw​igrsq​isau​sB​Pulw​kI​bwgwiq​]2]",
+          "unicode": "ਕਿਆ​ਤੂੰ​ਰਤਾ​ਗਿਰਸਤ​ਸਿਉ​ਸਭ​ਫੁਲਾ​ਕੀ​ਬਾਗਾਤਿ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Why are you so attached to your household? It is all like flowers in the garden. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "qUM ies igRhsq nwl (bwg prvwr nwl) ikauN msq hoieAw ipAw hYN? ieh swrI Pu`lW dI hI bZIcI (smwn) hY ]2]",
+              "unicode": "ਤੂੰ ਇਸ ਗ੍ਰਿਹਸਤ ਨਾਲ (ਬਾਗ ਪਰਵਾਰ ਨਾਲ) ਕਿਉਂ ਮਸਤ ਹੋਇਆ ਪਿਆ ਹੈਂ? ਇਹ ਸਾਰੀ ਫੁੱਲਾਂ ਦੀ ਹੀ ਬਗ਼ੀਚੀ (ਸਮਾਨ) ਹੈ ॥੨॥"
+            }
+          },
+          "spanish": "¿por qué te engolosinas tanto con tu hogar cuando tu jardín de ensueño no va a durar para siempre? (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "kiaa toon rataa girasat siau sabh fulaa kee baagaat |2|",
+            "larivaar": "kiaa​toon​rataa​girasat​siau​sabh​fulaa​kee​baagaat​|2|"
+          },
+          "devanagari": {
+            "text": "किआ तूं रता गिरसत सिउ सभ फुला की बागाति ॥२॥",
+            "larivaar": "किआ​तूं​रता​गिरसत​सिउ​सभ​फुला​की​बागाति​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "kqrgssPkb",
+          "unicode": "ਕਤਰਗਸਸਫਕਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "LC3N",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "myrI myrI ikAw krih ijin dIAw so pRBu loiV ]",
+          "unicode": "ਮੇਰੀ ਮੇਰੀ ਕਿਆ ਕਰਹਿ ਜਿਨਿ ਦੀਆ ਸੋ ਪ੍ਰਭੁ ਲੋੜਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "myrI​myrI​ikAw​krih​ijin​dIAw​so​pRBu​loiV​]",
+          "unicode": "ਮੇਰੀ​ਮੇਰੀ​ਕਿਆ​ਕਰਹਿ​ਜਿਨਿ​ਦੀਆ​ਸੋ​ਪ੍ਰਭੁ​ਲੋੜਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Why do you say, \"Mine, mine\"? Look to God, who has given it to you."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ieh cIz myrI hY, ieh jwiedwd myrI hY-ikauN Ajyhw mwx kr irhw hYN? ijs prmwqmw ny ieh sB kuJ id`qw hY, aus ƒ l`B[",
+              "unicode": "ਇਹ ਚੀਜ਼ ਮੇਰੀ ਹੈ, ਇਹ ਜਾਇਦਾਦ ਮੇਰੀ ਹੈ-ਕਿਉਂ ਅਜੇਹਾ ਮਾਣ ਕਰ ਰਿਹਾ ਹੈਂ? ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਇਹ ਸਭ ਕੁਝ ਦਿੱਤਾ ਹੈ, ਉਸ ਨੂੰ ਲੱਭ।"
+            }
+          },
+          "spanish": "¿Por qué dices: “esto es mío, mío?”, búscalo a Él, pues es Él quien te dio la vida."
+        },
+        "transliteration": {
+          "english": {
+            "text": "meree meree kiaa kareh jin deea so prabh lorr |",
+            "larivaar": "meree​meree​kiaa​kareh​jin​deea​so​prabh​lorr​|"
+          },
+          "devanagari": {
+            "text": "मेरी मेरी किआ करहि जिनि दीआ सो प्रभु लोड़ि ॥",
+            "larivaar": "मेरी​मेरी​किआ​करहि​जिनि​दीआ​सो​प्रभु​लोड़ि​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 13,
+        "firstletters": {
+          "akhar": "mmkkjdspl",
+          "unicode": "ਮਮਕਕਜਦਸਪਲ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "EW8M",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "srpr auTI clxw Cif jwsI lK kroiV ]3]",
+          "unicode": "ਸਰਪਰ ਉਠੀ ਚਲਣਾ ਛਡਿ ਜਾਸੀ ਲਖ ਕਰੋੜਿ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "srpr​auTI​clxw​Cif​jwsI​lK​kroiV​]3]",
+          "unicode": "ਸਰਪਰ​ਉਠੀ​ਚਲਣਾ​ਛਡਿ​ਜਾਸੀ​ਲਖ​ਕਰੋੜਿ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "It is certain that you must arise and depart, and leave behind your hundreds of thousands and millions. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "ieQoN zrUr kUc kr jwxw cwhIdw hY[ (l`KW k®oVW dw mwlk BI) l`Kw k®oVW rupey C`f ky clw jwiegw ]3]",
+              "unicode": "ਇਥੋਂ ਜ਼ਰੂਰ ਕੂਚ ਕਰ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ। (ਲੱਖਾਂ ਕ੍ਰੋੜਾਂ ਦਾ ਮਾਲਕ ਭੀ) ਲੱਖਾ ਕ੍ਰੋੜਾਂ ਰੁਪਏ ਛੱਡ ਕੇ ਚਲਾ ਜਾਇਗਾ ॥੩॥"
+            }
+          },
+          "spanish": "Tenlo por seguro, cuando te vayas tendrás que dejar todos tus millones. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "sarapar utthee chalanaa chhadd jaasee lakh karorr |3|",
+            "larivaar": "sarapar​utthee​chalanaa​chhadd​jaasee​lakh​karorr​|3|"
+          },
+          "devanagari": {
+            "text": "सरपर उठी चलणा छडि जासी लख करोड़ि ॥३॥",
+            "larivaar": "सरपर​उठी​चलणा​छडि​जासी​लख​करोड़ि​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "sacCjlk",
+          "unicode": "ਸੳਚਛਜਲਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "RAZU",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "lK caurwsIh BRmiqAw dulB jnmu pwieEie ]",
+          "unicode": "ਲਖ ਚਉਰਾਸੀਹ ਭ੍ਰਮਤਿਆ ਦੁਲਭ ਜਨਮੁ ਪਾਇਓਇ ॥"
+        },
+        "larivaar": {
+          "akhar": "lK​caurwsIh​BRmiqAw​dulB​jnmu​pwieEie​]",
+          "unicode": "ਲਖ​ਚਉਰਾਸੀਹ​ਭ੍ਰਮਤਿਆ​ਦੁਲਭ​ਜਨਮੁ​ਪਾਇਓਇ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Through 8.4 million incarnations you have wandered, to obtain this rare and precious human life."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy BweI!) cOrwsI l`K jUnW ivc BON BON ky qUM hux ieh mnu`Kw jnm bVI muSikl nwl l`Bw hY[",
+              "unicode": "(ਹੇ ਭਾਈ!) ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਿਚ ਭੌਂ ਭੌਂ ਕੇ ਤੂੰ ਹੁਣ ਇਹ ਮਨੁੱਖਾ ਜਨਮ ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਲੱਭਾ ਹੈ।"
+            }
+          },
+          "spanish": "Has vagado a través de millones de encarnaciones para poder lograr obtener esta forma humana."
+        },
+        "transliteration": {
+          "english": {
+            "text": "lakh chauraaseeh bhramatiaa dulabh janam paaeoe |",
+            "larivaar": "lakh​chauraaseeh​bhramatiaa​dulabh​janam​paaeoe​|"
+          },
+          "devanagari": {
+            "text": "लख चउरासीह भ्रमतिआ दुलभ जनमु पाइओइ ॥",
+            "larivaar": "लख​चउरासीह​भ्रमतिआ​दुलभ​जनमु​पाइओइ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 14,
+        "firstletters": {
+          "akhar": "lcBdjp",
+          "unicode": "ਲਚਭਦਜਪ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "WTMF",
+        "type": 4,
+        "shabadid": "0T7",
+        "gurmukhi": {
+          "akhar": "nwnk nwmu smwil qUM so idnu nyVw AwieEie ]4]22]92]",
+          "unicode": "ਨਾਨਕ ਨਾਮੁ ਸਮਾਲਿ ਤੂੰ ਸੋ ਦਿਨੁ ਨੇੜਾ ਆਇਓਇ ॥੪॥੨੨॥੯੨॥"
+        },
+        "larivaar": {
+          "akhar": "nwnk​nwmu​smwil​qUM​so​idnu​nyVw​AwieEie​]4]22]92]",
+          "unicode": "ਨਾਨਕ​ਨਾਮੁ​ਸਮਾਲਿ​ਤੂੰ​ਸੋ​ਦਿਨੁ​ਨੇੜਾ​ਆਇਓਇ​॥੪॥੨੨॥੯੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "O Nanak, remember the Naam, the Name of the Lord; the day of departure is drawing near! ||4||22||92||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy nwnk! (prmwqmw dw) nwm ihrdy ivc vsw[ auh idn nyVy Aw irhw hY (jdoN ieQoN kUc krnw hY) ]4]22]92]",
+              "unicode": "ਹੇ ਨਾਨਕ! (ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਹਿਰਦੇ ਵਿਚ ਵਸਾ। ਉਹ ਦਿਨ ਨੇੜੇ ਆ ਰਿਹਾ ਹੈ (ਜਦੋਂ ਇਥੋਂ ਕੂਚ ਕਰਨਾ ਹੈ) ॥੪॥੨੨॥੯੨॥"
+            }
+          },
+          "spanish": "Dice Nanak, recuerda entonces el Nombre del Señor, pues el día de la visita de la muerte está cada vez más cerca. (4-22-92)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "naanak naam samaal toon so din nerraa aaeoe |4|22|92|",
+            "larivaar": "naanak​naam​samaal​toon​so​din​nerraa​aaeoe​|4|22|92|"
+          },
+          "devanagari": {
+            "text": "नानक नामु समालि तूं सो दिनु नेड़ा आइओइ ॥४॥२२॥९२॥",
+            "larivaar": "नानक​नामु​समालि​तूं​सो​दिनु​नेड़ा​आइओइ​॥४॥२२॥९२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 15,
+        "firstletters": {
+          "akhar": "nnsqsdnA",
+          "unicode": "ਨਨਸਤਸਦਨਅ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "UFED",
+        "type": 2,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "isrIrwgu mhlw 5 ]",
+          "unicode": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੫ ॥"
+        },
+        "larivaar": {
+          "akhar": "isrIrwgu​mhlw​5​]",
+          "unicode": "ਸਿਰੀਰਾਗੁ​ਮਹਲਾ​੫​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Siree Raag, Fifth Mehl:"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "",
+              "unicode": ""
+            }
+          },
+          "spanish": "Siri Rag Mejl Guru Aryan, Quinto Canal Divino."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sireeraag mahalaa 5 |",
+            "larivaar": "sireeraag​mahalaa​5​|"
+          },
+          "devanagari": {
+            "text": "सिरीरागु महला ५ ॥",
+            "larivaar": "सिरीरागु​महला​५​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "sm5]",
+          "unicode": "ਸਮ੫॥"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "T86P",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "iqcru vsih suhylVI ijcru swQI nwil ]",
+          "unicode": "ਤਿਚਰੁ ਵਸਹਿ ਸੁਹੇਲੜੀ ਜਿਚਰੁ ਸਾਥੀ ਨਾਲਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "iqcru​vsih​suhylVI​ijcru​swQI​nwil​]",
+          "unicode": "ਤਿਚਰੁ​ਵਸਹਿ​ਸੁਹੇਲੜੀ​ਜਿਚਰੁ​ਸਾਥੀ​ਨਾਲਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "As long as the soul-companion is with the body, it dwells in happiness."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy kWieAW! qUM auqnw icr hI suKI v`syNgI, ijqnw icr (jIvwqmw qyrw) swQI (qyry) nwl hY[",
+              "unicode": "ਹੇ ਕਾਂਇਆਂ! ਤੂੰ ਉਤਨਾ ਚਿਰ ਹੀ ਸੁਖੀ ਵੱਸੇਂਗੀ, ਜਿਤਨਾ ਚਿਰ (ਜੀਵਾਤਮਾ ਤੇਰਾ) ਸਾਥੀ (ਤੇਰੇ) ਨਾਲ ਹੈ।"
+            }
+          },
+          "spanish": "Oh cuerpo mío, sólo puedes vivir hasta que haya vida en ti."
+        },
+        "transliteration": {
+          "english": {
+            "text": "tichar vaseh suhelarree jichar saathee naal |",
+            "larivaar": "tichar​vaseh​suhelarree​jichar​saathee​naal​|"
+          },
+          "devanagari": {
+            "text": "तिचरु वसहि सुहेलड़ी जिचरु साथी नालि ॥",
+            "larivaar": "तिचरु​वसहि​सुहेलड़ी​जिचरु​साथी​नालि​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "qvsjsn",
+          "unicode": "ਤਵਸਜਸਨ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "HMRW",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "jw swQI auTI cilAw qw Dn KwkU rwil ]1]",
+          "unicode": "ਜਾ ਸਾਥੀ ਉਠੀ ਚਲਿਆ ਤਾ ਧਨ ਖਾਕੂ ਰਾਲਿ ॥੧॥"
+        },
+        "larivaar": {
+          "akhar": "jw​swQI​auTI​cilAw​qw​Dn​KwkU​rwil​]1]",
+          "unicode": "ਜਾ​ਸਾਥੀ​ਉਠੀ​ਚਲਿਆ​ਤਾ​ਧਨ​ਖਾਕੂ​ਰਾਲਿ​॥੧॥"
+        },
+        "translation": {
+          "english": {
+            "default": "But when the companion arises and departs, then the body-bride mingles with dust. ||1||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "jdoN (qyrw) swQI (jIvwqmw) au`T ky c`l peygw, qdoN, hy kWieAW! qUM im`tI ivc rl jwieNgI ]1]",
+              "unicode": "ਜਦੋਂ (ਤੇਰਾ) ਸਾਥੀ (ਜੀਵਾਤਮਾ) ਉੱਠ ਕੇ ਚੱਲ ਪਏਗਾ, ਤਦੋਂ, ਹੇ ਕਾਂਇਆਂ! ਤੂੰ ਮਿੱਟੀ ਵਿਚ ਰਲ ਜਾਇਂਗੀ ॥੧॥"
+            }
+          },
+          "spanish": "Cuando la vida se va, regresas a ser polvo. (1)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaa saathee utthee chaliaa taa dhan khaakoo raal |1|",
+            "larivaar": "jaa​saathee​utthee​chaliaa​taa​dhan​khaakoo​raal​|1|"
+          },
+          "devanagari": {
+            "text": "जा साथी उठी चलिआ ता धन खाकू रालि ॥१॥",
+            "larivaar": "जा​साथी​उठी​चलिआ​ता​धन​खाकू​रालि​॥१॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 16,
+        "firstletters": {
+          "akhar": "jsacqDKr",
+          "unicode": "ਜਸੳਚਤਧਖਰ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "NTAU",
+        "type": 3,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "min bYrwgu BieAw drsnu dyKxY kw cwau ]",
+          "unicode": "ਮਨਿ ਬੈਰਾਗੁ ਭਇਆ ਦਰਸਨੁ ਦੇਖਣੈ ਕਾ ਚਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "min​bYrwgu​BieAw​drsnu​dyKxY​kw​cwau​]",
+          "unicode": "ਮਨਿ​ਬੈਰਾਗੁ​ਭਇਆ​ਦਰਸਨੁ​ਦੇਖਣੈ​ਕਾ​ਚਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "My mind has become detached from the world; it longs to see the Vision of God's Darshan."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(auh mnu`K BwgW vwlw hY ijs dy) mn ivc qyrw ipAwr pYdw ho igAw hYN, ijs dy mn ivc qyry drSn dI qWG pYdw hoeI hY[",
+              "unicode": "(ਉਹ ਮਨੁੱਖ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਜਿਸ ਦੇ) ਮਨ ਵਿਚ ਤੇਰਾ ਪਿਆਰ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈਂ, ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਤੇਰੇ ਦਰਸ਼ਨ ਦੀ ਤਾਂਘ ਪੈਦਾ ਹੋਈ ਹੈ।"
+            }
+          },
+          "spanish": "Mi mente añora en lo más profundo verte, oh mi Señor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "man bairaag bheaa darasan dekhanai kaa chaau |",
+            "larivaar": "man​bairaag​bheaa​darasan​dekhanai​kaa​chaau​|"
+          },
+          "devanagari": {
+            "text": "मनि बैरागु भइआ दरसनु देखणै का चाउ ॥",
+            "larivaar": "मनि​बैरागु​भइआ​दरसनु​देखणै​का​चाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "mbBddkc",
+          "unicode": "ਮਬਭਦਦਕਚ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "J3BP",
+        "type": 3,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "DMnu su qyrw Qwnu ]1] rhwau ]",
+          "unicode": "ਧੰਨੁ ਸੁ ਤੇਰਾ ਥਾਨੁ ॥੧॥ ਰਹਾਉ ॥"
+        },
+        "larivaar": {
+          "akhar": "DMnu​su​qyrw​Qwnu​]1]​rhwau​]",
+          "unicode": "ਧੰਨੁ​ਸੁ​ਤੇਰਾ​ਥਾਨੁ​॥੧॥​ਰਹਾਉ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Blessed is Your Place. ||1||Pause||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy hrI!) auh srIr BwgW vwlw hY ijs ivc qyrw invws hY (ij`Qy qYƒ Xwd kIqw jw irhw hY) ]1] rhwau ]",
+              "unicode": "(ਹੇ ਹਰੀ!) ਉਹ ਸਰੀਰ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਜਿਸ ਵਿਚ ਤੇਰਾ ਨਿਵਾਸ ਹੈ (ਜਿੱਥੇ ਤੈਨੂੰ ਯਾਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            }
+          },
+          "spanish": "Bendito, bendito es Tu Lugar Eterno."
+        },
+        "transliteration": {
+          "english": {
+            "text": "dhan su teraa thaan |1| rahaau |",
+            "larivaar": "dhan​su​teraa​thaan​|1|​rahaau​|"
+          },
+          "devanagari": {
+            "text": "धंनु सु तेरा थानु ॥१॥ रहाउ ॥",
+            "larivaar": "धंनु​सु​तेरा​थानु​॥१॥​रहाउ​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "DsqQ",
+          "unicode": "ਧਸਤਥ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "5HHL",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "ijcru visAw kMqu Gir jIau jIau siB khwiq ]",
+          "unicode": "ਜਿਚਰੁ ਵਸਿਆ ਕੰਤੁ ਘਰਿ ਜੀਉ ਜੀਉ ਸਭਿ ਕਹਾਤਿ ॥"
+        },
+        "larivaar": {
+          "akhar": "ijcru​visAw​kMqu​Gir​jIau​jIau​siB​khwiq​]",
+          "unicode": "ਜਿਚਰੁ​ਵਸਿਆ​ਕੰਤੁ​ਘਰਿ​ਜੀਉ​ਜੀਉ​ਸਭਿ​ਕਹਾਤਿ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "As long as the soul-husband dwells in the body-house, everyone greets you with respect."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "hy kWieAW! ijqnw icr qyrw Ksm (jIvwqmw qyry) Gr ivc v`sdw hY, swry lok qYƒ 'jI jI' AwKdy hn (swry qyrw Awdr krdy hn)[",
+              "unicode": "ਹੇ ਕਾਂਇਆਂ! ਜਿਤਨਾ ਚਿਰ ਤੇਰਾ ਖਸਮ (ਜੀਵਾਤਮਾ ਤੇਰੇ) ਘਰ ਵਿਚ ਵੱਸਦਾ ਹੈ, ਸਾਰੇ ਲੋਕ ਤੈਨੂੰ 'ਜੀ ਜੀ' ਆਖਦੇ ਹਨ (ਸਾਰੇ ਤੇਰਾ ਆਦਰ ਕਰਦੇ ਹਨ)।"
+            }
+          },
+          "spanish": "Oh mujer, cuando tu consorte está contigo, todos te rinden honor."
+        },
+        "transliteration": {
+          "english": {
+            "text": "jichar vasiaa kant ghar jeeo jeeo sabh kahaat |",
+            "larivaar": "jichar​vasiaa​kant​ghar​jeeo​jeeo​sabh​kahaat​|"
+          },
+          "devanagari": {
+            "text": "जिचरु वसिआ कंतु घरि जीउ जीउ सभि कहाति ॥",
+            "larivaar": "जिचरु​वसिआ​कंतु​घरि​जीउ​जीउ​सभि​कहाति​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 17,
+        "firstletters": {
+          "akhar": "jvkGjjsk",
+          "unicode": "ਜਵਕਘਜਜਸਕ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "V8MN",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "jw auTI clsI kMqVw qw koie n puCY qyrI bwq ]2]",
+          "unicode": "ਜਾ ਉਠੀ ਚਲਸੀ ਕੰਤੜਾ ਤਾ ਕੋਇ ਨ ਪੁਛੈ ਤੇਰੀ ਬਾਤ ॥੨॥"
+        },
+        "larivaar": {
+          "akhar": "jw​auTI​clsI​kMqVw​qw​koie​n​puCY​qyrI​bwq​]2]",
+          "unicode": "ਜਾ​ਉਠੀ​ਚਲਸੀ​ਕੰਤੜਾ​ਤਾ​ਕੋਇ​ਨ​ਪੁਛੈ​ਤੇਰੀ​ਬਾਤ​॥੨॥"
+        },
+        "translation": {
+          "english": {
+            "default": "But when the soul-husband arises and departs, then no one cares for you at all. ||2||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "pr jdoN inmwxw kMq (jIvwqmw) au`T ky qur peygw, qdoN koeI BI qyrI vwq nhIN pu`Cdw ]2]",
+              "unicode": "ਪਰ ਜਦੋਂ ਨਿਮਾਣਾ ਕੰਤ (ਜੀਵਾਤਮਾ) ਉੱਠ ਕੇ ਤੁਰ ਪਏਗਾ, ਤਦੋਂ ਕੋਈ ਭੀ ਤੇਰੀ ਵਾਤ ਨਹੀਂ ਪੁੱਛਦਾ ॥੨॥"
+            }
+          },
+          "spanish": "Pero cuando Él se va, nadie te presta atención (2)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "jaa utthee chalasee kantarraa taa koe na puchhai teree baat |2|",
+            "larivaar": "jaa​utthee​chalasee​kantarraa​taa​koe​na​puchhai​teree​baat​|2|"
+          },
+          "devanagari": {
+            "text": "जा उठी चलसी कंतड़ा ता कोइ न पुछै तेरी बात ॥२॥",
+            "larivaar": "जा​उठी​चलसी​कंतड़ा​ता​कोइ​न​पुछै​तेरी​बात​॥२॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "jackqknpqb",
+          "unicode": "ਜੳਚਕਤਕਨਪਤਬ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "9647",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "pyeIAVY shu syiv qUM swhurVY suiK vsu ]",
+          "unicode": "ਪੇਈਅੜੈ ਸਹੁ ਸੇਵਿ ਤੂੰ ਸਾਹੁਰੜੈ ਸੁਖਿ ਵਸੁ ॥"
+        },
+        "larivaar": {
+          "akhar": "pyeIAVY​shu​syiv​qUM​swhurVY​suiK​vsu​]",
+          "unicode": "ਪੇਈਅੜੈ​ਸਹੁ​ਸੇਵਿ​ਤੂੰ​ਸਾਹੁਰੜੈ​ਸੁਖਿ​ਵਸੁ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "In this world of your parents' home, serve your Husband Lord; in the world beyond, in your in-laws' home, you shall dwell in peace."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy ijMdy! ijqnw icr qUM) pyky Gr ivc (sMswr ivc hYN, auqnw icr) qUM Ksm-pRBU ƒ ismrdI rhu[ shury Gr ivc (prlok ivc jw ky) qUM suKI v`syNgI[",
+              "unicode": "(ਹੇ ਜਿੰਦੇ! ਜਿਤਨਾ ਚਿਰ ਤੂੰ) ਪੇਕੇ ਘਰ ਵਿਚ (ਸੰਸਾਰ ਵਿਚ ਹੈਂ, ਉਤਨਾ ਚਿਰ) ਤੂੰ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੀ ਰਹੁ। ਸਹੁਰੇ ਘਰ ਵਿਚ (ਪਰਲੋਕ ਵਿਚ ਜਾ ਕੇ) ਤੂੰ ਸੁਖੀ ਵੱਸੇਂਗੀ।"
+            }
+          },
+          "spanish": "En la casa de tus padres estás bendecida, así como en la de tus suegros."
+        },
+        "transliteration": {
+          "english": {
+            "text": "peeearrai sahu sev toon saahurarrai sukh vas |",
+            "larivaar": "peeearrai​sahu​sev​toon​saahurarrai​sukh​vas​|"
+          },
+          "devanagari": {
+            "text": "पेईअड़ै सहु सेवि तूं साहुरड़ै सुखि वसु ॥",
+            "larivaar": "पेईअड़ै​सहु​सेवि​तूं​साहुरड़ै​सुखि​वसु​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 18,
+        "firstletters": {
+          "akhar": "pssqssv",
+          "unicode": "ਪਸਸਤਸਸਵ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "FV4H",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "gur imil cju Acwru isKu quDu kdy n lgY duKu ]3]",
+          "unicode": "ਗੁਰ ਮਿਲਿ ਚਜੁ ਅਚਾਰੁ ਸਿਖੁ ਤੁਧੁ ਕਦੇ ਨ ਲਗੈ ਦੁਖੁ ॥੩॥"
+        },
+        "larivaar": {
+          "akhar": "gur​imil​cju​Acwru​isKu​quDu​kdy​n​lgY​duKu​]3]",
+          "unicode": "ਗੁਰ​ਮਿਲਿ​ਚਜੁ​ਅਚਾਰੁ​ਸਿਖੁ​ਤੁਧੁ​ਕਦੇ​ਨ​ਲਗੈ​ਦੁਖੁ​॥੩॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Meeting with the Guru, be a sincere student of proper conduct, and suffering shall never touch you. ||3||"
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "(hy ijMdy!) gurU ƒ iml ky jIvn-jwc is`K, cMgw Awcrn bxwxw is`K, qYƒ kdy koeI du`K nhIN ivAwpygw ]3]",
+              "unicode": "(ਹੇ ਜਿੰਦੇ!) ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਜੀਵਨ-ਜਾਚ ਸਿੱਖ, ਚੰਗਾ ਆਚਰਨ ਬਣਾਣਾ ਸਿੱਖ, ਤੈਨੂੰ ਕਦੇ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਵਿਆਪੇਗਾ ॥੩॥"
+            }
+          },
+          "spanish": "Y si aprendes de una forma correcta, nunca sufres. (3)"
+        },
+        "transliteration": {
+          "english": {
+            "text": "gur mil chaj achaar sikh tudh kade na lagai dukh |3|",
+            "larivaar": "gur​mil​chaj​achaar​sikh​tudh​kade​na​lagai​dukh​|3|"
+          },
+          "devanagari": {
+            "text": "गुर मिलि चजु अचारु सिखु तुधु कदे न लगै दुखु ॥३॥",
+            "larivaar": "गुर​मिलि​चजु​अचारु​सिखु​तुधु​कदे​न​लगै​दुखु​॥३॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "gmcAsqknld",
+          "unicode": "ਗਮਚਅਸਤਕਨਲਦ"
+        }
+      }
+    },
+    {
+      "line": {
+        "id": "DN46",
+        "type": 4,
+        "shabadid": "WJD",
+        "gurmukhi": {
+          "akhar": "sBnw swhurY vM\\xw siB muklwvxhwr ]",
+          "unicode": "ਸਭਨਾ ਸਾਹੁਰੈ ਵੰਞਣਾ ਸਭਿ ਮੁਕਲਾਵਣਹਾਰ ॥"
+        },
+        "larivaar": {
+          "akhar": "sBnw​swhurY​vM\\xw​siB​muklwvxhwr​]",
+          "unicode": "ਸਭਨਾ​ਸਾਹੁਰੈ​ਵੰਞਣਾ​ਸਭਿ​ਮੁਕਲਾਵਣਹਾਰ​॥"
+        },
+        "translation": {
+          "english": {
+            "default": "Everyone shall go to their Husband Lord. Everyone shall be given their ceremonial send-off after their marriage."
+          },
+          "punjabi": {
+            "default": {
+              "akhar": "sB jIv-iesqRIAW ny shury Gr (prlok ivc Awpo AwpxI vwrI) cly jwxw hY, swrIAW ny muklwvy jwxw hY[",
+              "unicode": "ਸਭ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਨੇ ਸਹੁਰੇ ਘਰ (ਪਰਲੋਕ ਵਿਚ ਆਪੋ ਆਪਣੀ ਵਾਰੀ) ਚਲੇ ਜਾਣਾ ਹੈ, ਸਾਰੀਆਂ ਨੇ ਮੁਕਲਾਵੇ ਜਾਣਾ ਹੈ।"
+            }
+          },
+          "spanish": "Todas se irán algún día con sus suegros, todas serán entregadas en matrimonio."
+        },
+        "transliteration": {
+          "english": {
+            "text": "sabhanaa saahurai vanyanaa sabh mukalaavanahaar |",
+            "larivaar": "sabhanaa​saahurai​vanyanaa​sabh​mukalaavanahaar​|"
+          },
+          "devanagari": {
+            "text": "सभना साहुरै वंञणा सभि मुकलावणहार ॥",
+            "larivaar": "सभना​साहुरै​वंञणा​सभि​मुकलावणहार​॥"
+          }
+        },
+        "writer": {
+          "id": 5,
+          "akhar": "gurU Arjn dyv jI",
+          "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+          "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+          "id": 5,
+          "akhar": "isrI rwgu",
+          "unicode": "ਸਿਰੀ ਰਾਗੁ",
+          "english": "Siree Raag",
+          "startang": 14,
+          "endang": 93,
+          "raagwithpage": "Siree Raag (14-93)"
+        },
+        "pageno": 50,
+        "lineno": 19,
+        "firstletters": {
+          "akhar": "ssvsm",
+          "unicode": "ਸਸਵਸਮ"
+        }
+      }
+    }
+  ],
+  "error": false
+}
