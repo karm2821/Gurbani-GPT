@@ -566,11 +566,9 @@ class GurbaniRAG:
 
         prompt = (
             f"GURBANI CONTEXT (with tier labels):\n{context}\n\n"
+            f"RETRIEVAL CONFIDENCE: {confidence}\n"
+            f"CONFIDENCE INSTRUCTION: {confidence_instruction}\n"
             f"{concept_info}\n"
-            f"CONFIDENCE LEVEL: {confidence}\n"
-            f"Confidence instruction: {confidence_instruction}\n\n"
-            f"SEEKER'S QUESTION: {query}\n\n"
-            f"Please answer using the structured format described in your instructions. "
             f"Use the tier labels ([DIRECT] / [SUPPORTING] / [GENERAL]) to decide how to "
             f"present each passage. Only quote Gurbani text that appears verbatim in the "
             f"passages above. Never fabricate Gurbani lines or source metadata."
@@ -626,18 +624,6 @@ class GurbaniRAG:
 
         groq_key = os.environ.get("GROQ_API_KEY", "").strip() or GROQ_API_KEY
         if groq_key:
-            # Use Groq Cloud API for free, ultra-fast streaming in cloud/Render
-            candidate_models = [
-                os.environ.get("GROQ_MODEL", "").strip(),
-                "llama-3.3-70b-versatile",
-                "llama3-70b-8192",
-                "llama3-8b-8192",
-                "mixtral-8x7b-32768",
-                "gemma2-9b-it"
-            ]
-            # Deduplicate and remove empty
-            models_to_try = [m for m in dict.fromkeys(candidate_models) if m]
-
             headers = {
                 "Authorization": f"Bearer {groq_key}",
                 "Content-Type": "application/json"
@@ -648,49 +634,66 @@ class GurbaniRAG:
                 "temperature": 0.3
             }
 
-            last_err = ""
-            for model_name in models_to_try:
-                payload["model"] = model_name
+            # Discover active Groq models dynamically
+            active_model = os.environ.get("GROQ_MODEL", "").strip()
+            if not active_model:
                 try:
-
-
-                    resp = requests.post(
-                        "https://api.groq.com/openai/v1/chat/completions",
+                    models_resp = requests.get(
+                        "https://api.groq.com/openai/v1/models",
                         headers=headers,
-                        json=payload,
-                        stream=True,
-                        timeout=180
+                        timeout=8
                     )
-                    if resp.status_code != 200:
-                        last_err = f"Model {model_name}: {resp.text}"
-                        continue
+                    if models_resp.status_code == 200:
+                        available_ids = [m["id"] for m in models_resp.json().get("data", []) if "id" in m]
+                        for pref in ["llama-3.3-70b-versatile", "llama-3.1-70b-versatile", "deepseek-r1-distill-llama-70b", "llama-3.2-3b-preview"]:
+                            if pref in available_ids:
+                                active_model = pref
+                                break
+                        if not active_model and available_ids:
+                            chat_candidates = [m for m in available_ids if "whisper" not in m and "vision" not in m]
+                            active_model = chat_candidates[0] if chat_candidates else available_ids[0]
+                except Exception:
+                    pass
 
-                    # Stream tokens from working model
-                    for line in resp.iter_lines():
-                        if line:
-                            line_str = line.decode('utf-8')
-                            if line_str.startswith("data: "):
-                                data_part = line_str[6:].strip()
-                                if data_part == "[DONE]":
-                                    yield json.dumps({"done": True}) + '\n'
-                                    break
-                                try:
-                                    chunk_obj = json.loads(data_part)
-                                    delta_content = chunk_obj["choices"][0]["delta"].get("content", "")
-                                    if delta_content:
-                                        yield json.dumps({
-                                            "message": {"role": "assistant", "content": delta_content},
-                                            "done": False
-                                        }) + '\n'
-                                except Exception:
-                                    continue
+            if not active_model:
+                active_model = "llama-3.3-70b-versatile"
+
+            payload["model"] = active_model
+            try:
+                resp = requests.post(
+                    "https://api.groq.com/openai/v1/chat/completions",
+                    headers=headers,
+                    json=payload,
+                    stream=True,
+                    timeout=180
+                )
+                if resp.status_code != 200:
+                    yield json.dumps({"error": f"Groq error ({active_model}): {resp.text}"}) + '\n'
                     return
-                except Exception as e:
-                    last_err = str(e)
-                    continue
 
-            yield json.dumps({"error": f"Groq error: {last_err}"}) + '\n'
-            return
+                for line in resp.iter_lines():
+                    if line:
+                        line_str = line.decode('utf-8')
+                        if line_str.startswith("data: "):
+                            data_part = line_str[6:].strip()
+                            if data_part == "[DONE]":
+                                yield json.dumps({"done": True}) + '\n'
+                                break
+                            try:
+                                chunk_obj = json.loads(data_part)
+                                delta_content = chunk_obj["choices"][0]["delta"].get("content", "")
+                                if delta_content:
+                                    yield json.dumps({
+                                        "message": {"role": "assistant", "content": delta_content},
+                                        "done": False
+                                    }) + '\n'
+                            except Exception:
+                                continue
+                return
+            except Exception as e:
+                yield json.dumps({"error": f"Groq error ({active_model}): {str(e)}"}) + '\n'
+                return
+
 
 
 
