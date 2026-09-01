@@ -624,11 +624,12 @@ class GurbaniRAG:
             messages.extend(history[-6:])  # last 3 exchanges (6 messages)
         messages.append({"role": "user", "content": full_prompt})
 
-        if GROQ_API_KEY:
+        groq_key = os.environ.get("GROQ_API_KEY", "").strip() or GROQ_API_KEY
+        if groq_key:
             # Use Groq Cloud API for free, ultra-fast streaming in cloud/Render
-            groq_model = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+            groq_model = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
             headers = {
-                "Authorization": f"Bearer {GROQ_API_KEY}",
+                "Authorization": f"Bearer {groq_key}",
                 "Content-Type": "application/json"
             }
             payload = {
@@ -638,37 +639,53 @@ class GurbaniRAG:
                 "temperature": 0.3
             }
             try:
-                with requests.post(
+                resp = requests.post(
                     "https://api.groq.com/openai/v1/chat/completions",
                     headers=headers,
                     json=payload,
                     stream=True,
                     timeout=180
-                ) as resp:
-                    resp.raise_for_status()
-                    for line in resp.iter_lines():
-                        if line:
-                            line_str = line.decode('utf-8')
-                            if line_str.startswith("data: "):
-                                data_part = line_str[6:].strip()
-                                if data_part == "[DONE]":
-                                    yield json.dumps({"done": True}) + '\n'
-                                    break
-                                try:
-                                    chunk_obj = json.loads(data_part)
-                                    delta_content = chunk_obj["choices"][0]["delta"].get("content", "")
-                                    if delta_content:
-                                        # Format identical to Ollama output format
-                                        yield json.dumps({
-                                            "message": {"role": "assistant", "content": delta_content},
-                                            "done": False
-                                        }) + '\n'
-                                except Exception:
-                                    continue
+                )
+                if resp.status_code != 200:
+                    err_msg = resp.text
+                    print(f"[RAG] Groq API error {resp.status_code}: {err_msg}")
+                    # Try fallback to llama-3.1-8b-instant
+                    payload["model"] = "llama-3.1-8b-instant"
+                    resp = requests.post(
+                        "https://api.groq.com/openai/v1/chat/completions",
+                        headers=headers,
+                        json=payload,
+                        stream=True,
+                        timeout=180
+                    )
+                    if resp.status_code != 200:
+                        yield json.dumps({"error": f"Groq error: {resp.text}"}) + '\n'
+                        return
+
+                for line in resp.iter_lines():
+                    if line:
+                        line_str = line.decode('utf-8')
+                        if line_str.startswith("data: "):
+                            data_part = line_str[6:].strip()
+                            if data_part == "[DONE]":
+                                yield json.dumps({"done": True}) + '\n'
+                                break
+                            try:
+                                chunk_obj = json.loads(data_part)
+                                delta_content = chunk_obj["choices"][0]["delta"].get("content", "")
+                                if delta_content:
+                                    yield json.dumps({
+                                        "message": {"role": "assistant", "content": delta_content},
+                                        "done": False
+                                    }) + '\n'
+                            except Exception:
+                                continue
                 return
             except Exception as e:
-                yield json.dumps({"error": f"Groq API error: {str(e)}"}) + '\n'
+                print(f"[RAG] Groq connection error: {e}")
+                yield json.dumps({"error": f"Groq connection error: {str(e)}"}) + '\n'
                 return
+
 
         # Default: Stream from Ollama (localhost or remote URL)
         try:

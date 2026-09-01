@@ -74,8 +74,20 @@ export default function App() {
               continue
             }
 
+            // Error chunk from backend/API
+            if (chunk.error) {
+              setMessages(prev =>
+                prev.map(m =>
+                  m.id === assistantId
+                    ? { ...m, content: (m.content ? m.content + '\n\n' : '') + '⚠️ ' + chunk.error }
+                    : m
+                )
+              )
+              continue
+            }
+
             // LLM token chunk
-            const token = chunk?.message?.content ?? ''
+            const token = chunk?.message?.content ?? chunk?.response ?? ''
             if (token) {
               setMessages(prev =>
                 prev.map(m =>
@@ -87,6 +99,7 @@ export default function App() {
             }
 
             if (chunk.done) break
+
           } catch {
             // Non-JSON line — ignore
           }
