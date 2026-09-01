@@ -302,10 +302,11 @@ class GurbaniRAG:
         resp = requests.post(
             f"{self.ollama_host}/api/embeddings",
             json={"model": EMBED_MODEL, "prompt": text},
-            timeout=30
+            timeout=2
         )
         resp.raise_for_status()
         return resp.json()["embedding"]
+
 
     # ─────────────────────────────────────────────────────────────────────────
     # QUERY EXPANSION
@@ -411,7 +412,6 @@ class GurbaniRAG:
                     results['distances'][0]
                 ):
                     relevance = round(1 - dist, 3)
-                    # Use first ~80 chars of doc as a stable key
                     doc_key = doc[:80]
                     if doc_key not in seen_ids or relevance > seen_ids[doc_key]['relevance']:
                         seen_ids[doc_key] = {
@@ -422,11 +422,59 @@ class GurbaniRAG:
                             'relevance': relevance,
                         }
             except Exception as e:
-                print(f"[RAG] Retrieve error for query '{sq}': {e}")
+                # Embedding service offline (e.g. cloud deployment on Render without Ollama)
+                pass
+
+        # ── Keyword & Concept Fallback Search (Runs when embedding service is offline or returns 0 results) ──
+        if not seen_ids:
+            print("[RAG] Using direct ChromaDB keyword search fallback...")
+            search_terms = expansion["gurbani_terms"] + [query]
+            for term in search_terms:
+                if not term or len(term.strip()) < 2:
+                    continue
+                try:
+                    kw_results = self._collection.get(
+                        where_document={"$contains": term.strip()},
+                        limit=n
+                    )
+                    docs = kw_results.get('documents', [])
+                    metas = kw_results.get('metadatas', [])
+                    for doc, meta in zip(docs, metas):
+                        doc_key = doc[:80]
+                        # Gurmukhi non-ASCII term matches get high direct relevance
+                        is_gurmukhi = any(ord(c) > 127 for c in term)
+                        rel_score = 0.72 if is_gurmukhi else 0.58
+                        if doc_key not in seen_ids or rel_score > seen_ids[doc_key]['relevance']:
+                            seen_ids[doc_key] = {
+                                'text':      doc,
+                                'ang':       meta.get('ang', '?'),
+                                'raag':      meta.get('raag', ''),
+                                'author':    meta.get('author', ''),
+                                'relevance': rel_score,
+                            }
+                except Exception as e:
+                    print(f"[RAG] Keyword search error for '{term}': {e}")
+
+            # If still empty, fetch top sample passages from DB
+            if not seen_ids:
+                try:
+                    fallback_res = self._collection.get(limit=n)
+                    for doc, meta in zip(fallback_res.get('documents', []), fallback_res.get('metadatas', [])):
+                        doc_key = doc[:80]
+                        seen_ids[doc_key] = {
+                            'text':      doc,
+                            'ang':       meta.get('ang', '?'),
+                            'raag':      meta.get('raag', ''),
+                            'author':    meta.get('author', ''),
+                            'relevance': 0.45,
+                        }
+                except Exception:
+                    pass
 
         # Sort by relevance, return top-n
         passages = sorted(seen_ids.values(), key=lambda p: p['relevance'], reverse=True)
         return passages[:n]
+
 
     def get_expansion_info(self, query: str) -> dict:
         """Return query expansion metadata (concepts, terms) without doing retrieval."""
