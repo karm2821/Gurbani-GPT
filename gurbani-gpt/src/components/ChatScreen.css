@@ -323,6 +323,47 @@
   color: #fff;
 }
 
+.msg-italic {
+  font-style: italic;
+  color: #fed7aa;
+}
+
+.msg-blockquote {
+  margin: 8px 0;
+  padding: 10px 16px;
+  background: rgba(251, 146, 60, 0.08);
+  border-left: 3px solid var(--saffron-400);
+  border-radius: 0 10px 10px 0;
+  font-size: 14.5px;
+  line-height: 1.65;
+  color: #ffedd5;
+}
+
+.msg-blockquote--gurmukhi {
+  font-family: 'Noto Sans Gurmukhi', serif;
+  font-size: 16px;
+  color: #fef08a;
+  border-left-color: #f59e0b;
+}
+
+.msg-bullet-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin: 6px 0;
+  line-height: 1.6;
+}
+
+.msg-bullet-dot {
+  color: var(--saffron-400);
+  font-weight: bold;
+  user-select: none;
+}
+
+.msg-bullet-text {
+  flex: 1;
+}
+
 .msg-spacer {
   height: 6px;
 }

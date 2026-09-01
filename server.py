@@ -142,21 +142,31 @@ def gurbani_chat():
     } for p in passages]
 
     def stream():
-        # First chunk: send citations + confidence as metadata
-        yield json.dumps({
-            'type':       'citations',
-            'citations':  citations,
-            'confidence': confidence,
-            'concepts':   expansion.get('matched_concepts', []),
-        }) + '\n'
-        # Then stream the LLM answer with history for follow-up awareness
-        for chunk in rag.stream_answer(query, passages, model=model, history=history):
-            yield chunk
+        try:
+            # First chunk: send citations + confidence as metadata
+            yield json.dumps({
+                'type':       'citations',
+                'citations':  citations,
+                'confidence': confidence,
+                'concepts':   expansion.get('matched_concepts', []),
+            }) + '\n'
+            # Then stream the LLM answer with history for follow-up awareness
+            for chunk in rag.stream_answer(query, passages, model=model, history=history):
+                yield chunk
+        except Exception as e:
+            yield json.dumps({
+                'error': f'Stream generation encountered an issue: {str(e)}',
+                'done': True
+            }) + '\n'
 
     return Response(
         stream(),
-        mimetype='application/x-ndjson',
-        headers={'X-Accel-Buffering': 'no', 'Cache-Control': 'no-cache'}
+        mimetype='application/x-ndjson; charset=utf-8',
+        headers={
+            'X-Accel-Buffering': 'no',
+            'Cache-Control': 'no-cache',
+            'Content-Type': 'application/x-ndjson; charset=utf-8'
+        }
     )
 
 

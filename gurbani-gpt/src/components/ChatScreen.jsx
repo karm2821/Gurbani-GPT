@@ -17,55 +17,95 @@ export default function ChatScreen({
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [messages])
 
-  // Simple formatter to format Markdown headers, bold, and Gurmukhi text beautifully
+  // Enhanced formatter to format Markdown headers, blockquotes, lists, bold, italics, and Gurmukhi
   const formatContent = (content) => {
-    if (!content) return ''
+    if (!content) return null
 
     const paragraphs = content.split('\n')
 
     return paragraphs.map((line, idx) => {
-      if (!line.trim()) {
+      const trimmed = line.trim()
+      if (!trimmed) {
         return <div key={idx} className="msg-spacer" />
       }
 
-      // Check for Section Headers like ### 🙏 Gurbani's Perspective
-      if (line.startsWith('### ')) {
-        const headerText = line.replace('### ', '')
+      // Section Headers like ###
+      if (trimmed.startsWith('### ')) {
         return (
           <h3 key={idx} className="msg-heading">
-            {headerText}
+            {trimmed.replace('### ', '')}
           </h3>
         )
       }
-      if (line.startsWith('## ')) {
+      if (trimmed.startsWith('## ')) {
         return (
           <h2 key={idx} className="msg-heading msg-heading--lg">
-            {line.replace('## ', '')}
+            {trimmed.replace('## ', '')}
           </h2>
         )
       }
 
-      // Check for Gurmukhi lines or Gurbani quote tags
-      const hasGurmukhi = /[\u0A00-\u0A7F]/.test(line)
+      // Blockquotes
+      const isQuote = trimmed.startsWith('>')
+      const cleanLine = isQuote ? trimmed.replace(/^>\s*/, '') : trimmed
 
-      // Replace bold markdown **text**
-      const parts = line.split(/(\*\*.*?\*\*)/g)
+      // List Items
+      const isBullet = cleanLine.startsWith('- ') || cleanLine.startsWith('* ')
+      const textToParse = isBullet ? cleanLine.substring(2) : cleanLine
+
+      // Check for Gurmukhi script
+      const hasGurmukhi = /[\u0A00-\u0A7F]/.test(textToParse)
+
+      // Format bold and italic markers
+      const renderFormattedText = (raw) => {
+        // Split by bold (**...**) first
+        const boldSegments = raw.split(/(\*\*.*?\*\*)/g)
+        return boldSegments.map((seg, sIdx) => {
+          if (seg.startsWith('**') && seg.endsWith('**')) {
+            return (
+              <strong key={sIdx} className="msg-bold">
+                {seg.slice(2, -2)}
+              </strong>
+            )
+          }
+          // Split by italic (*...*) within non-bold
+          const italicSegments = seg.split(/(\*[^*]+?\*)/g)
+          return italicSegments.map((iSeg, iIdx) => {
+            if (iSeg.startsWith('*') && iSeg.endsWith('*') && iSeg.length > 2) {
+              return (
+                <em key={`${sIdx}-${iIdx}`} className="msg-italic">
+                  {iSeg.slice(1, -1)}
+                </em>
+              )
+            }
+            return iSeg
+          })
+        })
+      }
+
+      if (isQuote) {
+        return (
+          <blockquote key={idx} className={`msg-blockquote ${hasGurmukhi ? 'msg-blockquote--gurmukhi' : ''}`}>
+            {renderFormattedText(textToParse)}
+          </blockquote>
+        )
+      }
+
+      if (isBullet) {
+        return (
+          <div key={idx} className="msg-bullet-item">
+            <span className="msg-bullet-dot">•</span>
+            <div className="msg-bullet-text">{renderFormattedText(textToParse)}</div>
+          </div>
+        )
+      }
 
       return (
         <p
           key={idx}
           className={`msg-paragraph ${hasGurmukhi ? 'msg-paragraph--gurmukhi' : ''}`}
         >
-          {parts.map((part, pIdx) => {
-            if (part.startsWith('**') && part.endsWith('**')) {
-              return (
-                <strong key={pIdx} className="msg-bold">
-                  {part.slice(2, -2)}
-                </strong>
-              )
-            }
-            return part
-          })}
+          {renderFormattedText(textToParse)}
         </p>
       )
     })

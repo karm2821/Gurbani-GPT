@@ -106,16 +106,24 @@ export default function App() {
         }
       }
 
-      // Mark streaming complete
+      // Mark streaming complete and guarantee content is never empty
       setMessages(prev =>
-        prev.map(m => m.id === assistantId ? { ...m, streaming: false } : m)
+        prev.map(m => {
+          if (m.id === assistantId) {
+            const finalContent = m.content && m.content.trim()
+              ? m.content
+              : 'Waheguru Ji 🙏 We have retrieved the relevant Shabads below. Please explore the referenced Shabads or ask a follow-up.'
+            return { ...m, content: finalContent, streaming: false }
+          }
+          return m
+        })
       )
     } catch (err) {
       if (err.name === 'AbortError') return
       setMessages(prev =>
         prev.map(m =>
           m.id === assistantId
-            ? { ...m, content: '⚠️ Connection error. Please check that the server is running.', streaming: false }
+            ? { ...m, content: '⚠️ Connection issue occurred while receiving response. Please try again.', streaming: false }
             : m
         )
       )
